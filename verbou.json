@@ -17,6 +17,60 @@
         "ec'h",
         "ent",
         "ed"
+      ],
+      "tremenet_strizh": [
+        "is",
+        "jout",
+        "as",
+        "jomp",
+        "joc'h",
+        "jont",
+        "jod"
+      ],
+      "da_zont": [
+        "in",
+        "i",
+        "o",
+        "imp",
+        ["ot", "oc'h"],
+        "int",
+        "or"
+      ],
+      "gallus": [
+        "fen",
+        "fes",
+        "fe",
+        "femp",
+        "fec'h",
+        "fent",
+        "fed"
+      ],
+      "dichallus": [
+        "jen",
+        "jes",
+        "je",
+        "jemp",
+        "jec'h",
+        "jent",
+        "jed"
+      ],
+      "kadarnaat": [
+        null,
+        "",
+        "et",
+        "omp",
+        "it",
+        "ent",
+        null
+      ],
+      "nach": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
       ]
 
     },
@@ -39,8 +93,7 @@
         "ec'h",
         "ent",
         "ed"
-      ]
-      ,
+      ],
       "tremenet_strizh": [
         "is",
         "jout",
@@ -549,5 +602,155 @@
         null,
         null
       ]
+    },
+    "gouzout": {
+      "gwan": "gouezet",
+      "bremañ": [
+        "gouzon",
+        "gouzout",
+        "goar",
+        "gouzomp",
+        "gouzoc'h",
+        "gouzont",
+        "gouzer"
+      ],
+      "tremenet_ledan": [
+        "gouien",
+        "gouies",
+        "gouie",
+        "gouiemp",
+        "gouiec'h",
+        "gouient",
+        "gouied"
+      ],
+      "tremenet_strizh": [
+        "gouezis",
+        "gouezjout",
+        "gouezas",
+        "gouezjomp",
+        "gouezjoc'h",
+        "gouezjont",
+        "gouezjod"
+      ],
+      "da_zont": [
+        "gouezin",
+        "gouezi",
+        "gouezo",
+        "gouezimp",
+        "gouezot",
+        "gouezint",
+        "gouezor"
+      ],
+      "gallus": [
+        "goufen",
+        "goufes",
+        "goufe",
+        "goufemp",
+        "goufec'h",
+        "goufent",
+        "goufed"
+      ],
+      "dichallus": [
+        "gouijen",
+        "gouijes",
+        "gouije",
+        "gouijemp",
+        "gouijec'h",
+        "gouijent",
+        "gouijed"
+      ],
+      "kadarnaat": [
+        null,
+        "gouez",
+        "gouezet",
+        "gouezomp",
+        "gouezit",
+        "gouezent",
+        null
+      ],
+      "nach": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "dont": {
+      "bremañ": [
+        "an",
+        "ez",
+        "",
+        "omp",
+        "it",
+        "ont",
+        "er"
+      ],
+      "tremenet_ledan": [
+        "en",
+        "es",
+        "e",
+        "emp",
+        "ec'h",
+        "ent",
+        "ed"
+      ],
+      "tremenet_strizh": [
+        "is",
+        "jout",
+        "as",
+        "jomp",
+        "joc'h",
+        "jont",
+        "jod"
+      ],
+      "da_zont": [
+        "in",
+        "i",
+        ["io", "y"],
+        "imp",
+        ["ot", "oc'h"],
+        "int",
+        "or"
+      ],
+      "gallus": [
+        "fen",
+        "fes",
+        "fe",
+        "femp",
+        "fec'h",
+        "fent",
+        "fed"
+      ],
+      "dichallus": [
+        "jen",
+        "jes",
+        "je",
+        "jemp",
+        "jec'h",
+        "jent",
+        "jed"
+      ],
+      "kadarnaat": [
+        null,
+        "s",
+        "et",
+        "omp",
+        "it",
+        "ent",
+        null
+      ],
+      "nach": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+
     }
 }

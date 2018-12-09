@@ -242,12 +242,12 @@ diglañviñ;diglañv;d1;sortir de maladie
 ;digoazh;d1;
 ;digoubl;d1;
 dilemel;dilam;d1;
-;dilug;d1;
+dilugañ;dilug;d1;débrancher
 ;diskarzh;d1;
 ;diskas;d1;
 ;diskoulz;d1;
 dispegañ;dispeg;d1;décoller
-;diuz;d1;
+diuzañ;diuz;d1;séléctionner
 ;divraz;d1;
 ;diziuz;d1;
 dougen;doug;d1;
@@ -275,7 +275,7 @@ genel;gan;d1;générer engendrer
 ;gavael;d1;
 glabousat;glabous;d1;raconter
 ;glenn;d1;
-;goubred;d1;
+goubredañ;goubred;d1;synchroniser
 ;gouluz;d1;
 gounit;gounez;d1;gagner
 ;gourfenn;d1;
@@ -376,7 +376,7 @@ gwidilañ;gwidil;d1;serpenter
 gwidreal;gwidre;d1;être de mauvaise humeur
 gwiflañ;gwifl;d1;faire des chevrons
 gwignal;gwign;d1;cligner
- gwigourat;gwigour;d1;grincer
+gwigourat;gwigour;d1;grincer
 gwikal;gwik;d1;piauler
 gwikefreañ;gwikefre;d1;installer
 gwilat ;gwil;d1;battre
@@ -838,7 +838,8 @@ stekiñ;stok;d1;
 strujañ;struj;d1;pousser végéter
 talvoudañ ;talvoud;d1;valider
 tamall;tamall;d1;accuser
-teuler teurel;taol;d1;jeter
+teuler;taol;d1;jeter
+teurel;;;
 terriñ;torr;d1;
 traletodiñ;traletod;d1;extrapoler
 traolañ;traol;d1;amortir
@@ -865,8 +866,8 @@ yudaziñ;yudaz;d1;trahir
 yunañ;yun;d1;jeûner
 zinkañ;zink;d1;zinguer
 zoumañ;zoum;d1;zoomer
-zrodiñ po:v is:inf st:zrod;zrod ;d1;se répandre par dessus le bord d'un vase trop plein  
-barzhoniañ po:v is:inf st:barzhoni;barzhoni;d1;faire de la poésie
+zrodiñ;zrod ;d1;se répandre par dessus le bord d'un vase trop plein  
+barzhoniañ;barzhoni;d1;faire de la poésie
 abafaat;abafa;d2;
 abretaat;abreta;d2;
 adderaouekaat;adderaoueka;d2;
@@ -1907,7 +1908,8 @@ spluiañ;splui;d4;
 stêriañ;stêri;d4;
 steviañ;stevi;d4;thésauriser
 stodiiñ ;stodi;d4;tiercer
-streviañ strevial;strevi;d4;lambiner hésiter
+streviañ;strevi;d4;lambiner hésiter
+strevial;strevi;d4;lambiner hésiter
 strizhkefridiañ;strizhkefridi;d4;retarder
 stuc’hiañ;stuc’hi;d4;
 sturiañ;sturi;d4;
@@ -4073,3 +4075,5 @@ ober;gr;d7;
 youc’hal;youc'h;a1;
 ;youl;a1;
 yudal;yud;a1;hurler
+gouzout;;gouzout;savoir
+dont;deu;dont;venir
