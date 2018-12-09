@@ -1,6 +1,5 @@
 {
     "a1": {
-      "anvverb": "añ",
       "bremañ": [
         "an",
         "ez",
@@ -10,7 +9,7 @@
         "ont",
         "er"
       ],
-      "tremenet": [
+      "tremenet_ledan": [
         "en",
         "es",
         "e",
@@ -22,7 +21,7 @@
 
     },
     "d1": {
-      "anvverb": "añ",
+      "gwan": "et",
       "bremañ": [
         "an",
         "ez",
@@ -32,7 +31,7 @@
         "ont",
         "er"
       ],
-      "tremenet": [
+      "tremenet_ledan": [
         "en",
         "es",
         "e",
@@ -40,11 +39,66 @@
         "ec'h",
         "ent",
         "ed"
+      ]
+      ,
+      "tremenet_strizh": [
+        "is",
+        "jout",
+        "as",
+        "jomp",
+        "joc'h",
+        "jont",
+        "jod"
+      ],
+      "da_zont": [
+        "in",
+        "i",
+        "o",
+        "imp",
+        ["ot", "oc'h"],
+        "int",
+        "or"
+      ],
+      "gallus": [
+        "fen",
+        "fes",
+        "fe",
+        "femp",
+        "fec'h",
+        "fent",
+        "fed"
+      ],
+      "dichallus": [
+        "jen",
+        "jes",
+        "je",
+        "jemp",
+        "jec'h",
+        "jent",
+        "jed"
+      ],
+      "kadarnaat": [
+        null,
+        "",
+        "et",
+        "omp",
+        "it",
+        "ent",
+        null
+      ],
+      "nach": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
       ]
 
     },
     "d2": {
-      "anvverb": "añ",
+      "gwan": "et",
       "bremañ": [
         "an",
         "ez",
@@ -54,7 +108,7 @@
         "ont",
         "er"
       ],
-      "tremenet": [
+      "tremenet_ledan": [
         "en",
         "es",
         "e",
@@ -62,33 +116,64 @@
         "ec'h",
         "ent",
         "ed"
-      ]
-
-    },
-    "d2": {
-      "anvverb": "",
-      "bremañ": [
-        "an",
-        "ez",
+      ],
+      "tremenet_strizh": [
+        "is",
+        "jout",
+        "as",
+        "jomp",
+        "joc'h",
+        "jont",
+        "jod"
+      ],
+      "da_zont": [
+        "in",
+        "i",
+        ["o", "y"],
+        "imp",
+        ["ot", "oc'h"],
+        "int",
+        "or"
+      ],
+      "gallus": [
+        "fen",
+        "fes",
+        "fe",
+        "femp",
+        "fec'h",
+        "fent",
+        "fed"
+      ],
+      "dichallus": [
+        "jen",
+        "jes",
+        "je",
+        "jemp",
+        "jec'h",
+        "jent",
+        "jed"
+      ],
+      "kadarnaat": [
+        null,
         "",
+        "et",
         "omp",
         "it",
-        "ont",
-        "er"
-      ],
-      "tremenet": [
-        "en",
-        "es",
-        "e",
-        "emp",
-        "ec'h",
         "ent",
-        "ed"
+        null
+      ],
+      "nach": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
       ]
-
     },
     "d3": {
-      "anvverb": "",
+      "gwan": "et",
       "bremañ": [
         "an",
         "ez",
@@ -98,7 +183,7 @@
         "ont",
         "er"
       ],
-      "tremenet": [
+      "tremenet_ledan": [
         "en",
         "es",
         "e",
@@ -106,11 +191,65 @@
         "ec'h",
         "ent",
         "ed"
+      ],
+      "tremenet_strizh": [
+        "is",
+        "jout",
+        "as",
+        "jomp",
+        "joc'h",
+        "jont",
+        "jod"
+      ],
+      "da_zont": [
+        "in",
+        "i",
+        ["o", "y"],
+        "imp",
+        ["ot", "oc'h"],
+        "int",
+        "or"
+      ],
+      "gallus": [
+        "fen",
+        "fes",
+        "fe",
+        "femp",
+        "fec'h",
+        "fent",
+        "fed"
+      ],
+      "dichallus": [
+        "jen",
+        "jes",
+        "je",
+        "jemp",
+        "jec'h",
+        "jent",
+        "jed"
+      ],
+      "kadarnaat": [
+        null,
+        "",
+        "et",
+        "omp",
+        "it",
+        "ent",
+        null
+      ],
+      "nach": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
       ]
 
     },
     "d4": {
-      "anvverb": "iañ",
+      "gwan": "et",
       "bremañ": [
         "an",
         "ez",
@@ -120,7 +259,7 @@
         "ont",
         "er"
       ],
-      "tremenet": [
+      "tremenet_ledan": [
         "en",
         "es",
         "e",
@@ -128,11 +267,65 @@
         "ec'h",
         "ent",
         "ed"
+      ],
+      "tremenet_strizh": [
+        "is",
+        "jout",
+        "as",
+        "jomp",
+        "joc'h",
+        "jont",
+        "jod"
+      ],
+      "da_zont": [
+        "in",
+        "i",
+        ["o", "y"],
+        "imp",
+        ["ot", "oc'h"],
+        "int",
+        "or"
+      ],
+      "gallus": [
+        "fen",
+        "fes",
+        "fe",
+        "femp",
+        "fec'h",
+        "fent",
+        "fed"
+      ],
+      "dichallus": [
+        "jen",
+        "jes",
+        "je",
+        "jemp",
+        "jec'h",
+        "jent",
+        "jed"
+      ],
+      "kadarnaat": [
+        null,
+        "",
+        "et",
+        "omp",
+        "it",
+        "ent",
+        null
+      ],
+      "nach": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
       ]
 
     },
     "d5": {
-      "anvverb": "iañ",
+      "gwan": "et",
       "bremañ": [
         "an",
         "ez",
@@ -142,7 +335,7 @@
         "ont",
         "er"
       ],
-      "tremenet": [
+      "tremenet_ledan": [
         "en",
         "es",
         "e",
@@ -150,11 +343,65 @@
         "ec'h",
         "ent",
         "ed"
+      ],
+      "tremenet_strizh": [
+        "is",
+        "jout",
+        "as",
+        "jomp",
+        "joc'h",
+        "jont",
+        "jod"
+      ],
+      "da_zont": [
+        "in",
+        "i",
+        ["o", "y"],
+        "imp",
+        ["ot", "oc'h"],
+        "int",
+        "or"
+      ],
+      "gallus": [
+        "fen",
+        "fes",
+        "fe",
+        "femp",
+        "fec'h",
+        "fent",
+        "fed"
+      ],
+      "dichallus": [
+        "jen",
+        "jes",
+        "je",
+        "jemp",
+        "jec'h",
+        "jent",
+        "jed"
+      ],
+      "kadarnaat": [
+        null,
+        "",
+        "et",
+        "omp",
+        "it",
+        "ent",
+        null
+      ],
+      "nach": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
       ]
 
     },
     "d6": {
-      "anvverb": "niañ",
+      "gwan": "et",
       "bremañ": [
         "an",
         "ez",
@@ -164,7 +411,7 @@
         "ont",
         "er"
       ],
-      "tremenet": [
+      "tremenet_ledan": [
         "en",
         "es",
         "e",
@@ -172,6 +419,135 @@
         "ec'h",
         "ent",
         "ed"
+      ],
+      "tremenet_strizh": [
+        "is",
+        "jout",
+        "as",
+        "jomp",
+        "joc'h",
+        "jont",
+        "jod"
+      ],
+      "da_zont": [
+        "in",
+        "i",
+        ["o", "y"],
+        "imp",
+        ["ot", "oc'h"],
+        "int",
+        "or"
+      ],
+      "gallus": [
+        "fen",
+        "fes",
+        "fe",
+        "femp",
+        "fec'h",
+        "fent",
+        "fed"
+      ],
+      "dichallus": [
+        "jen",
+        "jes",
+        "je",
+        "jemp",
+        "jec'h",
+        "jent",
+        "jed"
+      ],
+      "kadarnaat": [
+        null,
+        "",
+        "et",
+        "omp",
+        "it",
+        "ent",
+        null
+      ],
+      "nach": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "d7": {
+      "gwan": "et",
+      "bremañ": [
+        "an",
+        "aez",
+        "a",
+        "eomp",
+        "it",
+        "eont",
+        "eer"
+      ],
+      "tremenet_ledan": [
+        "aen",
+        "aes",
+        "ae",
+        "aemp",
+        "aec'h",
+        "aent",
+        "aed"
+      ],
+      "tremenet_strizh": [
+        ["is", "rejon"],
+        "ejout",
+        "reas",
+        "ejomp",
+        "ejoc'h",
+        "ejont",
+        "ejod"
+      ],
+      "da_zont": [
+        "in",
+        "i",
+        ["aio", "ay"],
+        "aimp",
+        ["eot", "eoc'h"],
+        "aint",
+        "eor"
+      ],
+      "gallus": [
+        "afen",
+        "afes",
+        "afe",
+        "afemp",
+        "afec'h",
+        "afent",
+        "afed"
+      ],
+      "dichallus": [
+        "ajen",
+        "ajes",
+        "aje",
+        "ajemp",
+        "ajec'h",
+        "ajent",
+        "ajed"
+      ],
+      "kadarnaat": [
+        null,
+        "a",
+        "aet",
+        "eomp",
+        "it",
+        "aent",
+        null
+      ],
+      "nach": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
       ]
     }
 }
