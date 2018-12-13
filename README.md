@@ -9,3 +9,5 @@ Implij ar skript python:
 `python3 displeger.py [verb]`
 
 Ar skript PHP a zo da herbec'hiañ war un dafariad PHP reoliek evit mont en-dro.
+
+Gallout a rit amprouiñ war https://eyeless-hardships.000webhostapp.com/
