@@ -230,7 +230,7 @@
       "bremañ": [
         "an",
         "ez",
-        "",
+        "a",
         "omp",
         "it",
         "ont",
@@ -246,7 +246,7 @@
         "ed"
       ],
       "tremenet_strizh": [
-        "is",
+        ["is","jon"],
         "jout",
         "as",
         "jomp",
@@ -257,7 +257,7 @@
       "da_zont": [
         "in",
         "i",
-        ["o", "y"],
+        ["o", "ay"],
         "imp",
         ["ot", "oc'h"],
         "int",
@@ -283,7 +283,7 @@
       ],
       "kadarnaat": [
         null,
-        "",
+        "a",
         "et",
         "omp",
         "it",
