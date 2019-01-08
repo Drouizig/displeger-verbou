@@ -1,35 +1,35 @@
 anv_verb;diaz_verb;rummad;galleg;saozneg
-#anv-verb;emgefre;d1;#galleg;#saozneg
-#anv-verb;fehe;d1;#galleg;#saozneg
-#anv-verb;gavael;d1;#galleg;#saozneg
-#anv-verb;glenn;d1;#galleg;#saozneg
-#anv-verb;gouluz;d1;#galleg;#saozneg
-#anv-verb;gouskog;d1;#galleg;#saozneg
-#anv-verb;hall;d1;#galleg;#saozneg
-#anv-verb;halleg;d1;#galleg;#saozneg
-#anv-verb;hallegach;d1;#galleg;#saozneg
-#anv-verb;halloudeg;d1;#galleg;#saozneg
-#anv-verb;hell;d1;#galleg;#saozneg
-#anv-verb;hirglañv;d1;#galleg;#saozneg
-#anv-verb;horellot;d1;#galleg;#saozneg
-#anv-verb;houll;d1;#galleg;#saozneg
-#anv-verb;houllonder;d1;#galleg;#saozneg
-#anv-verb;igor;d1;#galleg;#saozneg
-#anv-verb;kemed;d1;#galleg;#saozneg
-#anv-verb;kendod;d1;#galleg;#saozneg
-#anv-verb;kenforc'h;d1;#galleg;#saozneg
-#anv-verb;kengerc'h;d1;#galleg;#saozneg
-#anv-verb;neuer;d1;#galleg;#saozneg
-#anv-verb;ouarn;d1;#galleg;#saozneg
-#anv-verb;raksketidennadur;d1;#galleg;#saozneg
-#anv-verb;rollverv;d1;#galleg;#saozneg
-#anv-verb;skarinek;d1;#galleg;#saozneg
-#anv-verb;skingemmen;d1;#galleg;#saozneg
-#anv-verb;sklisafi;d1;#galleg;#saozneg
-#anv-verb;skoazellus;d1;#galleg;#saozneg
-#anv-verb;sonlenn;d1;#galleg;#saozneg
-#anv-verb;soupren;d1;#galleg;#saozneg
-#anv-verb;treuzlizherenn;d1;#galleg;#saozneg
+#anv-verb1;emgefre;d1;#galleg;#saozneg
+#anv-verb2;fehe;d1;#galleg;#saozneg
+#anv-verb3;gavael;d1;#galleg;#saozneg
+#anv-verb4;glenn;d1;#galleg;#saozneg
+#anv-verb5;gouluz;d1;#galleg;#saozneg
+#anv-verb6;gouskog;d1;#galleg;#saozneg
+#anv-verb7;hall;d1;#galleg;#saozneg
+#anv-verb8;halleg;d1;#galleg;#saozneg
+#anv-verb9;hallegach;d1;#galleg;#saozneg
+#anv-verb10;halloudeg;d1;#galleg;#saozneg
+#anv-verb11;hell;d1;#galleg;#saozneg
+#anv-verb12;hirglañv;d1;#galleg;#saozneg
+#anv-verb13;horellot;d1;#galleg;#saozneg
+#anv-verb14;houll;d1;#galleg;#saozneg
+#anv-verb15;houllonder;d1;#galleg;#saozneg
+#anv-verb16;igor;d1;#galleg;#saozneg
+#anv-verb17;kemed;d1;#galleg;#saozneg
+#anv-verb18;kendod;d1;#galleg;#saozneg
+#anv-verb19;kenforc'h;d1;#galleg;#saozneg
+#anv-verb20;kengerc'h;d1;#galleg;#saozneg
+#anv-verb21;neuer;d1;#galleg;#saozneg
+#anv-verb22;ouarn;d1;#galleg;#saozneg
+#anv-verb23;raksketidennadur;d1;#galleg;#saozneg
+#anv-verb24;rollverv;d1;#galleg;#saozneg
+#anv-verb25;skarinek;d1;#galleg;#saozneg
+#anv-verb26;skingemmen;d1;#galleg;#saozneg
+#anv-verb27;sklisafi;d1;#galleg;#saozneg
+#anv-verb28;skoazellus;d1;#galleg;#saozneg
+#anv-verb29;sonlenn;d1;#galleg;#saozneg
+#anv-verb30;soupren;d1;#galleg;#saozneg
+#anv-verb31;treuzlizherenn;d1;#galleg;#saozneg
 abafiñ;abaf;d1;#galleg;#saozneg
 abais;abais;d1;#galleg;#saozneg
 abandoniñ;abandon;d1;#galleg;#saozneg
@@ -97,7 +97,6 @@ addougen;addoug;d1;reporter;#saozneg
 addresañ;addres;d1;#galleg;#saozneg
 adeeunañ;adeeun;d1;#galleg;#saozneg
 adeiladiñ;adeilad;d1;#galleg;#saozneg
-adembann;adembann;d1;ré-éditer;#saozneg
 ademezelañ;ademezel;d1;réinscrire;#saozneg
 ademprañ;adempr;d1;#galleg;#saozneg
 adenaouiñ;adenaou;d1;#galleg;#saozneg
@@ -331,7 +330,7 @@ akliniñ;aklin;d1;#galleg;#saozneg
 akordañ;akord;d1;#galleg;#saozneg
 akosioniñ;akosion;d1;#galleg;#saozneg
 akoursiñ;akours;d1;#galleg;#saozneg
-akoutal;akoutal;d1;#galleg;#saozneg
+akoutal;akout;d1;$etre aux écoutes;#saozneg
 akuitañ;akuit;d1;#galleg;#saozneg
 akuizitañ;akuizit;d1;#galleg;#saozneg
 akustumiñ;akustum;d1;#galleg;#saozneg
@@ -392,7 +391,6 @@ amprestiñ;amprest;d1;#galleg;#saozneg
 amprou;amprou;d1;éprouver, mettre (qqc/qqn) à l’épreuve, ressentir, subir;#saozneg
 amprouiñ;amprou;d1;éprouver, mettre (qqc/qqn) à l’épreuve, ressentir, subir;#saozneg
 amsaviñ;amsav;d1;remplacer;replace
-amsellet;amsell;d1;#galleg;#saozneg
 amsellout;amsell;d1;être regardant, avare;#saozneg
 amsellet;amsell;d1;être regardant, avare;#saozneg
 amsentiñ;amsent;d1;être indiscipliné;#saozneg
@@ -454,7 +452,6 @@ antoniñ;anton;d1;#galleg;#saozneg
 antreal;antre;d1;#galleg;#saozneg
 antreiñ;antre;d1;#galleg;#saozneg
 antren;antre;d1;#galleg;#saozneg
-antren;antren;d1;#galleg;#saozneg
 antrepren;antrepren;d1;#galleg;#saozneg
 antreteniñ;antreten;d1;#galleg;#saozneg
 anvervañ;anverv;d1;#galleg;#saozneg
@@ -517,7 +514,6 @@ argadenniñ;argadenn;d1;#galleg;#saozneg
 argadiñ;argad;d1;#galleg;#saozneg
 argammediñ;argammed;d1;#galleg;#saozneg
 argaozeal;argaoze;d1;#galleg;#saozneg
-argaozeal;argaozeal;d1;#galleg;#saozneg
 argarzhiñ;argarzh;d1;#galleg;#saozneg
 argas;argas;d1;#galleg;#saozneg
 argazhiñ;argazh;d1;#galleg;#saozneg
@@ -663,7 +659,6 @@ azlavarout;azlavar;d1;#galleg;#saozneg
 azneañ;azne;d1;#galleg;#saozneg
 azrannañ;azrann;d1;#galleg;#saozneg
 azrec'hiñ;azrec'h;d1;#galleg;#saozneg
-azreiñ;azre;d1;#galleg;#saozneg
 azverkañ;azverk;d1;#galleg;#saozneg
 azviñ;azv;d1;#galleg;#saozneg
 azvuiadañ;azvuiad;d1;#galleg;#saozneg
@@ -676,14 +671,10 @@ añsernañ;añsern;d1;#galleg;#saozneg
 añtasañ;añtas;d1;#galleg;#saozneg
 babouinañ;babouin;d1;#galleg;#saozneg
 babouzañ;babouz;d1;baver;#saozneg
-bac'haouiñ;bac'haou;d1;#galleg;#saozneg
 bac'haouiñ;bac'haou;d1;pêcher (avec une ligne de fond);#saozneg
-bac'hañ;bac'h;d1;#galleg;#saozneg
-bac'hañ;bac'h;d1;détenir;#saozneg
-bac'hellat;bac'hell;d1;#galleg;#saozneg
+bac'hañ;bac'h;d1;#galleg;#
 bac'hellat;bac'hell;d1;haleter;#saozneg
 bac'hinodañ;bac'hinod;d1;#galleg;#saozneg
-bac'hiñ;bac'h;d1;#galleg;#saozneg
 bac'hiñ;bac'h;d1;détenir;#saozneg
 badaouiñ;badaou;d1;étourdir, abasourdir;#saozneg
 badañ;bad;d1;hébéter;#saozneg
@@ -693,14 +684,12 @@ badinelliñ;badinell;d1;#galleg;#saozneg
 bafouañ;bafou;d1;#galleg;#saozneg
 bagañ;bag;d1;#galleg;#saozneg
 bageal;bage;d1;naviguer;#saozneg
-bageal;bageal;d1;#galleg;#saozneg
-bagenodal;bagenodal;d1;#galleg;#saozneg
+bagenodal;bagenod;d1;faire l'idiot;#saozneg
 bahediñ;bahed;d1;#galleg;#saozneg
 bailhañ;bailh;d1;marquer (d’une tâche blanche au front);#saozneg
 baionetezañ;baionetez;d1;se battre à la baïonnette;#saozneg
 bakulañ;bakul;d1;#galleg;#saozneg
-balafennañ;alafenn;d1;papillonner;#saozneg
-balafennañ;balafenn;d1;#galleg;#saozneg
+balafennañ;balafenn;d1;papillonner;#saozneg
 balansañ;balans;d1;#galleg;#saozneg
 balastrañ;balastr;d1;ballaster;#saozneg
 balat;bal;d1;danser le bal;#saozneg
@@ -717,12 +706,12 @@ balodiñ;balod;d1;mettre en ballot;#saozneg
 baltriñ;baltr;d1;battre (la terre);#saozneg
 balzamañ;balzam;d1;embaumer;#saozneg
 bamañ;bam;d1;charmer;#saozneg
-bambochal;bambochal;d1;#galleg;#saozneg
+bambochal;bamboch;d1;faire l afete;#saozneg
 bamiñ;bam;d1;charmer;#saozneg
 bandennañ;bandenn;d1;#galleg;#saozneg
 bangounellat;bangounell;d1;#galleg;#saozneg
-bankejal;bankejal;d1;#galleg;#saozneg
-banketal;banketal;d1;#galleg;#saozneg
+bankejal;bankej;d1;#galleg;#saozneg
+banketal;banket;d1;#galleg;#saozneg
 banktitlañ;banktitl;d1;#galleg;#saozneg
 bannañ;bann;d1;#galleg;#saozneg
 bannielañ;banniel;d1;#galleg;#saozneg
@@ -738,8 +727,7 @@ barbouellañ;barbouell;d1;#galleg;#saozneg
 barbouilhañ;barbouilh;d1;#galleg;#saozneg
 bardellat;bardell;d1;#galleg;#saozneg
 bardellañ;bardell;d1;#galleg;#saozneg
-bargediñ;arged;d1;planer, badauder;#saozneg
-bargediñ;barged;d1;#galleg;#saozneg
+bargediñ;barged;d1;planer, badauder;#saozneg
 bargegnat;bargegn;d1;#galleg;#saozneg
 barlennañ;barlenn;d1;tenir sur ses genoux, rapiécer aux genoux;#saozneg
 barnañ;barn;d1;juger;#saozneg
@@ -751,14 +739,12 @@ barrskubañ;barrskub;d1;brosser;#saozneg
 barrskuberañ;barrskuber;d1;brosser;#saozneg
 barrstrakal;barrstrak;d1;faire un très mauvais temps;#saozneg
 barvenniñ;barvenn;d1;se hérisser de poils de barbe;#saozneg
-barzhoniañ;barzhoni;d1;faire de la poésie;#saozneg
 basañ;bas;d1;#galleg;#saozneg
 basnegañ;basneg;d1;#galleg;#saozneg
 bastardiñ;bastard;d1;#galleg;#saozneg
 bastañ;bast;d1;#galleg;#saozneg
 bastrouilhañ;bastrouilh;d1;#galleg;#saozneg
-bastrouilhiñ;astrouilh;d1;salir;#saozneg
-bastrouilhiñ;bastrouilh;d1;#galleg;#saozneg
+bastrouilhiñ;bastrouilh;d1;salir;#saozneg
 batalmañ;batalm;d1;#galleg;#saozneg
 batañ;bat;d1;#galleg;#saozneg
 batelliñ;batell;d1;#galleg;#saozneg
@@ -782,7 +768,7 @@ beginañ;egin;d1;mettre en deuil;#saozneg
 begiviniñ;begivin;d1;buter, trébucher;#saozneg
 begsec'hañ;egsec'h;d1;sécher du bout (plantes);#saozneg
 beilhañ;beilh;d1;veiller;#saozneg
-bekal;bekal;d1;#galleg;#saozneg
+bekal;bek;d1;picorer;#saozneg
 bekat;bek;d1;picorer;#saozneg
 bekañ;bek;d1;picorer;#saozneg
 beketal;beket;d1;picorer, becqueter;#saozneg
@@ -833,8 +819,8 @@ bevskejañ;bevskej;d1;faire une vivisection;#saozneg
 bezañ;bez;d1;#galleg;#saozneg
 bezhinañ;bezhin;d1;#galleg;#saozneg
 biezañ;biez;d1;#galleg;#saozneg
-bigodal;bigodal;d1;#galleg;#saozneg
-bihanaat;bihana;d1;s’amenuiser;#saozneg
+bigodal;bigod;d1;faire le bigot;#saozneg
+bihanaat;bihana;d2;s’amenuiser;#saozneg
 bilbilhat;bilbilh;d1;#galleg;#saozneg
 bilhetañ;bilhet;d1;#galleg;#saozneg
 bilhiñ;bilh;d1;baillonner;#saozneg
@@ -873,7 +859,6 @@ bleinañ;blein;d1;#galleg;#saozneg
 bleizañ;bleiz;d1;#galleg;#saozneg
 bleiziñ;bleiz;d1;#galleg;#saozneg
 blejal;blej;d1;beugler;#saozneg
-blejal;blejal;d1;#galleg;#saozneg
 blesañ;bles;d1;#galleg;#saozneg
 bleudañ;bleud;d1;#galleg;#saozneg
 bleuñviñ;bleuñv;d1;#galleg;#saozneg
@@ -912,22 +897,22 @@ bonnañ;bonn;d1;#galleg;#saozneg
 bontañ;bont;d1;#galleg;#saozneg
 borc'hañ;borc'h;d1;#galleg;#saozneg
 bordañ;bord;d1;#galleg;#saozneg
-bordeal;bordeal;d1;#galleg;#saozneg
+bordeal;borde;d1;tirer des bordées;#saozneg
 bordilhañ;bordilh;d1;#galleg;#saozneg
-borignal;borignal;d1;#galleg;#saozneg
+borignal;borign;d1;éborgner;#saozneg
 bosañ;bos;d1;#galleg;#saozneg
-boseal;boseal;d1;#galleg;#saozneg
+boseal;bose;d1;briser;#saozneg
 bosigellat;bosigell;d1;#galleg;#saozneg
 bosigernañ;bosigern;d1;#galleg;#saozneg
 bosilhañ;bosilh;d1;#galleg;#saozneg
 botaouiñ;botaou;d1;#galleg;#saozneg
 boubañsiñ;boubañs;d1;#galleg;#saozneg
-bouboual;bouboual;d1;#galleg;#saozneg
+bouboual;boubou;d1;bourdonner;#saozneg
 bouc'halañ;bouc'hal;d1;#galleg;#saozneg
 bouc'hañ;bouc'h;d1;#galleg;#saozneg
 bouchañ;bouch;d1;#galleg;#saozneg
 bouchezañ;bouchez;d1;#galleg;#saozneg
-boudal;boudal;d1;#galleg;#saozneg
+boudal;boud;d1;bourdonner;#saozneg
 boudañ;boud;d1;#galleg;#saozneg
 boudinellañ;boudinell;d1;#galleg;#saozneg
 boufañ;bouf;d1;#galleg;#saozneg
@@ -938,7 +923,8 @@ bouktraezhiñ;bouktraezh;d1;#galleg;#saozneg
 boulañ;boul;d1;#galleg;#saozneg
 boulc'hañ;boulc'h;d1;#galleg;#saozneg
 boulinañ;boulin;d1;#galleg;#saozneg
-bouljal;bouljal;d1;#galleg;#saozneg
+bouljal;boulj;d1;bouger;#saozneg
+bouljin;boulj;d1;bouger;#saozneg
 boulouardañ;boulouard;d1;#galleg;#saozneg
 pouloudañ;pouloud;d1;se former en grumeaux, en caillots, en mottes, prendre l'aspect de la chair de poule (en parlant de la peau);#saozneg
 boulzuañ;boulzu;d1;#galleg;#saozneg
@@ -965,13 +951,13 @@ boutinañ;boutin;d1;#galleg;#saozneg
 boutizellañ;boutizell;d1;#galleg;#saozneg
 boutonañ;bouton;d1;#galleg;#saozneg
 bouzarañ;bouzar;d1;#galleg;#saozneg
-brabañsal;brabañsal;d1;#galleg;#saozneg
+brabañsal;brabañs;d1;#galleg;#saozneg
 brac'hitellat;brac'hitell;d1;#galleg;#saozneg
 bradelliñ;bradell;d1;#galleg;#saozneg
 braeat;brae;d1;#galleg;#saozneg
 braeañ;brae;d1;#galleg;#saozneg
 braellañ;braell;d1;#galleg;#saozneg
-bragal;bragal;d1;#galleg;#saozneg
+bragal;brag;d1;#galleg;#saozneg
 bragaouañ;bragaou;d1;#galleg;#saozneg
 bragezañ;bragez;d1;#galleg;#saozneg
 brageziñ;bragez;d1;#galleg;#saozneg
@@ -1023,7 +1009,7 @@ bridañ;brid;d1;#galleg;#saozneg
 brifal;brif;d1;bâfrer;#saozneg
 brifañ;brif;d1;#galleg;#saozneg
 brigadennañ;brigadenn;d1;embrigader;#saozneg
-brigandal;brigandal;d1;#galleg;#saozneg
+brigandal;brigand;d1;#galleg;#saozneg
 brigoñs;brigoñs;d1;courir (comme les vaches);#saozneg
 brigoñsañ;brigoñs;d1;#galleg;#saozneg
 brijañ;brij;d1;embrocher (un crapaud);#saozneg
@@ -1050,7 +1036,6 @@ brizhouennañ;brizhouenn;d1;#galleg;#saozneg
 brizhroudennañ;brizhroudenn;d1;#galleg;#saozneg
 broadelañ;broadel;d1;nationaliser;#saozneg
 broadiñ;broad;d1;nationaliser;#saozneg
-broc'hañ;broc'h;d1;#galleg;#saozneg
 broc'hañ;broc'h;d1;se fâcher, se brouiller;#saozneg
 brochañ;broch;d1;embrocher (sur une corne et autre);#saozneg
 brochennat;brochenn;d1;tricoter;#saozneg
@@ -1078,16 +1063,14 @@ brudañ;brud;d1;#galleg;#saozneg
 brudellat;brudell;d1;#galleg;#saozneg
 bruilhiñ;bruilh;d1;#galleg;#saozneg
 brukañ;bruk;d1;#galleg;#saozneg
-brumenniñ;brumenn;d1;#galleg;#saozneg
-brumenniñ;rumenn;d1;brumer, embrumer;#saozneg
+brumenniñ;brumenn;d1;brumer, embrumer;#saozneg
 brunellat;brunell;d1;#galleg;#saozneg
 bruskañ;brusk;d1;#galleg;#saozneg
 bruzunañ;bruzun;d1;#galleg;#saozneg
 bugadiñ;bugad;d1;#galleg;#saozneg
 bugaleañ;bugale;d1;#galleg;#saozneg
 bugañ;bug;d1;#galleg;#saozneg
-buhezañ;buhez;d1;#galleg;#saozneg
-buhezañ;uhez;d1;animer;#saozneg
+buhezañ;buhez;d1;animer;#saozneg
 bukañ;uk;d1;pointer, braquer, mesurer (un coup contesté au jeu);#saozneg
 buorzhañ;buorzh;d1;#galleg;#saozneg
 burbuenniñ;burbuenn;d1;se couvrir de pustules;#saozneg
@@ -1102,12 +1085,8 @@ butunat;butun;d1;fumer;#saozneg
 butuniñ;butun;d1;fumer;#saozneg
 buzhugenniñ;buzhugenn;d1;travailler lentement, flâner à son travail;#saozneg
 c'halpat;c'halp;d1;#galleg;#saozneg
-c'hoalat;c'hoal;d1;#galleg;#saozneg
 c'hoantañ;c'hoant;d1;#galleg;#saozneg
-c'hoari;c'hoari;d1;#galleg;#saozneg
 c'hoariellat;c'hoariell;d1;#galleg;#saozneg
-c'hoarvezout;c'hoarvez;d1;#galleg;#saozneg
-c'hoarzhin;c'hoarzhin;d1;#galleg;#saozneg
 c'hwec'hkementañ;c'hwec'hkement;d1;#galleg;#saozneg
 c'hwec'hkementiñ;c'hwec'hkement;d1;#galleg;#saozneg
 c'hwec'hvedenniñ;c'hwec'hvedenn;d1;#galleg;#saozneg
@@ -1122,8 +1101,6 @@ c'hwezhvatañ;c'hwezhvat;d1;#galleg;#saozneg
 c'hwezigenniñ;c'hwezigenn;d1;#galleg;#saozneg
 c'hweziñ;c'hwez;d1;#galleg;#saozneg
 c'hwial;c'hwi;d1;#galleg;#saozneg
-c'hwial;c'hwial;d1;#galleg;#saozneg
-c'hwibanat;c'hwiban;d1;#galleg;#saozneg
 c'hwibañ;c'hwib;d1;#galleg;#saozneg
 c'hwiblaerezh;c'hwiblaer;d1;#galleg;#saozneg
 c'hwidolennañ;c'hwidolenn;d1;#galleg;#saozneg
@@ -1147,7 +1124,6 @@ chagañ;chag;d1;#galleg;#saozneg
 chagellat;chagell;d1;#galleg;#saozneg
 chagrinañ;chagrin;d1;#galleg;#saozneg
 chakat;chak;d1;#galleg;#saozneg
-chakoniat;chakoni;d1;#galleg;#saozneg
 chalañ;chal;d1;#galleg;#saozneg
 chalbotat;chalbot;d1;#galleg;#saozneg
 chalkiñ;chalk;d1;#galleg;#saozneg
@@ -1169,7 +1145,6 @@ charreadegañ;charreadeg;d1;#galleg;#saozneg
 charreat;charre;d1;#galleg;#saozneg
 chartiñ;chart;d1;#galleg;#saozneg
 chaseal;chase;d1;#galleg;#saozneg
-chaseal;chaseal;d1;#galleg;#saozneg
 chastreañ;chastre;d1;#galleg;#saozneg
 chatalat;chatal;d1;#galleg;#saozneg
 chañsañ;chañs;d1;#galleg;#saozneg
@@ -1177,7 +1152,6 @@ cheinañ;chein;d1;#galleg;#saozneg
 chenjenniñ;chenjenn;d1;#galleg;#saozneg
 cherisañ;cheris;d1;#galleg;#saozneg
 cherjal;cherj;d1;#galleg;#saozneg
-cherjal;cherjal;d1;#galleg;#saozneg
 chervadiñ;chervad;d1;#galleg;#saozneg
 cheñch;cheñch;d1;#galleg;#saozneg
 chifañ;chif;d1;#galleg;#saozneg
@@ -1185,44 +1159,38 @@ chifonañ;chifon;d1;#galleg;#saozneg
 chifrodennañ;chifrodenn;d1;#galleg;#saozneg
 chikanañ;chikan;d1;#galleg;#saozneg
 chikañ;chik;d1;#galleg;#saozneg
-chikañ;chik;d1;#galleg;#saozneg
 chilipat;chilip;d1;#galleg;#saozneg
 chilpat;chilp;d1;#galleg;#saozneg
 chimiañ;chimi;d1;#galleg;#saozneg
 chimiiñ;chimi;d1;#galleg;#saozneg
 chinkat;chink;d1;#galleg;#saozneg
 chintal;chint;d1;#galleg;#saozneg
-chintal;chintal;d1;#galleg;#saozneg
 chipotal;chipot;d1;#galleg;#saozneg
-chipotal;chipotal;d1;#galleg;#saozneg
 choaz;choaz;d1;#galleg;#saozneg
 choberdiñ;choberd;d1;#galleg;#saozneg
 chokinañ;chokin;d1;#galleg;#saozneg
 cholañ;chol;d1;#galleg;#saozneg
 cholgenniñ;cholgenn;d1;#galleg;#saozneg
-cholorial;cholorial;d1;#galleg;#saozneg
+cholorial;cholori;d1;#galleg;#saozneg
 chom;chom;d1;#galleg;#saozneg
 chopinat;chopin;d1;#galleg;#saozneg
 choual;chou;d1;#galleg;#saozneg
-choual;choual;d1;#galleg;#saozneg
 chouanat;chouan;d1;#galleg;#saozneg
 chougadal;chougad;d1;#galleg;#saozneg
 chougañ;choug;d1;#galleg;#saozneg
 choukadiñ;choukad;d1;#galleg;#saozneg
-choukatal;choukatal;d1;#galleg;#saozneg
+choukatal;choukat;d1;frapper au cou;#saozneg
 choukañ;chouk;d1;#galleg;#saozneg
 choukennañ;choukenn;d1;#galleg;#saozneg
 choupañ;choup;d1;#galleg;#saozneg
 chourañ;chour;d1;#galleg;#saozneg
 chourikal;chourik;d1;#galleg;#saozneg
-chourikal;chourikal;d1;#galleg;#saozneg
 chourikat;chourik;d1;#galleg;#saozneg
 chuchal;chuch;d1;#galleg;#saozneg
-chuchal;chuchal;d1;#galleg;#saozneg
 chuchual;chuchu;d1;#galleg;#saozneg
-chuchual;chuchual;d1;#galleg;#saozneg
 chuchuiñ;chuchu;d1;#galleg;#saozneg
-chugal;chugal;d1;#galleg;#saozneg
+chugal;chug;d1;#galleg;#saozneg
+chugiñ;chug;d1;#galleg;#saozneg
 chugañ;chug;d1;#galleg;#saozneg
 chugelliñ;chugell;d1;#galleg;#saozneg
 chumenniñ;chumenn;d1;#galleg;#saozneg
@@ -1256,7 +1224,6 @@ dambleat;damble;d1;#galleg;#saozneg
 damblegañ;dambleg;d1;#galleg;#saozneg
 dambreziñ;dambrez;d1;#galleg;#saozneg
 damc'hlazañ;damc'hlaz;d1;#galleg;#saozneg
-damc'holeiñ;damc'hole;d1;#galleg;#saozneg
 damdresañ;damdres;d1;#galleg;#saozneg
 dameriñ;damer;d1;#galleg;#saozneg
 dameuc'hañ;dameuc'h;d1;#galleg;#saozneg
@@ -1293,9 +1260,7 @@ damwiskañ;damwisk;d1;#galleg;#saozneg
 damzeviñ;damzev;d1;#galleg;#saozneg
 damzigeriñ;damziger;d1;#galleg;#saozneg
 damzihuniñ;damzihun;d1;#galleg;#saozneg
-damziorren;damziorren;d1;#galleg;#saozneg
 damziskouez;damziskouez;d1;#galleg;#saozneg
-damzizoleiñ;damzizole;d1;#galleg;#saozneg
 damzuañ;damzu;d1;#galleg;#saozneg
 dandoniñ;dandon;d1;#galleg;#saozneg
 dandrelliñ;dandrell;d1;#galleg;#saozneg
@@ -1337,7 +1302,7 @@ darlammat;darlamm;d1;#galleg;#saozneg
 darnaouiñ;darnaou;d1;#galleg;#saozneg
 darnañ;darn;d1;#galleg;#saozneg
 darngoll;darngoll;d1;#galleg;#saozneg
-darnijal;darnijal;d1;#galleg;#saozneg
+darnijal;darnij;d1;#galleg;#saozneg
 darniñ;darn;d1;#galleg;#saozneg
 darnvevañ;darnvev;d1;#galleg;#saozneg
 daroganañ;darogan;d1;#galleg;#saozneg
@@ -1348,7 +1313,6 @@ darvezout;darvez;d1;#galleg;#saozneg
 dasfaoutiñ;dasfaout;d1;#galleg;#saozneg
 daskeitañ;daskeit;d1;#galleg;#saozneg
 daskemmañ;daskemm;d1;#galleg;#saozneg
-daskiriat;daskiri;d1;#galleg;#saozneg
 dasklevet;dasklev;d1;#galleg;#saozneg
 daskomprañ;daskompr;d1;#galleg;#saozneg
 daskoriñ;daskor;d1;#galleg;#saozneg
@@ -1373,7 +1337,7 @@ dastalañ;dastal;d1;#galleg;#saozneg
 dastapout;dastap;d1;#galleg;#saozneg
 dasteurel;dastaol;d1;#galleg;#saozneg
 dastrann;dastrann;d1;#galleg;#saozneg
-dastreiñ;dastro;d1;#galleg;#saozneg
+dastreiñ;dastro;d2;#galleg;#saozneg
 dastroc'hañ;dastroc'h;d1;#galleg;#saozneg
 dastum;dastum;d1;#galleg;#saozneg
 datiñ;dat;d1;#galleg;#saozneg
@@ -1386,7 +1350,7 @@ dazlardañ;dazlard;d1;#galleg;#saozneg
 dazlivañ;dazliv;d1;#galleg;#saozneg
 dazluc'hañ;dazluc'h;d1;#galleg;#saozneg
 dazroudennañ;dazroudenn;d1;#galleg;#saozneg
-dañsal;dañsal;d1;#galleg;#saozneg
+dañsal;dañs;d1;#galleg;#saozneg
 debailhañ;debailh;d1;#galleg;#saozneg
 debarañ;debar;d1;#galleg;#saozneg
 debarzh;debarzh;d1;#galleg;#saozneg
@@ -1412,9 +1376,9 @@ dehastañ;dehast;d1;#galleg;#saozneg
 dehentiñ;dehent;d1;#galleg;#saozneg
 deiziadañ;deiziad;d1;#galleg;#saozneg
 deiziaduriñ;deiziadur;d1;#galleg;#saozneg
-dejanal;dejanal;d1;#galleg;#saozneg
+dejanal;dejan;d1;#galleg;#saozneg
 dekachañ;dekach;d1;#galleg;#saozneg
-dekrial;dekrial;d1;#galleg;#saozneg
+dekrial;dekri;d1;#galleg;#saozneg
 dekvedlazhañ;dekvedlazh;d1;#galleg;#saozneg
 delammat;delamm;d1;#galleg;#saozneg
 delazh;delazh;d1;#galleg;#saozneg
@@ -1428,7 +1392,7 @@ deltañ;delt;d1;#galleg;#saozneg
 deluskañ;delusk;d1;#galleg;#saozneg
 denañ;den;d1;#galleg;#saozneg
 deneveziñ;denevez;d1;renouveler;#saozneg
-denijal;denijal;d1;#galleg;#saozneg
+denijal;denij;d1;#galleg;#saozneg
 dentañ;dent;d1;#galleg;#saozneg
 denvezañ;denvez;d1;#galleg;#saozneg
 deogañ;deog;d1;#galleg;#saozneg
@@ -1625,10 +1589,10 @@ dichaosiñ;dichaos;d1;#galleg;#saozneg
 dichapañ;dichap;d1;#galleg;#saozneg
 dichañsañ;dichañs;d1;#galleg;#saozneg
 dichedañ;diched;d1;#galleg;#saozneg
-dichekal;dichekal;d1;#galleg;#saozneg
+dichekal;dichek;d1;#galleg;#saozneg
 dichekañ;dichek;d1;#galleg;#saozneg
 dichifañ;dichif;d1;#galleg;#saozneg
-dichoual;dichoual;d1;#galleg;#saozneg
+dichoual;dichou;d1;#galleg;#saozneg
 didachañ;didach;d1;#galleg;#saozneg
 didaeriñ;didaer;d1;#galleg;#saozneg
 didakenniñ;didakenn;d1;#galleg;#saozneg
@@ -1737,7 +1701,7 @@ difredañ;difred;d1;#galleg;#saozneg
 difregañ;difreg;d1;#galleg;#saozneg
 difretañ;difret;d1;#galleg;#saozneg
 difreuzañ;difreuz;d1;#galleg;#saozneg
-difrinkal;difrinkal;d1;#galleg;#saozneg
+difrinkal;difrink;d1;#galleg;#saozneg
 difritañ;difrit;d1;#galleg;#saozneg
 difrokañ;difrok;d1;#galleg;#saozneg
 difromañ;difrom;d1;#galleg;#saozneg
@@ -1849,7 +1813,7 @@ diheudañ;diheud;d1;#galleg;#saozneg
 diheuzañ;diheuz;d1;#galleg;#saozneg
 diheñchañ;diheñch;d1;#galleg;#saozneg
 dihollañ;diholl;d1;#galleg;#saozneg
-dihostal;dihostal;d1;#galleg;#saozneg
+dihostal;dihost;d1;#galleg;#saozneg
 dihouarnañ;dihouarn;d1;#galleg;#saozneg
 dihoubañ;dihoub;d1;#galleg;#saozneg
 dihuediñ;dihued;d1;#galleg;#saozneg
@@ -1876,7 +1840,6 @@ dilavregañ;dilavreg;d1;#galleg;#saozneg
 dilañsañ;dilañs;d1;#galleg;#saozneg
 dileizhañ;dileizh;d1;#galleg;#saozneg
 dilemel;dilam;d1;retrancher, supprimer;#saozneg
-dilemel;dilemel;d1;#galleg;#saozneg
 dilenn;dilenn;d1;#galleg;#saozneg
 dilestrañ;dilestr;d1;#galleg;#saozneg
 dileuriñ;dileur;d1;#galleg;#saozneg
@@ -1910,7 +1873,7 @@ dinerzhañ;dinerzh;d1;#galleg;#saozneg
 dineudañ;dineud;d1;#galleg;#saozneg
 dineudenniñ;dineudenn;d1;#galleg;#saozneg
 dinezañ;dinez;d1;#galleg;#saozneg
-dinijal;dinijal;d1;#galleg;#saozneg
+dinijal;dinij;d1;#galleg;#saozneg
 dinoazañ;dinoaz;d1;#galleg;#saozneg
 dinoblañ;dinobl;d1;#galleg;#saozneg
 dinoblisañ;dinoblis;d1;#galleg;#saozneg
@@ -1918,13 +1881,13 @@ dinozelañ;dinozel;d1;#galleg;#saozneg
 dinozelennañ;dinozelenn;d1;#galleg;#saozneg
 diodañ;diod;d1;#galleg;#saozneg
 diogeliñ;diogel;d1;#galleg;#saozneg
-diotal;diotal;d1;#galleg;#saozneg
+diotal;diot;d1;#galleg;#saozneg
 diouennañ;diouenn;d1;#galleg;#saozneg
 diouestlañ;diouestl;d1;#galleg;#saozneg
 diouezañ;diouez;d1;#galleg;#saozneg
 diouganañ;diougan;d1;#galleg;#saozneg
 diourenniñ;diourenn;d1;#galleg;#saozneg
-diourzal;diourzal;d1;#galleg;#saozneg
+diourzal;diourz;d1;#galleg;#saozneg
 dipitañ;dipit;d1;#galleg;#saozneg
 dirabañsiñ;dirabañs;d1;#galleg;#saozneg
 diradenañ;diraden;d1;#galleg;#saozneg
@@ -1949,7 +1912,7 @@ diridignat;diridign;d1;#galleg;#saozneg
 dirinvañ;dirinv;d1;#galleg;#saozneg
 dirivañ;diriv;d1;#galleg;#saozneg
 dirobañ;dirob;d1;#galleg;#saozneg
-diroc'hal;diroc'hal;d1;#galleg;#saozneg
+diroc'hal;diroc'h;d1;#galleg;#saozneg
 dirodellañ;dirodell;d1;#galleg;#saozneg
 dirojañ;diroj;d1;#galleg;#saozneg
 dirollañ;diroll;d1;#galleg;#saozneg
@@ -1959,11 +1922,11 @@ diroudiñ;diroud;d1;#galleg;#saozneg
 diroueañ;diroue;d1;#galleg;#saozneg
 dirouedañ;diroued;d1;#galleg;#saozneg
 dirouestlañ;dirouestl;d1;#galleg;#saozneg
-diroufal;diroufal;d1;#galleg;#saozneg
+diroufal;dirouf;d1;#galleg;#saozneg
 diroufennañ;diroufenn;d1;#galleg;#saozneg
 dirounañ;diroun;d1;#galleg;#saozneg
 dirouzañ;dirouz;d1;#galleg;#saozneg
-diruilhal;diruilhal;d1;#galleg;#saozneg
+diruilhal;diruilh;d1;#galleg;#saozneg
 diruskañ;dirusk;d1;#galleg;#saozneg
 disabrañ;disabr;d1;#galleg;#saozneg
 disac'hañ;disac'h;d1;#galleg;#saozneg
@@ -2054,7 +2017,7 @@ diskoulmañ;diskoulm;d1;#galleg;#saozneg
 diskoultrañ;diskoultr;d1;#galleg;#saozneg
 diskoulzañ;diskoulz;d1;déphaser;phase shift
 diskounnañ;diskounn;d1;#galleg;#saozneg
-diskournijal;diskournijal;d1;#galleg;#saozneg
+diskournijal;diskournij;d1;#galleg;#saozneg
 diskourrañ;diskourr;d1;#galleg;#saozneg
 diskrabañ;diskrab;d1;#galleg;#saozneg
 diskramponiñ;diskrampon;d1;#galleg;#saozneg
@@ -2062,13 +2025,13 @@ diskrapañ;diskrap;d1;#galleg;#saozneg
 diskribellañ;diskribell;d1;#galleg;#saozneg
 diskrivañ;diskriv;d1;#galleg;#saozneg
 diskroc'henañ;diskroc'hen;d1;#galleg;#saozneg
-diskrognal;diskrognal;d1;#galleg;#saozneg
+diskrognal;diskrogn;d1;#galleg;#saozneg
 diskrougañ;diskroug;d1;#galleg;#saozneg
 diskuizhañ;diskuizh;d1;#galleg;#saozneg
 dislavaret;dislavar;d1;#galleg;#saozneg
 dislipañ;dislip;d1;#galleg;#saozneg
 dislivañ;disliv;d1;#galleg;#saozneg
-disloagal;disloagal;d1;#galleg;#saozneg
+disloagal;disloag;d1;#galleg;#saozneg
 dislonkañ;dislonk;d1;#galleg;#saozneg
 dislontrañ;dislontr;d1;#galleg;#saozneg
 dismantrañ;dismantr;d1;#galleg;#saozneg
@@ -2081,7 +2044,7 @@ disorsañ;disors;d1;#galleg;#saozneg
 disouchañ;disouch;d1;#galleg;#saozneg
 disoudardañ;disoudard;d1;#galleg;#saozneg
 disoudañ;disoud;d1;#galleg;#saozneg
-disoñjal;disoñjal;d1;#galleg;#saozneg
+disoñjal;disoñj;d1;#galleg;#saozneg
 dispac'hañ;dispac'h;d1;#galleg;#saozneg
 dispafalat;dispafal;d1;#galleg;#saozneg
 dispakañ;dispak;d1;#galleg;#saozneg
@@ -2138,7 +2101,7 @@ distonañ;diston;d1;#galleg;#saozneg
 distouvañ;distouv;d1;#galleg;#saozneg
 distradañ;distrad;d1;#galleg;#saozneg
 distrafuilhañ;distrafuilh;d1;#galleg;#saozneg
-distrakal;distrakal;d1;#galleg;#saozneg
+distrakal;distrak;d1;#galleg;#saozneg
 distrakiñ;distrak;d1;#galleg;#saozneg
 distrapañ;distrap;d1;#galleg;#saozneg
 distrapennañ;distrapenn;d1;#galleg;#saozneg
@@ -2171,8 +2134,7 @@ disvemprañ;disvempr;d1;#galleg;#saozneg
 disvouedañ;disvoued;d1;#galleg;#saozneg
 disvourellañ;disvourell;d1;#galleg;#saozneg
 disweañ;diswe;d1;#galleg;#saozneg
-diswinkal;diswinkal;d1;#galleg;#saozneg
-diswriat;diswri;d1;#galleg;#saozneg
+diswinkal;diswink;d1;#galleg;#saozneg
 diswriziennañ;diswrizienn;d1;#galleg;#saozneg
 diuzañ;diuz;d1;séléctionner;select
 divabañ;divab;d1;#galleg;#saozneg
@@ -2285,7 +2247,6 @@ divrazañ;divraz;d1;faire le gros du/d’un travail;#saozneg
 divreinañ;divrein;d1;#galleg;#saozneg
 divresañ;divres;d1;#galleg;#saozneg
 divrezhonegañ;divrezhoneg;d1;#galleg;#saozneg
-divrezhonekaat;divrezhonek;d1;#galleg;#saozneg
 divridañ;divrid;d1;#galleg;#saozneg
 divroadelañ;divroadel;d1;#galleg;#saozneg
 divroadenniñ;divroadenn;d1;#galleg;#saozneg
@@ -2380,11 +2341,11 @@ dizruzañ;dizruz;d1;#galleg;#saozneg
 dizuañ;dizu;d1;#galleg;#saozneg
 dizunaniñ;dizunan;d1;#galleg;#saozneg
 dizunvaniñ;dizunvan;d1;#galleg;#saozneg
-diñsal;diñsal;d1;#galleg;#saozneg
+diñsal;diñs;d1;#galleg;#saozneg
 dleout;dle;d1;#galleg;#saozneg
 dluzhañ;dluzh;d1;#galleg;#saozneg
 doareañ;doare;d1;#galleg;#saozneg
-doc'hal;doc'hal;d1;#galleg;#saozneg
+doc'hal;doc'h;d1;#galleg;#saozneg
 doc'hellat;doc'hell;d1;#galleg;#saozneg
 dodoennañ;dodoenn;d1;#galleg;#saozneg
 doganañ;dogan;d1;#galleg;#saozneg
@@ -2403,7 +2364,6 @@ doublañ;doubl;d1;#galleg;#saozneg
 doueañ;doue;d1;#galleg;#saozneg
 douetiñ;douet;d1;#galleg;#saozneg
 dougen;doug;d1;porter;carry, wear
-dougen;dougen;d1;#galleg;#saozneg
 doujañ;douj;d1;#galleg;#saozneg
 dourasenniñ;dourasenn;d1;#galleg;#saozneg
 dourañ;dour;d1;#galleg;#saozneg
@@ -2424,7 +2384,7 @@ drajoniñ;drajon;d1;#galleg;#saozneg
 drammañ;dramm;d1;#galleg;#saozneg
 dramouilhañ;dramouilh;d1;#galleg;#saozneg
 dramzañ;dramz;d1;#galleg;#saozneg
-draskal;draskal;d1;#galleg;#saozneg
+draskal;drask;d1;#galleg;#saozneg
 drastañ;drast;d1;#galleg;#saozneg
 dreintagañ;dreintag;d1;#galleg;#saozneg
 dreistbevañ;dreistbev;d1;#galleg;#saozneg
@@ -2450,7 +2410,6 @@ drevezañ;drevez;d1;#galleg;#saozneg
 drikedañ;driked;d1;#galleg;#saozneg
 drivañ;driv;d1;#galleg;#saozneg
 drochañ;droch;d1;#galleg;#saozneg
-drougober;drougober;d1;#galleg;#saozneg
 drouinañ;drouin;d1;#galleg;#saozneg
 droukc'hoantañ;droukc'hoant;d1;souhaiter une mauvaise chose;to want something bad
 droukhoalañ;droukhoal;d1;#galleg;#saozneg
@@ -2463,14 +2422,14 @@ drouklavaret;drouklavar;d1;#galleg;#saozneg
 drouklazhañ;drouklazh;d1;#galleg;#saozneg
 drouklivañ;droukliv;d1;#galleg;#saozneg
 drouksantiñ;drouksant;d1;#galleg;#saozneg
-drouksoñjal;drouksoñjal;d1;#galleg;#saozneg
+drouksoñjal;drouksoñj;d1;#galleg;#saozneg
 drouktretañ;drouktret;d1;#galleg;#saozneg
 drouktunañ;drouktun;d1;#galleg;#saozneg
 droukveskañ;droukvesk;d1;#galleg;#saozneg
 droukwiskañ;droukwisk;d1;#galleg;#saozneg
 drouziwezhañ;drouziwezh;d1;#galleg;#saozneg
 druilhañ;druilh;d1;#galleg;#saozneg
-drujal;drujal;d1;#galleg;#saozneg
+drujal;druj;d1;#galleg;#saozneg
 druzañ;druz;d1;#galleg;#saozneg
 duac'hat;duac'h;d1;#galleg;#saozneg
 duañ;du;d1;#galleg;#saozneg
@@ -2489,7 +2448,6 @@ echarnañ;echarn;d1;#galleg;#saozneg
 echeveat;echeve;d1;#galleg;#saozneg
 echuiñ;echu;d1;#galleg;#saozneg
 ec'hankañ;ec'hank;d1;sortir;output
-edifiañ;edifi;d1;#galleg;#saozneg
 edifisañ;edifis;d1;#galleg;#saozneg
 eeunañ;eeun;d1;#galleg;#saozneg
 efasiñ;efas;d1;#galleg;#saozneg
@@ -2606,7 +2564,6 @@ emstummañ;emstumm;d1;#galleg;#saozneg
 emvagañ;emvag;d1;#galleg;#saozneg
 emvastañ;emvast;d1;#galleg;#saozneg
 emvestroniañ;emvestroni;d1;#galleg;#saozneg
-emvestroniezh;emvestroni;d1;#galleg;#saozneg
 emveuziñ;emveuz;d1;#galleg;#saozneg
 emvevañ;emvev;d1;#galleg;#saozneg
 emvirout;emvir;d1;#galleg;#saozneg
@@ -2722,7 +2679,6 @@ enteuziñ;enteuz;d1;#galleg;#saozneg
 entraezhiñ;entraezh;d1;#galleg;#saozneg
 entrevadañ;entrevad;d1;#galleg;#saozneg
 envel;anv;d1;nommer;appoint (sb./sth.) (name/nominate), name (sb./sth.), nominate, make (name/nominate), assign (sb.), designate (sb.), call (sb./sth.) (name/nominate), specify (sth.) (name/nominate), term sb./sth. (name/nominate), identify (sb.) (name/nominate)
-envel;envel;d1;#galleg;#saozneg
 enwadañ;enwad;d1;#galleg;#saozneg
 eogiñ;eog;d1;#galleg;#saozneg
 eonenniñ;eonenn;d1;#galleg;#saozneg
@@ -2733,7 +2689,6 @@ erbediñ;erbed;d1;#galleg;#saozneg
 erc'hiñ;erc'h;d1;#galleg;#saozneg
 ereiñ;ere;d1;lier;link
 eren;ere;d1;lier;link
-eren;eren;d1;#galleg;#saozneg
 ereziñ;erez;d1;#galleg;#saozneg
 ergerzhout;ergerzh;d1;#galleg;#saozneg
 ergrafañ;ergraf;d1;#galleg;#saozneg
@@ -2745,7 +2700,6 @@ eriñvañ;eriñv;d1;#galleg;#saozneg
 erluniñ;erlun;d1;#galleg;#saozneg
 erluskañ;erlusk;d1;#galleg;#saozneg
 ernijal;ernij;d1;#galleg;#saozneg
-ernijal;ernijal;d1;#galleg;#saozneg
 erouezañ;erouez;d1;visualiser, présenter;#saozneg
 erounez;erounez;d1;#galleg;#saozneg
 erruout;erru;d1;#galleg;#saozneg
@@ -2841,7 +2795,6 @@ fallat;fall;d1;#galleg;#saozneg
 fallañ;fall;d1;#galleg;#saozneg
 fallennañ;fallenn;d1;#galleg;#saozneg
 fallgaloniñ;fallgalon;d1;#galleg;#saozneg
-fallober;fallober;d1;#galleg;#saozneg
 fallout;fall;d1;#galleg;#saozneg
 fallvarchañ;fallvarch;d1;#galleg;#saozneg
 fallvlaziñ;fallvlaz;d1;#galleg;#saozneg
@@ -2863,7 +2816,6 @@ faotañ;faot;d1;#galleg;#saozneg
 faoutañ;faout;d1;#galleg;#saozneg
 faragouilhañ;faragouilh;d1;#galleg;#saozneg
 fardañ;fard;d1;#galleg;#saozneg
-fardañ;fard;d1;#galleg;#saozneg
 fardellañ;fardell;d1;#galleg;#saozneg
 fardiñ;fard;d1;#galleg;#saozneg
 farleañ;farle;d1;#galleg;#saozneg
@@ -2871,7 +2823,7 @@ farlokañ;farlok;d1;#galleg;#saozneg
 farlotañ;farlot;d1;#galleg;#saozneg
 farlotiñ;farlot;d1;#galleg;#saozneg
 farouellañ;farouell;d1;#galleg;#saozneg
-farsal;farsal;d1;#galleg;#saozneg
+farsal;fars;d1;#galleg;#saozneg
 farsañ;fars;d1;#galleg;#saozneg
 farsellat;farsell;d1;#galleg;#saozneg
 fasadiñ;fasad;d1;#galleg;#saozneg
@@ -2897,7 +2849,6 @@ felladenniñ;felladenn;d1;#galleg;#saozneg
 fellel;fellel;d1;#galleg;#saozneg
 fellout;fell;d1;#galleg;#saozneg
 feloniñ;felon;d1;#galleg;#saozneg
-feltrañ;feltr;d1;#galleg;#saozneg
 feltrañ;feltr;d1;#galleg;#saozneg
 fenestrat;fenestr;d1;#galleg;#saozneg
 fennañ;fenn;d1;#galleg;#saozneg
@@ -2928,13 +2879,10 @@ fiblañ;fibl;d1;#galleg;#saozneg
 fic'hañ;fic'h;d1;#galleg;#saozneg
 fic'hellañ;fic'hell;d1;#galleg;#saozneg
 fichañ;fich;d1;#galleg;#saozneg
-fichañ;fich;d1;#galleg;#saozneg
-fichañ;fich;d1;#galleg;#saozneg
 fichellañ;fichell;d1;#galleg;#saozneg
 fichennaouiñ;fichennaou;d1;#galleg;#saozneg
 fichennañ;fichenn;d1;#galleg;#saozneg
 fichfichal;fichfich;d1;#galleg;#saozneg
-fichfichal;fichfichal;d1;#galleg;#saozneg
 fichfichat;fichfich;d1;#galleg;#saozneg
 fichfichañ;fichfich;d1;#galleg;#saozneg
 fidelenniñ;fidelenn;d1;#galleg;#saozneg
@@ -2957,7 +2905,6 @@ finisañ;finis;d1;#galleg;#saozneg
 finouc'hellañ;finouc'hell;d1;#galleg;#saozneg
 finvezañ;finvez;d1;#galleg;#saozneg
 firbouchal;firbouch;d1;#galleg;#saozneg
-firbouchal;firbouchal;d1;#galleg;#saozneg
 firitellat;firitell;d1;#galleg;#saozneg
 fiselañ;fisel;d1;#galleg;#saozneg
 fiselennañ;fiselenn;d1;#galleg;#saozneg
@@ -2966,7 +2913,6 @@ fistoulat;fistoul;d1;#galleg;#saozneg
 fiziañsañ;fiziañs;d1;#galleg;#saozneg
 fiziolañ;fiziol;d1;#galleg;#saozneg
 fiñval;fiñv;d1;#galleg;#saozneg
-fiñval;fiñval;d1;#galleg;#saozneg
 fiñvskeudenniñ;fiñvskeudenn;d1;#galleg;#saozneg
 flac'hadiñ;flac'had;d1;#galleg;#saozneg
 flac'hañ;flac'h;d1;#galleg;#saozneg
@@ -2992,7 +2938,7 @@ flemmañ;flemm;d1;#galleg;#saozneg
 flemmikañ;flemmik;d1;#galleg;#saozneg
 fleurachiñ;fleurach;d1;#galleg;#saozneg
 fleurisañ;fleuris;d1;#galleg;#saozneg
-fleütal;fleütal;d1;#galleg;#saozneg
+fleütal;fleüt;d1;#galleg;#saozneg
 fleütiñ;fleüt;d1;#galleg;#saozneg
 flik-flokat;flik-flok;d1;#galleg;#saozneg
 flikañ;flik;d1;#galleg;#saozneg
@@ -3025,7 +2971,6 @@ foerañ;foer;d1;#galleg;#saozneg
 foetañ;foet;d1;#galleg;#saozneg
 foeñviñ;foeñv;d1;#galleg;#saozneg
 fojal;foj;d1;#galleg;#saozneg
-fojal;fojal;d1;#galleg;#saozneg
 fojañ;foj;d1;#galleg;#saozneg
 fojiñ;foj;d1;#galleg;#saozneg
 fokedal;foked;d1;#galleg;#saozneg
@@ -3051,7 +2996,6 @@ fotañ;fot;d1;#galleg;#saozneg
 foueskañ;fouesk;d1;#galleg;#saozneg
 fougasiñ;fougas;d1;#galleg;#saozneg
 fougeal;fouge;d1;#galleg;#saozneg
-fougeal;fougeal;d1;#galleg;#saozneg
 fouilhañ;fouilh;d1;#galleg;#saozneg
 fouilhezañ;fouilhez;d1;#galleg;#saozneg
 foulañ;foul;d1;#galleg;#saozneg
@@ -3063,7 +3007,6 @@ fourgadenniñ;fourgadenn;d1;#galleg;#saozneg
 fourgadiñ;fourgad;d1;#galleg;#saozneg
 fourgasiñ;fourgas;d1;#galleg;#saozneg
 fournisañ;fournis;d1;#galleg;#saozneg
-fourrañ;fourr;d1;#galleg;#saozneg
 fourrañ;fourr;d1;#galleg;#saozneg
 foutouilhat;foutouilh;d1;#galleg;#saozneg
 fouzhañ;fouzh;d1;#galleg;#saozneg
@@ -3077,7 +3020,6 @@ frankizañ;frankiz;d1;#galleg;#saozneg
 fraostat;fraost;d1;#galleg;#saozneg
 fraoulat;fraoul;d1;#galleg;#saozneg
 fraoñval;fraoñv;d1;#galleg;#saozneg
-fraoñval;fraoñval;d1;#galleg;#saozneg
 frapañ;frap;d1;#galleg;#saozneg
 fraskellañ;fraskell;d1;#galleg;#saozneg
 frañchizañ;frañchiz;d1;#galleg;#saozneg
@@ -3095,7 +3037,6 @@ freskañ;fresk;d1;#galleg;#saozneg
 fretañ;fret;d1;#galleg;#saozneg
 fretenniñ;fretenn;d1;#galleg;#saozneg
 freuzañ;freuz;d1;#galleg;#saozneg
-freuzañ;freuz;d1;#galleg;#saozneg
 frezilhonañ;frezilhon;d1;#galleg;#saozneg
 friantañ;friant;d1;#galleg;#saozneg
 friantellat;friantell;d1;#galleg;#saozneg
@@ -3106,16 +3047,14 @@ frikañ;frik;d1;#galleg;#saozneg
 frikotañ;frikot;d1;#galleg;#saozneg
 frimañ;frim;d1;#galleg;#saozneg
 fringal;fring;d1;#galleg;#saozneg
-fringal;fringal;d1;#galleg;#saozneg
 fringalañ;fringal;d1;#galleg;#saozneg
 fringellat;fringell;d1;#galleg;#saozneg
 fringoliñ;fringol;d1;#galleg;#saozneg
 frinjinañ;frinjin;d1;#galleg;#saozneg
 frinkal;frink;d1;#galleg;#saozneg
-frinkal;frinkal;d1;#galleg;#saozneg
 frinkat;frink;d1;#galleg;#saozneg
 frinkañ;frink;d1;#galleg;#saozneg
-fripal;fripal;d1;#galleg;#saozneg
+fripal;frip;d1;#galleg;#saozneg
 fripañ;frip;d1;#galleg;#saozneg
 friponiñ;fripon;d1;#galleg;#saozneg
 fritañ;frit;d1;#galleg;#saozneg
@@ -3125,7 +3064,7 @@ frizenniñ;frizenn;d1;#galleg;#saozneg
 fromañ;from;d1;#galleg;#saozneg
 frometañ;fromet;d1;#galleg;#saozneg
 frometiñ;fromet;d1;#galleg;#saozneg
-fronal;fronal;d1;#galleg;#saozneg
+fronal;fron;d1;#galleg;#saozneg
 frondiñ;frond;d1;#galleg;#saozneg
 fronellat;fronell;d1;#galleg;#saozneg
 fronellañ;fronell;d1;#galleg;#saozneg
@@ -3137,11 +3076,9 @@ froudennañ;froudenn;d1;#galleg;#saozneg
 frouezhigiñ;frouezhig;d1;#galleg;#saozneg
 frouezhiñ;frouezh;d1;#galleg;#saozneg
 frouiñ;frou;d1;#galleg;#saozneg
-froumal;froum;d1;#galleg;#saozneg
-froumal;froumal;d1;#galleg;#saozneg
+froumal;froum;d1;vibrer;vibrate
 froñsal;froñs;d1;#galleg;#saozneg
-froñsal;froñsal;d1;#galleg;#saozneg
-fruiat;frui;d1;#galleg;#saozneg
+fruiat;frui;d1;être emporté par les embruns;#saozneg
 frukañ;fruk;d1;#galleg;#saozneg
 fuañ;fu;d1;#galleg;#saozneg
 fuc'hañ;fuc'h;d1;#galleg;#saozneg
@@ -3149,12 +3086,10 @@ fuchañ;fuch;d1;#galleg;#saozneg
 fuilhañ;fuilh;d1;#galleg;#saozneg
 fuinañ;fuin;d1;#galleg;#saozneg
 fuketal;fuket;d1;#galleg;#saozneg
-fuketal;fuketal;d1;#galleg;#saozneg
 fulenniñ;fulenn;d1;#galleg;#saozneg
 fuloriñ;fulor;d1;#galleg;#saozneg
 fumañ;fum;d1;#galleg;#saozneg
 furchal;furch;d1;#galleg;#saozneg
-furchal;furchal;d1;#galleg;#saozneg
 furediñ;fured;d1;#galleg;#saozneg
 furgutañ;furgut;d1;#galleg;#saozneg
 furikat;furik;d1;#galleg;#saozneg
@@ -3164,7 +3099,6 @@ furmaozañ;furmaoz;d1;#galleg;#saozneg
 furmiñ;furm;d1;#galleg;#saozneg
 fustañ;fust;d1;#galleg;#saozneg
 fuzuilhañ;fuzuilh;d1;#galleg;#saozneg
-fuzuilhañ;fuzuilhañ;d1;fusiller;#saozneg
 gadañ;gad;d1;#galleg;#saozneg
 gagennañ;gagenn;d1;#galleg;#saozneg
 gagilhaodiñ;gagilhaod;d1;#galleg;#saozneg
@@ -3206,20 +3140,18 @@ garzhenniñ;garzhenn;d1;#galleg;#saozneg
 gastaouiñ;gastaou;d1;#galleg;#saozneg
 gavrlammat;gavrlamm;d1;#galleg;#saozneg
 gazouilhañ;gazouilh;d1;#galleg;#saozneg
-gedal;gedal;d1;#galleg;#saozneg
+gedal;ged;d1;#galleg;#saozneg
 geizañ;geiz;d1;#galleg;#saozneg
 gellañ;gell;d1;#galleg;#saozneg
 genaouegiñ;genaoueg;d1;#galleg;#saozneg
 genaouiñ;genaou;d1;#galleg;#saozneg
 genel;gan;d1;générer, engendrer;#saozneg
-genel;genel;d1;#galleg;#saozneg
 gennañ;genn;d1;#galleg;#saozneg
 geotañ;geot;d1;#galleg;#saozneg
 geotegañ;geoteg;d1;#galleg;#saozneg
 geriaduriñ;geriadur;d1;#galleg;#saozneg
 geriaouiñ;geriaou;d1;#galleg;#saozneg
 gervel;galv;d1;appeler;#saozneg
-gervel;gervel;d1;#galleg;#saozneg
 geveliat;geveli;d1;#galleg;#saozneg
 gilhotinañ;gilhotin;d1;#galleg;#saozneg
 ginañ;gin;d1;#galleg;#saozneg
@@ -3257,12 +3189,12 @@ goafañ;goaf;d1;#galleg;#saozneg
 goanagiñ;goanag;d1;#galleg;#saozneg
 goañvenniñ;goañvenn;d1;#galleg;#saozneg
 goañviñ;goañv;d1;#galleg;#saozneg
-godal;godal;d1;#galleg;#saozneg
+godal;god;d1;#galleg;#saozneg
 godellañ;godell;d1;#galleg;#saozneg
 godisat;godis;d1;#galleg;#saozneg
 goedennañ;goedenn;d1;#galleg;#saozneg
 goellañ;goell;d1;#galleg;#saozneg
-gogeal;gogeal;d1;#galleg;#saozneg
+gogeal;goge;d1;#galleg;#saozneg
 gogezañ;gogez;d1;#galleg;#saozneg
 golc'hennañ;golc'henn;d1;#galleg;#saozneg
 gomañ;gom;d1;#galleg;#saozneg
@@ -3270,7 +3202,6 @@ goprañ;gopr;d1;#galleg;#saozneg
 gopreostañ;gopreost;d1;#galleg;#saozneg
 gorjañ;gorj;d1;#galleg;#saozneg
 gorregañ;gorreg;d1;#galleg;#saozneg
-gorren;gorren;d1;#galleg;#saozneg
 gortozennañ;gortozenn;d1;#galleg;#saozneg
 gouarn;gouarn;d1;#galleg;#saozneg
 gouboazhañ;gouboazh;d1;#galleg;#saozneg
@@ -3291,7 +3222,6 @@ goulazhañ;goulazh;d1;#galleg;#saozneg
 goullonderiñ;goullonder;d1;#galleg;#saozneg
 goumonañ;goumon;d1;#galleg;#saozneg
 gounit;gounez;d1;gagner;#saozneg
-gounit;gounit;d1;#galleg;#saozneg
 gouraouiñ;gouraou;d1;#galleg;#saozneg
 gourazezañ;gourazez;d1;#galleg;#saozneg
 gourbombardañ;gourbombard;d1;#galleg;#saozneg
@@ -3313,9 +3243,9 @@ gourlonkañ;gourlonk;d1;#galleg;#saozneg
 gourlufrañ;gourlufr;d1;#galleg;#saozneg
 gourmachiñ;gourmach;d1;#galleg;#saozneg
 gournat;gourn;d1;#galleg;#saozneg
-gournijal;gournijal;d1;#galleg;#saozneg
+gournijal;gournij;d1;#galleg;#saozneg
 goursaoutañ;goursaout;d1;#galleg;#saozneg
-goursezal;goursezal;d1;#galleg;#saozneg
+goursezal;goursez;d1;#galleg;#saozneg
 goursezañ;goursez;d1;#galleg;#saozneg
 gourvadeziñ;gourvadez;d1;#galleg;#saozneg
 gourvennañ;gourvenn;d1;#galleg;#saozneg
@@ -3337,7 +3267,7 @@ gozellat;gozell;d1;#galleg;#saozneg
 gragachat;gragach;d1;#galleg;#saozneg
 gragailhat;gragailh;d1;#galleg;#saozneg
 gragennat;gragenn;d1;#galleg;#saozneg
-grakal;grakal;d1;#galleg;#saozneg
+grakal;grak;d1;#galleg;#saozneg
 grakañ;grak;d1;#galleg;#saozneg
 graspiñ;grasp;d1;#galleg;#saozneg
 gratañ;grat;d1;#galleg;#saozneg
@@ -3352,7 +3282,7 @@ greunnañ;greunn;d1;#galleg;#saozneg
 grevañ;grev;d1;#galleg;#saozneg
 grifañ;grif;d1;#galleg;#saozneg
 grignosañ;grignos;d1;#galleg;#saozneg
-grignouzal;grignouzal;d1;#galleg;#saozneg
+grignouzal;grignouz;d1;#galleg;#saozneg
 grigoñsat;grigoñs;d1;#galleg;#saozneg
 grilhañ;grilh;d1;#galleg;#saozneg
 grimandellañ;grimandell;d1;#galleg;#saozneg
@@ -3361,24 +3291,23 @@ griziennañ;grizienn;d1;#galleg;#saozneg
 griziezañ;griziez;d1;#galleg;#saozneg
 grizilhañ;grizilh;d1;#galleg;#saozneg
 grizilhonañ;grizilhon;d1;#galleg;#saozneg
-grizinkal;grizinkal;d1;#galleg;#saozneg
-griñsal;griñsal;d1;#galleg;#saozneg
-grognal;grognal;d1;#galleg;#saozneg
+grizinkal;grizink;d1;#galleg;#saozneg
+griñsal;griñs;d1;#galleg;#saozneg
+grognal;grogn;d1;#galleg;#saozneg
 grognonañ;grognon;d1;#galleg;#saozneg
 groilhañ;groilh;d1;#galleg;#saozneg
 grollañ;groll;d1;#galleg;#saozneg
 gromañ;grom;d1;#galleg;#saozneg
 gromellat;gromell;d1;#galleg;#saozneg
 gronnañ;gronn;d1;#galleg;#saozneg
-grontal;grontal;d1;#galleg;#saozneg
+grontal;gront;d1;#galleg;#saozneg
 grosañ;gros;d1;#galleg;#saozneg
 grougousat;grougous;d1;#galleg;#saozneg
-grouifal;grouifal;d1;#galleg;#saozneg
+grouifal;grouif;d1;#galleg;#saozneg
 groummañ;groumm;d1;#galleg;#saozneg
 grozmolat;grozmol;d1;#galleg;#saozneg
 groñjañ;groñj;d1;#galleg;#saozneg
 grumuzat;grumuz;d1;#galleg;#saozneg
-gwac'hat;gwac'h;d1;#galleg;#saozneg
 gwac'hat;gwac'h;d1;croasser;#saozneg
 gwadañ;gwad;d1;saigner;#saozneg
 gwagennañ;gwagenn;d1;#galleg;#saozneg
@@ -3387,7 +3316,6 @@ gwalarniñ;gwalarn;d1;#galleg;#saozneg
 gwalañjeriñ;gwalañjer;d1;#galleg;#saozneg
 gwalc'hañ;gwalc'h;d1;#galleg;#saozneg
 gwalc'hiñ;gwalc'h;d1;#galleg;#saozneg
-gwalc'hañ;gwalc'h;d1;#galleg;#saozneg
 gwalennadiñ;gwalennad;d1;#galleg;#saozneg
 gwalennañ;gwalenn;d1;#galleg;#saozneg
 gwalenniñ;gwalenn;d1;#galleg;#saozneg
@@ -3447,7 +3375,7 @@ gwazhiñ;gwazh;d1;creuser son lit (à un cours d’eau);#saozneg
 gweadennañ;gweadenn;d1;entrelacer;#saozneg
 gweañ;gwe;d1;tordre;#saozneg
 gwedennañ;gwedenn;d1;torsader;#saozneg
-gwegal;gwegal;d1;#galleg;#saozneg
+gwegal;gweg;d1;#galleg;#saozneg
 gwegañ;gweg;d1;#galleg;#saozneg
 gweladenniñ;gweladenn;d1;#galleg;#saozneg
 gweladuriñ;gweladur;d1;contempler;#saozneg
@@ -3461,15 +3389,12 @@ gwelet;gwel;d1;voir;see
 gweleviñ;gwelev;d1;#galleg;#saozneg
 gwelout;gwel;d1;voir;see
 gwenc'hoarzh;gwenc'hoarzh;d1;#galleg;#saozneg
-gwenc'hoarzhin;gwenc'hoarzhin;d1;#galleg;#saozneg
-gwenc'hoarzhin;gwenc'hoarzhin;d1;#galleg;#saozneg
+gwenc'hoarzhin;gwenc'hoarzh;d1;#galleg;#saozneg
 gwennañ;gwenn;d1;#galleg;#saozneg
 gwennrazañ;gwennraz;d1;#galleg;#saozneg
 gwentañ;gwent;d1;#galleg;#saozneg
 gwerat;gwer;d1;#galleg;#saozneg
 gwerañ;gwer;d1;#galleg;#saozneg
-gwerañ;gwer1;d1;#galleg;#saozneg
-gwerblennañ;gwerblenn;d1;#galleg;#saozneg
 gwerblennañ;gwerblenn;d1;#galleg;#saozneg
 gwereañ;gwere;d1;visualiser;#saozneg
 gwerediñ;gwered;d1;#galleg;#saozneg
@@ -3487,23 +3412,18 @@ gweturañ;gwetur;d1;voiturer;#saozneg
 gwezboellat;gwezboell;d1;#galleg;#saozneg
 gwezelañ;gwezel;d1;maquiller;#saozneg
 gweñviñ;gweñv;d1;#galleg;#saozneg
-gwiadenniñ;gwiadenn;d1;#galleg;#saozneg
 gwiadenniñ;gwiadenn;d1;tisser;#saozneg
 gwiadiñ;gwiad;d1;tisser;#saozneg
 gwialennañ;gwialenn;d1;frapper avec une baguette;#saozneg
 gwialenniñ;gwialenn;d1;frapper avec une baguette;#saozneg
-gwic'hal;gwic'hal;d1;#galleg;#saozneg
 gwic'hal;gwic'h;d1;piauler;#saozneg
 gwichañ;gwich;d1;esquiver;#saozneg
 gwidilañ;gwidil;d1;serpenter;#saozneg
 gwidreal;gwidre;d1;être de mauvaise humeur;#saozneg
-gwidreal;gwidreal;d1;#galleg;#saozneg
 gwiflañ;gwifl;d1;faire des chevrons;#saozneg
 gwignal;gwign;d1;cligner;#saozneg
-gwignal;gwignal;d1;#galleg;#saozneg
 gwigourat;gwigour;d1;grincer;#saozneg
 gwikal;gwik;d1;piauler;#saozneg
-gwikal;gwikal;d1;#galleg;#saozneg
 gwikefreañ;gwikefre;d1;installer;#saozneg
 gwilat;gwil;d1;battre;#saozneg
 gwilc'hañ;gwilc'h;d1;cligner;#saozneg
@@ -3516,17 +3436,13 @@ gwinañ;gwin;d1;aviner;#saozneg
 gwinchañ;gwinch;d1;#galleg;#saozneg
 gwinegrañ;gwinegr;d1;vinaigrer;#saozneg
 gwinkal;gwink;d1;ruer;#saozneg
-gwinkal;gwinkal;d1;#galleg;#saozneg
 gwintañ;gwint;d1;soulever;#saozneg
 gwinterellañ;gwinterell;d1;guinder;#saozneg
 gwiskañ;gwisk;d1;vêtir;#saozneg
 gwispidiñ;gwispid;d1;biscuiter;#saozneg
 gwisponat;gwispon;d1;enduire, badigeonner;#saozneg
-gwrac'hat;gwrac'h;d1;#galleg;#saozneg
 gwrac'hat;gwrac'h;d1;se flétrir;#saozneg
-gwrac'hellat;gwrac'hell;d1;#galleg;#saozneg
 gwrac'hellat;gwrac'hell;d1;flétrir;#saozneg
-gwrac'henniñ;gwrac'henn;d1;#galleg;#saozneg
 gwrac'henniñ;gwrac'henn;d1;flétrir;#saozneg
 gwrac'hiñ;gwrac'h;d1;#galleg;#saozneg
 gwreziñ;gwrez;d1;chauffer;#saozneg
@@ -3540,7 +3456,6 @@ haelat;hael;d1;#galleg;#saozneg
 haeriñ;haer;d1;#galleg;#saozneg
 haeziñ;haez;d1;#galleg;#saozneg
 haketal;haket;d1;#galleg;#saozneg
-haketal;haketal;d1;#galleg;#saozneg
 haketañ;haket;d1;#galleg;#saozneg
 hakiñ;hak;d1;#galleg;#saozneg
 halañ;hal;d1;#galleg;#saozneg
@@ -3580,7 +3495,6 @@ hañviñ;hañv;d1;#galleg;#saozneg
 hedañ;hed;d1;#galleg;#saozneg
 hedrevnañ;hedrevn;d1;#galleg;#saozneg
 hegal;heg;d1;#galleg;#saozneg
-hegal;hegal;d1;#galleg;#saozneg
 hegasiñ;hegas;d1;#galleg;#saozneg
 hegaziñ;hegaz;d1;#galleg;#saozneg
 hegañ;heg;d1;#galleg;#saozneg
@@ -3600,7 +3514,6 @@ hernajiñ;hernaj;d1;#galleg;#saozneg
 herniñ;hern;d1;#galleg;#saozneg
 herpañ;herp;d1;#galleg;#saozneg
 hersal;hers;d1;#galleg;#saozneg
-hersal;hersal;d1;#galleg;#saozneg
 hersiñ;hers;d1;#galleg;#saozneg
 herzel;harz;d1;#galleg;#saozneg
 heskediñ;hesked;d1;#galleg;#saozneg
@@ -3617,7 +3530,7 @@ heuzañ;heuz;d1;#galleg;#saozneg
 hevelebiñ;heveleb;d1;#galleg;#saozneg
 hezañ;hez;d1;#galleg;#saozneg
 heñchañ;heñch;d1;#galleg;#saozneg
-heñgial;heñgial;d1;#galleg;#saozneg
+heñgial;heñgi;d1;#galleg;#saozneg
 heñvelat;heñvel;d1;#galleg;#saozneg
 heñvelañ;heñvel;d1;#galleg;#saozneg
 heñvelout;heñvel;d1;#galleg;#saozneg
@@ -3625,14 +3538,12 @@ hiboudiñ;hiboud;d1;#galleg;#saozneg
 higennañ;higenn;d1;#galleg;#saozneg
 hikat;hik;d1;#galleg;#saozneg
 hiketal;hiket;d1;#galleg;#saozneg
-hiketal;hiketal;d1;#galleg;#saozneg
 hilastaliñ;hilastal;d1;#galleg;#saozneg
 hilgenniñ;hilgenn;d1;#galleg;#saozneg
 hiliennañ;hilienn;d1;#galleg;#saozneg
 hilligañ;hillig;d1;#galleg;#saozneg
 hinaozañ;hinaoz;d1;#galleg;#saozneg
 hiniennañ;hinienn;d1;#galleg;#saozneg
-hinnoal;hinnoal;d1;#galleg;#saozneg
 hinonat;hinon;d1;#galleg;#saozneg
 hinonañ;hinon;d1;#galleg;#saozneg
 hinoniñ;hinon;d1;#galleg;#saozneg
@@ -3660,7 +3571,6 @@ hollaikat;hollaik;d1;#galleg;#saozneg
 hollañ;holl;d1;#galleg;#saozneg
 hollegañ;holleg;d1;#galleg;#saozneg
 hopal;hop;d1;#galleg;#saozneg
-hopal;hop;;#galleg;#saozneg
 hopellat;hopell;d1;#galleg;#saozneg
 hopennañ;hopenn;d1;#galleg;#saozneg
 hordennañ;hordenn;d1;#galleg;#saozneg
@@ -3687,7 +3597,7 @@ huanadiñ;huanad;d1;#galleg;#saozneg
 huat;hu;d1;huer;#saozneg
 hubotañ;hubot;d1;#galleg;#saozneg
 huchal;huch;d1;#galleg;#saozneg
-hudal;hudal;d1;#galleg;#saozneg
+hudal;hud;d1;#galleg;#saozneg
 hudañ;hud;d1;#galleg;#saozneg
 hudeal;hude;d1;#galleg;#saozneg
 hueiñ;hue;d1;#galleg;#saozneg
@@ -3697,7 +3607,7 @@ hulmañ;hulm;d1;#galleg;#saozneg
 hunañ;hun;d1;#galleg;#saozneg
 huneal;hune;d1;#galleg;#saozneg
 huneiñ;hune;d1;#galleg;#saozneg
-hunvreal;hunvreal;d1;#galleg;#saozneg
+hunvreal;hunvre;d1;#galleg;#saozneg
 hupañ;hup;d1;#galleg;#saozneg
 hupenniñ;hupenn;d1;#galleg;#saozneg
 huperiñ;huper;d1;#galleg;#saozneg
@@ -3787,14 +3697,12 @@ jaojañ;jaoj;d1;#galleg;#saozneg
 jardinañ;jardin;d1;#galleg;#saozneg
 jardrinañ;jardrin;d1;#galleg;#saozneg
 jarneal;jarne;d1;#galleg;#saozneg
-jarneal;jarneal;d1;#galleg;#saozneg
 javat;jav;d1;#galleg;#saozneg
 jedadenniñ;jedadenn;d1;#galleg;#saozneg
 jediñ;jed;d1;#galleg;#saozneg
 jeliñ;jel;d1;#galleg;#saozneg
 jerbliñ;jerbl;d1;#galleg;#saozneg
 jestral;jestr;d1;#galleg;#saozneg
-jestral;jestral;d1;#galleg;#saozneg
 jestraouiñ;jestraou;d1;#galleg;#saozneg
 jibierañ;jibier;d1;#galleg;#saozneg
 jilgammañ;jilgamm;d1;#galleg;#saozneg
@@ -3842,7 +3750,7 @@ kailharañ;kailhar;d1;#galleg;#saozneg
 kailharennañ;kailharenn;d1;#galleg;#saozneg
 kailhotiñ;kailhot;d1;#galleg;#saozneg
 kaimantiñ;kaimant;d1;#galleg;#saozneg
-kaketal;kaketal;d1;#galleg;#saozneg
+kaketal;kaket;d1;#galleg;#saozneg
 kalafeltriñ;kalafeltr;d1;#galleg;#saozneg
 kalafetiñ;kalafet;d1;#galleg;#saozneg
 kalavriñ;kalavr;d1;#galleg;#saozneg
@@ -3875,7 +3783,7 @@ kammober;kammober;d1;#galleg;#saozneg
 kammveizañ;kammveiz;d1;#galleg;#saozneg
 kammveuliñ;kammveul;d1;#galleg;#saozneg
 kamparzhiñ;kamparzh;d1;#galleg;#saozneg
-kampilhal;kampilhal;d1;#galleg;#saozneg
+kampilhal;kampilh;d1;#galleg;#saozneg
 kampinodiñ;kampinod;d1;#galleg;#saozneg
 kampiñ;kamp;d1;#galleg;#saozneg
 kanaouennañ;kanaouenn;d1;#galleg;#saozneg
@@ -3891,7 +3799,6 @@ kansellañ;kansell;d1;#galleg;#saozneg
 kantañ;kant;d1;#galleg;#saozneg
 kantkementiñ;kantkement;d1;#galleg;#saozneg
 kantren;kantre;d1;#galleg;#saozneg
-kantren;kantren;d1;#galleg;#saozneg
 kantvedenniñ;kantvedenn;d1;#galleg;#saozneg
 kaotañ;kaot;d1;#galleg;#saozneg
 kaotennañ;kaotenn;d1;#galleg;#saozneg
@@ -3899,15 +3806,15 @@ kaouediñ;kaoued;d1;#galleg;#saozneg
 kaougañ;kaoug;d1;#galleg;#saozneg
 kaoulediñ;kaouled;d1;#galleg;#saozneg
 kaoutchougañ;kaoutchoug;d1;#galleg;#saozneg
-kaozeal;kaozeal;d1;#galleg;#saozneg
-kapeal;kapeal;d1;#galleg;#saozneg
+kaozeal;kaoze;d1;#galleg;#saozneg
+kapeal;kape;d1;#galleg;#saozneg
 karavellañ;karavell;d1;#galleg;#saozneg
 karañ;kar;d1;#galleg;#saozneg
 kardellat;kardell;d1;#galleg;#saozneg
 karet;kar;d1;#galleg;#saozneg
 kareziñ;karez;d1;#galleg;#saozneg
 kargañ;karg;d1;#galleg;#saozneg
-karnajal;karnajal;d1;#galleg;#saozneg
+karnajal;karnaj;d1;#galleg;#saozneg
 karnañ;karn;d1;#galleg;#saozneg
 karnflastrañ;karnflastr;d1;#galleg;#saozneg
 karradiñ;karrad;d1;#galleg;#saozneg
@@ -3951,7 +3858,7 @@ kefluskañ;keflusk;d1;s’agiter;#saozneg
 keginañ;kegin;d1;#galleg;#saozneg
 kehelañ;kehel;d1;#galleg;#saozneg
 keidañ;keid;d1;#galleg;#saozneg
-keinal;keinal;d1;#galleg;#saozneg
+keinal;kein;d1;#galleg;#saozneg
 keinañ;kein;d1;#galleg;#saozneg
 keitañ;keit;d1;#galleg;#saozneg
 keitrannañ;keitrann;d1;#galleg;#saozneg
@@ -4049,7 +3956,7 @@ kenwriat;kenwri;d1;#galleg;#saozneg
 kenyouc'hañ;kenyouc'h;d1;#galleg;#saozneg
 kerc'hat;kerc'h;d1;#galleg;#saozneg
 kerziñ;kerz;d1;#galleg;#saozneg
-kestal;kestal;d1;#galleg;#saozneg
+kestal;kest;d1;#galleg;#saozneg
 kestañ;kest;d1;#galleg;#saozneg
 keuzvezañ;keuzvez;d1;#galleg;#saozneg
 kevamsaviñ;kevamsav;d1;#galleg;#saozneg
@@ -4087,7 +3994,7 @@ kinkailhat;kinkailh;d1;#galleg;#saozneg
 kinklañ;kinkl;d1;#galleg;#saozneg
 kinnig;kinnig;d1;#galleg;#saozneg
 kinnigaduriñ;kinnigadur;d1;#galleg;#saozneg
-kintal;kintal;d1;#galleg;#saozneg
+kintal;kint;d1;#galleg;#saozneg
 kistionañ;kistion;d1;#galleg;#saozneg
 kivijañ;kivij;d1;#galleg;#saozneg
 kizañ;kiz;d1;#galleg;#saozneg
@@ -4104,7 +4011,7 @@ kleizañ;kleiz;d1;#galleg;#saozneg
 kleizhennañ;kleizhenn;d1;#galleg;#saozneg
 klemiñsat;klemiñs;d1;#galleg;#saozneg
 klemm;klemm;d1;#galleg;#saozneg
-klemmichal;klemmichal;d1;#galleg;#saozneg
+klemmichal;klemmich;d1;#galleg;#saozneg
 klemmuc'hat;klemmuc'h;d1;#galleg;#saozneg
 klenkañ;klenk;d1;#galleg;#saozneg
 klerañ;kler;d1;#galleg;#saozneg
@@ -4116,10 +4023,10 @@ klikañ;klik;d1;#galleg;#saozneg
 klikedañ;kliked;d1;#galleg;#saozneg
 kloastrañ;kloastr;d1;#galleg;#saozneg
 kloc'hañ;kloc'h;d1;#galleg;#saozneg
-klochal;klochal;d1;#galleg;#saozneg
+klochal;kloch;d1;#galleg;#saozneg
 klochedañ;kloched;d1;#galleg;#saozneg
 klogorennañ;klogorenn;d1;#galleg;#saozneg
-klokal;klokal;d1;#galleg;#saozneg
+klokal;klok;d1;#galleg;#saozneg
 klonañ;klon;d1;#galleg;#saozneg
 klotadañ;klotad;d1;#galleg;#saozneg
 klotañ;klot;d1;#galleg;#saozneg
@@ -4135,7 +4042,7 @@ klukañ;kluk;d1;#galleg;#saozneg
 koabrenniñ;koabrenn;d1;#galleg;#saozneg
 koach;koach;d1;#galleg;#saozneg
 koadañ;koad;d1;#galleg;#saozneg
-koagal;koagal;d1;#galleg;#saozneg
+koagal;koag;d1;#galleg;#saozneg
 koagañ;koag;d1;#galleg;#saozneg
 koagenniñ;koagenn;d1;#galleg;#saozneg
 koaradiñ;koarad;d1;#galleg;#saozneg
@@ -4152,7 +4059,6 @@ kodianañ;kodian;d1;#galleg;#saozneg
 koefañ;koef;d1;#galleg;#saozneg
 kofañ;kof;d1;#galleg;#saozneg
 kofes;kofes;d1;conferencier, conferer, conferve, confesse, confesser (& se);#saozneg
-kofesaat;kofes;d1;conferencier, conferer, conferve, confesse, confesser (& se);#saozneg
 koñfes;koñfes;d1;conferencier, conferer, conferve, confesse, confesser (& se);#saozneg
 koes;koes;d1;conferencier, conferer, conferve, confesse, confesser (& se);#saozneg
 kogasiñ;kogas;d1;#galleg;#saozneg
@@ -4211,10 +4117,9 @@ korfañ;korf;d1;#galleg;#saozneg
 korfskejañ;korfskej;d1;#galleg;#saozneg
 koribellat;koribell;d1;#galleg;#saozneg
 korkañ;kork;d1;#galleg;#saozneg
-kornal;kornal;d1;#galleg;#saozneg
+kornal;korn;d1;#galleg;#saozneg
 kornañ;korn;d1;#galleg;#saozneg
 kornellañ;kornell;d1;#galleg;#saozneg
-kornial;kornial;d1;#galleg;#saozneg
 korniellañ;korniell;d1;#galleg;#saozneg
 korniflat;kornifl;d1;#galleg;#saozneg
 kornigellat;kornigell;d1;#galleg;#saozneg
@@ -4228,7 +4133,7 @@ kosañ;kos;d1;#galleg;#saozneg
 kostezañ;kostez;d1;#galleg;#saozneg
 kotañ;kot;d1;#galleg;#saozneg
 kotizañ;kotiz;d1;#galleg;#saozneg
-kotogogal;kotogogal;d1;#galleg;#saozneg
+kotogogal;kotogog;d1;#galleg;#saozneg
 koublañ;koubl;d1;#galleg;#saozneg
 kouboulañ;kouboul;d1;#galleg;#saozneg
 kouchañ;kouch;d1;#galleg;#saozneg
@@ -4237,10 +4142,10 @@ kouezhañ;kouezh;d1;#galleg;#saozneg
 koufonañ;koufon;d1;#galleg;#saozneg
 koufrañ;koufr;d1;#galleg;#saozneg
 kougañ;koug;d1;#galleg;#saozneg
-kouignal;kouignal;d1;#galleg;#saozneg
+kouignal;kouign;d1;#galleg;#saozneg
 kouilhourañ;kouilhour;d1;#galleg;#saozneg
 koujournañ;koujourn;d1;#galleg;#saozneg
-koulouchal;koulouchal;d1;#galleg;#saozneg
+koulouchal;koulouch;d1;#galleg;#saozneg
 koulzadiñ;koulzad;d1;#galleg;#saozneg
 koumanantiñ;koumanant;d1;#galleg;#saozneg
 koumoulañ;koumoul;d1;#galleg;#saozneg
@@ -4310,14 +4215,14 @@ kreskadenniñ;kreskadenn;d1;#galleg;#saozneg
 kreskiñ;kresk;d1;pousser, grandir;grow
 krestenenniñ;krestenenn;d1;#galleg;#saozneg
 kreunenniñ;kreunenn;d1;#galleg;#saozneg
-krial;krial;d1;#galleg;#saozneg
+krial;kri;d1;#galleg;#saozneg
 kribañ;krib;d1;peigner;#saozneg
 kribellañ;kribell;d1;#galleg;#saozneg
 kribennañ;kribenn;d1;#galleg;#saozneg
 kribinañ;kribin;d1;#galleg;#saozneg
 kridiennañ;kridienn;d1;#galleg;#saozneg
 krignat;krign;d1;ronger;#saozneg
-krikal;krikal;d1;#galleg;#saozneg
+krikal;krik;d1;#galleg;#saozneg
 krimpañ;krimp;d1;#galleg;#saozneg
 krinañ;krin;d1;#galleg;#saozneg
 kristenañ;kristen;d1;#galleg;#saozneg
@@ -4332,14 +4237,14 @@ krogennañ;krogenn;d1;#galleg;#saozneg
 kromañ;krom;d1;#galleg;#saozneg
 krommañ;kromm;d1;#galleg;#saozneg
 kropañ;krop;d1;#galleg;#saozneg
-krosal;krosal;d1;#galleg;#saozneg
+krosal;kros;d1;#galleg;#saozneg
 krougañ;kroug;d1;#galleg;#saozneg
 krouglasañ;krouglas;d1;#galleg;#saozneg
 krouilhañ;krouilh;d1;#galleg;#saozneg
 krouiñ;krou;d1;créer;create
-krozal;krozal;d1;gronder;#saozneg
+krozal;kroz;d1;gronder;#saozneg
 krozañ;kroz;d1;gronder;#saozneg
-kruelaat;kruel;d1;#galleg;#saozneg
+kruelaat;kruela;d2;#galleg;#saozneg
 krufañ;kruf;d1;#galleg;#saozneg
 krugañ;krug;d1;#galleg;#saozneg
 krugellañ;krugell;d1;#galleg;#saozneg
@@ -4347,7 +4252,7 @@ kudaouiñ;kudaou;d1;#galleg;#saozneg
 kudennañ;kudenn;d1;#galleg;#saozneg
 kuilhañ;kuilh;d1;#galleg;#saozneg
 kuitezañ;kuitez;d1;#galleg;#saozneg
-kuketal;kuketal;d1;#galleg;#saozneg
+kuketal;kuket;d1;#galleg;#saozneg
 kulierañ;kulier;d1;#galleg;#saozneg
 kunduiñ;kundu;d1;#galleg;#saozneg
 kunuc'hañ;kunuc'h;d1;#galleg;#saozneg
@@ -4362,9 +4267,7 @@ kutuilh;kutuilh;d1;#galleg;#saozneg
 kuzhat;kuzh;d1;#galleg;#saozneg
 kuzhiadañ;kuzhiad;d1;#galleg;#saozneg
 kuzhmuzat;kuzhmuz;d1;#galleg;#saozneg
-kuzhuliat;kuzhuli;d1;#galleg;#saozneg
 kuzhutal;kuzhut;d1;converser en secret;#saozneg
-kuzhutal;kuzhutal;d1;#galleg;#saozneg
 kuzulikat;kuzulik;d1;#galleg;#saozneg
 kuzumiñ;kuzum;d1;se comsommer;#saozneg
 kêraozañ;kêraoz;d1;#galleg;#saozneg
@@ -4377,7 +4280,6 @@ labezañ;labez;d1;#galleg;#saozneg
 labourat;labour;d1;travailler, labourer;work
 laerezh;laer;d1;voler;steal
 laesañ;laes;d1;#galleg;#saozneg
-laezhañ;laezh;d1;#galleg;#saozneg
 laezhañ;laezh;d1;#galleg;#saozneg
 lagadenniñ;lagadenn;d1;#galleg;#saozneg
 lagadiñ;lagad;d1;#galleg;#saozneg
@@ -4438,7 +4340,6 @@ legafañ;legaf;d1;#galleg;#saozneg
 leinañ;lein;d1;dîner;dine
 leizhañ;leizh;d1;#galleg;#saozneg
 lemel;lam;d1;#galleg;#saozneg
-lemmaat;lemm;d1;#galleg;#saozneg
 lemmañ;lemm;d1;#galleg;#saozneg
 lenkrañ;lenkr;d1;#galleg;#saozneg
 lenn;lenn;d1;lire;read
@@ -4449,7 +4350,6 @@ lerc'hwezañ;lerc'hwez;d1;#galleg;#saozneg
 lesanviñ;lesanv;d1;surnommer;nickname
 lesenvel;lesanv;d1;surnommer;nickname
 leskiñ;lesk;d1;#galleg;#saozneg
-leskiñ;losk;d1;#galleg;#saozneg
 lestrañ;lestr;d1;#galleg;#saozneg
 leterc'hañ;leterc'h;d1;#galleg;#saozneg
 letonenniñ;letonenn;d1;#galleg;#saozneg
@@ -4550,7 +4450,6 @@ louediñ;loued;d1;#galleg;#saozneg
 loufañ;louf;d1;#galleg;#saozneg
 lourennañ;lourenn;d1;#galleg;#saozneg
 louviadal;louviad;d1;#galleg;#saozneg
-louviadal;louviadal;d1;#galleg;#saozneg
 louvigezhiñ;louvigezh;d1;#galleg;#saozneg
 louvtgezhiñ;louvtgezh;d1;#galleg;#saozneg
 louzaouiñ;louzaou;d1;#galleg;#saozneg
@@ -4569,7 +4468,6 @@ luc'hrannañ;luc'hrann;d1;#galleg;#saozneg
 luc'hskeudenniñ;luc'hskeudenn;d1;#galleg;#saozneg
 luc'htorriñ;luc'htorr;d1;#galleg;#saozneg
 luc'hvannañ;luc'hvann;d1;#galleg;#saozneg
-luc'hwiridikaat;luc'hwiridik;d1;#galleg;#saozneg
 luchañ;luch;d1;#galleg;#saozneg
 ludañ;lud;d1;#galleg;#saozneg
 ludresadennañ;ludresadenn;d1;#galleg;#saozneg
@@ -4597,8 +4495,6 @@ lâret;lâr;d1;#galleg;#saozneg
 lêrennañ;lêrenn;d1;#galleg;#saozneg
 mabañ;mab;d1;#galleg;#saozneg
 mac'hagnañ;mac'hagn;d1;#galleg;#saozneg
-mac'hañ;mac'h;d1;#galleg;#saozneg
-mac'hellañ;mac'hell;d1;#galleg;#saozneg
 mac'homañ;mac'hom;d1;#galleg;#saozneg
 machañ;mach;d1;#galleg;#saozneg
 machoufrañ;machoufr;d1;#galleg;#saozneg
@@ -4706,7 +4602,6 @@ menajiñ;menaj;d1;#galleg;#saozneg
 menaliñ;menal;d1;mettre en gerbiers;#pennrann
 menegiñ;meneg;d1;#galleg;#saozneg
 menel;man;d1;#galleg;#saozneg
-menel;menel;d1;#galleg;#saozneg
 mennadiñ;mennad;d1;#galleg;#saozneg
 mennout;menn;d1;#galleg;#saozneg
 mentadañ;mentad;d1;#galleg;#saozneg
@@ -4723,7 +4618,6 @@ merienañ;merien;d1;#galleg;#saozneg
 meritout;merit;d1;#galleg;#saozneg
 merkañ;merk;d1;#galleg;#saozneg
 mervel;marv;d1;#galleg;#saozneg
-mervel;mervel;d1;#galleg;#saozneg
 merzout;merz;d1;percevoir, sentir;#saozneg
 mesfentañ;mesfent;d1;#galleg;#saozneg
 meskañ;mesk;d1;#galleg;#saozneg
@@ -4735,7 +4629,6 @@ meublañ;meubl;d1;#galleg;#saozneg
 meudañ;meud;d1;tâter (avec le pouce, meud = pouce);#saozneg
 meudikañ;meudik;d1;#galleg;#saozneg
 meurlarjezañ;meurlarjez;d1;#galleg;#saozneg
-meveliat;meveli;d1;#galleg;#saozneg
 mezañ;mez;d1;#galleg;#saozneg
 mezegañ;mezeg;d1;#galleg;#saozneg
 mezellañ;mezell;d1;#galleg;#saozneg
@@ -4743,11 +4636,10 @@ mezhiñ;mezh;d1;#galleg;#saozneg
 mezviñ;mezv;d1;#galleg;#saozneg
 meüriñ;meür;d1;#galleg;#saozneg
 miaoual;miaou;d1;miauler;#saozneg
-miaoual;miaoual;d1;#galleg;#saozneg
 michodiñ;michod;d1;mûrir, blettir;#saozneg
 migailhiñ;migailh;d1;#galleg;#saozneg
 migañ;mig;d1;#galleg;#saozneg
-mignaoual;mignaoual;d1;#galleg;#saozneg
+mignaoual;mignaou;d1;#galleg;#saozneg
 mignañ;mign;d1;choyer, gâter;#saozneg
 mikrofilmañ;mikrofilm;d1;microfilmer;#saozneg
 milligañ;millig;d1;maudire;#saozneg
@@ -4782,8 +4674,8 @@ monkluzañ;monkluz;d1;#galleg;#saozneg
 morailhañ;morailh;d1;#galleg;#saozneg
 morañ;mor;d1;#galleg;#saozneg
 morbreizhañ;morbreizh;d1;#galleg;#saozneg
-morc'hedal;morc'hedal;d1;#galleg;#saozneg
-mordrouzal;mordrouzal;d1;#galleg;#saozneg
+morc'hedal;morc'hed;d1;#galleg;#saozneg
+mordrouzal;mordrouz;d1;#galleg;#saozneg
 morenniñ;morenn;d1;#galleg;#saozneg
 morfilañ;morfil;d1;#galleg;#saozneg
 morlaerezh;morlaer;d1;#galleg;#saozneg
@@ -4814,9 +4706,7 @@ mousognañ;mousogn;d1;#galleg;#saozneg
 mouspenniñ;mouspenn;d1;se renfrogner;#saozneg
 moustrañ;moustr;d1;chiffonner, fouler, presser;#saozneg
 moustreal;moustre;d1;avoir des cauchemars;#saozneg
-moustreal;moustreal;d1;#galleg;#saozneg
 moustrouzal;moustrouz;d1;bruire;#saozneg
-moustrouzal;moustrouzal;d1;#galleg;#saozneg
 mouzhañ;mouzh;d1;bouder, être fâché;#saozneg
 mouziñ;mouz;d1;fienter, vesser;#saozneg
 moñsañ;moñs;d1;#galleg;#saozneg
@@ -4869,7 +4759,6 @@ neriñ;ner;d1;#galleg;#saozneg
 nerzhañ;nerzh;d1;#galleg;#saozneg
 neudennañ;neudenn;d1;#galleg;#saozneg
 neuennat;neuenn;d1;#galleg;#saozneg
-neuial;neuial;d1;#galleg;#saozneg
 neuzneveziñ;neuznevez;d1;#galleg;#saozneg
 neuñvenniñ;neuñvenn;d1;#galleg;#saozneg
 neuñviñ;neuñv;d1;#galleg;#saozneg
@@ -4909,9 +4798,7 @@ obeisañ;obeis;d1;#galleg;#saozneg
 obisañ;obis;d1;#galleg;#saozneg
 oblijañ;oblij;d1;#galleg;#saozneg
 oc'hal;oc'h;d1;#galleg;#saozneg
-oc'hal;oc'hal;d1;#galleg;#saozneg
 oekal;oek;d1;#galleg;#saozneg
-oekal;oekal;d1;#galleg;#saozneg
 ofañsiñ;ofañs;d1;#galleg;#saozneg
 oferenniñ;oferenn;d1;#galleg;#saozneg
 ofisiñ;ofis;d1;#galleg;#saozneg
@@ -4968,7 +4855,6 @@ palichat;palich;d1;gauler;#saozneg
 pallennañ;pallenn;d1;tapisser, tendre;#saozneg
 palouerañ;palouer;d1;brosser;#saozneg
 paltokiñ;paltok;d1;mettre un paletot, tromper;#saozneg
-paluc'hat;paluc'h;d1;#galleg;#saozneg
 paluc'hat;paluc'h;d1;briser le lin ou le chanvre, paisseler;#saozneg
 paluc'hennañ;paluc'henn;d1;#galleg;#saozneg
 panachenn;panachenn;d1;#galleg;#saozneg
@@ -4996,7 +4882,6 @@ parfilañ;parfil;d1;#galleg;#saozneg
 parfoeltrañ;parfoeltr;d1;démolir;#saozneg
 pariañ;pari;d1;parier;#saozneg
 parigellañ;parigell;d1;apparier;#saozneg
-pariñ;par;d1;#galleg;#saozneg
 parjurañ;parjur;d1;#galleg;#saozneg
 parkañ;park;d1;parquer;#saozneg
 parkediñ;parked;d1;parqueter;#saozneg
@@ -5011,8 +4896,7 @@ parmouchañ;parmouch;d1;#galleg;#saozneg
 parouerañ;parouer;d1;#galleg;#saozneg
 parpilhotañ;parpilhot;d1;papilloter;#saozneg
 parstrakal;parstrak;d1;craquer très fort;#saozneg
-parstrakal;parstrakal;d1;#galleg;#saozneg
-partial;partial;d1;#galleg;#saozneg
+partial;parti;d1;#galleg;#saozneg
 partisipañ;partisip;d1;#galleg;#saozneg
 parvarchañ;parvarch;d1;faire un faux pas;#saozneg
 pasamantiñ;pasamant;d1;passementer;#saozneg
@@ -5035,7 +4919,6 @@ pauniñ;paun;d1;faire la roue (paon), (se) pavaner;#saozneg
 pavañ;pav;d1;paver;#saozneg
 pavezañ;pavez;d1;daller, paver;#saozneg
 pazeal;paze;d1;déambuler;#saozneg
-pazeal;pazeal;d1;#galleg;#saozneg
 paziiñ;pazi;d1;#galleg;#saozneg
 pañsioniñ;pañsion;d1;pensionner;#saozneg
 peanviñ;peanv;d1;apostropher;#saozneg
@@ -5097,7 +4980,6 @@ pennreizhañ;pennreizh;d1;exercer la magistrature suprême;#saozneg
 pennsaoutiñ;pennsaout;d1;#galleg;#saozneg
 pennsodiñ;pennsod;d1;perdre la raison;#saozneg
 pennsoñjal;pennsoñj;d1;s’imaginer;#saozneg
-pennsoñjal;pennsoñjal;d1;#galleg;#saozneg
 pennvadaouiñ;pennvadaou;d1;abasourdir;#saozneg
 pennveudiñ;pennveud;d1;abasourdir;#saozneg
 pennvezviñ;pennvezv;d1;s’énivrer;#saozneg
@@ -5107,7 +4989,6 @@ penverziñ;penverz;d1;s’obstiner;#saozneg
 penvestrañ;penvestr;d1;mettre un licol;#saozneg
 peragiñ;perag;d1;demander pourquoi;#saozneg
 perc'helliñ;perc'hell;d1;mettre bas (truie);#saozneg
-perc'hennañ;perc'henn;d1;#galleg;#saozneg
 perc'hennañ;perc'henn;d1;posséder;#saozneg
 perchañ;perch;d1;#galleg;#saozneg
 perchennañ;perchenn;d1;mettre de la paille en tas autour d'une perche;#saozneg
@@ -5120,8 +5001,7 @@ peroksidañ;peroksid;d1;peroxyder;#saozneg
 persañ;pers;d1;#galleg;#saozneg
 persduañ;persdu;d1;violacer;#saozneg
 perseverañ;persever;d1;#galleg;#saozneg
-personelañ;personel;d1;#galleg;#saozneg
-personelañ;personele;d1;personnifier;#saozneg
+personelañ;personel;d1;personnifier;#saozneg
 perturbañ;perturb;d1;#galleg;#saozneg
 pervezhañ;pervezh;d1;préciser;#saozneg
 perzhegañ;perzheg;d1;qualifier;#saozneg
@@ -5142,7 +5022,7 @@ peurbrientiñ;peurbrient;d1;#galleg;#saozneg
 peurdogañ;peurdog;d1;#galleg;#saozneg
 peurechuiñ;peurechu;d1;#galleg;#saozneg
 peurevañ;peurev;d1;#galleg;#saozneg
-peurfurchal;peurfurchal;d1;#galleg;#saozneg
+peurfurchal;peurfurch;d1;#galleg;#saozneg
 peurgas;peurgas;d1;#galleg;#saozneg
 peurglozañ;peurgloz;d1;conclure;#saozneg
 peurgoazhañ;peurgoazh;d1;#galleg;#saozneg
@@ -5181,7 +5061,6 @@ peusat;peus;d1;tousser;#saozneg
 peusiñ;peus;d1;tousser;#saozneg
 peuzfolliñ;peuzfoll;d1;folâtrer;#saozneg
 peuznoziñ;peuznoz;d1;tomber (le soir);#saozneg
-pevarc'hementiñ;pevarc'hement;d1;#galleg;#saozneg
 pevarc'hementiñ;pevarc'hement;d1;quadrupler;#saozneg
 pevardoublañ;pevardoubl;d1;#galleg;#saozneg
 pevarenniñ;pevarenn;d1;diviser par quatre;#saozneg
@@ -5191,14 +5070,11 @@ pevarvedenniñ;pevarvedenn;d1;#galleg;#saozneg
 pezhiadañ;pezhiad;d1;mettre en pièces;#saozneg
 peñsadañ;peñsad;d1;#galleg;#saozneg
 peñseañ;peñse;d1;faire naufrage;#saozneg
-peñseliat;peñseli;d1;#galleg;#saozneg
 piaouañ;piaou;d1;posséder;#saozneg
 pibidañ;pibid;d1;avoir la pépie;#saozneg
 pifal;pif;d1;jouer du fifre;#saozneg
-pifal;pifal;d1;#galleg;#saozneg
 pifigañ;pifig;d1;expirer bruyamment;#saozneg
 pifonat;pifon;d1;ringardiser;#saozneg
-pifonañ;pifon;d1;#galleg;#saozneg
 pifonañ;pifon;d1;ringardiser;#saozneg
 pifoniñ;pifon;d1;ringardiser;#saozneg
 pigellat;pigell;d1;piocher (labeur et jeu);#saozneg
@@ -5217,7 +5093,6 @@ pilhañ;pilh;d1;#galleg;#saozneg
 pilhennañ;pilhenn;d1;#galleg;#saozneg
 pilhotañ;pilhot;d1;découper;#saozneg
 pilhoustennañ;pilhoustenn;d1;effilocher;#saozneg
-pilligañ;pillg;d1;#galleg;#saozneg
 pilligañ;pillig;d1;#galleg;#saozneg
 pilochañ;piloch;d1;faire un pilotis;#saozneg
 pilouerañ;pilouer;d1;pilonner;#saozneg
@@ -5235,11 +5110,10 @@ pinbreviñ;pinbrev;d1;broyer complètement;#saozneg
 pinfañ;pinf;d1;attifer, parer;#saozneg
 pinijañ;pinij;d1;expier;#saozneg
 pinsat;pins;d1;pincer;#saozneg
-pintal;pintal;d1;#galleg;#saozneg
+pintal;pint;d1;#galleg;#saozneg
 pintañ;pint;d1;se jucher;#saozneg
 pipañ;pip;d1;manger par petites bouchées;#saozneg
-pipial;pipial;d1;#galleg;#saozneg
-pirc'hirinañ;pirc'hirin;d1;#galleg;#saozneg
+pipial;pipi;d1;#galleg;#saozneg
 pirc'hirinañ;pirc'hirin;d1;aller en pélerinage;#saozneg
 pirilhañ;pirilh;d1;périr;#saozneg
 pismigañ;pismig;d1;pinailler;#saozneg
@@ -5306,7 +5180,6 @@ pognañ;pogn;d1;#galleg;#saozneg
 pokat;pok;d1;#galleg;#saozneg
 pokañ;pok;d1;#galleg;#saozneg
 pokedal;poked;d1;embrasser;#saozneg
-pokedal;pokedal;d1;#galleg;#saozneg
 pokediñ;poked;d1;embrasser;#saozneg
 poleat;pole;d1;#galleg;#saozneg
 poleañ;pole;d1;#galleg;#saozneg
@@ -5321,7 +5194,6 @@ pompadiñ;pompad;d1;se vanter, (se) pavaner;#saozneg
 pondalezañ;pondalez;d1;munir d'une galerie, d'un corridor;#saozneg
 pontañ;pont;d1;établir un pont (sur) ponter;#saozneg
 porbolenniñ;porbolenn;d1;(se) couvrir de pustules;#saozneg
-porc'hellañ;porc'hell;d1;#galleg;#saozneg
 porchediñ;porched;d1;munir d’un porche;#saozneg
 porc'hellañ;porc'hell;d1;mettre bas (en parlant d'une truie) salir, cochonner;#saozneg
 porfumiñ;porfum;d1;parfumer;#saozneg
@@ -5341,22 +5213,18 @@ poulladañ;poullad;d1;se former en mare;#saozneg
 poulladenniñ;poulladenn;d1;se former en mare;#saozneg
 poullañ;poull;d1;creuser un trou, une fosse;#saozneg
 poullenniñ;poullenn;d1;se former en flaque;#saozneg
-pouloudañ;pouloud;d1;#galleg;#saozneg
 pouloudenniñ;pouloudenn;d1;se former en grumeaux, en caillots;#saozneg
 poulounezañ;poulounez;d1;munir (un vêtement) de plis, de volants;#saozneg
 poultrañ;poultr;d1;poudrer;#saozneg
 poultrennañ;poultrenn;d1;couvrir de poussière, poudrer;#saozneg
 poulzañ;poulz;d1;pousser, inciter;#saozneg
 poupenniñ;poupenn;d1;se former en chrysalide;#saozneg
-pourc'hañ;pourc'h;d1;#galleg;#saozneg
 pourchas;pourchas;d1;#galleg;#saozneg
 pourc'hañ;pourc'h;d1;vêtir;#saozneg
 pourmen;pourmen;d1;se promener;#saozneg
 poursal;pours;d1;tousser;#saozneg
-poursal;poursal;d1;#galleg;#saozneg
 poursu;poursu;d1;poursuivre;#saozneg
 pourtreziñ;pourtrez;d1;faire le portrait de;#saozneg
-pourvezañ;pourvez;d1;#galleg;#saozneg
 pourvezañ;pourvez;d1;pourvoir, subvenir;#saozneg
 pousañ;pous;d1;#galleg;#saozneg
 pousellat;pousell;d1;tousser;#saozneg
@@ -5390,7 +5258,6 @@ priediñ;pried;d1;se marier;#saozneg
 priellañ;priell;d1;salir de boue;#saozneg
 priennañ;prienn;d1;bousiller façonner en argile;#saozneg
 prientiñ;prient;d1;préparer;#saozneg
-prigwerañ;prigwer;d1;#galleg;#saozneg
 prigwerañ;prigwer;d1;émailler;#saozneg
 primaozañ;primaoz;d1;#galleg;#saozneg
 primañ;prim;d1;#galleg;#saozneg
@@ -5422,10 +5289,8 @@ prousañ;prous;d1;#galleg;#saozneg
 provokañ;provok;d1;#galleg;#saozneg
 puchañ;puch;d1;#galleg;#saozneg
 pufal;puf;d1;siffler (comme un serpent);#saozneg
-pufal;pufal;d1;#galleg;#saozneg
 puilhañ;puilh;d1;abonder;#saozneg
 pukañ;puk;d1;trébucher, broncher;#saozneg
-pulluc'hañ;pulluc'h;d1;#galleg;#saozneg
 pulluc'hañ;pulluc'h;d1;réduire en cendre;#saozneg
 punañ;pun;d1;(s’)enrouler;#saozneg
 punec'hiñ;punec'h;d1;vivoter;#saozneg
@@ -5500,7 +5365,6 @@ ramparzhiñ;ramparzh;d1;#galleg;#saozneg
 rampañ;ramp;d1;#galleg;#saozneg
 randoniñ;randon;d1;#galleg;#saozneg
 raneal;rane;d1;#galleg;#saozneg
-raneal;raneal;d1;#galleg;#saozneg
 ranellat;ranell;d1;#galleg;#saozneg
 ranezenniñ;ranezenn;d1;#galleg;#saozneg
 rangouilhiñ;rangouilh;d1;#galleg;#saozneg
@@ -5567,12 +5431,11 @@ refuziñ;refuz;d1;#galleg;#saozneg
 regargañ;regarg;d1;#galleg;#saozneg
 regarzhiñ;regarzh;d1;#galleg;#saozneg
 regas;regas;d1;#galleg;#saozneg
-regasal;regasal;d1;#galleg;#saozneg
+regasal;regas;d1;#galleg;#saozneg
 regañ;reg;d1;#galleg;#saozneg
 regemer;regemer;d1;reprendre;retake
 regennañ;regenn;d1;#galleg;#saozneg
 regeziñ;regez;d1;#galleg;#saozneg
-regiñ;reg;d1;#galleg;#saozneg
 regiñ;rog;d1;#galleg;#saozneg
 regnañ;regn;d1;#galleg;#saozneg
 regreskiñ;regresk;d1;#galleg;#saozneg
@@ -5649,7 +5512,7 @@ revilañ;revil;d1;#galleg;#saozneg
 reviñ;rev;d1;#galleg;#saozneg
 revoneizañ;revoneiz;d1;#galleg;#saozneg
 rewerzhañ;rewerzh;d1;#galleg;#saozneg
-rezal;rezal;d1;#galleg;#saozneg
+rezal;rez;d1;#galleg;#saozneg
 rezañ;rez;d1;#galleg;#saozneg
 rezignañ;rezign;d1;#galleg;#saozneg
 rezinennañ;rezinenn;d1;#galleg;#saozneg
@@ -5698,7 +5561,7 @@ robañ;rob;d1;#galleg;#saozneg
 roc'hal;roc'h;d1;#galleg;#saozneg
 roc'hellañ;roc'hell;d1;#galleg;#saozneg
 roc'hkennat;roc'hkenn;d1;#galleg;#saozneg
-rodal;rodal;d1;#galleg;#saozneg
+rodal;rod;d1;#galleg;#saozneg
 rodañ;rod;d1;#galleg;#saozneg
 rodellaouañ;rodellaou;d1;#galleg;#saozneg
 rodellañ;rodell;d1;#galleg;#saozneg
@@ -5711,7 +5574,7 @@ rolladennañ;rolladenn;d1;#galleg;#saozneg
 rollañ;roll;d1;#galleg;#saozneg
 roltañ;rolt;d1;#galleg;#saozneg
 romantañ;romant;d1;#galleg;#saozneg
-rondisal;rondisal;d1;#galleg;#saozneg
+rondisal;rondis;d1;#galleg;#saozneg
 ronkal;ronk;d1;#galleg;#saozneg
 ronkellañ;ronkell;d1;#galleg;#saozneg
 ronkonellañ;ronkonell;d1;#galleg;#saozneg
@@ -5730,7 +5593,7 @@ rourenniñ;rourenn;d1;#galleg;#saozneg
 rouzañ;rouz;d1;#galleg;#saozneg
 rouzmouzat;rouzmouz;d1;#galleg;#saozneg
 rozellat;rozell;d1;#galleg;#saozneg
-rual;rual;d1;#galleg;#saozneg
+rual;ru;d1;#galleg;#saozneg
 rubanañ;ruban;d1;#galleg;#saozneg
 rubanennañ;rubanenn;d1;#galleg;#saozneg
 rubrichañ;rubrich;d1;#galleg;#saozneg
@@ -5744,16 +5607,14 @@ ruilhal;ruilh;d1;#galleg;#saozneg
 rukuniñ;rukun;d1;#galleg;#saozneg
 rummañ;rumm;d1;#galleg;#saozneg
 rumuilhañ;rumuilh;d1;#galleg;#saozneg
-rustoniañ;rustoni;d1;#galleg;#saozneg
 ruzañ;ruz;d1;#galleg;#saozneg
 ruzellañ;ruzell;d1;#galleg;#saozneg
-ruzikal;ruzikal;d1;#galleg;#saozneg
+ruzikal;ruzik;d1;#galleg;#saozneg
 ruzikat;ruzik;d1;#galleg;#saozneg
 sabatiñ;sabat;d1;#galleg;#saozneg
 sabatuiñ;sabatu;d1;#galleg;#saozneg
 sabaturiñ;sabatur;d1;#galleg;#saozneg
 sabrennañ;sabrenn;d1;#galleg;#saozneg
-sac'hañ;sac'h;d1;#galleg;#saozneg
 sac'hañ;sac'h;d1;#galleg;#saozneg
 sac'hellañ;sac'hell;d1;#galleg;#saozneg
 sac'hlutañ;sac'hlut;d1;#galleg;#saozneg
@@ -5828,7 +5689,6 @@ selldresañ;selldres;d1;#galleg;#saozneg
 sellout;sell;d1;#galleg;#saozneg
 semennañ;semenn;d1;#galleg;#saozneg
 semplañ;sempl;d1;#galleg;#saozneg
-seniñ;sen;d1;#galleg;#saozneg
 seniñ;son;d1;#galleg;#saozneg
 senklennañ;senklenn;d1;#galleg;#saozneg
 sentiñ;sent;d1;#galleg;#saozneg
@@ -5880,7 +5740,7 @@ simuc'hiñ;simuc'h;d1;#galleg;#saozneg
 simudañ;simud;d1;#galleg;#saozneg
 simulañ;simul;d1;#galleg;#saozneg
 sinac'hañ;sinac'h;d1;#galleg;#saozneg
-sinal;sinal;d1;#galleg;#saozneg
+sinal;sin;d1;#galleg;#saozneg
 sinañ;sin;d1;#galleg;#saozneg
 sindikadañ;sindikad;d1;#galleg;#saozneg
 sinifiañ;sinifi;d1;#galleg;#saozneg
@@ -5953,7 +5813,6 @@ sklaerisañ;sklaeris;d1;#galleg;#saozneg
 sklafañ;sklaf;d1;#galleg;#saozneg
 sklainañ;sklain;d1;#galleg;#saozneg
 sklankal;sklank;d1;#galleg;#saozneg
-sklankal;sklankal;d1;#galleg;#saozneg
 sklankenniñ;sklankenn;d1;#galleg;#saozneg
 sklasañ;sklas;d1;#galleg;#saozneg
 sklavañ;sklav;d1;#galleg;#saozneg
@@ -5962,9 +5821,7 @@ skleuriñ;skleur;d1;#galleg;#saozneg
 sklintinañ;sklintin;d1;#galleg;#saozneg
 sklisañ;sklis;d1;#galleg;#saozneg
 sklisennañ;sklisenn;d1;#galleg;#saozneg
-sklisennnañ;sklisennn;d1;#galleg;#saozneg
 sklokal;sklok;d1;#galleg;#saozneg
-sklokal;sklokal;d1;#galleg;#saozneg
 sklokat;sklok;d1;#galleg;#saozneg
 sklokañ;sklok;d1;#galleg;#saozneg
 sklopedañ;skloped;d1;#galleg;#saozneg
@@ -6001,7 +5858,6 @@ skoultrenniñ;skoultrenn;d1;#galleg;#saozneg
 skourjezañ;skourjez;d1;#galleg;#saozneg
 skourjiñ;skourj;d1;#galleg;#saozneg
 skournijal;skournij;d1;#galleg;#saozneg
-skournijal;skournijal;d1;#galleg;#saozneg
 skourrañ;skourr;d1;#galleg;#saozneg
 skouzachiñ;skouzach;d1;#galleg;#saozneg
 skrabañ;skrab;d1;#galleg;#saozneg
@@ -6016,7 +5872,6 @@ skriddaelañ;skriddael;d1;#galleg;#saozneg
 skridennañ;skridenn;d1;#galleg;#saozneg
 skridvarn;skridvarn;d1;#galleg;#saozneg
 skrignal;skrign;d1;#galleg;#saozneg
-skrignal;skrignal;d1;#galleg;#saozneg
 skrijañ;skrij;d1;#galleg;#saozneg
 skrimpal;skrimp;d1;#galleg;#saozneg
 skrinañ;skrin;d1;#galleg;#saozneg
@@ -6065,7 +5920,7 @@ sordañ;sord;d1;#galleg;#saozneg
 sorenniñ;sorenn;d1;#galleg;#saozneg
 soroc'hal;soroc'h;d1;#galleg;#saozneg
 sorsiñ;sors;d1;#galleg;#saozneg
-sortial;sortial;d1;#galleg;#saozneg
+sortial;sorti;d1;#galleg;#saozneg
 souañ;sou;d1;#galleg;#saozneg
 soubañ;soub;d1;#galleg;#saozneg
 soubennañ;soubenn;d1;#galleg;#saozneg
@@ -6121,14 +5976,12 @@ speurennaouiñ;speurennaou;d1;#galleg;#saozneg
 speurennat;speurenn;d1;#galleg;#saozneg
 speurennañ;speurenn;d1;#galleg;#saozneg
 speurenniñ;speurenn;d1;#galleg;#saozneg
-speuñial;speuñial;d1;#galleg;#saozneg
+speuñial;speuñi;d1;#galleg;#saozneg
 spiañ;spi;d1;#galleg;#saozneg
 spilhennañ;spilhenn;d1;#galleg;#saozneg
 spinac'hañ;spinac'h;d1;#galleg;#saozneg
 spinañ;spin;d1;#galleg;#saozneg
 spiriñ;spir;d1;#galleg;#saozneg
-spisañ;spis;d1;#galleg;#saozneg
-spisañ;spis;d1;#galleg;#saozneg
 spisañ;spis;d1;#galleg;#saozneg
 spisverkañ;spisverk;d1;#galleg;#saozneg
 spisverzout;spisverz;d1;#galleg;#saozneg
@@ -6174,7 +6027,6 @@ stañsoniñ;stañson;d1;#galleg;#saozneg
 stec'hennañ;stec'henn;d1;#galleg;#saozneg
 stegnat;stegn;d1;#galleg;#saozneg
 stegnañ;stegn;d1;#galleg;#saozneg
-stekiñ;stek;d1;#galleg;#saozneg
 stekiñ;stok;d1;#galleg;#saozneg
 stellennañ;stellenn;d1;#galleg;#saozneg
 stennañ;stenn;d1;#galleg;#saozneg
@@ -6221,7 +6073,7 @@ strabouilhat;strabouilh;d1;#galleg;#saozneg
 strabouilhiñ;strabouilh;d1;#galleg;#saozneg
 stradañ;strad;d1;#galleg;#saozneg
 strafuilhañ;strafuilh;d1;#galleg;#saozneg
-strakal;strakal;d1;#galleg;#saozneg
+strakal;strak;d1;#galleg;#saozneg
 strakelliñ;strakell;d1;#galleg;#saozneg
 strakiñ;strak;d1;#galleg;#saozneg
 straklañ;strakl;d1;#galleg;#saozneg
@@ -6287,16 +6139,15 @@ susitañ;susit;d1;#galleg;#saozneg
 suspentañ;suspent;d1;#galleg;#saozneg
 sustantiñ;sustant;d1;#galleg;#saozneg
 sutal;sut;d1;#galleg;#saozneg
-sutal;sutal;d1;#galleg;#saozneg
 sutellañ;sutell;d1;#galleg;#saozneg
 tabezañ;tabez;d1;#galleg;#saozneg
 taboulinañ;taboulin;d1;#galleg;#saozneg
-tabutal;tabutal;d1;#galleg;#saozneg
+tabutal;tabut;d1;#galleg;#saozneg
 tachañ;tach;d1;#galleg;#saozneg
 taeriñ;taer;d1;#galleg;#saozneg
 tafañ;taf;d1;#galleg;#saozneg
 tagañ;tag;d1;#galleg;#saozneg
-tagnouzal;tagnouzal;d1;#galleg;#saozneg
+tagnouzal;tagnouz;d1;#galleg;#saozneg
 tailhañ;tailh;d1;#galleg;#saozneg
 takeneat;takene;d1;#galleg;#saozneg
 takonañ;takon;d1;#galleg;#saozneg
@@ -6336,7 +6187,7 @@ tastornat;tastorn;d1;#galleg;#saozneg
 tatinañ;tatin;d1;#galleg;#saozneg
 tatouilhat;tatouilh;d1;#galleg;#saozneg
 tavarniñ;tavarn;d1;#galleg;#saozneg
-teal;teal;d1;#galleg;#saozneg
+teal;te;d1;#galleg;#saozneg
 techañ;tech;d1;#galleg;#saozneg
 teilat;teil;d1;#galleg;#saozneg
 teilañ;teil;d1;#galleg;#saozneg
@@ -6354,7 +6205,7 @@ teodegañ;teodeg;d1;#galleg;#saozneg
 terañ;ter;d1;#galleg;#saozneg
 terdouarañ;terdouar;d1;#galleg;#saozneg
 terkañ;terk;d1;#galleg;#saozneg
-termal;termal;d1;#galleg;#saozneg
+termal;term;d1;#galleg;#saozneg
 termenañ;termen;d1;#galleg;#saozneg
 terminañ;termin;d1;#galleg;#saozneg
 terriñ;torr;d1;#galleg;#saozneg
@@ -6363,15 +6214,14 @@ terzhiennañ;terzhienn;d1;#galleg;#saozneg
 tesiñ;tes;d1;#galleg;#saozneg
 teskaouiñ;teskaou;d1;#galleg;#saozneg
 testamantañ;testamant;d1;#galleg;#saozneg
-teuc'heugnal;teuc'heugnal;d1;#galleg;#saozneg
+teuc'heugnal;teuc'heugn;d1;#galleg;#saozneg
 teukañ;teuk;d1;#galleg;#saozneg
 teuler;taol;d1;jeter;#saozneg
-teuler;teuler;d1;#galleg;#saozneg
-teurel;teurel;d1;#galleg;#saozneg
+teurel;taol;d1;#galleg;#saozneg
 teurkañ;teurk;d1;#galleg;#saozneg
 teutañ;teut;d1;#galleg;#saozneg
 teuziñ;teuz;d1;#galleg;#saozneg
-tevel;tevel;d1;#galleg;#saozneg
+tevel;tav;d1;#galleg;#saozneg
 tevenniñ;tevenn;d1;#galleg;#saozneg
 tezadiñ;tezad;d1;#galleg;#saozneg
 tezañ;tez;d1;#galleg;#saozneg
@@ -6404,10 +6254,9 @@ tommañ;tomm;d1;#galleg;#saozneg
 toneilañ;toneil;d1;#galleg;#saozneg
 tonkañ;tonk;d1;#galleg;#saozneg
 torbilat;torbil;d1;#galleg;#saozneg
-torc'hwenial;torc'hwenial;d1;#galleg;#saozneg
 torchadañ;torchad;d1;#galleg;#saozneg
 torchañ;torch;d1;#galleg;#saozneg
-toreal;toreal;d1;#galleg;#saozneg
+toreal;tore;d1;#galleg;#saozneg
 toreañ;tore;d1;#galleg;#saozneg
 torimellat;torimell;d1;#galleg;#saozneg
 torpezañ;torpez;d1;#galleg;#saozneg
@@ -6428,7 +6277,7 @@ toullgofañ;toullgof;d1;#galleg;#saozneg
 toupinañ;toupin;d1;#galleg;#saozneg
 tourjounañ;tourjoun;d1;#galleg;#saozneg
 tourmantiñ;tourmant;d1;#galleg;#saozneg
-tournial;tournial;d1;#galleg;#saozneg
+tournial;tourni;d1;#galleg;#saozneg
 tourtañ;tourt;d1;#galleg;#saozneg
 touzañ;touz;d1;#galleg;#saozneg
 tozonañ;tozon;d1;#galleg;#saozneg
@@ -6477,18 +6326,17 @@ treuziñ;treuz;d1;#galleg;#saozneg
 treuzkammañ;treuzkamm;d1;#galleg;#saozneg
 treuzkas;treuzkas;d1;#galleg;#saozneg
 treuzkizañ;treuzkiz;d1;#galleg;#saozneg
-treuzkiziat;treuzkizi;d1;#galleg;#saozneg
 treuzstaelañ;treuzstael;d1;#galleg;#saozneg
 trevadenniñ;trevadenn;d1;#galleg;#saozneg
 trevelliñ;trevell;d1;#galleg;#saozneg
 trezañ;trez;d1;#galleg;#saozneg
 trezennañ;trezenn;d1;#galleg;#saozneg
 triblegañ;tribleg;d1;#galleg;#saozneg
-tridal;tridal;d1;#galleg;#saozneg
+tridal;trid;d1;#galleg;#saozneg
 tridoublañ;tridoubl;d1;#galleg;#saozneg
 trinkañ;trink;d1;#galleg;#saozneg
 trioñflañ;trioñfl;d1;#galleg;#saozneg
-tripal;tripal;d1;#galleg;#saozneg
+tripal;trip;d1;#galleg;#saozneg
 triwec'hañ;triwec'h;d1;#galleg;#saozneg
 triñchañ;triñch;d1;#galleg;#saozneg
 troadañ;troad;d1;#galleg;#saozneg
@@ -6507,10 +6355,10 @@ trotañ;trot;d1;#galleg;#saozneg
 trotellat;trotell;d1;#galleg;#saozneg
 trotellañ;trotell;d1;#galleg;#saozneg
 trouskennañ;trouskenn;d1;#galleg;#saozneg
-trouzal;trouzal;d1;#galleg;#saozneg
+trouzal;trouz;d1;#galleg;#saozneg
 trouzmeskañ;trouzmesk;d1;#galleg;#saozneg
 troñsañ;troñs;d1;#galleg;#saozneg
-truantal;truantal;d1;#galleg;#saozneg
+truantal;truant;d1;#galleg;#saozneg
 trubardiñ;trubard;d1;#galleg;#saozneg
 trubuilhañ;trubuilh;d1;#galleg;#saozneg
 truchañ;truch;d1;#galleg;#saozneg
@@ -6554,7 +6402,7 @@ vaganiñ;vagan;d1;tomber en faiblesse;#saozneg
 vakañsiñ;vakañs;d1;#galleg;#saozneg
 vakiñ;vak;d1;être oisif, être vacant;#saozneg
 vaksinañ;vaksin;d1;vacciner;#saozneg
-valgorial;valgorial;d1;#galleg;#saozneg
+valgorial;valgori;d1;#galleg;#saozneg
 valsiñ;vals;d1;valser;#saozneg
 vatisinañ;vatisin;d1;#galleg;#saozneg
 vendañjañ;vendañj;d1;#galleg;#saozneg
@@ -6706,7 +6554,7 @@ boujantaat;boujanta;d2;se porter mieux;#saozneg
 boukaat;bouka;d2;s’amollir;#saozneg
 boullaat;boulla;d2;s’éclaircir;#saozneg
 boutinaat;boutina;d2;#galleg;#saozneg
-boutinelaat;boutinela;d2;#saozneg
+boutinelaat;boutinela;d2;#galleg;#saozneg
 bouzaraat;bouzara;d2;devenir de plus en plus sourd, devenir plus sourd;#saozneg
 brasaat;brasa;d2;grandir, augmenter;#saozneg
 braslakaat;braslaka;d2;évaluer en gros;#saozneg
@@ -6725,15 +6573,11 @@ brunaat;bruna;d2;#galleg;#saozneg
 buanaat;buana;d2;(s’)accélerer;#saozneg
 buanekaat;buaneka;d2;#galleg;#saozneg
 buhezekaat;buhezeka;d2;vivifier;#saozneg
-c'hoantaat;c'hoanta;d2;#galleg;#saozneg
-c'hwekaat;c'hweka;d2;#galleg;#saozneg
-c'hwervaat;c'hwerva;d2;#galleg;#saozneg
 c'hwibanusaat;c'hwibanusa;d2;#galleg;#saozneg
 c'hoantaat;c'hoanta;d2;convoiter;#saozneg
 c'hwekaat;c'hweka;d2;s’adoucir;#saozneg
-c'hwervaat;c'hwervaat;d2;devenir plus amer;#saozneg
+c'hwervaat;c'hwerva;d2;devenir plus amer;#saozneg
 c'hweshaat;c'hwesha;d2;sentir flairer;#saozneg
-c'hwibua;c'hwibua;d2;chasser les moucherons;#saozneg
 damc'holeiñ;damc'holo;d2;#galleg;#saozneg
 damesaat;damesa;d2;#galleg;#saozneg
 damgasaat;damgasa;d2;#galleg;#saozneg
@@ -6747,11 +6591,9 @@ dazbroañ;dazbro;d2;#galleg;#saozneg
 dazlakaat;dazlaka;d2;ventiler, interpoler;#saozneg
 dedostaat;dedosta;d2;approcher;#saozneg
 dedreiñ;dedro;d2;évoluer;#saozneg
-deliaoua;deliaoua;d2;chercher des feuilles;#pennrann
 demokratekaat;demokrateka;d2;#galleg;#saozneg
 denesaat;denesa;d2;approcher;#saozneg
 denevesaat;denevesa;d2;rénover;#saozneg
-deraouekaat;deraoueka;d2;#galleg;#saozneg
 deraouekaat;deraoueka;d2;#galleg;#saozneg
 dereadekaat;dereadeka;d2;adapter;#saozneg
 dereiñ;dero;d2;#galleg;#saozneg
@@ -6766,7 +6608,6 @@ dibolitikaat;dibolitika;d2;dépolitiser;#saozneg
 dibounneraat;dibounnera;d2;allèger;#saozneg
 dic'hallekaat;dic'halleka;d2;#galleg;#saozneg
 dic'harvaat;dic'harva;d2;#galleg;#saozneg
-dic'hoantaat;dic'hoanta;d2;#galleg;#saozneg
 dic'hoantaat;dic'hoanta;d2;dégoûter;#saozneg
 dic'hrataat;dic'hrata;d2;repousser;#saozneg
 didalvoudekaat;didalvoudeka;d2;#galleg;#saozneg
@@ -6807,7 +6648,6 @@ divarrekaat;divarreka;d2;#galleg;#saozneg
 divarvelaat;divarvela;d2;immortaliser, «démourir», ressusciter (?);#saozneg
 diverraat;diverra;d2;abréger;#saozneg
 divevekaat;diveveka;d2;inactiver;#saozneg
-divilaat;divil;d2;#galleg;#saozneg
 divilaat;divila;d2;#galleg;#saozneg
 divordoiñ;divordo;d2;sortir de son sommeil;#saozneg
 divreinusaat;divreinusa;d2;#galleg;#saozneg
@@ -6837,14 +6677,11 @@ dreistuhelaat;dreistuhela;d2;surélever;#saozneg
 dresaat;dresa;d2;#galleg;#saozneg
 drevaat;dreva;d2;#galleg;#saozneg
 droukaat;drouka;d2;rendre méchant;#saozneg
-droukc'hoantaat;droukc'hoanta;d2;#galleg;#saozneg
 droukc'hoantaat;droukc'hoanta;d2;convoiter;#saozneg
 droukreiñ;droukro;d2;#galleg;#saozneg
 drusaat;drusa;d2;#galleg;#saozneg
 duaat;dua;d2;#galleg;#saozneg
 durc'haat;durc'ha;d2;#galleg;#saozneg
-durc'haat;durc'ha;d2;#galleg;#saozneg
-ec'honaat;ec'hona;d2;#galleg;#saozneg
 ec'honaat;ec'hona;d2;#galleg;#saozneg
 eeunaat;eeuna;d2;#galleg;#saozneg
 efedusaat;efedusa;d2;#galleg;#saozneg
@@ -6917,7 +6754,6 @@ gouesaat;gouesa;d2;#galleg;#saozneg
 gouestaat;gouesta;d2;#galleg;#saozneg
 goulakaat;goulaka;d2;hypothèser, faire des hypothèses;#saozneg
 goularaat;goulara;d2;#galleg;#saozneg
-goularsa;goularsa;d2;#galleg;#saozneg
 goulenneta;goulenneta;d2;#galleg;#saozneg
 goulloiñ;goullo;d2;vider;#saozneg
 gounidekaat;gounideka;d2;#galleg;#saozneg
@@ -6988,8 +6824,7 @@ jiboesaat;jiboesa;d2;chasser le gibier;#saozneg
 joausaat;joausa;d2;se réjouir;#saozneg
 kabac'haat;kabac'ha;d2;#galleg;#saozneg
 kadarnaat;kadarna;d2;#galleg;#saozneg
-kaeraat;kaera;d2;#galleg;#saozneg
-kaeraat;kaeraat;d2;(s’)embellir, rendre (plus) beau;#saozneg
+kaeraat;kaera;d2;(s’)embellir, rendre (plus) beau;#saozneg
 kaletaat;kaleta;d2;(se) durcir, rendre (plus) dur;#saozneg
 kalonekaat;kaloneka;d2;(s’)encourager;#saozneg
 kantoat;kanto;d2;enfaîter une chaumière;#saozneg
@@ -7045,11 +6880,9 @@ krommaat;kromma;d2;#galleg;#saozneg
 kuilhaat;kuilha;d2;#galleg;#saozneg
 kuitaat;kuita;d2;#galleg;#saozneg
 kuñvaat;kuñva;d2;#galleg;#saozneg
-kêriekaat;kêkêrieka;d2;urbaniser;#saozneg
-kêriekaat;kêrieka;d2;#galleg;#saozneg
+kêriekaat;kêrieka;d2;urbaniser;#saozneg
 labelaat;labela;d2;labelliser;#saozneg
 laeshaat;laesha;d2;#galleg;#saozneg
-lakaat;lak;d2;#galleg;#saozneg
 lammetaat;lammeta;d2;#galleg;#saozneg
 lampraat;lampra;d2;#galleg;#saozneg
 laoskaat;laoska;d2;#galleg;#saozneg
@@ -7089,7 +6922,6 @@ maoutaat;maouta;d2;#galleg;#saozneg
 marc'hadmataat;marc'hadmat;d2;#galleg;#saozneg
 marc'hekaat;marc'heka;d2;#galleg;#saozneg
 marc'hadmata;marc'hadmata;d2;#galleg;#saozneg
-marc'hekaat;marc'heka;d2;#galleg;#saozneg
 mataat;mata;d2;#galleg;#saozneg
 mavaat;mava;d2;#galleg;#saozneg
 mekaat;meka;d2;#galleg;#saozneg
@@ -7135,7 +6967,6 @@ paotaat;paota;d2;#galleg;#saozneg
 paouraat;paoura;d2;(s’)appauvrir, rendre (plus) pauvre;#saozneg
 paraat;para;d2;#galleg;#saozneg
 parfetaat;parfeta;d2;#galleg;#saozneg
-parichaoua;parichaoua;d2;#galleg;#saozneg
 parraat;parra;d2;#galleg;#saozneg
 pasaat;pasa;d2;#galleg;#saozneg
 pasetaat;paseta;d2;#galleg;#saozneg
@@ -7147,7 +6978,6 @@ pennekaat;penneka;d2;#galleg;#saozneg
 peoc'haat;peoc'ha;d2;pacifier , rendre (plus) pacifique;#saozneg
 personelaat;personela;d2;personnaliser, rendre (plus) personnel;#saozneg
 perzhekaat;perzheka;d2;#galleg;#saozneg
-peurc'hlanaat;peurc'hlana;d2;#galleg;#saozneg
 peurc'hlanaat;peurc'hlana;d2;#galleg;#saozneg
 peurdreutaat;peurdreuta;d2;#galleg;#saozneg
 peureekaat;peureeka;d2;#galleg;#saozneg
@@ -7178,8 +7008,6 @@ prietaat;prieta;d2;se marier;#saozneg
 proleterekaat;proleterek;d2;#galleg;#saozneg
 puilhaat;puilha;d2;#galleg;#saozneg
 puraat;pura;d2;#galleg;#saozneg
-radena;radena;d2;#galleg;#saozneg
-raganaout;ragana;d2;#galleg;#saozneg
 rageveshaat;ragevesha;d2;#galleg;#saozneg
 rannvroelaat;rannvroela;d2;#galleg;#saozneg
 raspaat;raspa;d2;#galleg;#saozneg
@@ -7191,7 +7019,6 @@ resisaat;resisa;d2;#galleg;#saozneg
 reutaat;reuta;d2;#galleg;#saozneg
 rinekaat;rineka;d2;#galleg;#saozneg
 robotekaat;roboteka;d2;#galleg;#saozneg
-rodheoliañ;rodheol;d2;auréoler;#saozneg
 rokaat;roka;d2;#galleg;#saozneg
 romanaat;romana;d2;#galleg;#saozneg
 rontaat;ronta;d2;#galleg;#saozneg
@@ -7203,7 +7030,6 @@ santelaat;santela;d2;#galleg;#saozneg
 saozneka;saozneka;d2;#galleg;#saozneg
 saoznekaat;saozneka;d2;#galleg;#saozneg
 sartaat;sarta;d2;#galleg;#saozneg
-sec'hedikaat;sec'hedika;d2;#galleg;#saozneg
 sec'hedikaat;sec'hedika;d2;altérer;#saozneg
 sederaat;sedera;d2;#galleg;#saozneg
 semplaat;sempla;d2;#galleg;#saozneg
@@ -7259,16 +7085,12 @@ suraat;sura;d2;#galleg;#saozneg
 taeraat;taera;d2;s’exaspérer;#saozneg
 tagnousaat;tagnousa;d2;devenir teigneux;#saozneg
 talvoudekaat;talvoudeka;d2;#galleg;#saozneg
-tanavaat;danava;d2;s’affiner liquéfier;#saozneg
-tanavaat;tanava;d2;#galleg;#saozneg
-tarva;tarva;d2;demander le taureau (en parlant d’une vache);#saozneg
+tanavaat;tanava;d2;s’affiner liquéfier;#saozneg
 tavantekaat;tavantek;d2;#galleg;#saozneg
 teiñ;to;d2;#galleg;#saozneg
 teneraat;tenera;d2;(s’)attendrir, rendre (plus) tendre;#saozneg
-testeniekaat;testeniek;d2;#galleg;#saozneg
 testeniekaat;testenieka;d2;attester;#saozneg
 tetanekaat;tetaneka;d2;tétaniser;#saozneg
-teuc'haat;teuc'ha;d2;#galleg;#saozneg
 teuc'hekaat;teuc'heka;d2;#galleg;#saozneg
 teuc'haat;teuc'ha;d2;rendre (plus) consistant;#saozneg
 teuskaat;teuska;d2;rendre (plus) chétif;#saozneg
@@ -7295,8 +7117,6 @@ unanaat;unana;d2;#galleg;#saozneg
 venaat;vena;d2;(s’)affaiblir, rendre (plus) faible;#saozneg
 vetoiñ;veto;d2;mettre son veto;#saozneg
 vilaat;vila;d2;enlaidir;#saozneg
-yac'haat;yac'ha;d2;#galleg;#saozneg
-yac'husaat;yac'husa;d2;#galleg;#saozneg
 yac'haat;yac'ha;d2;guérir, rendre (plus) sain;#saozneg
 yac'husaat;yac'husa;d2;assainir, rendre (plus) sain;#saozneg
 yaouankaat;yaouanka;d2;rajeunir, rendre (plus) jeune;#saozneg
@@ -7342,7 +7162,6 @@ braosa;braos;d3;recueillir du jonc marin;#saozneg
 braoueta;braouet;d3;donner à boire;#saozneg
 brennika;brennik;d3;ramasser/récolter des patelles;#saozneg
 breujata;breujat;d3;discuter;#saozneg
-breutaat;breut;d3;plaider;#saozneg
 briata;briat;d3;embrasser (entourer des bras);#saozneg
 brizhillia;brizhilli;d3;pêcher des maquereaux;#saozneg
 broa;bro;d3;retourner au pays;#saozneg
@@ -7353,18 +7172,14 @@ brousta;broust;d3;chercher du lierre;#saozneg
 brucheta;bruchet;d3;#galleg;#saozneg
 buaneka;buanek;d3;(s’)irriter (quoi?);#saozneg
 c'hwesheta;c'hweshet;d3;#galleg;#saozneg
-c'hwesheta;c'hweshet;d3;#galleg;#saozneg
 c'hwibanata;c'hwibanat;d3;#galleg;#saozneg
 c'hwibua;c'hwibu;d3;#galleg;#saozneg
-c'hwileta;c'hwilet;d3;#galleg;#saozneg
-c'hwistata;c'hwistat;d3;#galleg;#saozneg
 chevreta;chevret;d3;pêcher des crevettes;#saozneg
 chilpeta;chilpet;d3;japper;#saozneg
 chopinata;chopinat;d3;#galleg;#saozneg
 chougata;chougata;d3;porter sur la nuque;#saozneg
 choukata;choukat;d3;#galleg;#saozneg
 c'hwesha;c'hwesh;d3;sentir, flairer;#saozneg
-c'hwibanata;c'hwibanat;d3;siffloter;#saozneg
 c'hwileta;c'hwilet;d3;#galleg;#saozneg
 c'hwilosteta;c'hwilostet;d3;#galleg;#saozneg
 c'hwistata;c'hwistat;d3;donner des coups;#saozneg
@@ -7410,7 +7225,6 @@ feskennata;feskennat;d3;#galleg;#saozneg
 filipeta;filipet;d3;#galleg;#saozneg
 fiona;fion;d3;chercher une herbe des marais;#saozneg
 flac'hata;flac'hat;d3;#galleg;#saozneg
-flac'hata;flac'hat;d3;#galleg;#saozneg
 flamboesa;flamboes;d3;ramasser des framboises;#saozneg
 flapata;flapat;d3;#galleg;#saozneg
 flikata;flikat;d3;clapoter;#saozneg
@@ -7454,7 +7268,6 @@ gwrac'heta;gwrac'het;d3;#galleg;#saozneg
 gwreskaoua;gwreskaou;d3;ramasser des souches;#saozneg
 harinketa;harinket;d3;#galleg;#saozneg
 hentata;hentat;d3;#galleg;#saozneg
-holena;holen;d3;#galleg;#saozneg
 holena;holen;d3;récolter le sel;#saozneg
 horbalana;horbalan;d3;pêcher des pétoncles;#pennrann
 huata;huat;d3;huer conspuer;#saozneg
@@ -7481,10 +7294,8 @@ keinata;keinat;d3;#galleg;#saozneg
 keita;keit;d3;égaliser (son);#saozneg
 kelaoua;kelaou;d3;#galleg;#saozneg
 kelc'hiata;kelc'hiat;d3;#galleg;#saozneg
-kelc'hiata;kelc'hiat;d3;#galleg;#saozneg
 kelennata;kelennat;d3;documenter;#saozneg
 kenvriata;kenvriat;d3;s’embrasser;#saozneg
-kerc'ha;kerc'h;d3;#galleg;#saozneg
 kerc'ha;kerc'h;d3;donner de l’avoine;#saozneg
 keresa;keres;d3;cueillir/récolter des cerises;#saozneg
 kerzhva;kerzhv;d3;#galleg;#saozneg
@@ -7613,7 +7424,6 @@ radena;raden;d3;#galleg;#saozneg
 ranniata;ranniat;d3;distribuer;#saozneg
 razheta;razhet;d3;#galleg;#saozneg
 reizhata;reizhat;d3;#galleg;#saozneg
-rendaelata;rendaelat;d3;#galleg;#saozneg
 rendaelata;rendaelata;d3;#galleg;#saozneg
 reolata;reolat;d3;#galleg;#saozneg
 rigadella;rigadell;d3;#galleg;#saozneg
@@ -7636,7 +7446,6 @@ skoliata;skoliat;d3;#galleg;#saozneg
 skouarnata;skouarnat;d3;#galleg;#saozneg
 skourjezata;skourjezat;d3;#galleg;#saozneg
 soniaoua;soniaou;d3;#galleg;#saozneg
-soubenna;soubenn;d3;#galleg;#saozneg
 soubenna;soubenn;d3;#galleg;#saozneg
 spezata;spezat;d3;#galleg;#saozneg
 spilhaoua;spilhaou;d3;#galleg;#saozneg
@@ -7697,14 +7506,10 @@ angeriañ;anger;d4;enterrer;#saozneg
 apresiañ;apres;d4;#galleg;#saozneg
 apropriañ;apropr;d4;#galleg;#saozneg
 aroueziañ;arouez;d4;#galleg;#saozneg
-aroueziañ;arouez;d4;#galleg;#saozneg
 arzoberiañ;arzober;d4;#galleg;#saozneg
-arzoberiañ;arzober;d4;#galleg;#saozneg
-aviañ;av;d4;#galleg;#saozneg
 azvogeriañ;azvoger;d4;#galleg;#saozneg
 azvuriañ;azvur;d4;#galleg;#saozneg
 bachelouriañ;bachelour;d4;#galleg;#saozneg
-bachelouriañ;bachelouri;d4;braconner;#saozneg
 bec'hiañ;bec'h;d4;#galleg;#saozneg
 begiat;beg;d4;#galleg;#saozneg
 benifisiañ;benifis;d4;#galleg;#saozneg
@@ -7717,10 +7522,8 @@ boureviañ;bourev;d4;#galleg;#saozneg
 breudeuriañ;breudeur;d4;#galleg;#saozneg
 bureviañ;burev;d4;dater;#saozneg
 chalamiañ;chalam;d4;#galleg;#saozneg
-chalamiañ;chalam;d4;#galleg;#saozneg
 chaoseriañ;chaoser;d4;localiser;#saozneg
-chimiañ;chim;d4;#galleg;#saozneg
-daouvloavezhiañ;daouvloavezh;d4;manoeuvrer;#saozneg
+daouvloavezhiañ;daouvloavezh;d4;#galleg;#saozneg
 darwazhiañ;darwazh;d4;#galleg;#saozneg
 daskiriat;daskir;d4;#galleg;#saozneg
 daskiriañ;daskir;d4;#galleg;#saozneg
@@ -7741,14 +7544,12 @@ diborzhiañ;diborzh;d4;élargir;#saozneg
 dibriañ;dibr;d4;#galleg;#saozneg
 dibriziañ;dibriz;d4;#galleg;#saozneg
 dic'hraviañ;dic'hrav;d4;#galleg;#saozneg
-dic'hraviañ;dic'hrav;d4;#galleg;#saozneg
 didoueziañ;didouez;d4;#galleg;#saozneg
 didreuzaouiañ;didreuzaou;d4;#galleg;#saozneg
 difaziañ;difaz;d4;#galleg;#saozneg
 difiañ;dif;d4;#galleg;#saozneg
 difiziout;difiz;d4;décroiser;#saozneg
 difriañ;difr;d4;#galleg;#saozneg
-digarc'hariañ;digarc'har;d4;#galleg;#saozneg
 digarc'hariañ;digarc'har;d4;partir se déplacer;#saozneg
 digentroiañ;digentro;d4;démêler;#saozneg
 diginviañ;diginv;d4;#galleg;#saozneg
@@ -7758,7 +7559,6 @@ digousiañ;digous;d4;#galleg;#saozneg
 digouviañ;digouv;d4;#galleg;#saozneg
 digroaziañ;digroaz;d4;dicter;#saozneg
 digêriañ;digêr;d4;#galleg;#saozneg
-dilec'hiañ;dilec'h;d4;#galleg;#saozneg
 dilec'hiañ;dilec'h;d4;déshériter;#saozneg
 dilerc'hiañ;dilerc'h;d4;#galleg;#saozneg
 dileuriañ;dileur;d4;#galleg;#saozneg
@@ -7766,14 +7566,12 @@ diluziañ;diluz;d4;déclarer;#saozneg
 dinaoziañ;dinaoz;d4;#galleg;#saozneg
 dirediañ;dired;d4;#galleg;#saozneg
 diruziañ;diruz;d4;#galleg;#saozneg
-disfiziout;disfiz;d4;#galleg;#saozneg
-disfiziout;disfiz;d4;déclarer;#saozneg
+disfiziout;disfiz;d4;se méfier;#saozneg
 disgeriañ;disger;d4;déclarer;#saozneg
 dishêriañ;dishêr;d4;démettre l’épaule;#saozneg
 disklaeriañ;disklaer;d4;congédier;#saozneg
 disklaviañ;disklav;d4;déformer;#saozneg
-diskleriañ;diskler;d4;séparer partir avorter;#saozneg
-disklêriañ;disklêr;d4;#galleg;#saozneg
+diskleriañ;diskler;d4;déclarer;#saozneg
 diskoaziañ;diskoaz;d4;déboussoler;#saozneg
 diskouviañ;diskouv;d4;#galleg;#saozneg
 disneuziañ;disneuz;d4;déraciner;#saozneg
@@ -7788,7 +7586,6 @@ diswriat;diswr;d4;exhumer;#saozneg
 diswriziañ;diswriz;d4;#galleg;#saozneg
 divaeziañ;divaez;d4;#galleg;#saozneg
 divakteriañ;divakter;d4;#galleg;#saozneg
-divec'hiañ;divec'h;d4;#galleg;#saozneg
 divec'hiañ;divec'h;d4;lever l’ancre;#saozneg
 divengleuziañ;divengleuz;d4;#galleg;#saozneg
 diveziañ;divez;d4;mettre en désordre;#saozneg
@@ -7804,14 +7601,11 @@ dizurzhiañ;dizurzh;d4;#galleg;#saozneg
 douarlec'hiañ;douarlec'h;d4;#galleg;#saozneg
 douveziañ;douvez;d4;#galleg;#saozneg
 dreistbec'hiañ;dreistbec'h;d4;#galleg;#saozneg
-dreistbec'hiañ;dreistbec'h;d4;#galleg;#saozneg
 droukskoueriañ;droukskouer;d4;#galleg;#saozneg
 drouziviañ;drouziv;d4;#galleg;#saozneg
-dudiañ;dud;d4;#galleg;#saozneg
 edifiañ;edif;d4;#galleg;#saozneg
 ehanlec'hiañ;ehanlec'h;d4;#galleg;#saozneg
 eilgeriañ;eilger;d4;embrocher;#saozneg
-eillec'hiañ;eillec'h;d4;#galleg;#saozneg
 eillec'hiañ;eillec'h;d4;#galleg;#saozneg
 eilmouezhiañ;eilmouezh;d4;#galleg;#saozneg
 ekspiañ;eksp;d4;#galleg;#saozneg
@@ -7823,14 +7617,11 @@ enepkleuziañ;enepkleuz;d4;#galleg;#saozneg
 engwiriañ;engwir;d4;baguer;#saozneg
 enkefiañ;enkef;d4;#galleg;#saozneg
 enkelc'hiañ;enkelc'h;d4;#galleg;#saozneg
-enkelc'hiañ;enkelc'h;d4;#galleg;#saozneg
 enporzhiañ;enporzh;d4;#galleg;#saozneg
 ensperiañ;ensper;d4;#galleg;#saozneg
 entoueziañ;entouez;d4;#galleg;#saozneg
-entoueziañ;entouezi;d4;#galleg;#saozneg
 enveziañ;envez;d4;#galleg;#saozneg
 eoriañ;eor;d4;#galleg;#saozneg
-erlec'hiañ;erlec'h;d4;#galleg;#saozneg
 erlec'hiañ;erlec'h;d4;#galleg;#saozneg
 ermaeziañ;ermaez;d4;#galleg;#saozneg
 esporzhiañ;esporzh;d4;#galleg;#saozneg
@@ -7839,19 +7630,13 @@ evezhiañ;evezh;d4;#galleg;#saozneg
 ezkefiañ;ezkef;d4;#galleg;#saozneg
 ezporzhiañ;ezporzh;d4;#galleg;#saozneg
 eztaziañ;eztaz;d4;#galleg;#saozneg
-faltaziañ;faltaz;d4;#galleg;#saozneg
-faziañ;faz;d4;#galleg;#saozneg
 feuriañ;feur;d4;#galleg;#saozneg
-filozofiañ;filozof;d4;#galleg;#saozneg
-fiziout;fiz;d4;#galleg;#saozneg
 fiziout;fiz;d4;cribler;#saozneg
 flaeriañ;flaer;d4;hennir;#saozneg
 flaviañ;flav;d4;#galleg;#saozneg
 fortifiañ;fortif;d4;#galleg;#saozneg
 foziañ;foz;d4;#galleg;#saozneg
-freneziañ;frenez;d4;#galleg;#saozneg
 friañ;fr;d4;#galleg;#saozneg
-fruiat;fru;d4;renouveler la litière;#saozneg
 gaouiañ;gaou;d4;#galleg;#saozneg
 geriañ;ger;d4;#galleg;#saozneg
 glebiañ;gleb;d4;équiper;#saozneg
@@ -7860,7 +7645,6 @@ glorifiañ;glorif;d4;#galleg;#saozneg
 gobariañ;gobar;d4;être transi de froid;#saozneg
 goueriañ;gouer;d4;#galleg;#saozneg
 gourneriañ;gourner;d4;prendre racine;#saozneg
-gourriziañ;gourriz;d4;#galleg;#saozneg
 gourriziañ;gourriz;d4;superviser;#saozneg
 gouzeriañ;gouzer;d4;traiter;#saozneg
 gouziañ;gouz;d4;#galleg;#saozneg
@@ -7868,7 +7652,6 @@ graviañ;grav;d4;#galleg;#saozneg
 greiañ;gre;d4;exprimer en paroles, voter;#saozneg
 grisiañ;gris;d4;#galleg;#saozneg
 gwallskoueriañ;gwallskouer;d4;loger;#saozneg
-gwallvec'hiañ;gwallvec'h;d4;#galleg;#saozneg
 gwallvec'hiañ;gwallvec'h;d4;mettre au point (optique);#saozneg
 gwariañ;gwar;d4;#galleg;#saozneg
 gwazhiañ;gwazh;d4;#galleg;#saozneg
@@ -7877,7 +7660,6 @@ gwezheriañ;gwezher;d4;#galleg;#saozneg
 gwiañ;gw;d4;#galleg;#saozneg
 gwiriañ;VRAI;d4;#galleg;#saozneg
 gwriziañ;gwriz;d4;introniser;#saozneg
-herberc'hiañ;herberc'h;d4;#galleg;#saozneg
 herberc'hiañ;herberc'h;d4;dévider;#saozneg
 hestiañ;hest;d4;#galleg;#saozneg
 hiniat;hin;d4;#galleg;#saozneg
@@ -7886,7 +7668,6 @@ injuriañ;injur;d4;#galleg;#saozneg
 intrufiañ;intruf;d4;#galleg;#saozneg
 ispriziañ;ispriz;d4;#galleg;#saozneg
 isurzhiañ;isurzh;d4;#galleg;#saozneg
-justifiañ;justif;d4;#galleg;#saozneg
 kadoriañ;kador;d4;incarcérer;#saozneg
 kaladuriañ;kaladur;d4;diviser en quartier;#saozneg
 kammamzeriañ;kammamzer;d4;#galleg;#saozneg
@@ -7895,7 +7676,6 @@ kanndiañ;kannd;d4;#galleg;#saozneg
 kantdifiañ;kantdif;d4;#galleg;#saozneg
 kantmildifiañ;kantmildif;d4;#galleg;#saozneg
 kanturzhiañ;kanturzh;d4;doler;#saozneg
-karc'hariañ;karc'har;d4;#galleg;#saozneg
 karc'hariañ;karc'har;d4;cercler;#saozneg
 karrdiañ;karrd;d4;#galleg;#saozneg
 karteriañ;karter;d4;symboliser;#saozneg
@@ -7904,7 +7684,6 @@ kediañ;ked;d4;#galleg;#saozneg
 kefiañ;kef;d4;proportionner;#saozneg
 kefridiañ;kefrid;d4;#galleg;#saozneg
 keladuriañ;keladur;d4;confondre;#saozneg
-kelc'hiañ;kelc'h;d4;#galleg;#saozneg
 kelc'hiañ;kelc'h;d4;coopérer, collaborer, faire une révolution;#saozneg
 kenaroueziañ;kenarouez;d4;préfixer;#saozneg
 kenderviañ;kenderv;d4;prédéterminer;#saozneg
@@ -7940,7 +7719,6 @@ kraouiañ;kraou;d4;piloter gouverner;#saozneg
 kretaduriañ;kretadur;d4;#galleg;#saozneg
 kreviañ;krev;d4;#galleg;#saozneg
 kreñvlec'hian;kreñvlec'h;d4;avoir des lubies;#saozneg
-kreñvlec'hiañ;kreñvlec'h;d4;#galleg;#saozneg
 krisiañ;kris;d4;#galleg;#saozneg
 kroaziañ;kroaz;d4;#galleg;#saozneg
 kroueriañ;krouer;d4;macérer;#saozneg
@@ -7967,7 +7745,6 @@ mogeriañ;moger;d4;nicher;#saozneg
 mortifiañ;mortif;d4;#galleg;#saozneg
 mouezhiañ;mouezh;d4;nager;#saozneg
 mougeviañ;mougev;d4;#galleg;#saozneg
-muiañ;mu;d4;#galleg;#saozneg
 muriañ;mur;d4;faire un acte notarié;#saozneg
 naoziañ;naoz;d4;passer les soirées;#saozneg
 neizhiañ;neizh;d4;fabriquer;#saozneg
@@ -7979,19 +7756,14 @@ oberiañ;ober;d4;#galleg;#saozneg
 paolleviañ;paollev;d4;#galleg;#saozneg
 paraviañ;parav;d4;#galleg;#saozneg
 pardaeziañ;pardaez;d4;#galleg;#saozneg
-pariañ;par;d4;#galleg;#saozneg
-partial;part;d4;entraver;#saozneg
-pasepiañ;pasep;d4;#galleg;#saozneg
 pateriañ;pater;d4;#galleg;#saozneg
 paziañ;paz;d4;#galleg;#saozneg
 pellaroueziañ;pellarouez;d4;#galleg;#saozneg
 pellsturiañ;pellstur;d4;#galleg;#saozneg
 penefiañ;penef;d4;#galleg;#saozneg
 penifiañ;penif;d4;#galleg;#saozneg
-pennariiñ;pennar;d4;empaler;#saozneg
 pennaroueziañ;pennarouez;d4;#galleg;#saozneg
 pennurzhiañ;pennurzh;d4;apurer;#saozneg
-peoc'hiañ;peoc'h;d4;#galleg;#saozneg
 peoc'hiañ;peoc'h;d4;empoisonner;#saozneg
 perzhiañ;perzh;d4;dévorer;#saozneg
 peulveriañ;peulver;d4;imbiber;#saozneg
@@ -8005,10 +7777,8 @@ porzhiañ;porzh;d4;#galleg;#saozneg
 pouezmouezhiañ;pouezmouezh;d4;accentuer;accentuate
 prederiañ;preder;d4;#galleg;#saozneg
 prederouriañ;prederour;d4;#galleg;#saozneg
-priañ;pr;d4;#galleg;#saozneg
 primveziañ;primvez;d4;#galleg;#saozneg
 purifiañ;purif;d4;#galleg;#saozneg
-radiografiañ;radiograf;d4;#galleg;#saozneg
 ragaroueziañ;ragarouez;d4;#galleg;#saozneg
 ragevezhiañ;ragevezh;d4;#galleg;#saozneg
 ragurzhiañ;ragurzh;d4;#galleg;#saozneg
@@ -8016,9 +7786,7 @@ rakdeiziañ;rakdeiz;d4;remuer;#saozneg
 rakgeriañ;rakger;d4;racler;#saozneg
 rakprederiañ;rakpreder;d4;#galleg;#saozneg
 rasaziañ;rasaz;d4;#galleg;#saozneg
-rediañ;red;d4;#galleg;#saozneg
 refiziout;refiz;d4;#galleg;#saozneg
-reizhlec'hiañ;reizhlec'h;d4;#galleg;#saozneg
 reizhlec'hiañ;reizhlec'h;d4;#galleg;#saozneg
 reizhwiriañ;reizhwir;d4;#galleg;#saozneg
 remediañ;remed;d4;#galleg;#saozneg
@@ -8026,12 +7794,9 @@ remuiañ;remu;d4;#galleg;#saozneg
 renaviañ;renav;d4;#galleg;#saozneg
 renoñsiañ;renoñs;d4;#galleg;#saozneg
 reoriañ;reor;d4;#galleg;#saozneg
-reoriañ;reor;d4;#galleg;#saozneg
 reuziañ;reuz;d4;#galleg;#saozneg
 revec'hiañ;revec'h;d4;#galleg;#saozneg
-revec'hiañ;revec'h;d4;#galleg;#saozneg
 reverzhiañ;reverzh;d4;#galleg;#saozneg
-reveulziañ;reveulz;d4;#galleg;#saozneg
 reveulziañ;reveulz;d4;#galleg;#saozneg
 revriañ;revr;d4;sortir;#saozneg
 reñviañ;reñv;d4;#galleg;#saozneg
@@ -8039,7 +7804,6 @@ riklañ-dilec'hiañ;riklañ-dilec'h;d4;#galleg;#saozneg
 rimiañ;rim;d4;#galleg;#saozneg
 risiañ;ris;d4;#galleg;#saozneg
 riziañ;riz;d4;#galleg;#saozneg
-rugbiañ;rugb;d4;#galleg;#saozneg
 ruziañ;ruz;d4;#galleg;#saozneg
 sakrifiañ;sakrif;d4;#galleg;#saozneg
 salmodiañ;salmod;d4;#galleg;#saozneg
@@ -8048,23 +7812,16 @@ satisfiañ;satisf;d4;#galleg;#saozneg
 savlec'hiañ;savlec'h;d4;éjaculer;#saozneg
 sertifiañ;sertif;d4;#galleg;#saozneg
 serviañ;serv;d4;#galleg;#saozneg
-siañ;s;d4;#galleg;#saozneg
 silabifiañ;silabif;d4;#galleg;#saozneg
-sinifiañ;sinif;d4;#galleg;#saozneg
-skiañ;sk;d4;#galleg;#saozneg
 skiriañ;skir;d4;#galleg;#saozneg
 sklaeriañ;sklaer;d4;glapir;#saozneg
 skoaziañ;skoaz;d4;cloisonner;#saozneg
 skoueriañ;skouer;d4;#galleg;#saozneg
 skuriañ;skur;d4;entraver;#saozneg
 soc'hiañ;soc'h;d4;#galleg;#saozneg
-sortial;sorti;d4;#galleg;#saozneg
 speriañ;sper;d4;gloser;#saozneg
 speuriañ;speur;d4;éternuer;#saozneg
-speuñial;speuñ;d4;#galleg;#saozneg
 speviañ;spev;d4;#galleg;#saozneg
-spiañ;sp;d4;#galleg;#saozneg
-spisc'heriañ;spisc'her;d4;#galleg;#saozneg
 spisc'heriañ;spisc'her;d4;#galleg;#saozneg
 spislec'hiañ;dilec'h;d4;#galleg;#saozneg
 spluiañ;splu;d4;#galleg;#saozneg
@@ -8076,8 +7833,6 @@ strevial;strev;d4;lambiner hésiter;#saozneg
 streviañ;strev;d4;lambiner hésiter;#saozneg
 strizhkefridiañ;strizhkefrid;d4;retarder;#saozneg
 stuc'hiañ;stuc'h;d4;#galleg;#saozneg
-stuc'hiañ;stuc'h;d4;#galleg;#saozneg
-studiañ;stud;d4;#galleg;#saozneg
 sturiañ;stur;d4;#galleg;#saozneg
 stuziañ;stuz;d4;mélanger fusionner;#saozneg
 stêriañ;stêr;d4;#galleg;#saozneg
@@ -8098,7 +7853,6 @@ urzhiañ;urzh;d4;#galleg;#saozneg
 uzuriañ;uzur;d4;#galleg;#saozneg
 variañ;var;d4;#galleg;#saozneg
 warlerc'hiañ;warlerc'h;d4;#galleg;#saozneg
-warlerc'hiañ;warlerc'h;d4;#galleg;#saozneg
 adeouliañ;adeou;d5;#galleg;#saozneg
 adiziliañ;adizi;d5;#galleg;#saozneg
 adreoliañ;adreo;d5;#galleg;#saozneg
@@ -8113,28 +7867,24 @@ bouc'haliañ;bouc'ha;d5;se servir de la hache;#saozneg
 bugeliañ;buge;d5;faire le pâtre;#saozneg
 c'hwiliañ;c'hwi;d5;fouiller;#saozneg
 dialiañ;dia;d5;déconseiller;#saozneg
-dic'haoliañ;dic'hao;d5;#galleg;#saozneg
 dic'haoliañ;dic'hao;d5;écarteler;#saozneg
 didaoliañ;didao;d5;défaire (le foin);#saozneg
-digoliañ;digao;d5;se désembourber;#saozneg
 digoliañ;digo;d5;#galleg;#saozneg
 diguzuliañ;diguzu;d5;#galleg;#saozneg
 diheiliañ;dihei;d5;endommager gâter;#saozneg
 dihiliañ;dihi;d5;égrener;#saozneg
 diiziliañ;diizi;d5;#galleg;#saozneg
-dioueliañ;diou;d5;dévoiler;#saozneg
-dioueliañ;dioue;d5;#galleg;#saozneg
+dioueliañ;dioue;d5;dévoiler;#saozneg
 diraouliañ;diraou;d5;#galleg;#saozneg
 direoliañ;direo;d5;#galleg;#saozneg
 disebeliañ;disebe;d5;#galleg;#saozneg
-disheoliañ;dishe;d5;#galleg;#saozneg
 disheoliañ;disheo;d5;#galleg;#saozneg
 dishiliañ;dishi;d5;s’égrener;#saozneg
 diskuliañ;disku;d5;réveler;#saozneg
 distaliañ;dista;d5;#galleg;#saozneg
 distaoliañ;distao;d5;#galleg;#saozneg
-dizaliañ;diza;d5;déconseiller;#saozneg
-dizeliañ;dise;d5;effeuiller;#saozneg
+dizaliañ;dizali;d1;déconseiller;#saozneg
+diseliañ;dise;d5;effeuiller;#saozneg
 dizeliañ;dize;d5;#galleg;#saozneg
 doubsoliañ;doubso;d5;#galleg;#saozneg
 droukkenteliañ;droukkente;d5;#galleg;#saozneg
@@ -8146,7 +7896,6 @@ emreoliañ;emreo;d5;se reglementer;#saozneg
 eouliañ;eou;d5;huiler;#saozneg
 frezeliañ;freze;d5;#galleg;#saozneg
 gaoliañ;gao;d5;enjamber;#saozneg
-geveliat;geve;d5;tenailler;#saozneg
 goueliañ;goue;d5;voiler;#saozneg
 gouliañ;gou;d5;#galleg;#saozneg
 gouraouliañ;gouraou;d5;s’enrouer légèrement;#saozneg
@@ -8154,7 +7903,7 @@ goveliañ;gove;d5;forger;#saozneg
 grignoliañ;grigno;d5;engranger;#saozneg
 gwakoliañ;gwako;d5;#galleg;#saozneg
 gwallgenteliañ;gwallgente;d5;#galleg;#saozneg
-gwallgenteliañ;gwallkente;d5;#galleg;#saozneg
+gwallkenteliañ;gwallkente;d5;#galleg;#saozneg
 gwallskoliañ;gwallsko;d5;#galleg;#saozneg
 heoliañ;heo;d5;#galleg;#saozneg
 heuliañ;heu;d5;suivre;#saozneg
@@ -8179,14 +7928,12 @@ morzholiañ;morzho;d5;marteler;#saozneg
 multipliañ;multip;d5;#galleg;#saozneg
 muzuliañ;muzu;d5;mesurer;#saozneg
 pavliañ;pav;d5;#galleg;#saozneg
-pavliañ;pavi;d5;#galleg;#saozneg
 peliat peliañ;peli;d5;peler;#saozneg
 pellvuzuliañ;pellvuzu;d5;télémétrer;#saozneg
 peuliañ;peu;d5;#galleg;#saozneg
 peurc'hwiliañ;peurc'hwi;d5;#galleg;#saozneg
 peñseliat;peñse;d5;rapiécer;#saozneg
 publiañ;pub;d5;#galleg;#saozneg
-raouliañ;raou;d5;#galleg;#saozneg
 raouliañ;raou;d5;s’enrouer;#saozneg
 rekoñsiliañ;rekoñsi;d5;#galleg;#saozneg
 reliañ;re;d5;#galleg;#saozneg
@@ -8227,7 +7974,6 @@ bleuniañ;bleu;d6;#galleg;#saozneg
 boniañ;bo;d6;#galleg;#saozneg
 borniañ;bor;d6;#galleg;#saozneg
 brasluniañ;braslu;d6;#galleg;#saozneg
-c'hweniañ;c'hwe;d6;#galleg;#saozneg
 chakoniat;chako;d6;couper mal, mâcher;#saozneg
 c'hweniañ;c'hwe;d6;#galleg;#saozneg
 c'hwiriniat;c'hwiri;d6;hennir;#saozneg
@@ -8259,13 +8005,11 @@ dizorniañ;dizor;d6;#galleg;#saozneg
 doaniañ;doa;d6;#galleg;#saozneg
 droukiforniañ;droukifor;d6;#galleg;#saozneg
 eiltoniañ;eilto;d6;#galleg;#saozneg
-emvestroniañ;emvestro;d6;#galleg;#saozneg
 enforniañ;enfor;d6;#galleg;#saozneg
 ensterniañ;enster;d6;#galleg;#saozneg
 fiskoaniañ;fiskoa;d6;#galleg;#saozneg
 forniañ;for;d6;#galleg;#saozneg
 fortuniañ;fortu;d6;#galleg;#saozneg
-funiañ;fu;d6;#galleg;#saozneg
 funiañ;fu;d6;#galleg;#saozneg
 gloutoniañ;glouto;d6;#galleg;#saozneg
 gourleuniañ;gourleu;d6;#galleg;#saozneg
@@ -8274,7 +8018,6 @@ gwardoniañ;gwardo;d6;#galleg;#saozneg
 gwazoniañ;gwazo;d6;servir de vassal;#saozneg
 gwerniañ;gwer;d6;#galleg;#saozneg
 gwerzoniañ;gwerzo;d6;#galleg;#saozneg
-gwerzoniañ;gwerzor;d6;#galleg;#saozneg
 iforniañ;ifor;d6;#galleg;#saozneg
 igouniañ;igou;d6;#galleg;#saozneg
 kammaotrouniañ;kammaotrou;d6;#galleg;#saozneg
@@ -8296,7 +8039,7 @@ maeroniañ;maero;d6;#galleg;#saozneg
 maniañ;ma;d6;#galleg;#saozneg
 marnaoniañ;marnao;d6;#galleg;#saozneg
 melkoniañ;melko;d6;#galleg;#saozneg
-mestroniañ;mestro;d6;#galleg;#saozneg
+mestroniañ;mestroni;d1;#galleg;#saozneg
 muturniañ;mutur;d6;#galleg;#saozneg
 naoniañ;nao;d6;#galleg;#saozneg
 paeroniañ;paero;d6;#galleg;#saozneg
@@ -8308,10 +8051,9 @@ poaniañ;poa;d6;#galleg;#saozneg
 prizoniañ;prizo;d6;#galleg;#saozneg
 pusuniiñ;pusu;d6;empoisonner;#saozneg
 rakprizoniañ;rakprizo;d6;#galleg;#saozneg
-rakprizoniañ;raprizo;d6;#galleg;#saozneg
 reaotrouniañ;reaotrou;d6;#galleg;#saozneg
 reüniañ;reü;d6;#galleg;#saozneg
-rustoniañ;rusto;d6;#galleg;#saozneg
+rustoniañ;rustoni;d1;#galleg;#saozneg
 saniañ;sa;d6;#galleg;#saozneg
 serteniañ;serte;d6;#galleg;#saozneg
 siferniañ;sifer;d6;#galleg;#saozneg
@@ -8319,7 +8061,6 @@ sterniañ;ster;d6;#galleg;#saozneg
 testeniañ;teste;d6;#galleg;#saozneg
 toniañ;to;d6;#galleg;#saozneg
 torc'hwenial;torc'hwe;d6;#galleg;#saozneg
-uniañ;u;d6;#galleg;#saozneg
 addizober;addisc'hr;d7;#galleg;#saozneg
 adober;adc'hr;d7;#galleg;#saozneg
 diober;dic'hr;d7;#galleg;#saozneg
