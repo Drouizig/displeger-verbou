@@ -36,7 +36,7 @@ abandoniñ;abandon;d1;#galleg;#saozneg
 abardaeziñ;abardaez;d1;#galleg;#saozneg
 abechiñ;abech;d1;#galleg;#saozneg
 abegiñ;abeg;d1;#galleg;#saozneg
-aberzhiñ;aberzh;d1;sacrifier;#saozneg
+aberzhiñ;aberzh;d1;sacrifier;sacrifice
 abeuvriñ;abeuvr;d1;#galleg;#saozneg
 abeziñ;abez;d1;#galleg;#saozneg
 abilañ;abil;d1;#galleg;#saozneg
@@ -331,7 +331,7 @@ akliniñ;aklin;d1;#galleg;#saozneg
 akordañ;akord;d1;#galleg;#saozneg
 akosioniñ;akosion;d1;#galleg;#saozneg
 akoursiñ;akours;d1;#galleg;#saozneg
-akoutal;akout;d1;$etre aux écoutes;#saozneg
+akoutal;akout;d1;être aux écoutes;#saozneg
 akuitañ;akuit;d1;#galleg;#saozneg
 akuizitañ;akuizit;d1;#galleg;#saozneg
 akustumiñ;akustum;d1;#galleg;#saozneg
@@ -387,8 +387,8 @@ ampognañ;ampogn;d1;#galleg;#saozneg
 amportiñ;amport;d1;#galleg;#saozneg
 ampresañ;ampres;d1;#galleg;#saozneg
 amprest;amprest;d1;#galleg;#saozneg
-amprestañ;amprest;d1;#galleg;#saozneg
-amprestiñ;amprest;d1;#galleg;#saozneg
+amprestañ;amprest;d1;emprunter;#saozneg
+amprestiñ;amprest;d1;emprunter;#saozneg
 amprou;amprou;d1;éprouver, mettre (qqc/qqn) à l’épreuve, ressentir, subir;#saozneg
 amprouiñ;amprou;d1;éprouver, mettre (qqc/qqn) à l’épreuve, ressentir, subir;#saozneg
 amsaviñ;amsav;d1;remplacer;replace
