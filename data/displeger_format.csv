@@ -30,14 +30,14 @@ anv_verb;diaz_verb;rummad;galleg;saozneg
 #anv-verb7;hall;d1;#galleg;#saozneg
 #anv-verb8;halleg;d1;#galleg;#saozneg
 #anv-verb9;hallegach;d1;#galleg;#saozneg
-abafiñ;abaf;d1;#galleg;#saozneg
-abais;abais;d1;#galleg;#saozneg
-abandoniñ;abandon;d1;#galleg;#saozneg
-abardaeziñ;abardaez;d1;#galleg;#saozneg
-abechiñ;abech;d1;#galleg;#saozneg
-abegiñ;abeg;d1;#galleg;#saozneg
+abafiñ;abaf;d1;déconcerter, intimider;#saozneg
+abaisañ;abais;d1;ébahir;#saozneg
+abandoniñ;abandon;d1;abandonner;#saozneg
+abardaeziñ;abardaez;d1;tomber (soir);#saozneg
+abechiñ;abech;d1;appâter;#saozneg
+abegiñ;abeg;d1;critiquer, reprocher;#saozneg
 aberzhiñ;aberzh;d1;sacrifier;sacrifice
-abeuvriñ;abeuvr;d1;#galleg;#saozneg
+abeuvriñ;abeuvr;d1;abreuver;#saozneg
 abeziñ;abez;d1;#galleg;#saozneg
 abilañ;abil;d1;#galleg;#saozneg
 abilhañ;abilh;d1;#galleg;#saozneg
@@ -53,14 +53,14 @@ abrediñ;abred;d1;#galleg;#saozneg
 absantiñ;absant;d1;#galleg;#saozneg
 absolviñ;absolv;d1;#galleg;#saozneg
 abstinañ;abstin;d1;#galleg;#saozneg
-abuziñ;abuz;d1;#galleg;#saozneg
+abuziñ;abuz;d1;abuser;#saozneg
 ac'hubiñ;ac'hub;d1;#galleg;#saozneg
 ac'huz;ac'huz;d1;#galleg;#saozneg
 achantañ;achant;d1;#galleg;#saozneg
-achap;achap;d1;#galleg;#saozneg
-acheviñ;achev;d1;#galleg;#saozneg
-adaozañ;adaoz;d1;#galleg;#saozneg
-adastenn;adastenn;d1;#galleg;#saozneg
+achap;achap;d1;échapper;#saozneg
+acheviñ;achev;d1;achever;#saozneg
+adaozañ;adaoz;d1;réorganiser;#saozneg
+adastenn;adastenn;d1;ré-etendre;#saozneg
 adazezañ;adazez;d1;#galleg;#saozneg
 adc'henel;adc'han;d1;renaître;reborn
 adc'hervel;adc'halv;d1;rappeller;recall
@@ -70,16 +70,16 @@ adc'houinañ;adc'houin;d1;#galleg;#saozneg
 adc'houlenn;adc'houlenn;d1;redemander;ask again
 adc'hounit;adc'hounez;d1;regagner;win again
 adc'hwezañ;adc'hwez;d1;#galleg;#saozneg
-adc'hwezhañ;adc'hwezh;d1;#galleg;#saozneg
-adchaokat;adchaok;d1;#galleg;#saozneg
+adc'hwezhañ;adc'hwezh;d1;resouffler, regonfler, retranspirer, repuer;#saozneg
+adchaokat;adchaok;d1;remâcher;#saozneg
 adcheñch;adcheñch;d1;rechanger;rechange
-addastum;addastum;d1;#galleg;#saozneg
-addegas;addegas;d1;#galleg;#saozneg
+addastum;addastum;d1;ré-amasser, ramasser, re-récolter;#saozneg
+addegas;addegas;d1;renvoyer, rammener;#saozneg
 adderaouiñ;adderaou;d1;réinitialiser;reinitialise
-adderc'hel;addalc'h;d1;#galleg;#saozneg
+adderc'hel;addalc'h;d1;remaintenir;#saozneg
 addeskiñ;addesk;d1;réapprendre;relearn
-addezrannañ;addezrann;d1;reanalyzer, reanalyse;#saozneg
-addiazezañ;addiazez;d1;#galleg;#saozneg
+addezrannañ;addezrann;d1;reanalyzer;reanalyse
+addiazezañ;addiazez;d1;ré-établir, "rebaser";re-etablish
 addibab;addibab;d1;rechoisir;rechoose
 addibuniñ;addibun;d1;#galleg;#saozneg
 addigeriñ;addigor;d1;rouvrir;reopen
@@ -130,12 +130,12 @@ adheñchañ;adheñch;d1;#galleg;#saozneg
 adhouarnañ;adhouarn;d1;#galleg;#saozneg
 adijinañ;adijin;d1;ré-imaginer;#saozneg
 adjediñ;adjed;d1;re-calculer;#saozneg
-adjogañ;adjog;d1;#galleg;#saozneg
+adjogañ;adjog;d1;rejauger;#saozneg
 adjujiñ;adjuj;d1;#galleg;#saozneg
 adjuntañ;adjunt;d1;#galleg;#saozneg
 adkachediñ;adkached;d1;#galleg;#saozneg
 adkanañ;adkan;d1;rechanter;#saozneg
-adkannañ;adkann;d1;relaver;#saozneg
+adkannañ;adkann;d1;relaver, rebattre (le linge), reblanchir (le linge);#saozneg
 adkaret;adkar;d1;#galleg;#saozneg
 adkargañ;adkarg;d1;recharger;reload
 adkas;adkas;d1;renvoyer;resend
@@ -336,7 +336,7 @@ akuitañ;akuit;d1;#galleg;#saozneg
 akuizitañ;akuizit;d1;#galleg;#saozneg
 akustumiñ;akustum;d1;#galleg;#saozneg
 akuzañ;akuz;d1;#galleg;#saozneg
-alabistriñ;alabistr;d1;#galleg;#saozneg#saozneg
+alabistriñ;alabistr;d1;#galleg;#saozneg
 alaouriñ;alaour;d1;#galleg;#saozneg
 alc'hwezañ;alc'hwez;d1;#galleg;#saozneg
 alec'hiñ;alec'h;d1;#galleg;#saozneg
@@ -3104,8 +3104,8 @@ gagiñ;gag;d1;#galleg;#saozneg
 gagouilhat;gagouilh;d1;#galleg;#saozneg
 galenniñ;galenn;d1;#galleg;#saozneg
 galfrezañ;galfrez;d1;#galleg;#saozneg
-gallegachañ;gallegach;d1;#galleg;#saozneg
-gallegañ;galleg;d1;#galleg;#saozneg
+gallegachañ;gallegach;d1;parler (du mauvais) français;speak (bad) french
+gallegañ;galleg;d1;parler français;speak french
 galloudegañ;galloudeg;d1;#galleg;#saozneg
 gallout;gall;d1;#galleg;#saozneg
 galoupat;galoup;d1;#galleg;#saozneg
@@ -3973,6 +3973,7 @@ kevreañ;kevre;d1;se connecter, connecter, s’associer;#saozneg
 kevredadiñ;kevredad;d1;#galleg;#saozneg
 kevrediñ;kevred;d1;#galleg;#saozneg
 kevrennañ;kevrenn;d1;#galleg;#saozneg
+kiañ;ki;d1;trimer "comme un chien";slave, toil, labour (GB) "as a dog"
 kibañ;kib;d1;#galleg;#saozneg
 kibellañ;kibell;d1;#galleg;#saozneg
 kidellat;kidell;d1;#galleg;#saozneg
@@ -7704,7 +7705,6 @@ keuziañ;keuz;d4;#galleg;#saozneg
 keviañ;kev;d4;#galleg;#saozneg
 keweriañ;kewer;d4;fortifier;#saozneg
 keñveriañ;keñver;d4;charpenter;#saozneg
-kiañ;k;d4;#galleg;#saozneg
 kilviziañ;kilviz;d4;croiser;#saozneg
 kinviañ;kinv;d4;#galleg;#saozneg
 klaviañ;klav;d4;#galleg;#saozneg
@@ -7971,7 +7971,7 @@ askoaniañ;askoa;d6;réveillonner;#saozneg
 bagoniañ;bago;d6;enwagonner;#saozneg
 barzhoniañ;barzho;d6;faire de la poésie;#saozneg
 berniañ;ber;d6;#galleg;#saozneg
-bleniañ;ble;d6;#galleg;#saozneg
+bleniañ;ble;d6;conduire;drive
 bleuniañ;bleu;d6;#galleg;#saozneg
 boniañ;bo;d6;#galleg;#saozneg
 borniañ;bor;d6;#galleg;#saozneg
@@ -8025,17 +8025,17 @@ igouniañ;igou;d6;#galleg;#saozneg
 kammaotrouniañ;kammaotrou;d6;#galleg;#saozneg
 kaniañ;ka;d6;#galleg;#saozneg
 kazarniañ;kazar;d6;#galleg;#saozneg
-kefluniañ;keflu;d6;#galleg;#saozneg
+kefluniañ;keflu;d6;configurer;configure
 kendoniañ;kendo;d6;harmoniser;#saozneg
 kerniañ;ker;d6;#galleg;#saozneg
-koaniañ;koa;d6;#galleg;#saozneg
+koaniañ;koa;d6;dîner;dine
 komuniañ;komu;d6;#galleg;#saozneg
 kornial;kor;d6;#galleg;#saozneg
 krenial;kre;d6;#galleg;#saozneg
 kuniañ;ku;d6;#galleg;#saozneg
 laoniañ;lao;d6;#galleg;#saozneg
 lavniañ;lav;d6;#galleg;#saozneg
-leuniañ;leu;d6;#galleg;#saozneg
+leuniañ;leu;d6;remplir;fill
 luniañ;lu;d6;structurer;#saozneg
 maeroniañ;maero;d6;#galleg;#saozneg
 maniañ;ma;d6;#galleg;#saozneg
