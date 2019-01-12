@@ -20,7 +20,6 @@ anv_verb;diaz_verb;rummad;galleg;saozneg
 #anv-verb26;skingemmen;d1;#galleg;#saozneg
 #anv-verb27;sklisafi;d1;#galleg;#saozneg
 #anv-verb28;skoazellus;d1;#galleg;#saozneg
-#anv-verb29;sonlenn;d1;#galleg;#saozneg
 #anv-verb3;gavael;d1;#galleg;#saozneg
 #anv-verb30;soupren;d1;#galleg;#saozneg
 #anv-verb31;treuzlizherenn;d1;#galleg;#saozneg
@@ -5909,6 +5908,7 @@ sondañ;sond;d1;#galleg;#saozneg
 sonenrollañ;sonenroll;d1;#galleg;#saozneg
 sonenskrivañ;sonenskriv;d1;#galleg;#saozneg
 songeidañ;songeid;d1;#galleg;#saozneg
+sonlenn;sonlenn;d1;solfier;#saozneg
 sonnañ;sonn;d1;#galleg;#saozneg
 sontañ;sont;d1;#galleg;#saozneg
 sonteal;sonte;d1;#galleg;#saozneg
@@ -7781,6 +7781,7 @@ pouezmouezhiañ;pouezmouezh;d4;accentuer;accentuate
 prederiañ;preder;d4;#galleg;#saozneg
 prederouriañ;prederour;d4;#galleg;#saozneg
 primveziañ;primvez;d4;#galleg;#saozneg
+priziañ;priz;d4;évaluer, estimer;evaluate, estimate
 purifiañ;purif;d4;#galleg;#saozneg
 ragaroueziañ;ragarouez;d4;#galleg;#saozneg
 ragevezhiañ;ragevezh;d4;#galleg;#saozneg
