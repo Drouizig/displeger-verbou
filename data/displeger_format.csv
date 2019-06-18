@@ -1,17 +1,11 @@
 anv_verb;diaz_verb;rummad;galleg;saozneg
-#anv-verb1;emgefre;d1;#galleg;#saozneg
 #anv-verb10;halloudeg;d1;#galleg;#saozneg
 #anv-verb11;hell;d1;#galleg;#saozneg
-#anv-verb12;hirglañv;d1;#galleg;#saozneg
 #anv-verb13;horellot;d1;#galleg;#saozneg
 #anv-verb14;houll;d1;#galleg;#saozneg
 #anv-verb15;houllonder;d1;#galleg;#saozneg
 #anv-verb16;igor;d1;#galleg;#saozneg
-#anv-verb17;kemed;d1;#galleg;#saozneg
-#anv-verb18;kendod;d1;#galleg;#saozneg
-#anv-verb19;kenforc'h;d1;#galleg;#saozneg
-#anv-verb2;fehe;d1;#galleg;#saozneg
-#anv-verb20;kengerc'h;d1;#galleg;#saozneg
+#anv-verb2;fehe;d1;forme conditionnelle vannetaise du v. «gouzout»;#saozneg
 #anv-verb21;neuer;d1;#galleg;#saozneg
 #anv-verb22;ouarn;d1;#galleg;#saozneg
 #anv-verb23;raksketidennadur;d1;#galleg;#saozneg
@@ -20,11 +14,7 @@ anv_verb;diaz_verb;rummad;galleg;saozneg
 #anv-verb26;skingemmen;d1;#galleg;#saozneg
 #anv-verb27;sklisafi;d1;#galleg;#saozneg
 #anv-verb28;skoazellus;d1;#galleg;#saozneg
-#anv-verb3;gavael;d1;#galleg;#saozneg
-#anv-verb30;soupren;d1;#galleg;#saozneg
-#anv-verb31;treuzlizherenn;d1;#galleg;#saozneg
-#anv-verb4;glenn;d1;#galleg;#saozneg
-#anv-verb5;gouluz;d1;#galleg;#saozneg
+#anv-verb30;soupren;d1;surprendre;to surprise
 #anv-verb6;gouskog;d1;#galleg;#saozneg
 #anv-verb7;hall;d1;#galleg;#saozneg
 #anv-verb8;halleg;d1;#galleg;#saozneg
@@ -40,7 +30,7 @@ abeuvriñ;abeuvr;d1;abreuver;(to) water
 abeziñ;abez;d1;perdre la raison, devenir sot, rendre sot;(to) lose one's mind, go astray
 abilañ;abil;d1;actif, entreprenant, habile, s'aventurer;active, enterprising, (to) venture
 abilhañ;abilh;d1;(s')habiller;(to) dress one's self
-abilidañ;abilid;d1;toucher à tout, gaminer, s'occuper à des riens tout seul (enfants);((to) linger, procrastinate, dawdle by one's self (chidren)
+abilidañ;abilid;d1;toucher à tout, gaminer, s'occuper à des riens tout seul (enfants);(to) linger, procrastinate, dawdle by one's self (chidren)
 abimañ;abim;d1;abimer, tomber dans une abime;(to) damage, wear down, to drop, to fall
 abitañ;abit;d1;habiter;(to) inhabit, live in
 abondañ;abond;d1;abondance, abonder;abundance, abound
@@ -52,7 +42,7 @@ abrediñ;abred;d1;avancer (une horloge), arriver plus tôt;(to) move foward (a c
 absantiñ;absant;d1;(s')absenter, partir d'un lieu;(to) leave
 absolviñ;absolv;d1;donner l'absolution, pardoner les péchés;(to) give absolution, forgive the sins
 abstinañ;abstin;d1;abstinence, (s')abstenir, pratiquer l'abstinence;(to) abstain, refrain, exercise abstinence
-abuziñ;abuz;d1;abuser, importuner, accaparer, distraire (qun);(to) abuse, to bother, to corner, distract (someone)
+abuziñ;abuz;d1;abuser, importuner, accaparer, distraire (qqn);(to) abuse, to bother, to corner, distract (someone)
 ac'hubiñ;ac'hub;d1;occuper, encombrer;(to) occupy, obstruct
 ac'huz;ac'huz;d1;accusation, accuser;accusation, (to) accuse
 achantañ;achant;d1;enchanter, ensorceller, mettre sous charme (qqn);(to) enchant, charm, mesmerize (someone)
@@ -130,46 +120,46 @@ adheñchañ;adheñch;d1;re-montrer le chemin a qqn, reguider qqn, reguider moral
 adhouarnañ;adhouarn;d1;referrer, réendurcir (fig.), repasser de nouveau (linges);#saozneg
 adijinañ;adijin;d1;ré-imaginer, ré-inventer,  recréer, se redébattre;#saozneg
 adjediñ;adjed;d1;re-calculer, recompter, compter de nouveau, calculer de nouveau;#saozneg
-adjogañ;adjog;d1;rejauger, jauger de nouveau;#saozneg
-adjujiñ;adjuj;d1;rejuger;#saozneg
+adjogañ;adjog;d1;rejauger, jauger de nouveau;to measure, to remeasure
+adjujiñ;adjuj;d1;rejuger;to retry
 adjuntañ;adjunt;d1;rejoindre, réaccorder (deux bouts, pas un instrument), reconclure (un marché), réaller à qqn (vetement);#saozneg
 adkachediñ;adkached;d1;recacheter, remettre un cachet sur qqchs;#saozneg
 adkanañ;adkan;d1;rechanter, reprendre (un chant);#saozneg
 adkannañ;adkann;d1;relaver, rebattre (le linge), reblanchir (le linge);#saozneg
 adkaret;adkar;d1;re-aimer, ré-attacher au fond de la casserole;#saozneg
-adkargañ;adkarg;d1;recharger (par ex. une arme), remplir, emplir de nouveau;reload
+adkargañ;adkarg;d1;recharger (ex. une arme), remplir, emplir de nouveau;reload (ex. a weapon)
 adkas;adkas;d1;renvoyer, ramener;resend
-adkavout;adkav;d1;retrouver;#saozneg
+adkavout;adkav;d1;retrouver;to find something again, to rediscover
 adkemer;adkemer;d1;reprendre;retake
-adkemmeskañ;adkemmesk;d1;remélanger (qqchs);#saozneg
+adkemmeskañ;adkemmesk;d1;remélanger (qqchs);to remix
 adkempenn;adkempenn;d1;réarranger, remoduler, réparer de nouveau, remettre en état, refaire un brin de toillette (par ex. figure, ménage), refaire un brin de ménage, refaire le ménage;#saozneg
-adkempouezañ;adkempouez;d1;rééquilibrer, rébalancer (son), réapplanir, contrebalancer de nouveau, restabiliser, recompenser, compenser de nouveau;#saozneg
-adkenemprañ;adkenempr;d1;réinserer;#saozneg
+adkempouezañ;adkempouez;d1;rééquilibrer, rébalancer (son), réaplanir, contrebalancer de nouveau, restabiliser, recompenser, compenser de nouveau;to readjust, rebalance, relevel, counterbalance once again, restabilize, recompensate, to compensate once more
+adkenemprañ;adkenempr;d1;réinserer;to reinsert
 adkennaskañ;adkennask;d1;reconnecter, réattacher (bétail), réattacher les bêtes à cornes à l'étable avec la corde appelée "nask", être mis au pas de nouveau, se remettre sous l'autorité de qqn;reconnect
-adkevraouiñ;adkevraou;d1;renégocier, base de négociation;#saozneg
+adkevraouiñ;adkevraou;d1;renégocier, base de négociation;renegociate
 adkevreañ;adkevre;d1;reconnecter, relier de nouveau (lien);reconnect
-adkleuzañ;adkleuz;d1;(se) recreuser, raviner de nouveau, refonder, rebâtir, recreuser un fossé;#saozneg
-adklevet;adklev;d1;ré-entendre, ré-entendre, ressentir de nouveau (une odeur), sentir de nouveau (une odeur), resoigner, réexaucer;#saozneg
+adkleuzañ;adkleuz;d1;(se) recreuser, raviner de nouveau, refonder, rebâtir, recreuser un fossé;to re-dig, furrow onced again, refound, rebuild, to re-dig a ditch
+adklevet;adklev;d1;ré-entendre, ressentir de nouveau (une odeur), sentir de nouveau (une odeur), resoigner, réexaucer;to relisten
 adkoachañ;adkoach;d1;(se) rechacher;#saozneg
-adkoadañ;adkoad;d1;reboiser;#saozneg
+adkoadañ;adkoad;d1;reboiser;to afforest, replant something with trees
 adkoefiñ;adkoef;d1;reporter la coiffe, remettre la coiffe;#saozneg
 adkomañs;adkomañs;d1;recommencer, reprendre (par ex. un jeu);restart
-adkonkeriñ;adkonker;d1;reconquérir, réengloutir, regagner (qqn à une cause), réamasser (des récoltes), repulluler;#saozneg
-adkontañ;adkont;d1;recompter (ex. des votes), reconter (ex. une histoire);#saozneg
-adkouezhañ;adkouezh;d1;retomber, rechuter;#saozneg
+adkonkeriñ;adkonker;d1;reconquérir, réengloutir, regagner (qqn à une cause), réamasser (des récoltes), repulluler;to reconquer, reengulf, to win back (someone), regather (the harvest), to proliferate once more
+adkontañ;adkont;d1;recompter (ex. des votes), reconter (ex. une histoire);to recount (ex. the number of votes), to retell (ex. a story)
+adkouezhañ;adkouezh;d1;retomber, rechuter;to refall, to fall again
 adkoumanantiñ;adkoumanant;d1;(se) ré-abonner, recontracter, réappointer, réaffermer;#saozneg
-adkrapañ;adkrap;d1;regrimper, recrapahuter, recramponner;#saozneg
-adkregiñ;adkreg;d1;recommencer, reprendre (ex. jeu), (se) ressaisir, se remettre (à une activité), remordre;#saozneg
-adkreizañ;adkreiz;d1;recentrer, remettre au centre, remettre en ordre, remettre propre, remettre droit;#saozneg
+adkrapañ;adkrap;d1;regrimper, recrapahuter, recramponner;to climb back on, to yomp once more, to climg to
+adkregiñ;adkreg;d1;recommencer, reprendre (ex. jeu), (se) ressaisir, se remettre (à une activité), remordre;to restart, resume (ex. a game), to pull oneself together, to take something up again (an activity), to bite once more
+adkreizañ;adkreiz;d1;recentrer, remettre au centre, remettre en ordre, remettre propre, remettre droit;to refocus, recentre
 adkreskiñ;adkresk;d1;repousser, recroître, regrandir, recommencer à grandir/croître/repousser;regrow
 adkrouiñ;adkrou;d1;recréer, refonder, restaurer, remettre au monde, remettre bas, refaire (qqchs), reconcevoir, reformer, ré-engendrer;recreate
 adlammat;adlamm;d1;re-sauter, redéguerpir, se reprécipiter, rebattre (en parlant du coeur), faire des ricochets de nouveau, réavoir des vagues (en parlant de la mer), rejaillir;#saozneg
-adlavaret;adlavar;d1;redire;#saozneg
+adlavaret;adlavar;d1;redire;repeat, reiterate, retell
 adlañsañ;adlañs;d1;relancer, reforcir, recommencer (qqchs), repartir, redémarrer, aller vite de nouveau, redistancer, gagner du terrain sur/remonter (en parlant d'un poursuivant), réavoir de l'avantage, rejeter loin, vomir de nouveau, se re-elancer;#saozneg
-adleinañ;adlein;d1;redîner;#saozneg
+adleinañ;adlein;d1;redîner;to have dinner once again
 adlenn;adlenn;d1;relire;reread
 adliammañ;adliamm;d1;relier (plusieurs choses, livres, des pierres avec du mortier...), réattacher, religoter, lier de nouveau, recercler (barriques), reliaisonner;#saozneg
-adlivañ;adliv;d1;repeindre, être repeint;#saozneg
+adlivañ;adliv;d1;repeindre, être repeint;to repaint, to be repainted
 adloc'hañ;adloc'h;d1;relancer, (se) recoincer, (s') arrêter de nouveau, refaire bouger, remuer, redéplacer, redébusquer, requitter (un endroit), redémarrer;#saozneg
 adlodennañ;adlodenn;d1;repartager, remembrer (agriculture), répartir de nouveau, partager de nouveau (en, entre);#saozneg
 adlonkañ;adlonk;d1;ravaler, reboire, réengloutir, réabsorber, regloutonner, reboire de l'alcool avec excès, rehumer, recroîre, redilapider, être réavalé;#saozneg
@@ -191,25 +181,25 @@ adpaperañ;adpaper;d1;tapisser de nouveau, retapisser (les murs);#saozneg
 adpavezañ;adpavez;d1;repaver, redaller (de pierre);#saozneg
 adpediñ;adped;d1;réinviter, supplier, reprier (relijion);#saozneg
 adpellgargañ;adpellgarg;d1;retélécharger;redownload
-adpellgomz;adpellgomz;d1;retéléphoner;#saozneg
+adpellgomz;adpellgomz;d1;retéléphoner;to call back
 adperc'hennañ;adperc'henn;d1;(se) réaproprier, redevenir possesseur de qqc, reposséder (courant & religion), réadopter (qqn/qqc);reapropriate
 adpignat;adpign;d1;remonter;#saozneg
 adpikañ;adpik;d1;repiquer, ré-aiguillonner (piquer), repercer, retailler les pierres, refaire une piqûre, rebroder, remodre (serpent), rebiner (jardin), rebecquer, (se) revexer, (se) réassoir/planter son derrière, réémouvoir, réattendrir, reserrer au vent, remarcher;#saozneg
-adplantañ;adplant;d1;replanter;#saozneg
-adplasañ;adplas;d1;replacer, remplacer, remettre à sa place;#saozneg
-adplastrañ;adplastr;d1;replâtrer (qqc);#saozneg
-adplegañ;adpleg;d1;replier (qqc);#saozneg
-adpoazhañ;adpoazh;d1;recuire (qqc);#saozneg
-adpoblañ;adpobl;d1;repopuler (un lieu);#saozneg
-adpokat;adpok;d1;embrasser de nouveau (baiser/bisou);#saozneg
-adpouezañ;adpouez;d1;repeser;#saozneg
-adpourchas;adpourchas;d1;refournir, se procurer de nouveau, réapprovisionner;#saozneg
-adprenañ;adpren;d1;réacheter, racheter (commerce et religion);#saozneg
-adprennañ;adprenn;d1;revérouiller, refermer à clef (porte, aussi avec un morceau de bois = prenn),;#saozneg
-adprometiñ;adpromet;d1;repromettre, promettre de nouveau;#saozneg
-adrannañ;adrann;d1;repartager, rediviser, reséparer, repartager en plusiers parties, reprononcer, redire, rebarvader, rediscuter, se refendre, se reséparer, se recrevasser;#saozneg
-adraskañ;adrask;d1;regratter, redétruire, remettre à bas;#saozneg
-adredek;adredek;d1;recourir, retrotter, réaller vite, realler et venir, repartir, vaguer de nouveau, errer de nouveau, réavoir la diarrhée, rebouillir (fig), refaire couler (en plt d'un liquide, d'un cours d'eau), repasser (temps) refaire courir, redécamper, refréquenter;#saozneg
+adplantañ;adplant;d1;replanter;to replant
+adplasañ;adplas;d1;replacer, remplacer, remettre à sa place;to put back, to replace, to put something back in its place
+adplastrañ;adplastr;d1;replâtrer (qqc);to replaster (something)
+adplegañ;adpleg;d1;replier (qqc);to fold up (something)
+adpoazhañ;adpoazh;d1;recuire (qqc);to reboil
+adpoblañ;adpobl;d1;repopuler (un lieu);to repopulate (a place)
+adpokat;adpok;d1;embrasser de nouveau (baiser/bisou);to rekiss
+adpouezañ;adpouez;d1;repeser;to weight again
+adpourchas;adpourchas;d1;refournir, se procurer de nouveau, réapprovisionner;to provide (again), to reobtain, to restock
+adprenañ;adpren;d1;réacheter, racheter (commerce et religion);to buy again, to buy back (commerce and religion)
+adprennañ;adprenn;d1;revérouiller, refermer à clef (porte, aussi avec un morceau de bois = prenn),;to relock, to reclose by key (door, also with a piece of wood)
+adprometiñ;adpromet;d1;repromettre, promettre de nouveau;to repromise, to promise again
+adrannañ;adrann;d1;repartager, rediviser, reséparer, repartager en plusieurs parties, reprononcer, redire, rebarvader, rediscuter, se refendre, se recrevasser;to reshare, to redivide, to reseparate, to split into several pieces, to pronounce again, to repeat, to resume chattering, to rediscuss, to resplit, to crack again
+adraskañ;adrask;d1;regratter, redétruire, remettre à bas;to scratch again, to destroy again, to shatter once more
+adredek;adredek;d1;recourir, retrotter, réaller vite, realler et venir, repartir, vaguer de nouveau, errer de nouveau, réavoir la diarrhée, rebouillir (fig), refaire couler (en plt d'un liquide, d'un cours d'eau), repasser (temps) refaire courir, redécamper,  refréquenter;to resume running, to scurry (about) once more, to restart quickly, to come and go, to set off again, to wander (about) once more, to once again have diarrhoea, to reboil (fig), to make flow once again, to pass again (time), to restart running, to scarper
 adreizhañ;adreizh;d1;recorriger, réadapter, réformer;(to) recorrect, fix, rectify, adapt, adjust, reform, retrain
 adrenkañ;adrenk;d1;réorganiser, ranger de nouveau,;(to) reorganise, rearrange
 adrentañ;adrent;d1;rendre de nouveau, refaire ses besoins,;(to) render, give back, defecate
@@ -229,505 +219,505 @@ adsevel;adsevel;d1;remonter un objet, reconstruire, rebâtir, reconstituer, rest
 adsiellañ;adsiell;d1;sceller de nouveau, cacheter de nouveau;(to) seal again
 adskediñ;adsked;d1;refléter de nouveau;(to) reflect again
 adskeudenniñ;adskeudenn;d1;représenter de nouveau;(to) represent
-adskignañ;adskign;d1;redifuser;#saozneg
-adskoulmañ;adskoulm;d1;renouer;#saozneg
-adskrivañ;adskriv;d1;réécrire;#saozneg
-adskriverezañ;adskriverez;d1;#galleg;#saozneg
-adsoudañ;adsoud;d1;#galleg;#saozneg
-adsoñjal;adsoñj;d1;repenser;#saozneg
-adstagañ;adstag;d1;réattacher, recommencer;#saozneg
+adskignañ;adskign;d1;redifuser;to repeat, to rerun
+adskoulmañ;adskoulm;d1;renouer;to renew
+adskrivañ;adskriv;d1;réécrire;to rewrite
+adskriverezañ;adskriverez;d1;redactylographier;to retype (out)
+adsoudañ;adsoud;d1;ressouder;to reweld
+adsoñjal;adsoñj;d1;repenser;to rethink
+adstagañ;adstag;d1;réattacher, recommencer;reattach, restart
 adstandilhonañ;adstandilhon;d1;rééchantillonner;re-sample
-adstardañ;adstard;d1;resserrer;#saozneg
-adsteuñviñ;adsteuñv;d1;#galleg;#saozneg
-adstignañ;adstign;d1;#galleg;#saozneg
-adstouvañ;adstouv;d1;reboucher;#saozneg
-adstrewiñ;adstrew;d1;#galleg;#saozneg
+adstardañ;adstard;d1;resserrer;to tighten
+adsteuñviñ;adsteuñv;d1;réourdir ; retramer ; refomenter ; retendre (des pièges) ; redresser le plan, le projet (de);to hatch, to concoct a plan once again, to stir up, to reset (traps), to sort out the plan, the project (of)
+adstignañ;adstign;d1;(se) redétendre/retendre, & (se) redéclencher.;#saozneg
+adstouvañ;adstouv;d1;reboucher;to recork, to block up again
+adstrewiñ;adstrew;d1;renouveler la jonchée (du sol d'une maison), rejoncher, rééparpiller, répandre de nouveau, reparsemer, redisséminer;#saozneg
 adstrollañ;adstroll;d1;regrouper;regroup
-adstummañ;adstumm;d1;reformer;reformer
-adtachañ;adtach;d1;#galleg;#saozneg
-adtanañ;adtan;d1;#galleg;#saozneg
-adtaolenniñ;adtaolenn;d1;#galleg;#saozneg
-adtaoliñ;adtaol;d1;#galleg;#saozneg
-adtapout;adtap;d1;rattraper;#saozneg
-adtennañ;adtenn;d1;retirer;#saozneg
-adtermeniñ;adtermen;d1;#galleg;#saozneg
-adteurel;adtaol;d1;#galleg;#saozneg
-adteuziñ;adteuz;d1;refondre;#saozneg
-adtommañ;adtomm;d1;réchauffer;#saozneg
-adtorchañ;adtorch;d1;#galleg;#saozneg
-adtoullañ;adtoull;d1;repercer;#saozneg
-adtouzañ;adtouz;d1;retondre;#saozneg
-adtreiñ;adtre;d1;retourner;#saozneg
-adtremen;adtremen;d1;repasser;#saozneg
-adtreuziñ;adtreuz;d1;retraverser;#saozneg
-adtreuzkas;adtreuzkas;d1;retransmettre;#saozneg
-adtroadañ;adtroad;d1;#galleg;#saozneg
-adtroc'hañ;adtroc'h;d1;recouper;#saozneg
-adtroniñ;adtron;d1;#galleg;#saozneg
-adunaniñ;adunan;d1;réunire;#saozneg
-adunvaniñ;adunvan;d1;réunifier;#saozneg
-advabañ;advab;d1;adopter (un garçon);#saozneg
-advadeziñ;advadez;d1;#galleg;#saozneg
-advalañ;adval;d1;#galleg;#saozneg
-advarrekaat;advarrek;d1;#galleg;#saozneg
-advegañ;adveg;d1;#galleg;#saozneg
-advenel;advenel;d1;#galleg;#saozneg
-advennigañ;advennig;d1;#galleg;#saozneg
+adstummañ;adstumm;d1;reformer;reform
+adtachañ;adtach;d1;reclouer; regarnir de clous;to renail, to restock with nails
+adtanañ;adtan;d1;réallumer (le feu), réincendier;reignite (the fire), to reset on fire
+adtaolenniñ;adtaolenn;d1;reproduire (un tableau, une scène, …);to reproduce (a painting, a scene, …)
+adtaoliñ;adtaol;d1;essaimer une seconde fois;to spread out for a second time
+adtapout;adtap;d1;rattraper;to catch
+adtennañ;adtenn;d1;retirer (par ex: au fusil);#saozneg
+adtermeniñ;adtermen;d1;respécifier, redéterminer (qqch);to respecify, to redetermine (something)
+adteurel;adtaol;d1;rejeter, jeter de nouveau;#saozneg
+adteuziñ;adteuz;d1;refondre;to melt down again
+adtommañ;adtomm;d1;réchauffer;to reheat
+adtorchañ;adtorch;d1;réessuyer, retorcher;to wipe up again, to rub again
+adtoullañ;adtoull;d1;repercer;to repierce
+adtouzañ;adtouz;d1;retondre;to shave (something) again
+adtreiñ;adtre;d1;retourner, retraduire;to turn (something) over, to retranslate
+adtremen;adtremen;d1;repasser quelquepart;to go by somewhere once more
+adtreuziñ;adtreuz;d1;retraverser;to cross (something) again
+adtreuzkas;adtreuzkas;d1;retransmettre;to relay
+adtroadañ;adtroad;d1;reprendre pied; reemmancher; reimplanter (une idée); refaire accroire (des mensonges); se réadapter (gant à);#saozneg
+adtroc'hañ;adtroc'h;d1;recouper;to recut, to cut something again
+adtroniñ;adtron;d1;réintroniser, réinstaller (un tribunal, une statue) ; retrôner;to reenthrone, to reestablish (a tribunal, a statue), to reenthrone
+adunaniñ;adunan;d1;réunir;to reunite
+adunvaniñ;adunvan;d1;réunifier;reunify
+advabañ;advab;d1;adopter (un garçon);to adopt (a boy)
+advadeziñ;advadez;d1;rebaptiser;rebaptize
+advalañ;adval;d1;remoudre;to regrind
+advarrekaat;advarrek;d1;rendre plus fort de nouveau;to make more powerful once more
+advegañ;adveg;d1;remettre une pointe, repiquer, remordre, réémouvoir, réaffliger;#saozneg
+advenel;advenel;d1;rester de nouveau, rééchouer;#saozneg
+advennigañ;advennig;d1;rebénir;to bless once again
 adventañ;advent;d1;redimensionner;resize
-adverat;adver;d1;#galleg;#saozneg
-adverañ;adver;d1;#galleg;#saozneg
-adverc'hañ;adverc'h;d1;adopter (une fille);#saozneg
-adverennañ;adverenn;d1;#galleg;#saozneg
-adverkañ;adverk;d1;#galleg;#saozneg
-adveskañ;advesk;d1;#galleg;#saozneg
-advevañ;advev;d1;#galleg;#saozneg
-advezañ;advez;d1;#galleg;#saozneg
-advizskrivañ;advizskriv;d1;#galleg;#saozneg
-advoazañ;advoaz;d1;#galleg;#saozneg
-advonnañ;advonn;d1;#galleg;#saozneg
-advont;advont;d1;#galleg;#saozneg
-advorañ;advor;d1;#galleg;#saozneg
+adverat;adver;d1;repétrir;to knead once again
+adverañ;adver;d1;réadministrer, régir de nouveau, regérer;readminister, to govern once again, to rehandle
+adverc'hañ;adverc'h;d1;adopter (une fille);to adopt (a girl)
+adverennañ;adverenn;d1;recollationner, reprendre la collation;to collate once again, to resume the collation
+adverkañ;adverk;d1;marquer de nouveau, remarquer;to mark once again
+adveskañ;advesk;d1;remélanger, rebattre (les cartes);to mix up, to reshuffle (the cards)
+advevañ;advev;d1;revivre ou faire revivre;#saozneg
+advezañ;advez;d1;être de nouveau;#saozneg
+advizskrivañ;advizskriv;d1;redactylographier, retaper (au clavier);to retype (on the keyboard)
+advoazañ;advoaz;d1;(se) réaccoutumer; (s') habituer de nouveau;to get used to something again
+advonnañ;advonn;d1;reborner, relimiter, redélimiter;to mark out the boundaries once again, to relimit, to delimit once again
+advont;advont;d1;aller de nouveau;to return once again
+advorañ;advor;d1;aller de nouveau en mer;to return to the sea
 advotiñ;advot;d1;revoter;revote
 advoullañ;advoull;d1;réimprimer;reprint
-advountañ;advount;d1;repousser;#saozneg
-advouskomz;advouskomz;d1;remarmonner;#saozneg
-advugelañ;advugel;d1;adopter;#saozneg
-advuhezañ;advuhez;d1;revivre, réanimer;#saozneg
-adwalc'hiñ;adwalc'h;d1;relaver;#saozneg
-adwarnisañ;adwarnis;d1;#galleg;#saozneg
-adwelet;adwel;d1;revoir;#saozneg
-adwennañ;adwenn;d1;#galleg;#saozneg
-adwerzhañ;adwerzh;d1;revendre;#saozneg
-adwerziñ;adwerz;d1;#galleg;#saozneg
-adwiskañ;adwisk;d1;reporter, remettre (un vêtement);#saozneg
-aelañ;ael;d1;#galleg;#saozneg
-aeradenniñ;aeradenn;d1;#galleg;#saozneg
-aerañ;aer;d1;#galleg;#saozneg
-aerreizhañ;aerreizh;d1;#galleg;#saozneg
-aerstlejañ;aerstlej;d1;#galleg;#saozneg
-aervombezañ;aervombez;d1;#galleg;#saozneg
-aezañ;aez;d1;faciliter;facilitate
-aezhennañ;aezhenn;d1;#galleg;#saozneg
-afamiñ;afam;d1;#galleg;#saozneg
-afañ;af;d1;#galleg;#saozneg
+advountañ;advount;d1;repousser (qqn, qqch);to turn down, to spurn somebody's advances
+advouskomz;advouskomz;d1;remarmonner;to mumble away once again
+advugelañ;advugel;d1;adopter (un enfant);to adopt (a child)
+advuhezañ;advuhez;d1;revivre, réanimer;to come alive again, to reanimate
+adwalc'hiñ;adwalc'h;d1;relaver;to wash (something) again
+adwarnisañ;adwarnis;d1;regarnir;to restock
+adwelet;adwel;d1;revoir;to see again
+adwennañ;adwenn;d1;reblanchir, redevenir blanc;to whiten, to become white once again
+adwerzhañ;adwerzh;d1;revendre;to resell
+adwerziñ;adwerz;d1;faire des vers (poésie);to write verses (poetry)
+adwiskañ;adwisk;d1;reporter, remettre (un vêtement);to wear again, to put back on (an item of clothing)
+aelañ;ael;d1;profiler;to profile
+aeradenniñ;aeradenn;d1;(se) lézarder;to crack
+aerañ;aer;d1;aérer;to air, to ventilate
+aerreizhañ;aerreizh;d1;conditionner l'air (d'une salle, …);control the temperature (of a hall, …)
+aerstlejañ;aerstlej;d1;aéroremorquer;#saozneg
+aervombezañ;aervombez;d1;aerobombarder;#saozneg
+aezañ;aez;d1;faciliter, rendre aisé, mettre à l'aise;facilitate
+aezhennañ;aezhenn;d1;exhaler;to exhale
+afamiñ;afam;d1;affamer;to starve
+afañ;af;d1;baiser;to kiss
 afec'h;afec'h;d1;#galleg;#saozneg
-afesoniñ;afeson;d1;#galleg;#saozneg
+afesoniñ;afeson;d1;enjoliver, orner;to embellish, to decorate
 afiiñ;afi;d1;#galleg;#saozneg
-aflijañ;aflij;d1;#galleg;#saozneg
-afliñ;afl;d1;#galleg;#saozneg
-afourchiñ;afourch;d1;#galleg;#saozneg
-afrontañ;afront;d1;#galleg;#saozneg
+aflijañ;aflij;d1;affliger;to afflict, to distress
+afliñ;afl;d1;(se) calmer, (s') appaiser;to calm, to appease (oneself)
+afourchiñ;afourch;d1;affourcher;to secure a boat with two anchors
+afrontañ;afront;d1;affronter;to confront
 afudiñ;afud;d1;#galleg;#saozneg
-ahediñ;ahed;d1;#galleg;#saozneg
-ahelañ;ahel;d1;#galleg;#saozneg
-aheurtiñ;aheurt;d1;#galleg;#saozneg
-ajournañ;ajourn;d1;ajourner;#saozneg
-ajoutañ;ajout;d1;#galleg;#saozneg
-akediñ;aked;d1;#galleg;#saozneg
-aketat;aket;d1;#galleg;#saozneg
-aketiñ;aket;d1;#galleg;#saozneg
-akipañ;akip;d1;#galleg;#saozneg
-akliniñ;aklin;d1;#galleg;#saozneg
-akordañ;akord;d1;#galleg;#saozneg
+ahediñ;ahed;d1;allonger;to lie down
+ahelañ;ahel;d1;mettre un essieu, un axe (à);to fit an axle (to)
+aheurtiñ;aheurt;d1;(s') acharner, (s') obstiner;to persevere desperately, to persist
+ajournañ;ajourn;d1;ajourner, actionner;to postpone, to activate
+ajoutañ;ajout;d1;ajouter;to add
+akediñ;aked;d1;être assidu, être attentif;to be diligent, attentive
+aketat;aket;d1;être assidu, être attentif;to be diligent, attentive
+aketiñ;aket;d1;être assidu, être attentif, (s') appliquer, (s') employer;to be diligent, attentive
+akipañ;akip;d1;(s') équiper, équiper un vaisseau, arranger;to equip oneself, to equip a ship, arrange
+akliniñ;aklin;d1;faire la révérence, fléchir les genoux;to curtsey, bend the knees
+akordañ;akord;d1;(s') accorder, (se) réconcilier, (s') entendre;to agree, to reconcile, to understand with one another
 akosioniñ;akosion;d1;#galleg;#saozneg
-akoursiñ;akours;d1;#galleg;#saozneg
-akoutal;akout;d1;être aux écoutes;#saozneg
-akuitañ;akuit;d1;#galleg;#saozneg
-akuizitañ;akuizit;d1;#galleg;#saozneg
-akustumiñ;akustum;d1;#galleg;#saozneg
-akuzañ;akuz;d1;#galleg;#saozneg
-alabistriñ;alabistr;d1;#galleg;#saozneg
-alaouriñ;alaour;d1;#galleg;#saozneg
-alc'hwezañ;alc'hwez;d1;#galleg;#saozneg
-alec'hiñ;alec'h;d1;#galleg;#saozneg
-alejiñ;alej;d1;#galleg;#saozneg
+akoursiñ;akours;d1;accoutumer;to acustom to, to get used to
+akoutal;akout;d1;être aux écoutes;to be all ears, to be attentive
+akuitañ;akuit;d1;(se) satisfaire, (se) contenter de, (se) passer (de), parvenir à, liberer, sauver, se délivrer;to satisfy oneself, to content oneself with something, to do without, to manage to do, to free, to save, to liberate oneself
+akuizitañ;akuizit;d1;acquérir;acquire
+akustumiñ;akustum;d1;(s') habituer (à), (s') adonner (à);to get used to, to devote oneself to
+akuzañ;akuz;d1;(s') accuser;to accuse (oneself)
+alabistriñ;alabistr;d1;travailler négligemment, sans envie;work carelessly, with no desire
+alaouriñ;alaour;d1;dorer, rissoler;to glaze, to sear
+alc'hwezañ;alc'hwez;d1;fermer (la porte) à clef, enfermer;to lock (the door), to close
+alec'hiñ;alec'h;d1;(se) nicher (en quelque lieu);to nest (in some place)
+alejiñ;alej;d1;préparer (un repas), arranger, disposer, orner, radouber (un vaisseau), (se) maquiller, (se) préparer;to prepare (a dish), to arrange, to organize, to decorate, to grave (a ship), to do one's makeup, to prepare oneself
 alianiñ;alian;d1;#galleg;#saozneg
-aliañ;ali;d1;conseiller;#saozneg
-aliañsiñ;aliañs;d1;#galleg;#saozneg
-alkodiñ;alkod;d1;#galleg;#saozneg
-almanagiñ;almanag;d1;#galleg;#saozneg
-aloubiñ;aloub;d1;envahir;invade
-alteriñ;alter;d1;#galleg;#saozneg
-alumiñ;alum;d1;#galleg;#saozneg
-alvaoniñ;alvaon;d1;#galleg;#saozneg
-alvokadiñ;alvokad;d1;#galleg;#saozneg
-amaeziñ;amaez;d1;#galleg;#saozneg
-amailhañ;amailh;d1;#galleg;#saozneg
-amandiñ;amand;d1;#galleg;#saozneg
-amanennañ;amanenn;d1;#galleg;#saozneg
-amariñ;amar;d1;#galleg;#saozneg
-ambaomiñ;ambaom;d1;#galleg;#saozneg
-ambarkiñ;ambark;d1;#galleg;#saozneg
-ambidañ;ambid;d1;#galleg;#saozneg
-ambilhañ;ambilh;d1;#galleg;#saozneg
-ambisioniñ;ambision;d1;#galleg;#saozneg
-ambleudiñ;ambleud;d1;#galleg;#saozneg
-amboulat;amboul;d1;#galleg;#saozneg
-ambreniñ;ambren;d1;#galleg;#saozneg
-ambridañ;ambrid;d1;#galleg;#saozneg
-ambroug;ambroug;d1;#galleg;#saozneg
-ambuziñ;ambuz;d1;#galleg;#saozneg
-amdroc'hañ;amdroc'h;d1;#galleg;#saozneg
-ameiñ;ame;d1;#galleg;#saozneg
-ameniñ;amen;d1;#galleg;#saozneg
-amfraouiñ;amfraou;d1;#galleg;#saozneg
-amgrediñ;amgred;d1;#galleg;#saozneg
-amlivañ;amliv;d1;#galleg;#saozneg
-amoediñ;amoed;d1;#galleg;#saozneg
-amonetañ;amonet;d1;#galleg;#saozneg
-amparañ;ampar;d1;#galleg;#saozneg
-ampech;ampech;d1;#galleg;#saozneg
-ampellañ;ampell;d1;#galleg;#saozneg
-ampezañ;ampez;d1;#galleg;#saozneg
-amplegañ;ampleg;d1;#galleg;#saozneg
-ampleriñ;ampler;d1;#galleg;#saozneg
-ampletiñ;amplet;d1;rendre, préparer, être efficace;#saozneg
-ampoezoniñ;ampoezon;d1;empoisonner, empester;#saozneg
-ampognañ;ampogn;d1;#galleg;#saozneg
-amportiñ;amport;d1;#galleg;#saozneg
-ampresañ;ampres;d1;#galleg;#saozneg
-amprest;amprest;d1;#galleg;#saozneg
-amprestañ;amprest;d1;emprunter;#saozneg
-amprestiñ;amprest;d1;emprunter;#saozneg
-amprou;amprou;d1;éprouver, mettre (qqc/qqn) à l’épreuve, ressentir, subir;#saozneg
-amprouiñ;amprou;d1;éprouver, mettre (qqc/qqn) à l’épreuve, ressentir, subir;#saozneg
-amsaviñ;amsav;d1;remplacer;replace
+aliañ;ali;d1;conseiller, donner conseil, (se) conseiller à quelqu'un (de), (s') allier, (s') unir, (se) joindre, inviter, (se) marier;to advise, to give advice, to recommend oneself to someone (to) form an alliance, to unite, to join, to invite, to marry
+aliañsiñ;aliañs;d1;allier (des familles), (se) marier;to form an alliance (of families), to marry
+alkodiñ;alkod;d1;(s') appuyer, (s') accouder;to lean on, to lean on one's elbows
+almanagiñ;almanag;d1;(s') amalgamer;to amalgamate, to combine, to mix, to lump together
+aloubiñ;aloub;d1;envahir, usurper, accaparer, empiéter;invade, usurp, monopolize, to encroach upon
+alteriñ;alter;d1;délirer;to be delirious
+alumiñ;alum;d1;aluner, faire tremper dans l'alun;#saozneg
+alvaoniñ;alvaon;d1;faire l'ahuri, être ahuri;#saozneg
+alvokadiñ;alvokad;d1;exercer en tant qu'avocat, avocasser;#saozneg
+amaeziñ;amaez;d1;paître, pâturer, mener (les vaches) à paître;#saozneg
+amailhañ;amailh;d1;émailler;to enamel, to punctuate
+amandiñ;amand;d1;amander;#saozneg
+amanennañ;amanenn;d1;se former en beurre, beurrer;to butter
+amariñ;amar;d1;amarrer, lier, attacher;to moor, to bind, to attach
+ambaomiñ;ambaom;d1;embaumer;to embalm
+ambarkiñ;ambark;d1;(s') embarquer;to embark
+ambidañ;ambid;d1;amputer;to amputate
+ambilhañ;ambilh;d1;relier entre eux (les chevaux de l'attelage);to link between them (harness for the horses)
+ambisioniñ;ambision;d1;ambitionner;to aspire to, to aim for
+ambleudiñ;ambleud;d1;fouler (le blé noir) en commun, réduire en miettes, fouler aux pieds;#saozneg
+amboulat;amboul;d1;donner une forme cylindrique (à qqc. de maléable) en le roulant sous la main;#saozneg
+ambreniñ;ambren;d1;délirer, avoir du délire, être en délire, révasser, radoter, réfléchir, (se) demander, (se) tracasser pour qqc,;#saozneg
+ambridañ;ambrid;d1;(se) rengorger, se pavaner, faire le beau;#saozneg
+ambroug;ambroug;d1;reconduire, conduire, mener, accompagner, aller au devant (de), aller à la rencontre (de);#saozneg
+ambuziñ;ambuz;d1;abuser (de), perdre son temps, occuper, déranger, faire perdre le temps, gaspiller, importuner, amuser, séduire, tromper, distraire;#saozneg
+amdroc'hañ;amdroc'h;d1;circoncire, exciser;#saozneg
+ameiñ;ame;d1;embarrasser;#saozneg
+ameniñ;amen;d1;amener (les voiles), mettre à porter de main, calmer, apaiser, adoucir, se modérer, se contenir, se retenir, se tempérer.;#saozneg
+amfraouiñ;amfraou;d1;accentuer, faire ressortir;#saozneg
+amgrediñ;amgred;d1;être incrédule, hésiter, balancer, être irrésolu, être inquiet;#saozneg
+amlivañ;amliv;d1;changer de couleur + (en parlant des récoltes), pâlir;#saozneg
+amoediñ;amoed;d1;perdre la raison, devenir sot, s'affoler, s'éprendre de, s'enticher de;#saozneg
+amonetañ;amonet;d1;exhorter, avertir;#saozneg
+amparañ;ampar;d1;(s') améliorer (?);#saozneg
+ampech;ampech;d1;empêcher, occuper;#saozneg
+ampellañ;ampell;d1;retarder, différer, ajourner;#saozneg
+ampezañ;ampez;d1;empeser;#saozneg
+amplegañ;ampleg;d1;impliquer;to implicate
+ampleriñ;ampler;d1;embarrasser, absorber, occuper l'esprit;to embarass, to absorb, to keep the mind occupiedmind occupied
+ampletiñ;amplet;d1;rendre, préparer, être efficace;to prepare, to be effcient
+ampoezoniñ;ampoezon;d1;empoisonner, empester;to poison, to stink out
+ampognañ;ampogn;d1;empoigner;to grab, to seize
+amportiñ;amport;d1;emporter;to take
+ampresañ;ampres;d1;(Se) hâter, (s') empresser;to hasten, hurry, to scurry
+amprest;amprest;d1;emprunter;to borrow
+amprestañ;amprest;d1;emprunter;to borrow
+amprestiñ;amprest;d1;emprunter;to borrow
+amprou;amprou;d1;éprouver, mettre (qqc/qqn) à l’épreuve, ressentir, subir;to feel, to put (something/someone) to task, to experience, to suffer
+amprouiñ;amprou;d1;éprouver, mettre (qqc/qqn) à l’épreuve, ressentir, subir;to feel, to put (something/someone) to task, to experience, to suffer
+amsaviñ;amsav;d1;remplacer;to replace
 amsellet;amsell;d1;être regardant, avare;#saozneg
-amsellout;amsell;d1;être regardant, avare;#saozneg
-amsentiñ;amsent;d1;être indiscipliné;#saozneg
+amsellout;amsell;d1;être regardant, avare;to be watchful, greedy
+amsentiñ;amsent;d1;être indiscipliné;to be ill-disciplined
 amskogañ;amskog;d1;diffracter;scatter
 amspinañ;amspin;d1;envelopper;wrap, shroud, wrap up, swathe, envelop, envelope
-amstrewiñ;amstrew;d1;#galleg;#saozneg
+amstrewiñ;amstrew;d1;diffuser (la lumière), rendre diffus;to spread (light), to render widespread
 amuin;amuin;d1;#galleg;#saozneg
-amurañ;amur;d1;#galleg;#saozneg
+amurañ;amur;d1;amurer, ameublir;to haul aboard, to break up
 amyezhañ;amyezh;d1;#galleg;#saozneg
-amzereout;amzere;d1;être inconvenant, ne pas convenir;#saozneg
-amzeriadañ;amzeriad;d1;dater;#saozneg
-amzeriñ;amzer;d1;#galleg;#saozneg
-anadiñ;anad;d1;#galleg;#saozneg
-analat;anal;d1;respirer;#saozneg
-analañ;anal;d1;respirer;#saozneg
-anaoudaduriñ;anaoudadur;d1;#galleg;#saozneg
-anaoueañ;anaoue;d1;#galleg;#saozneg
+amzereout;amzere;d1;être inconvenant, ne pas convenir;to be inconvenient, to be inappropriate
+amzeriadañ;amzeriad;d1;dater;to date
+amzeriñ;amzer;d1;attendre, temporiser;to wait
+anadiñ;anad;d1;(se) manifester, transpirer, apercevoir;to manifest, to transpire, to spot
+analat;anal;d1;inspirer, respirer;to draw one's inspiration, to breathe
+analañ;anal;d1;inspirer, respirer;to draw one's inspiration, to breathe
+anaoudaduriñ;anaoudadur;d1;reconnaître, diagnostiquer;to recognize, to diagnose
+anaoueañ;anaoue;d1;anathémiser;to curse, anathematize
 anavat;anav;d1;#galleg;#saozneg
-anavañ;anav;d1;#galleg;#saozneg
-anavezadenniñ;anavezadenn;d1;#galleg;#saozneg
-anavezout;anavez;d1;#galleg;#saozneg
-anañ;an;d1;#galleg;#saozneg
-anchañ;anch;d1;#galleg;#saozneg
-andellat;andell;d1;#galleg;#saozneg
-andellañ;andell;d1;#galleg;#saozneg
-andennañ;andenn;d1;#galleg;#saozneg
-andorenniñ;andorenn;d1;#galleg;#saozneg
-andoriñ;andor;d1;#galleg;#saozneg
-anduriñ;andur;d1;#galleg;#saozneg
-aneriñ;aner;d1;#galleg;#saozneg
+anavañ;anav;d1;diluer, délayer;to dilute, to thin
+anavezadenniñ;anavezadenn;d1;faire une reconnaissance militaire;to salute
+anavezout;anavez;d1;connaître, reconnaître, diagnostiquer;to know, to recognize, to diagnose
+anañ;an;d1;bécoter;to smother with kisses
+anchañ;anch;d1;sillonner, capter;to furrow
+andellat;andell;d1;faner en andains, badiner;#saozneg
+andellañ;andell;d1;(s') en prendre à qqn, l'ennuyer, l'importuner;to have a go at someone, to bore, to disturb
+andennañ;andenn;d1;ranger en andains, cannelé, (agriculture) creuser (un sillon);#saozneg
+andorenniñ;andorenn;d1;abriter;to shelter
+andoriñ;andor;d1;abriter;to shelter
+anduriñ;andur;d1;supporter (qqn, qqc.);to support (someone, something)
+aneriñ;aner;d1;faire des corvées;#saozneg
 anet;an;d1;#galleg;#saozneg
-angellat;angell;d1;#galleg;#saozneg
+angellat;angell;d1;faire la brasse, se propulser, nager, se baigner;#saozneg
 angerc'hañ;angerc'h;d1;#galleg;#saozneg
-anglevout;anglev;d1;#galleg;#saozneg
-anihilañ;anihil;d1;#galleg;#saozneg
-anizañ;aniz;d1;#galleg;#saozneg
+anglevout;anglev;d1;percevoir, sentir, éprouver, ressentir;to perceive, to feel, to experience
+anihilañ;anihil;d1;annihiler;annihilate
+anizañ;aniz;d1;aniser;#saozneg
 aniñ;an;d1;#galleg;#saozneg
-ankelc'hiñ;ankelc'h;d1;#galleg;#saozneg
-anklinañ;anklin;d1;#galleg;#saozneg
-ankontrañ;ankontr;d1;#galleg;#saozneg
+ankelc'hiñ;ankelc'h;d1;rôder autour (de), ensorceler;to prowl (around), to enchant, bewitch
+anklinañ;anklin;d1;faire la révérence, incliner;to curtsey, to tilt
+ankontrañ;ankontr;d1;rencontrer;to meet
 anlestañ;anlest;d1;#galleg;#saozneg
 anneviñ;annev;d1;#galleg;#saozneg
-annezañ;annez;d1;#galleg;#saozneg
-annoazhiñ;annoazh;d1;#galleg;#saozneg
-annodiñ;annod;d1;#galleg;#saozneg
+annezañ;annez;d1;résider, habiter, emménager, s'établir, s'implanter, occuper (un endroit), meubler;to reside, to live in, to move in, to become established, to establish, to occupy (a place), to furnish
+annoazhiñ;annoazh;d1;chagriner, faire subir une vexation;to pain, grieve, to humiliate
+annodiñ;annod;d1;investir;to invest
 annog;annog;d1;#galleg;#saozneg
 ano;an;d1;#galleg;#saozneg
-anoaziñ;anoaz;d1;#galleg;#saozneg
-anouediñ;anoued;d1;#galleg;#saozneg
-ansouezhiñ;ansouezh;d1;#galleg;#saozneg
+anoaziñ;anoaz;d1;froisser, vexer;to hurt, offend, to upset
+anouediñ;anoued;d1;(se) refroidir, prendre froid;to cool down, to get cold
+ansouezhiñ;ansouezh;d1;étonner;to stun, astonish
 antailhañ;antailh;d1;#galleg;#saozneg
-antamiñ;antam;d1;#galleg;#saozneg
-antañ;ant;d1;#galleg;#saozneg
-antellañ;antell;d1;#galleg;#saozneg
-anterinañ;anterin;d1;#galleg;#saozneg
+antamiñ;antam;d1;entamer;to start
+antañ;ant;d1;creuser des sillons pour irriguer;to dig furrows for irrigation
+antellañ;antell;d1;amorcer (piège), (chasse) tendre, dresser (un piège, un filet, etc.);to bait (a trap), (hunting) to set (a trap, a net, etc.)
+anterinañ;anterin;d1;entériner, complètement;to ratify, confirm, entirely
 antidatiñ;antidat;d1;#galleg;#saozneg
-antisipañ;antisip;d1;#galleg;#saozneg
-antoniñ;anton;d1;#galleg;#saozneg
-antreal;antre;d1;#galleg;#saozneg
-antreiñ;antre;d1;#galleg;#saozneg
-antren;antre;d1;#galleg;#saozneg
-antrepren;antrepren;d1;#galleg;#saozneg
-antreteniñ;antreten;d1;#galleg;#saozneg
+antisipañ;antisip;d1;anticiper;to anticipate
+antoniñ;anton;d1;entonner;to start singing
+antreal;antre;d1;entrer, rentrer;to enter, to come in
+antreiñ;antre;d1;entrer, rentrer;to enter, to come in
+antren;antre;d1;entrer, rentrer;to enter, to come in
+antrepren;antrepren;d1;entreprendre;to start, to set about
+antreteniñ;antreten;d1;entretenir (qqn), divertir;to mantain, look after (someone), to entertain, amuse
 anvervañ;anverv;d1;#galleg;#saozneg
-anzav;anzav;d1;#galleg;#saozneg
-aochañ;aoch;d1;#galleg;#saozneg
+anzaviñ;anzav;d1;avouer, convenir;to admit, to agree
+aochañ;aoch;d1;accoster, aborder, caboter;to accost, land, to board, to coast
 aogmañtiñ;aogmañt;d1;#galleg;#saozneg
-aoniñ;aon;d1;#galleg;#saozneg
-aotenniñ;aotenn;d1;#galleg;#saozneg
-aotorizañ;aotoriz;d1;#galleg;#saozneg
-aotreañ;aotre;d1;#galleg;#saozneg
-aotren;aotre;d1;autoriser;allow
-aouriñ;aour;d1;#galleg;#saozneg
-aozañ;aoz;d1;#galleg;#saozneg
-aparailhañ;aparailh;d1;#galleg;#saozneg
-aparchantañ;aparchant;d1;#galleg;#saozneg
-aparisañ;aparis;d1;#galleg;#saozneg
-aparteniñ;aparten;d1;#galleg;#saozneg
-apellañ;apell;d1;#galleg;#saozneg
-aplikañ;aplik;d1;#galleg;#saozneg
-apotumiñ;apotum;d1;#galleg;#saozneg
-apoueañ;apoue;d1;#galleg;#saozneg
-aprantañ;aprant;d1;#galleg;#saozneg
-aprestañ;aprest;d1;#galleg;#saozneg
-aprouiñ;aprou;d1;#galleg;#saozneg
-apuriñ;apur;d1;#galleg;#saozneg
-arabadiñ;arabad;d1;#galleg;#saozneg
-aradennañ;aradenn;d1;#galleg;#saozneg
-arajiñ;araj;d1;#galleg;#saozneg
-arakiñ;arak;d1;#galleg;#saozneg
-arallyezhañ;arallyezh;d1;#galleg;#saozneg
-araogiñ;araog;d1;#galleg;#saozneg
-arastiñ;arast;d1;#galleg;#saozneg
-arat;ar;d1;#galleg;#saozneg
-arbalastrañ;arbalastr;d1;#galleg;#saozneg
-arbarañ;arbar;d1;#galleg;#saozneg
-arbenniñ;arbenn;d1;#galleg;#saozneg
-arboellañ;arboell;d1;#galleg;#saozneg
+aoniñ;aon;d1;apeurer;to frighten
+aotenniñ;aotenn;d1;raser (qqn);to shave (someone)
+aotorizañ;aotoriz;d1;autoriser;to authorize
+aotreañ;aotre;d1;octroyer, autoriser, gratifier, liciter, permettre, agréer;to grant, allocate, to authorize, to give somebody something, to sell, to allow, to agree to
+aotren;aotre;d1;octroyer, autoriser, gratifier, liciter, permettre, agréer;to grant, allocate, to authorize, to give somebody something, to sell, to allow, to agree to
+aouriñ;aour;d1;dorer;to gild
+aozañ;aoz;d1;(s')apprêter (à), préparer, monter, réduire (os), repasser (vêt.), tamiser, préparer (nourriture, repas);to get ready to do, to prepare, to put something up
+aparailhañ;aparailh;d1;appareiller;to match
+aparchantañ;aparchant;d1;avoir trait (à), appartenir;#saozneg
+aparisañ;aparis;d1;apparaître, comparaître;to appear
+aparteniñ;aparten;d1;avoir trait (à), appartenir;#saozneg
+apellañ;apell;d1;(droit) appeler;(law) to call
+aplikañ;aplik;d1;appliquer;to apply
+apotumiñ;apotum;d1;(se) dégoûter (de la nourriture), apostumer;#saozneg
+apoueañ;apoue;d1;appuyer;to lean (on), to rest
+aprantañ;aprant;d1;imprimer;to print
+aprestañ;aprest;d1;apprêter, préparer (un repas, etc.);to be ready to do, to prepare (a meal, etc.)
+aprouiñ;aprou;d1;approuver;to approve
+apuriñ;apur;d1;(pathologie) suppurer;(pathology) to suppurate
+arabadiñ;arabad;d1;importuner;to disturb
+aradennañ;aradenn;d1;(faire) défiler, débiter, narrer longtemps, être longtemps à raconter qqc;#saozneg
+arajiñ;araj;d1;contracter la rage;to contract rabies
+arakiñ;arak;d1;être détraqué;#saozneg
+arallyezhañ;arallyezh;d1;allophoner;to allophone
+araogiñ;araog;d1;(s') avancer, mettre en avant, aller de l'avant;to advance, to bring to the fore, to move forward
+arastiñ;arast;d1;(s') attaquer à qqn, qqc;to attack someone, something
+arat;ar;d1;charruer, filer;#saozneg
+arbalastrañ;arbalastr;d1;tirer à l'arbalète;to fire with a crossbow
+arbarañ;arbar;d1;conditionner (emballer);#saozneg
+arbenniñ;arbenn;d1;(?) discuter (?), objecter;to talk, discuss, to object
+arboellañ;arboell;d1;économiser, épargner, ménager;to save (up), to be careful with, to economize on
 arbouezañ;arbouez;d1;#galleg;#saozneg
-arc'hantaouiñ;arc'hantaou;d1;#galleg;#saozneg
-arc'hantañ;arc'hant;d1;#galleg;#saozneg
+arc'hantaouiñ;arc'hantaou;d1;argenter, réaliser (en argent), capitaliser, commanditer, convertir, réaliser financièrement, convertir en espèce, transformer en argent liquide;argenter, réaliser (en argent), capitaliser, commanditer, convertir, réaliser financièrement, convertir en espèce, transformer en argent liquide
+arc'hantañ;arc'hant;d1;argenter, réaliser (en argent), capitaliser, commanditer, convertir, réaliser financièrement, convertir en espèce, transformer en argent liquide;to silver, to make (in silver), to capitalize, to finance, to convert, to support financially, to convert into cash, to change into ready money
 arc'hantbevañ;arc'hantbev;d1;#galleg;#saozneg
-arc'henañ;arc'hen;d1;#galleg;#saozneg
-arc'hiñ;arc'h;d1;#galleg;#saozneg
-arc'hoprañ;arc'hopr;d1;#galleg;#saozneg
-archediñ;arched;d1;#galleg;#saozneg
-ardamezañ;ardamez;d1;#galleg;#saozneg
-ardaoliñ;ardaol;d1;#galleg;#saozneg
-ardaouiñ;ardaou;d1;#galleg;#saozneg
-ardavañ;ardav;d1;#galleg;#saozneg
-ardevel;ardevel;d1;#galleg;#saozneg
-ardilhañ;ardilh;d1;#galleg;#saozneg
+arc'henañ;arc'hen;d1;chausser (qqn);to provide somebody with shoes
+arc'hiñ;arc'h;d1;postuler, revendiquer;to postulate, to claim
+arc'hoprañ;arc'hopr;d1;primer sur salaire;#saozneg
+archediñ;arched;d1;mettre en bière;#saozneg
+ardamezañ;ardamez;d1;armorier, blasonner;to emblazon
+ardaoliñ;ardaol;d1;attribuer;to attribute
+ardaouiñ;ardaou;d1;faire des façons, faire des manières;#saozneg
+ardavañ;ardav;d1;être sur le point de s'interrompre, mollir, tomber (vent);#saozneg
+ardevel;ardevel;d1;être sur le point de s'interrompre, mollir, tomber (vent);#saozneg
+ardilhañ;ardilh;d1;enduire de terre, luter (chaudron);#saozneg
 ardivinkelañ;ardivinkel;d1;#galleg;#saozneg
 ardreñvat;ardreñv;d1;#galleg;#saozneg
 ardreñviñ;ardreñv;d1;#galleg;#saozneg
 ardroazhañ;ardroazh;d1;#galleg;#saozneg
-aremennañ;aremenn;d1;#galleg;#saozneg
-arestiñ;arest;d1;#galleg;#saozneg
-aretañ;aret;d1;#galleg;#saozneg
-argadenniñ;argadenn;d1;#galleg;#saozneg
-argadiñ;argad;d1;#galleg;#saozneg
-argammediñ;argammed;d1;#galleg;#saozneg
-argaozeal;argaoze;d1;#galleg;#saozneg
-argarzhiñ;argarzh;d1;#galleg;#saozneg
-argas;argas;d1;#galleg;#saozneg
+aremennañ;aremenn;d1;bronzer;to bronze
+arestiñ;arest;d1;arrêter;to stop
+aretañ;aret;d1;(s') arrêter;to stop (oneself)
+argadenniñ;argadenn;d1;attaquer;to attack
+argadiñ;argad;d1;attaquer, chasser en huée;to attack, to hunt in a pack
+argammediñ;argammed;d1;procéder progressivement;#saozneg
+argaozeal;argaoze;d1;gazouiller, en commençant à parler;#saozneg
+argarzhiñ;argarzh;d1;détester, haïr, exécrer;to destest, to hate, to execrate
+argas;argas;d1;chasser, expulser, rejeter, repousser;to hunt, to expel, to reject, to push away
 argazhiñ;argazh;d1;#galleg;#saozneg
 argeflenañ;argeflen;d1;#galleg;#saozneg
 argemmañ;argemm;d1;#galleg;#saozneg
-argerzhaduriñ;argerzhadur;d1;#galleg;#saozneg
-argilañ;argil;d1;#galleg;#saozneg
+argerzhaduriñ;argerzhadur;d1;procédurer;#saozneg
+argilañ;argil;d1;reculer, régresser, rétrograder;to move back,to regress, to retrograde
 argizañ;argiz;d1;#galleg;#saozneg
-arglask;arglask;d1;#galleg;#saozneg
-argouraouiñ;argouraou;d1;#galleg;#saozneg
-argrediñ;argred;d1;#galleg;#saozneg
+arglask;arglask;d1;rechercher, prospecter;to search, to prospect
+argouraouiñ;argouraou;d1;(droit) doter;#saozneg
+argrediñ;argred;d1;présumer, hésiter;to presume, to hesitate
 arguamantiñ;arguamant;d1;#galleg;#saozneg
 arguiñ;argu;d1;#galleg;#saozneg
-arguzenniñ;arguzenn;d1;#galleg;#saozneg
-arguziñ;arguz;d1;#galleg;#saozneg
-arieziñ;ariez;d1;#galleg;#saozneg
+arguzenniñ;arguzenn;d1;argumenter;to argue
+arguziñ;arguz;d1;argumenter, arguer, disputer;to argue, to claim that, to dispute
+arieziñ;ariez;d1;grimacer;to grimace, to force a smile
 arlaouañ;arlaou;d1;#galleg;#saozneg
-arlec'hiñ;arlec'h;d1;#galleg;#saozneg
-arlec'houiñ;arlec'hou;d1;#galleg;#saozneg
-arlediñ;arled;d1;se dilater;#saozneg
-arlivañ;arliv;d1;#galleg;#saozneg
+arlec'hiñ;arlec'h;d1;stopper, racommoder;to stop, to mend
+arlec'houiñ;arlec'hou;d1;aiguiser;to sharpen
+arlediñ;arled;d1;(se) dilater;to dilate
+arlivañ;arliv;d1;nuancer, connoter;to nuance, shade, to connote
 arlougañ;arloug;d1;#galleg;#saozneg
-arloupiñ;arloup;d1;#galleg;#saozneg
-armañ;arm;d1;#galleg;#saozneg
-armerzhañ;armerzh;d1;#galleg;#saozneg
-arneveziñ;arnevez;d1;#galleg;#saozneg
-arneviñ;arnev;d1;#galleg;#saozneg
-arnodenniñ;arnodenn;d1;#galleg;#saozneg
-arnodiñ;arnod;d1;#galleg;#saozneg
+arloupiñ;arloup;d1;(s') acharner;#saozneg
+armañ;arm;d1;adouber, (s') armer;#saozneg
+armerzhañ;armerzh;d1;économiser, épargner, ménager;#saozneg
+arneveziñ;arnevez;d1;moderniser;#saozneg
+arneviñ;arnev;d1;tourner à l'orage, (se) gâter (par l'orage), déteindre, moisir, (météorologie) faire un temps étouffant;#saozneg
+arnodenniñ;arnodenn;d1;examiner (candidat);#saozneg
+arnodiñ;arnod;d1;tenter (q.ch., qun), éprouver, mettre à l'épreuve;#saozneg
 arouelañ;arouel;d1;#galleg;#saozneg
 arouezennañ;arouezenn;d1;#galleg;#saozneg
-aroueziñ;arouez;d1;#galleg;#saozneg
-arouzañ;arouz;d1;#galleg;#saozneg
-arpejañ;arpej;d1;#galleg;#saozneg
+aroueziñ;arouez;d1;signaler, noter;#saozneg
+arouzañ;arouz;d1;arroser;#saozneg
+arpejañ;arpej;d1;faire des arpèges;#saozneg
 arredaoliñ;arredaol;d1;#galleg;#saozneg
-arreic'hiñ;arreic'h;d1;#galleg;#saozneg
-arren;arre;d1;répéter;repeat, rehearse, reiterate, practice, echo, say sth again
+arreic'hiñ;arreic'h;d1;(se) mettre en furreur, (s') emporter;#saozneg
+arren;arre;d1;réitérer, répéter;repeat, rehearse, reiterate, practice, echo, say sth again
 arrerc'hañ;arrerc'h;d1;#galleg;#saozneg
 arrestiñ;arrest;d1;#galleg;#saozneg
 arrevellañ;arrevell;d1;#galleg;#saozneg
-arreziñ;arrez;d1;#galleg;#saozneg
-arrostiñ;arrost;d1;#galleg;#saozneg
-arroudennañ;arroudenn;d1;#galleg;#saozneg
-arsailhañ;arsailh;d1;#galleg;#saozneg
-arsaviñ;arsav;d1;#galleg;#saozneg
+arreziñ;arrez;d1;donner (qqc.) en arrhes, étrenner;#saozneg
+arrostiñ;arrost;d1;acoquiner;#saozneg
+arroudennañ;arroudenn;d1;tracer (un passage);#saozneg
+arsailhañ;arsailh;d1;attaquer, assaillir;#saozneg
+arsaviñ;arsav;d1;cesser;#saozneg
 arsellet;arsell;d1;#galleg;#saozneg
 arsevel;arsevel;d1;#galleg;#saozneg
-arsoc'hañ;arsoc'h;d1;#galleg;#saozneg
-arsodiñ;arsod;d1;#galleg;#saozneg
+arsoc'hañ;arsoc'h;d1;(s') accoutumer (à);#saozneg
+arsodiñ;arsod;d1;abrutir, être un peu fou, un peu sot;#saozneg
 arvalenniñ;arvalenn;d1;#galleg;#saozneg
-arvariñ;arvar;d1;#galleg;#saozneg
-arvellat;arvell;d1;#galleg;#saozneg
+arvariñ;arvar;d1;compromettre, douter, hasarder, hésiter;#saozneg
+arvellat;arvell;d1;provoquer (en paroles), (se) quereller;#saozneg
 arventennañ;arventenn;d1;paramétrer;#saozneg
-arverañ;arver;d1;#galleg;#saozneg
-arvestiñ;arvest;d1;#galleg;#saozneg
-arveuziñ;arveuz;d1;#galleg;#saozneg
+arverañ;arver;d1;user (de), utiliser;#saozneg
+arvestiñ;arvest;d1;veiller (un mourant, un mort);#saozneg
+arveuziñ;arveuz;d1;(audiovisuel) fondre;#saozneg
 arveziñ;arvez;d1;#galleg;#saozneg
 arvrokañ;arvrok;d1;#galleg;#saozneg
-arwerzhañ;arwerzh;d1;#galleg;#saozneg
+arwerzhañ;arwerzh;d1;promotionner, offrir la marchandise pour en sonder le prix;#saozneg
 arzijinañ;arzijin;d1;#galleg;#saozneg
 asainañ;asain;d1;#galleg;#saozneg
-asamblañ;asambl;d1;#galleg;#saozneg
-asantiñ;asant;d1;#galleg;#saozneg
-asasinañ;asasin;d1;#galleg;#saozneg
-asignañ;asign;d1;#galleg;#saozneg
+asamblañ;asambl;d1;assembler;#saozneg
+asantiñ;asant;d1;assentir, consentir, souscrire (à);#saozneg
+asasinañ;asasin;d1;assassiner;#saozneg
+asignañ;asign;d1;asigner;#saozneg
 asikañ;asik;d1;#galleg;#saozneg
-asinañ;asin;d1;#galleg;#saozneg
-asistañ;asist;d1;#galleg;#saozneg
-askañ;ask;d1;#galleg;#saozneg
-askemer;askemer;d1;#galleg;#saozneg
+asinañ;asin;d1;assigner;#saozneg
+asistañ;asist;d1;assister;#saozneg
+askañ;ask;d1;cocher, entailler;#saozneg
+askemer;askemer;d1;reprendre;#saozneg
 askennañ;askenn;d1;#galleg;#saozneg
 askerbiñ;askerb;d1;#galleg;#saozneg
-askloediñ;askloed;d1;#galleg;#saozneg
-askornañ;askorn;d1;#galleg;#saozneg
-askouezhañ;askouezh;d1;#galleg;#saozneg
+askloediñ;askloed;d1;fendre (du bois);#saozneg
+askornañ;askorn;d1;ossifier;#saozneg
+askouezhañ;askouezh;d1;retomber;#saozneg
 askreañ;askre;d1;#galleg;#saozneg
-asodañ;asod;d1;#galleg;#saozneg
-asomañ;asom;d1;#galleg;#saozneg
+asodañ;asod;d1;éblouir, séduire;#saozneg
+asomañ;asom;d1;assommer (au propre);#saozneg
 asortiñ;asort;d1;#galleg;#saozneg
-asotañ;asot;d1;#galleg;#saozneg
-asotiñ;asot;d1;#galleg;#saozneg
-asoupañ;asoup;d1;#galleg;#saozneg
-aspediñ;asped;d1;#galleg;#saozneg
-asplediñ;aspled;d1;#galleg;#saozneg
+asotañ;asot;d1;abêtir, crétiniser;#saozneg
+asotiñ;asot;d1;abêtir, crétiniser;#saozneg
+asoupañ;asoup;d1;broncher (en plt d'un cheval);#saozneg
+aspediñ;asped;d1;invoquer, supplier, conjurer, exhorter;#saozneg
+asplediñ;aspled;d1;appuyer sur la rambarde, (s') accouder;#saozneg
 asrkañ;asrk;d1;#galleg;#saozneg
 assav;assav;d1;relever, rebâtir, restaurer;#saozneg
-astalañ;astal;d1;#galleg;#saozneg
-astellat;astell;d1;#galleg;#saozneg
+astalañ;astal;d1;discontinuer, cesser momentanément (en plt de la pluie);#saozneg
+astellat;astell;d1;garnir d'atelle(s), rayonner (paisseler), remuer le mêloir à bouillie;#saozneg
 astellañ;astell;d1;#galleg;#saozneg
-astellennañ;astellenn;d1;#galleg;#saozneg
-astenn;astenn;d1;#galleg;#saozneg
+astellennañ;astellenn;d1;panser;#saozneg
+astenn;astenn;d1;tendre, étendre, retendre, allonger, rallonger, avancer (la main, de l'argent...), prolonger, coucher, étaler, proroger;#saozneg
 asteuler;asteuler;d1;#galleg;#saozneg
-asteñvañ;asteñv;d1;#galleg;#saozneg
-astiñvañ;astiñv;d1;#galleg;#saozneg
-astommañ;astomm;d1;#galleg;#saozneg
-astuziñ;astuz;d1;#galleg;#saozneg
-asuriñ;asur;d1;#galleg;#saozneg
-atahinañ;atahin;d1;#galleg;#saozneg
-atakiñ;atak;d1;#galleg;#saozneg
-atantiñ;atant;d1;#galleg;#saozneg
+asteñvañ;asteñv;d1;reprendre racine;#saozneg
+astiñvañ;astiñv;d1;régénerer;#saozneg
+astommañ;astomm;d1;réchauffer;#saozneg
+astuziñ;astuz;d1;(se) couvrir de vermine;#saozneg
+asuriñ;asur;d1;assurer (tous sens), affirmer, mettre en sécurité;#saozneg
+atahinañ;atahin;d1;provoquer, taquiner, (s') acharner;#saozneg
+atakiñ;atak;d1;attaquer (popul.);#saozneg
+atantiñ;atant;d1;acclimater (plantes), diriger une exploitation agricole;#saozneg
 atemptiñ;atempt;d1;#galleg;#saozneg
-atersiñ;aters;d1;#galleg;#saozneg
-atestiñ;atest;d1;#galleg;#saozneg
+atersiñ;aters;d1;interroger;#saozneg
+atestiñ;atest;d1;attester;#saozneg
 atifañ;atif;d1;#galleg;#saozneg
-atizañ;atiz;d1;#galleg;#saozneg
-atoriñ;ator;d1;#galleg;#saozneg
+atizañ;atiz;d1;attiser, inciter, instiguer, suggérer;#saozneg
+atoriñ;ator;d1;rescinder;#saozneg
 atrakañ;atrak;d1;#galleg;#saozneg
-atrapañ;atrap;d1;#galleg;#saozneg
+atrapañ;atrap;d1;attraper, capturer;#saozneg
 atredaouiñ;atredaou;d1;#galleg;#saozneg
-atrediñ;atred;d1;#galleg;#saozneg
-atribuiñ;atribu;d1;#galleg;#saozneg
-aunaniñ;aunan;d1;#galleg;#saozneg
-avantajiñ;avantaj;d1;#galleg;#saozneg
-avanturiñ;avantur;d1;#galleg;#saozneg
-avañsañ;avañs;d1;#galleg;#saozneg
-aveiñ;ave;d1;#galleg;#saozneg
-aveliñ;avel;d1;#galleg;#saozneg
-avertisañ;avertis;d1;#galleg;#saozneg
+atrediñ;atred;d1;remblayer, combler;#saozneg
+atribuiñ;atribu;d1;attribuer;#saozneg
+aunaniñ;aunan;d1;mettre d'accord;#saozneg
+avantajiñ;avantaj;d1;avantager;#saozneg
+avanturiñ;avantur;d1;aventurer, hasarder, risquer;#saozneg
+avañsañ;avañs;d1;avancer;#saozneg
+aveiñ;ave;d1;(s') apprêter, (s') atteler, préparer (en plt des repas);#saozneg
+aveliñ;avel;d1;aérer;#saozneg
+avertisañ;avertis;d1;avertir;#saozneg
 aveskellañ;aveskell;d1;#galleg;#saozneg
 avetiñ;avet;d1;#galleg;#saozneg
-aviañ;avi;d1;#galleg;#saozneg
-avielañ;aviel;d1;#galleg;#saozneg
-aviiñ;avi;d1;#galleg;#saozneg
-avizañ;aviz;d1;#galleg;#saozneg
-avortañ;avort;d1;#galleg;#saozneg
-avouiñ;avou;d1;#galleg;#saozneg
-avoultriñ;avoultr;d1;#galleg;#saozneg
-awenañ;awen;d1;#galleg;#saozneg
-azaoueziñ;azaouez;d1;#galleg;#saozneg
-azdoublañ;azdoubl;d1;#galleg;#saozneg
-azenañ;azen;d1;#galleg;#saozneg
-azeuliñ;azeul;d1;#galleg;#saozneg
-azezañ;azez;d1;#galleg;#saozneg
-azgelver;azgelver;d1;#galleg;#saozneg
-azgenel;azgenel;d1;#galleg;#saozneg
-azgoriñ;azgor;d1;#galleg;#saozneg
-azgoulenn;azgoulenn;d1;#galleg;#saozneg
-azgwelout;azgwel;d1;#galleg;#saozneg
-azgwiriñ;azgwir;d1;#galleg;#saozneg
-azlavar;azlavar;d1;#galleg;#saozneg
-azlavaret;azlavar;d1;#galleg;#saozneg
-azlavarout;azlavar;d1;#galleg;#saozneg
+aviañ;avi;d1;envier, jalouser;#saozneg
+avielañ;aviel;d1;évangéliser, bénir (enfant non baptisé);#saozneg
+aviiñ;avi;d1;envier, jalouser;#saozneg
+avizañ;aviz;d1;(s') aviser, opiner;#saozneg
+avortañ;avort;d1;avorter;#saozneg
+avouiñ;avou;d1;avouer;#saozneg
+avoultriñ;avoultr;d1;adultérer, commettre un adultère;#saozneg
+awenañ;awen;d1;inspirer;#saozneg
+azaoueziñ;azaouez;d1;respecter;#saozneg
+azdoublañ;azdoubl;d1;redoubler;#saozneg
+azenañ;azen;d1;ânonner, mettre bas, en plt d'une ânesse;#saozneg
+azeuliñ;azeul;d1;aduler, adorer;#saozneg
+azezañ;azez;d1;(s') asseoir, poser;#saozneg
+azgelver;azgelver;d1;reconvoquer, réappeler (de la voix), réinterpeller;#saozneg
+azgenel;azgenel;d1;renaître, régénérer;#saozneg
+azgoriñ;azgor;d1;former abcès de nouveau;#saozneg
+azgoulenn;azgoulenn;d1;implorer, réclamer, revendiquer, redemander;#saozneg
+azgwelout;azgwel;d1;revoir;to see again
+azgwiriñ;azgwir;d1;reformer un abcès;#saozneg
+azlavar;azlavar;d1;redire;to say again, repeat
+azlavaret;azlavar;d1;redire;to say again, repeat
+azlavarout;azlavar;d1;redire;to say again, repeat
 azneañ;azne;d1;#galleg;#saozneg
-azrannañ;azrann;d1;#galleg;#saozneg
-azrec'hiñ;azrec'h;d1;#galleg;#saozneg
-azverkañ;azverk;d1;#galleg;#saozneg
-azviñ;azv;d1;#galleg;#saozneg
+azrannañ;azrann;d1;subdiviser;to subdivide
+azrec'hiñ;azrec'h;d1;revaincre, convaincre (de nouveau), l'emporter (de nouveau), surmonter (de nouveau), défaire (de nouveau), battre (de nouveau);to vanquish once more
+azverkañ;azverk;d1;contremarquer, marquer une seconde fois;to countermark, mark a second time
+azviñ;azv;d1;mûrir;to ripen
 azvuiadañ;azvuiad;d1;#galleg;#saozneg
-añañ;añ;d1;#galleg;#saozneg
-añchañ;añch;d1;#galleg;#saozneg
-añjinañ;añjin;d1;#galleg;#saozneg
-añkourajiñ;añkouraj;d1;#galleg;#saozneg
-añrejistrañ;añrejistr;d1;#galleg;#saozneg
-añsernañ;añsern;d1;#galleg;#saozneg
+añañ;añ;d1;bécoter;to smother with kisses
+añchañ;añch;d1;sillonner, capter, tirer vers soi;to furrow, harness, pull towards oneself
+añjinañ;añjin;d1;embêter, taquiner;to annoy, to tease
+añkourajiñ;añkouraj;d1;encourager;to encourage
+añrejistrañ;añrejistr;d1;enregistrer;to enter
+añsernañ;añsern;d1;entourer, ceindre, cerner;to surround, to put around
 añtasañ;añtas;d1;#galleg;#saozneg
-babouinañ;babouin;d1;#galleg;#saozneg
-babouzañ;babouz;d1;baver;#saozneg
-bac'haouiñ;bac'haou;d1;pêcher (avec une ligne de fond);#saozneg
-bac'hañ;bac'h;d1;#galleg;#
-bac'hellat;bac'hell;d1;haleter;#saozneg
+babouinañ;babouin;d1;barioler, babouinañ, être stupéfait;#saozneg
+babouzañ;babouz;d1;baver, salir en bavant;to dribble, to make dirty by dribbling
+bac'haouiñ;bac'haou;d1;pêcher (avec une ligne de fond);to fish (with an end line)
+bac'hañ;bac'h;d1;détenir;to hold, to be in possession of
+bac'hellat;bac'hell;d1;haleter;to pant
 bac'hinodañ;bac'hinod;d1;#galleg;#saozneg
-bac'hiñ;bac'h;d1;détenir;#saozneg
-badaouiñ;badaou;d1;étourdir, abasourdir;#saozneg
-badañ;bad;d1;hébéter;#saozneg
+bac'hiñ;bac'h;d1;détenir;to hold, to be in possession of
+badaouiñ;badaou;d1;abasourdir, assommer, avoir des étourdissements, chavirer, étourdir;#saozneg
+badañ;bad;d1;hébéter;to become dull
 badeziñ;badez;d1;baptiser;#saozneg
-badinellañ;badinell;d1;éblouir;#saozneg
-badinelliñ;badinell;d1;#galleg;#saozneg
-bafouañ;bafou;d1;#galleg;#saozneg
+badinellañ;badinell;d1;éblouir, étourdir;#saozneg
+badinelliñ;badinell;d1;éblouir, étourdir;#saozneg
+bafouañ;bafou;d1;bafouer;#saozneg
 bagañ;bag;d1;#galleg;#saozneg
-bageal;bage;d1;naviguer;#saozneg
-bagenodal;bagenod;d1;faire l'idiot;#saozneg
-bahediñ;bahed;d1;#galleg;#saozneg
+bageal;bage;d1;aller en bateau, canoter, naviguer;#saozneg
+bagenodal;bagenod;d1;faire le sot, le niais;#saozneg
+bahediñ;bahed;d1;longer;#saozneg
 bailhañ;bailh;d1;marquer (d’une tâche blanche au front);#saozneg
 baionetezañ;baionetez;d1;se battre à la baïonnette;#saozneg
-bakulañ;bakul;d1;#galleg;#saozneg
+bakulañ;bakul;d1;baculer;#saozneg
 balafennañ;balafenn;d1;papillonner;#saozneg
-balansañ;balans;d1;#galleg;#saozneg
-balastrañ;balastr;d1;ballaster;#saozneg
-balat;bal;d1;danser le bal;#saozneg
-balañsiñ;balañs;d1;équilibrer;#saozneg
+balansañ;balans;d1;(se) balancer;#saozneg
+balastrañ;balastr;d1;ballaster, barbouiller, plâtrer;#saozneg
+balat;bal;d1;baller, danser le bal;#saozneg
+balañsiñ;balañs;d1;(se) balancer, équilibrer;#saozneg
 balbiñ;balb;d1;altérer, donner soif;#saozneg
-balbouzañ;balbouz;d1;bredouiller;#saozneg
-bale;bale;d1;se promener;#saozneg
-baleadenniñ;baleadenn;d1;se promener;#saozneg
-balegiñ;baleg;d1;faire saillie;#saozneg
-balirañ;balir;d1;saillir;#saozneg
+balbouzañ;balbouz;d1;bredouiller, balbutier, bafouiller;#saozneg
+bale;bale;d1;marche, action de marcher, se promener, cheminer, marcher;#saozneg
+baleadenniñ;baleadenn;d1;(se) promener;#saozneg
+balegiñ;baleg;d1;faire saillie, saillir;#saozneg
+balirañ;balir;d1;surplomber;#saozneg
 balizennañ;balizenn;d1;baliser;#saozneg
 ballinañ;ballin;d1;bâcher;#saozneg
 balodiñ;balod;d1;mettre en ballot;#saozneg
-baltriñ;baltr;d1;battre (la terre);#saozneg
+baltriñ;baltr;d1;battre (la terre), piler (la terre), fouler (la terre, etc.);#saozneg
 balzamañ;balzam;d1;embaumer;#saozneg
-bamañ;bam;d1;charmer;#saozneg
-bambochal;bamboch;d1;faire l afete;#saozneg
-bamiñ;bam;d1;charmer;#saozneg
-bandennañ;bandenn;d1;#galleg;#saozneg
-bangounellat;bangounell;d1;#galleg;#saozneg
+bamañ;bam;d1;émerveiller, étonner, admirer, enchanter, ensorceler, ravir, stupéfier, charmer;#saozneg
+bambochal;bamboch;d1;bambocher, faire la fête;#saozneg
+bamiñ;bam;d1;émerveiller, étonner, admirer, enchanter, ensorceler, ravir, stupéfier, charmer;#saozneg
+bandennañ;bandenn;d1;bander (les yeux, une plaie, etc.);#saozneg
+bangounellat;bangounell;d1;baiser, catapulter, pomper;#saozneg
 bankejal;bankej;d1;#galleg;#saozneg
 banketal;banket;d1;#galleg;#saozneg
-banktitlañ;banktitl;d1;#galleg;#saozneg
-bannañ;bann;d1;#galleg;#saozneg
-bannielañ;banniel;d1;#galleg;#saozneg
-bannikat;bannik;d1;jongler;#saozneg
-bantañ;bant;d1;#galleg;#saozneg
-banvezañ;banvez;d1;#galleg;#saozneg
-baomiñ;baom;d1;#galleg;#saozneg
-baotañ;baot;d1;#galleg;#saozneg
-baratañ;barat;d1;#galleg;#saozneg
-barbilhat;barbilh;d1;#galleg;#saozneg
-barbotiñ;barbot;d1;#galleg;#saozneg
-barbouellañ;barbouell;d1;#galleg;#saozneg
-barbouilhañ;barbouilh;d1;#galleg;#saozneg
+banktitlañ;banktitl;d1;(audiovisuel) banc-titrer;#saozneg
+bannañ;bann;d1;lancer, projeter, (se) déséquilibrer, jeter en l'air, publier, ébruiter;#saozneg
+bannielañ;banniel;d1;pavoiser;#saozneg
+bannikat;bannik;d1;jongler, lancer (en jonglant), boire à petits coups;#saozneg
+bantañ;bant;d1;bander, brandir, braquer, tendre;#saozneg
+banvezañ;banvez;d1;banqueter, festoyer, régaler;#saozneg
+baomiñ;baom;d1;embaumer;#saozneg
+baotañ;baot;d1;bomber, donner l'aspect d'une tortue (à);#saozneg
+baratañ;barat;d1;barater, faire de la baraterie;#saozneg
+barbilhat;barbilh;d1;bavarder, babiller;#saozneg
+barbotiñ;barbot;d1;barboter, bavarder de choses insignifiantes;#saozneg
+barbouellañ;barbouell;d1;barbouiller;#saozneg
+barbouilhañ;barbouilh;d1;barbouiller;#saozneg
 bardellat;bardell;d1;#galleg;#saozneg
-bardellañ;bardell;d1;#galleg;#saozneg
+bardellañ;bardell;d1;barricader; mettre un rebord (à);#saozneg
 bargediñ;barged;d1;planer, badauder;#saozneg
 bargegnat;bargegn;d1;#galleg;#saozneg
 barlennañ;barlenn;d1;tenir sur ses genoux, rapiécer aux genoux;#saozneg
@@ -740,33 +730,33 @@ barrskubañ;barrskub;d1;brosser;#saozneg
 barrskuberañ;barrskuber;d1;brosser;#saozneg
 barrstrakal;barrstrak;d1;faire un très mauvais temps;#saozneg
 barvenniñ;barvenn;d1;se hérisser de poils de barbe;#saozneg
-basañ;bas;d1;#galleg;#saozneg
-basnegañ;basneg;d1;#galleg;#saozneg
-bastardiñ;bastard;d1;#galleg;#saozneg
-bastañ;bast;d1;#galleg;#saozneg
-bastrouilhañ;bastrouilh;d1;#galleg;#saozneg
-bastrouilhiñ;bastrouilh;d1;salir;#saozneg
-batalmañ;batalm;d1;#galleg;#saozneg
-batañ;bat;d1;#galleg;#saozneg
-batelliñ;batell;d1;#galleg;#saozneg
-batisañ;batis;d1;#galleg;#saozneg
-batorelliñ;batorell;d1;#galleg;#saozneg
-batouilhat;batouilh;d1;#galleg;#saozneg
-batrouzañ;batrouz;d1;#galleg;#saozneg
+basañ;bas;d1;bâter, battre (le lait, les oeufs, la pâte);#saozneg
+basnegañ;basneg;d1;Parler basque;#saozneg
+bastardiñ;bastard;d1;(s') abâtardir;#saozneg
+bastañ;bast;d1;suffire, pourvoir, fournir;#saozneg
+bastrouilhañ;bastrouilh;d1;barbouiller, salir;#saozneg
+bastrouilhiñ;bastrouilh;d1;barbouiller, salir;#saozneg
+batalmañ;batalm;d1;lancer avec une fronde;#saozneg
+batañ;bat;d1;battre, hébéter, (s') évanouir;#saozneg
+batelliñ;batell;d1;étourdir, causer un étourdissement;#saozneg
+batisañ;batis;d1;bâtir;#saozneg
+batorelliñ;batorell;d1;sonner (qun), étourdir;#saozneg
+batouilhat;batouilh;d1;bafouiller;#saozneg
+batrouzañ;batrouz;d1;préparer la bouillie en mêlant lait et farine; (fam.) cochonner (un travail);#saozneg
 bavañ;bav;d1;engourdir;#saozneg
 bazailhat;bazailh;d1;bailler;#saozneg
 bazhañ;bazh;d1;garnir de barreaux;#saozneg
-bazhiñ;bazh;d1;#galleg;#saozneg
+bazhiñ;bazh;d1;(se) former, en plt de la tige d'une plante;#saozneg
 bazhouliñ;bazhoul;d1;former des pousses (d’oseille), monter en tige;#saozneg
 bazhvalaniñ;bazhvalan;d1;faire l’entremetteur;#saozneg
 bazhyevañ;bazhyev;d1;subjuguer (soumettre);#saozneg
 beajiñ;beaj;d1;voyager;#saozneg
 bebeilpennañ;ebeilpenn;d1;mettre sens dessus dessous, mettre en bazard;#saozneg
-begadiñ;begad;d1;embecquer, poindre;#saozneg
+begadiñ;begad;d1;abecquer, embecquer, poindre;#saozneg
 begañ;beg;d1;mettre une pointe, piquer, mordre, émouvoir, affliger;#saozneg
-begennañ;begenn;d1;former pointe;#saozneg
+begennañ;begenn;d1;former pointe, former l'élite;#saozneg
 beginañ;egin;d1;mettre en deuil;#saozneg
-begiviniñ;begivin;d1;buter, trébucher;#saozneg
+begiviniñ;begivin;d1;buter, trébucher, broncher (cheval);#saozneg
 begsec'hañ;egsec'h;d1;sécher du bout (plantes);#saozneg
 beilhañ;beilh;d1;veiller;#saozneg
 bekal;bek;d1;picorer;#saozneg
@@ -780,840 +770,840 @@ bellañ;bell;d1;batailler;#saozneg
 benañ;ben;d1;tailler la pierre;#saozneg
 bennigañ;bennig;d1;bénir;#saozneg
 beogal;beog;d1;beugler;#saozneg
-beoniñ;beon;d1;couper à l’étrape;#saozneg
-beradañ;berad;d1;#galleg;#saozneg
+beoniñ;beon;d1;couper à l’étrape, étraper;#saozneg
+beradañ;berad;d1;goutter, (s') égoutter;#saozneg
 beradiñ;berad;d1;goutter;#saozneg
 beraouañ;beraou;d1;embrocher (un crapaud);#saozneg
-berañ;ber;d1;s’égouter;#saozneg
+berañ;ber;d1;(s’) égouter;#saozneg
 berediñ;bered;d1;porter au cimetière;#saozneg
 berenniñ;berenn;d1;se liquéfier;#saozneg
 berlañchañ;berlañch;d1;croiser (des animaux);#saozneg
 berlobiañ;berlobi;d1;déraisonner, dérailler;#saozneg
-berlutiñ;berlut;d1;#galleg;#saozneg
-berranalañ;berranal;d1;être hors d’haleine;#saozneg
-berrdaolennañ;berrdaolenn;d1;#galleg;#saozneg
-berridañ;berrid;d1;#galleg;#saozneg
+berlutiñ;berlut;d1;éblouir, être ébloui;#saozneg
+berranalañ;berranal;d1;être hors d’haleine, être asthmatique;#saozneg
+berrdaolennañ;berrdaolenn;d1;faire une description sommaire;#saozneg
+berridañ;berrid;d1;mettre une allonge à un vêtement;#saozneg
 berrsellout;berrsell;d1;être regardant;#saozneg
 berrskrivañ;berrskriv;d1;sténographier;#saozneg
-berrzastum;berrzastum;d1;#galleg;#saozneg
+berrzastum;berrzastum;d1;récapituler;#saozneg
 berviñ;berv;d1;bouillir;#saozneg
 berzañ;berz;d1;interdire;#saozneg
-berziñ;berz;d1;interdire;#saozneg
-beskañ;besk;d1;tronquer, courtauder;#saozneg
-beskellañ;beskell;d1;biaiser;#saozneg
-beskornañ;beskorn;d1;enlever une corne;#saozneg
-besteodiñ;besteod;d1;bredouiller;#saozneg
+berziñ;berz;d1;interdire, moquer, railler;#saozneg
+beskañ;besk;d1;écouer, tronquer, courtauder;#saozneg
+beskellañ;beskell;d1;biaiser, obliquer (vannetais);#saozneg
+beskornañ;beskorn;d1;enlever une corne, écorner (bovins);#saozneg
+besteodiñ;besteod;d1;bredouiller, balbutier, bafouiller, bégayer;#saozneg
 beugal;beug;d1;roter;#saozneg
-beulkeañ;beulke;d1;hébéter;#saozneg
-beuzelat;beuzel;d1;#galleg;#saozneg
+beulkeañ;beulke;d1;hébéter, rendre stupide;#saozneg
+beuzelat;beuzel;d1;bouser;#saozneg
 beuzetat;beuzet;d1;être oisif;#saozneg
-beuziñ;beuz;d1;se noyer, noyer;#saozneg
+beuziñ;beuz;d1;couler, (se) noyer, inonder, submerger;#saozneg
 bevañ;bev;d1;vivre, nourrir;#saozneg
 bevañ-bevaik;bevañ-bevaik;d1;#galleg;#saozneg
 bevegenniñ;bevegenn;d1;vivoter;#saozneg
-bevennañ;bevenn;d1;border;#saozneg
-bevenniñ;bevenn;d1;#galleg;#saozneg
+bevennañ;bevenn;d1;border, panser, restreindre;#saozneg
+bevenniñ;bevenn;d1;aviver. bander, limiter, panser (une plaie);#saozneg
 bevezañ;bevez;d1;consommer, absorber, dissoudre;#saozneg
 beveziñ;bevez;d1;consommer, absorber, dissoudre;#saozneg
 bevhilgenniñ;bevhilgenn;d1;vivoter;#saozneg
 bevskejañ;bevskej;d1;faire une vivisection;#saozneg
-bezañ;bez;d1;#galleg;#saozneg
-bezhinañ;bezhin;d1;#galleg;#saozneg
-biezañ;biez;d1;#galleg;#saozneg
+bezañ;bez;d1;être, exister;#saozneg
+bezhinañ;bezhin;d1;amender avec du goémon (agriculture);#saozneg
+biezañ;biez;d1;biaiser;#saozneg
 bigodal;bigod;d1;faire le bigot;#saozneg
-bilbilhat;bilbilh;d1;#galleg;#saozneg
+bilbilhat;bilbilh;d1;s'écouler goutte à goutte, filtrer;#saozneg
 bilhetañ;bilhet;d1;#galleg;#saozneg
-bilhiñ;bilh;d1;baillonner;#saozneg
-bilirazañ;biliraz;d1;#galleg;#saozneg
-bindedañ;binded;d1;peser au trébuchet;#saozneg
-biniaouañ;biniaou;d1;#galleg;#saozneg
-binimañ;binim;d1;s’infecter;#saozneg
-binnigañ;binnig;d1;#galleg;#saozneg
-binnizien;binnig;d1;#galleg;#saozneg
+bilhiñ;bilh;d1;bâillonner, mandriner, rosser, tirer au sort;#saozneg
+bilirazañ;biliraz;d1;bétonner;#saozneg
+bindedañ;binded;d1;peser au trébuchet, trébucher (peser);#saozneg
+biniaouañ;biniaou;d1;sonner/jouer du binioù;#saozneg
+binimañ;binim;d1;(s') infecter, envenimer, empoisonner;#saozneg
+binnigañ;binnig;d1;bénir;#saozneg
+binnizien;binnig;d1;bénir;#saozneg
 bioc'hennañ;bioc'henn;d1;bruire;#saozneg
-birvilhañ;birvilh;d1;s’agiter;#saozneg
-birviñ;birv;d1;#galleg;#saozneg
-bisac'hañ;bisac'h;d1;mendier;#saozneg
-biskanañ;biskan;d1;#galleg;#saozneg
-biskañ;bisk;d1;#galleg;#saozneg
-biskoulañ;biskoul;d1;#galleg;#saozneg
-bitadiñ;bitad;d1;#galleg;#saozneg
-bitailhañ;bitailh;d1;ravitailler;#saozneg
-bitailhiñ;bitailh;d1;ravitailler;#saozneg
-bitellat;bitell;d1;bricoler;#saozneg
-bizat;biz;d1;#galleg;#saozneg
-bizañ;biz;d1;#galleg;#saozneg
-bizibulañ;bizibul;d1;#galleg;#saozneg
-bizieziñ;biziez;d1;#galleg;#saozneg
-bizitañ;bizit;d1;#galleg;#saozneg
-bizodellañ;bizodell;d1;#galleg;#saozneg
-bizskrivañ;bizskriv;d1;#galleg;#saozneg
+birvilhañ;birvilh;d1;(s') agiter, animer, émoustiller, enthousiasmer, frémir (eau);#saozneg
+birviñ;birv;d1;bouillir, faire bouillir (un liquide);#saozneg
+bisac'hañ;bisac'h;d1;mendier, porter une besace;#saozneg
+biskanañ;biskan;d1;endêver, rouspéter;#saozneg
+biskañ;bisk;d1;endêver, rouspéter, éprouver du dépit, de la mauvaise humeur;#saozneg
+biskoulañ;biskoul;d1;être attaqué par des chenilles (plantes ?);#saozneg
+bitadiñ;bitad;d1;faire des petits tas, mettre en petit tas;#saozneg
+bitailhañ;bitailh;d1;avitailler, (se) ravitailler;#saozneg
+bitailhiñ;bitailh;d1;avitailler, (se) ravitailler;#saozneg
+bitellat;bitell;d1;bricoler, (s') occuper de choses sans importances;#saozneg
+bizat;biz;d1;donner à manger avec le doigt à un petit enfant;#saozneg
+bizañ;biz;d1;viser, décider (de);#saozneg
+bizibulañ;bizibul;d1;jouer au jeu du tison, jouer avec des tisons enflammés;#saozneg
+bizieziñ;biziez;d1;biaiser;#saozneg
+bizitañ;bizit;d1;visiter, faire passer une visite, ausculter, rendre visite (à qqn);#saozneg
+bizodellañ;bizodell;d1;avoir le vertige;#saozneg
+bizskrivañ;bizskriv;d1;dactylographier, saisir;#saozneg
 biñsañ;biñs;d1;visser;#saozneg
-blamañ;blam;d1;#galleg;#saozneg
-blasc'hoarzhin;blasc'hoarzhin;d1;#galleg;#saozneg
-blasfemañ;blasfem;d1;#galleg;#saozneg
+blamañ;blam;d1;blâmer;#saozneg
+blasc'hoarzhin;blasc'hoarzhin;d1;sourire;#saozneg
+blasfemañ;blasfem;d1;blasphémer;#saozneg
 blazañ;blaz;d1;avoir goût, déguster, goûter, GW: odorer, puer;#saozneg
 blaziñ;blaz;d1;avoir goût, déguster, goûter, GW: odorer, puer;#saozneg
-blechat;blech;d1;#galleg;#saozneg
-bleinañ;blein;d1;#galleg;#saozneg
-bleizañ;bleiz;d1;#galleg;#saozneg
-bleiziñ;bleiz;d1;#galleg;#saozneg
-blejal;blej;d1;beugler;#saozneg
-blesañ;bles;d1;#galleg;#saozneg
-bleudañ;bleud;d1;#galleg;#saozneg
-bleuñviñ;bleuñv;d1;#galleg;#saozneg
-blinkañ;blink;d1;#galleg;#saozneg
-bloaziadañ;bloaziad;d1;#galleg;#saozneg
-blodañ;blod;d1;caler;#saozneg
-blokal;blokal;d1;#galleg;#saozneg
-blotañ;blot;d1;#galleg;#saozneg
-bloueañ;bloue;d1;#galleg;#saozneg
-bloñsañ;bloñs;d1;#galleg;#saozneg
-boazañ;boaz;d1;#galleg;#saozneg
-boazetat;boazet;d1;#galleg;#saozneg
-bodadennañ;bodadenn;d1;#galleg;#saozneg
-bodadiñ;bodad;d1;#galleg;#saozneg
-bodañ;bod;d1;#galleg;#saozneg
-bodellañ;bodell;d1;#galleg;#saozneg
-bodennañ;bodenn;d1;#galleg;#saozneg
-boemañ;boem;d1;#galleg;#saozneg
-bogodennañ;bogodenn;d1;#galleg;#saozneg
-bogodiñ;bogod;d1;#galleg;#saozneg
+blechat;blech;d1;prendre en traître, maltraîter;#saozneg
+bleinañ;blein;d1;conduire, guider;#saozneg
+bleizañ;bleiz;d1;louveter, incendier (d'injures);#saozneg
+bleiziñ;bleiz;d1;louveter, incendier (d'injures);#saozneg
+blejal;blej;d1;brailler, chialer, gueuler, (en plt des bovins) beugler, meugler, mugir, bramer;#saozneg
+blesañ;bles;d1;blesser;#saozneg
+bleudañ;bleud;d1;fariner, enfariner, blettir;#saozneg
+bleuñviñ;bleuñv;d1;fleurir (être en fleurs);#saozneg
+blinkañ;blink;d1;bigler, cligner des yeux, clignoter;#saozneg
+bloaziadañ;bloaziad;d1;dater de l'année, millésimer;#saozneg
+blodañ;blod;d1;caler, amollir, ramollir;#saozneg
+blokal;blokal;d1;bloquer;#saozneg
+blotañ;blot;d1;amollir, ramollir;#saozneg
+bloueañ;bloue;d1;mettre en pelote;#saozneg
+bloñsañ;bloñs;d1;blesser, meurtrir;#saozneg
+boazañ;boaz;d1;(s') habituer, accoutumer;#saozneg
+boazetat;boazet;d1;(s’) habituer;#saozneg
+bodadennañ;bodadenn;d1;réunir, assembler (des personnes);#saozneg
+bodadiñ;bodad;d1;(s') assembler;#saozneg
+bodañ;bod;d1;mettre en touffe, réunir, assembler, démolir, cambrer;#saozneg
+bodellañ;bodell;d1;mettre en gerbier (le blé noir);#saozneg
+bodennañ;bodenn;d1;(s') assembler, (s') attrouper, (se) rallier (en masse compacte), (se) ramifier, recueillir (qun);#saozneg
+boemañ;boem;d1;charmer, ensorceler, (s') émerveiller, abasourdir, égarer;#saozneg
+bogodennañ;bogodenn;d1;détourner (de l'argent), faire sa bourse en détournant de l'argent;#saozneg
+bogodiñ;bogod;d1;détourner (de l'argent);#saozneg
 boikotiñ;boikot;d1;boycotter;#saozneg
 bokediñ;boked;d1;fleurir;#saozneg
 bolbosañ;bolbos;d1;cabosser;#saozneg
-bolc'hennañ;bolc'henn;d1;#galleg;#saozneg
+bolc'hennañ;bolc'henn;d1;encapsuler;#saozneg
 boleat;ole;d1;carillonner;#saozneg
-boleañ;ole;d1;carillonner;#saozneg
+boleañ;ole;d1;carillonner, sonner (les cloches) à toute volée;#saozneg
 bolodiñ;bolod;d1;se renvoyer la balle;#saozneg
-bolzañ;bolz;d1;#galleg;#saozneg
-bombardañ;bombard;d1;#galleg;#saozneg
-bombardiñ;bombard;d1;#galleg;#saozneg
-bombezañ;bombez;d1;#galleg;#saozneg
-bommañ;bomm;d1;#galleg;#saozneg
-bondisañ;bondis;d1;#galleg;#saozneg
-bonegañ;boneg;d1;#galleg;#saozneg
-bonnañ;bonn;d1;#galleg;#saozneg
-bontañ;bont;d1;#galleg;#saozneg
-borc'hañ;borc'h;d1;#galleg;#saozneg
-bordañ;bord;d1;#galleg;#saozneg
+bolzañ;bolz;d1;voûter, buser, cintrer, entamer, (en parlant d'un mur) se bomber, bouffer;#saozneg
+bombardañ;bombard;d1;bombarder, jouer de la bombarde;#saozneg
+bombardiñ;bombard;d1;bombarder, jouer de la bombarde;#saozneg
+bombezañ;bombez;d1;bombarder;#saozneg
+bommañ;bomm;d1;battre (la mesure), jaillir, éclater, (se) retourner (sillon);#saozneg
+bondisañ;bondis;d1;bondire;#saozneg
+bonegañ;boneg;d1;coder, crypter, chiffrer;#saozneg
+bonnañ;bonn;d1;borner, délimiter, aborner, mettre des bornes (à un terrain);#saozneg
+bontañ;bont;d1;boucher qqc (d'une bonde), constiper (bêtes);#saozneg
+borc'hañ;borc'h;d1;secréter;#saozneg
+bordañ;bord;d1;border;#saozneg
 bordeal;borde;d1;tirer des bordées;#saozneg
-bordilhañ;bordilh;d1;#galleg;#saozneg
+bordilhañ;bordilh;d1;grouiller, pulluler;#saozneg
 borignal;borign;d1;éborgner;#saozneg
-bosañ;bos;d1;#galleg;#saozneg
-boseal;bose;d1;briser;#saozneg
-bosigellat;bosigell;d1;#galleg;#saozneg
-bosigernañ;bosigern;d1;#galleg;#saozneg
-bosilhañ;bosilh;d1;#galleg;#saozneg
-botaouiñ;botaou;d1;#galleg;#saozneg
+bosañ;bos;d1;bosseler, boutonner, abattre (des animaux);#saozneg
+boseal;bose;d1;briser/casser (des mottes de terre), émotter;#saozneg
+bosigellat;bosigell;d1;(se) bosseler;#saozneg
+bosigernañ;bosigern;d1;bossuer, bosseler, faire une bosse à qqn;#saozneg
+bosilhañ;bosilh;d1;dégrossir les ardoises;#saozneg
+botaouiñ;botaou;d1;chausser, botter;#saozneg
 boubañsiñ;boubañs;d1;#galleg;#saozneg
-bouboual;boubou;d1;bourdonner;#saozneg
-bouc'halañ;bouc'hal;d1;#galleg;#saozneg
-bouc'hañ;bouc'h;d1;#galleg;#saozneg
-bouchañ;bouch;d1;#galleg;#saozneg
-bouchezañ;bouchez;d1;#galleg;#saozneg
-boudal;boud;d1;bourdonner;#saozneg
-boudañ;boud;d1;#galleg;#saozneg
-boudinellañ;boudinell;d1;#galleg;#saozneg
-boufañ;bouf;d1;#galleg;#saozneg
-bouilhasañ;bouilhas;d1;#galleg;#saozneg
-bouilhañ;bouilh;d1;#galleg;#saozneg
-bouklañ;boukl;d1;#galleg;#saozneg
-bouktraezhiñ;bouktraezh;d1;#galleg;#saozneg
-boulañ;boul;d1;#galleg;#saozneg
-boulc'hañ;boulc'h;d1;#galleg;#saozneg
-boulinañ;boulin;d1;#galleg;#saozneg
+bouboual;boubou;d1;bourdonner, murmurer (de façon sourde et continue);#saozneg
+bouc'halañ;bouc'hal;d1;équarrir (du bois);#saozneg
+bouc'hañ;bouc'h;d1;caler, rester court, s'arrêter;#saozneg
+bouchañ;bouch;d1;embrasser, baiser;#saozneg
+bouchezañ;bouchez;d1;froisser, chiffonner;#saozneg
+boudal;boud;d1;bourdonner, beugler;#saozneg
+boudañ;boud;d1;tomber en panne;#saozneg
+boudinellañ;boudinell;d1;bourdonner, tinter;#saozneg
+boufañ;bouf;d1;bouffer (gonfler), enfler;#saozneg
+bouilhasañ;bouilhas;d1;gemmer, jeter, donner de nouvelles branches;#saozneg
+bouilhañ;bouilh;d1;pétiller;#saozneg
+bouklañ;boukl;d1;boucler;#saozneg
+bouktraezhiñ;bouktraezh;d1;(s') enliser;#saozneg
+boulañ;boul;d1;(au jeu de boules) taper (sur le cochonnet);#saozneg
+boulc'hañ;boulc'h;d1;entamer, effleurer, déflorer;#saozneg
+boulinañ;boulin;d1;bouliner;#saozneg
 bouljal;boulj;d1;bouger;#saozneg
-bouljin;boulj;d1;bouger;#saozneg
-boulouardañ;boulouard;d1;#galleg;#saozneg
-boulzuañ;boulzu;d1;#galleg;#saozneg
+bouljiñ;boulj;d1;bouger;#saozneg
+boulouardañ;boulouard;d1;boulevarder;#saozneg
+boulzuañ;boulzu;d1;blackbouler;#saozneg
 bouneac'hiñ;bouneac'h;d1;#galleg;#saozneg
-bountañ;bount;d1;#galleg;#saozneg
-bourboazhañ;bourboazh;d1;#galleg;#saozneg
-bourbonenniñ;bourbonenn;d1;#galleg;#saozneg
-bourbouilhat;bourbouilh;d1;#galleg;#saozneg
-bourbouilhañ;bourbouilh;d1;#galleg;#saozneg
-bourboutal;bourbout;d1;marmotter;#saozneg
-bourdañ;bourd;d1;#galleg;#saozneg
-bourdigellat;bourdigell;d1;#galleg;#saozneg
-bourellañ;bourell;d1;#galleg;#saozneg
-bourouañ;bourou;d1;#galleg;#saozneg
-bourouellat;bourouell;d1;#galleg;#saozneg
+bountañ;bount;d1;pousser (tous sens), bouter, bouturer, fourrer, rancir (beurre);#saozneg
+bourboazhañ;bourboazh;d1;cuire à moitié;#saozneg
+bourbonenniñ;bourbonenn;d1;(se) couvrir de pustules;#saozneg
+bourbouilhat;bourbouilh;d1;bouillonner, barboter, gargouiller;#saozneg
+bourbouilhañ;bourbouilh;d1;barboter, friller;#saozneg
+bourboutal;bourbout;d1;marmotter, murmurer, grommeler (de mécontement), ronchonner;#saozneg
+bourdañ;bourd;d1;tromper, feinter (qqn);#saozneg
+bourdigellat;bourdigell;d1;faire des blagues, des farces;#saozneg
+bourellañ;bourell;d1;bourrer, capitonner, garnir, rembourrer;#saozneg
+bourouañ;bourou;d1;bruire;#saozneg
+bourouellat;bourouell;d1;babiller, raser (qun), rebattre les oreilles;#saozneg
 bourouilhañ;bourouilh;d1;#galleg;#saozneg
-bourrañ;bourr;d1;#galleg;#saozneg
-bouskalmiñ;bouskalm;d1;#galleg;#saozneg
-boutailhañ;boutailh;d1;#galleg;#saozneg
-boutañ;bout;d1;#galleg;#saozneg
-boutegañ;bouteg;d1;#galleg;#saozneg
-boutellañ;boutell;d1;#galleg;#saozneg
-boutinañ;boutin;d1;#galleg;#saozneg
-boutizellañ;boutizell;d1;#galleg;#saozneg
-boutonañ;bouton;d1;#galleg;#saozneg
-bouzarañ;bouzar;d1;#galleg;#saozneg
-brabañsal;brabañs;d1;#galleg;#saozneg
-brac'hitellat;brac'hitell;d1;#galleg;#saozneg
-bradelliñ;bradell;d1;#galleg;#saozneg
-braeat;brae;d1;#galleg;#saozneg
-braeañ;brae;d1;#galleg;#saozneg
-braellañ;braell;d1;#galleg;#saozneg
-bragal;brag;d1;#galleg;#saozneg
-bragaouañ;bragaou;d1;#galleg;#saozneg
-bragezañ;bragez;d1;#galleg;#saozneg
-brageziñ;bragez;d1;#galleg;#saozneg
-brailhat;brailh;d1;#galleg;#saozneg
-brakañ;brak;d1;#galleg;#saozneg
-brallañ;brall;d1;#galleg;#saozneg
-brammat;bramm;d1;#galleg;#saozneg
-brammellat;brammell;d1;#galleg;#saozneg
-branellat;branell;d1;#galleg;#saozneg
-branellañ;branell;d1;#galleg;#saozneg
-brankañ;brank;d1;#galleg;#saozneg
-brankodiñ;brankod;d1;#galleg;#saozneg
-braouac'hiñ;braouac'h;d1;#galleg;#saozneg
-brasjediñ;brasjed;d1;calculer en gros;#saozneg
-braskannañ;braskann;d1;#galleg;#saozneg
-braskontañ;braskont;d1;#galleg;#saozneg
-braslenn;braslenn;d1;parcourir, lire rapidement;#saozneg
-braslinennañ;braslinenn;d1;#galleg;#saozneg
-brasparediñ;braspared;d1;#galleg;#saozneg
-braspoazhañ;braspoazh;d1;#galleg;#saozneg
-braspouezañ;braspouez;d1;#galleg;#saozneg
-brasprizañ;braspriz;d1;#galleg;#saozneg
-brasrodellañ;brasrodell;d1;#galleg;#saozneg
-brasskeudenniñ;brasskeudenn;d1;#galleg;#saozneg
-brastaolenniñ;brastaolenn;d1;#galleg;#saozneg
+bourrañ;bourr;d1;aimer, (se) complaire, (se) délecter (à ...), apprécier, jouir, prendre plaisir, plaire;#saozneg
+bouskalmiñ;bouskalm;d1;émonder;#saozneg
+boutailhañ;boutailh;d1;embouteiller, mettre en bouteille;#saozneg
+boutañ;bout;d1;(se) gâter, rancir, bouturer, rancir;#saozneg
+boutegañ;bouteg;d1;hotter, transporter avec une hotte, porter dans une hotte, mettre dans une hotte, gabionner;#saozneg
+boutellañ;boutell;d1;botteler;#saozneg
+boutinañ;boutin;d1;mettre en commun, mettre à la masse, apporter chacun son écot;#saozneg
+boutizellañ;boutizell;d1;mettre en (tas et en) cône, mettre en tas conique(s);#saozneg
+boutonañ;bouton;d1;boutonner;#saozneg
+bouzarañ;bouzar;d1;assourdir (casser la tête), assourdir, rendre sourd;#saozneg
+brabañsal;brabañs;d1;fanfaronner, (se) vanter;#saozneg
+brac'hitellat;brac'hitell;d1;branler, se balancer;#saozneg
+bradelliñ;bradell;d1;brandiller;#saozneg
+braeat;brae;d1;broyer, accidenter gravement, concasser;#saozneg
+braeañ;brae;d1;enduire de brai, traîner, fainéanter;#saozneg
+braellañ;braell;d1;braire;#saozneg
+bragal;brag;d1;se pavaner, faire la fête, parader;#saozneg
+bragaouañ;bragaou;d1;mettre en pantalon, mettre des pantalons (à qqn);#saozneg
+bragezañ;bragez;d1;culotter;#saozneg
+brageziñ;bragez;d1;germer;#saozneg
+brailhat;brailh;d1;brailler;#saozneg
+brakañ;brak;d1;(se) prélasser, (se) vautrer;#saozneg
+brallañ;brall;d1;branler, braler, faire pencher, sonner (les cloches) en branle, à toute volée, fig. se vanter;#saozneg
+brammat;bramm;d1;péter;#saozneg
+brammellat;brammell;d1;pétarader, péter, péter souvent;#saozneg
+branellat;branell;d1;(se) balancer, jouer au tourniquet;#saozneg
+branellañ;branell;d1;béquiller, fermer au taquet et/où au loquet, jouer au tourniquet;#saozneg
+brankañ;brank;d1;fourcher, (s') appuyer, (en plt des céréales) taller;#saozneg
+brankodiñ;brankod;d1;(s') arc-bouter;#saozneg
+braouac'hiñ;braouac'h;d1;terrifier, éffrayer, épouvanter;#saozneg
+brasjediñ;brasjed;d1;calculer en gros, estimer en gros;#saozneg
+braskannañ;braskann;d1;(en plt de pluie) durcir le sol;#saozneg
+braskontañ;braskont;d1;compter en gros, sans entrer dans les détails, évaluer (quantitativement);#saozneg
+braslenn;braslenn;d1;parcourir (en lisant), lire rapidement, butinage (browsing);#saozneg
+braslinennañ;braslinenn;d1;croquer, dessiner;#saozneg
+brasparediñ;braspared;d1;cuire sommairement, cuire à demi;#saozneg
+braspoazhañ;braspoazh;d1;Cuire à peu près;#saozneg
+braspouezañ;braspouez;d1;peser à peu près;#saozneg
+brasprizañ;braspriz;d1;évaluer en gros;#saozneg
+brasrodellañ;brasrodell;d1;boucler en gros, enrouler en gros;#saozneg
+brasskeudenniñ;brasskeudenn;d1;croquer, ébaucher;#saozneg
+brastaolenniñ;brastaolenn;d1;dresser un tableau général (de);#saozneg
 brastresañ;brastres;d1;schématiser;#saozneg
-brasveizañ;brasveiz;d1;#galleg;#saozneg
-brasventañ;brasvent;d1;#galleg;#saozneg
-braswelet;braswel;d1;#galleg;#saozneg
-brañsellat;brañsell;d1;#galleg;#saozneg
-brañsigellat;brañsigell;d1;#galleg;#saozneg
-brañskailh;brañskailh;d1;#galleg;#saozneg
-brañskellat;brañskell;d1;#galleg;#saozneg
+brasveizañ;brasveiz;d1;comprendre à peu près;#saozneg
+brasventañ;brasvent;d1;apprécier la mesure (de), estimer la taille;#saozneg
+braswelet;braswel;d1;voir à peu près;#saozneg
+brañsellat;brañsell;d1;balancer, (se) basculer;#saozneg
+brañsigellat;brañsigell;d1;jouer à la balançoire, se balancer, se balancer d'une jambe à l'autre;#saozneg
+brañskailh;brañskailh;d1;lapider;#saozneg
+brañskellat;brañskell;d1;être agité (par le vent, etc.);#saozneg
 breinañ;brein;d1;pourrir;#saozneg
-breolimañ;breolim;d1;#galleg;#saozneg
-breouañ;breou;d1;#galleg;#saozneg
-bresañ;bres;d1;#galleg;#saozneg
-breskenn;breskenn;d1;#galleg;#saozneg
-breugeudiñ;breugeud;d1;#galleg;#saozneg
-breuriezhañ;breuriezh;d1;#galleg;#saozneg
-breuzat;breuz;d1;#galleg;#saozneg
-brevennañ;brevenn;d1;#galleg;#saozneg
-breviñ;brev;d1;#galleg;#saozneg
+breolimañ;breolim;d1;aiguiser (sur une meule), affiler, émoudre, meuler;#saozneg
+breouañ;breou;d1;breveter, accorder un brevet;#saozneg
+bresañ;bres;d1;fouler, froisser, chiffonner, friper, brasser (de la bière), saccager, endommager, mêler de quoi faire la pâte à crêpes;#saozneg
+breskenn;breskenn;d1;courir comme une vache affolée, (s') affoler, (s') exciter, (s') emballer, courir dans tous les sens;#saozneg
+breugeudiñ;breugeud;d1;roter;#saozneg
+breuriezhañ;breuriezh;d1;inscrire dans une confrérie;#saozneg
+breuzat;breuz;d1;peigner (le lin, etc.);#saozneg
+brevennañ;brevenn;d1;froisser;#saozneg
+breviñ;brev;d1;briser, éreinter, vanner, broyer;#saozneg
 brezeliñ;brezel;d1;faire la guerre;#saozneg
-brezhonegañ;brezhoneg;d1;parler breton;#saozneg
-brezilhat;brezilh;d1;#galleg;#saozneg
-brichinañ;brichin;d1;#galleg;#saozneg
-bridañ;brid;d1;#galleg;#saozneg
+brezhonegañ;brezhoneg;d1;bretonner, parler breton;#saozneg
+brezilhat;brezilh;d1;agiter les paupières, ciller;#saozneg
+brichinañ;brichin;d1;faire le fou, le niais;#saozneg
+bridañ;brid;d1;brider;#saozneg
 brifal;brif;d1;bâfrer;#saozneg
-brifañ;brif;d1;#galleg;#saozneg
+brifañ;brif;d1;bouffer, becter, briffer;#saozneg
 brigadennañ;brigadenn;d1;embrigader;#saozneg
-brigandal;brigand;d1;#galleg;#saozneg
+brigandal;brigand;d1;Brigander;#saozneg
 brigoñs;brigoñs;d1;courir (comme les vaches);#saozneg
-brigoñsañ;brigoñs;d1;#galleg;#saozneg
+brigoñsañ;brigoñs;d1;courir comme les vaches;#saozneg
 brijañ;brij;d1;embrocher (un crapaud);#saozneg
 brikailhat;brikailh;d1;bigarrer, barioler;#saozneg
 brikañ;brik;d1;briquer, poncer, barioler;#saozneg
 brikemardiñ;brikemard;d1;sculpter (avec excès), barioler;#saozneg
 brikennañ;brikenn;d1;briqueter;#saozneg
-brikolat;brikol;d1;#galleg;#saozneg
-brilhañ;brilh;d1;#galleg;#saozneg
-brimbalat;brimbal;d1;tinter, faire sonner;#saozneg
+brikolat;brikol;d1;biaiser;#saozneg
+brilhañ;brilh;d1;reluire;#saozneg
+brimbalat;brimbal;d1;tinter, faire sonner (les cloches);#saozneg
 brizañ;briz;d1;briser;#saozneg
 brizhañ;brizh;d1;moucheter, déraisonner;#saozneg
 brizhc'hoarzhin;brizhc'hoarzh;d1;ricaner;#saozneg
-brizhellañ;brizhell;d1;#galleg;#saozneg
-brizhenniñ;brizhenn;d1;#galleg;#saozneg
-brizhfaoutañ;brizhfaout;d1;#galleg;#saozneg
-brizhilhonañ;brizhilhon;d1;#galleg;#saozneg
-brizhkelaouiñ;brizhkelaou;d1;#galleg;#saozneg
-brizhkemmeskañ;brizhkemmesk;d1;#galleg;#saozneg
-brizhlarjezañ;brizhlarjez;d1;#galleg;#saozneg
-brizhleñvañ;brizhleñv;d1;#galleg;#saozneg
+brizhellañ;brizhell;d1;barioler, moucheter, marquer, tatouer;#saozneg
+brizhenniñ;brizhenn;d1;(se) marquer de taches de rousseur, (se) marquer de taches brunes, (se) marqueter;#saozneg
+brizhfaoutañ;brizhfaout;d1;fêler;#saozneg
+brizhilhonañ;brizhilhon;d1;briser en morceaux, mettre en pièces, atomiser;#saozneg
+brizhkelaouiñ;brizhkelaou;d1;désinformer;#saozneg
+brizhkemmeskañ;brizhkemmesk;d1;mêler, mélanger à tort et à travers;#saozneg
+brizhlarjezañ;brizhlarjez;d1;barder de lard;#saozneg
+brizhleñvañ;brizhleñv;d1;pleurnicher;#saozneg
 brizhoberiat;brizhoberi;d1;#galleg;#saozneg
-brizhouennañ;brizhouenn;d1;#galleg;#saozneg
-brizhroudennañ;brizhroudenn;d1;#galleg;#saozneg
+brizhouennañ;brizhouenn;d1;métisser, hybrider;#saozneg
+brizhroudennañ;brizhroudenn;d1;rayer de différentes couleurs;#saozneg
 broadelañ;broadel;d1;nationaliser;#saozneg
 broadiñ;broad;d1;nationaliser;#saozneg
-broc'hañ;broc'h;d1;se fâcher, se brouiller;#saozneg
-brochañ;broch;d1;embrocher (sur une corne et autre);#saozneg
+broc'hañ;broc'h;d1;se fâcher (contre qqn), se brouiller;#saozneg
+brochañ;broch;d1;embrocher (sur une corne et autre), remuer (qqc.) à l'aide d'un bâton, d'un objet long;#saozneg
 brochennat;brochenn;d1;tricoter;#saozneg
-brodañ;brod;d1;#galleg;#saozneg
+brodañ;brod;d1;broder;#saozneg
 brodikinañ;brodikin;d1;chausser des brodequins;#saozneg
 brodiñ;brod;d1;broder;#saozneg
 broediñ;broed;d1;tricoter;#saozneg
-broelañ;broel;d1;acclimater;#saozneg
-brokañ;brok;d1;#galleg;#saozneg
-bronduañ;brondu;d1;#galleg;#saozneg
-bronnañ;bronn;d1;#galleg;#saozneg
-broudañ;broud;d1;#galleg;#saozneg
-broudennañ;broudenn;d1;#galleg;#saozneg
-broudvrizhellañ;broudvrizhell;d1;#galleg;#saozneg
-brouezañ;brouez;d1;#galleg;#saozneg
-brouilhañ;brouilh;d1;#galleg;#saozneg
-broustañ;broust;d1;#galleg;#saozneg
-broutac'hañ;broutac'h;d1;#galleg;#saozneg
-brouzañ;brouz;d1;#galleg;#saozneg
-brozennat;brozenn;d1;#galleg;#saozneg
-broñsañ;broñs;d1;#galleg;#saozneg
-broñzañ;broñz;d1;#galleg;#saozneg
-bruc'hellat;bruc'hell;d1;#galleg;#saozneg
-brudañ;brud;d1;#galleg;#saozneg
-brudellat;brudell;d1;#galleg;#saozneg
-bruilhiñ;bruilh;d1;#galleg;#saozneg
-brukañ;bruk;d1;#galleg;#saozneg
-brumenniñ;brumenn;d1;brumer, embrumer;#saozneg
-brunellat;brunell;d1;#galleg;#saozneg
-bruskañ;brusk;d1;#galleg;#saozneg
-bruzunañ;bruzun;d1;#galleg;#saozneg
-bugadiñ;bugad;d1;#galleg;#saozneg
-bugaleañ;bugale;d1;#galleg;#saozneg
-bugañ;bug;d1;#galleg;#saozneg
+broelañ;broel;d1;acclimater (plantes, animaux);#saozneg
+brokañ;brok;d1;hasarder, risquer, avanturer, spéculer;#saozneg
+bronduañ;brondu;d1;meurtrir;#saozneg
+bronnañ;bronn;d1;allaiter, donner le sein (à);#saozneg
+broudañ;broud;d1;piquer, aiguillonner; vexer, tourmenter; exciter, pousser, encourager, inspirer, stimuler, aviver; attiser (le feu); fixer avec des clous sans tête; germer, pousser, poindre;#saozneg
+broudennañ;broudenn;d1;mettre une pointe (à);#saozneg
+broudvrizhellañ;broudvrizhell;d1;tatouer;#saozneg
+brouezañ;brouez;d1;(s') emporter, se mettre en colère;#saozneg
+brouilhañ;brouilh;d1;brouiller;#saozneg
+broustañ;broust;d1;bourgeonner, former hallier, brosser, rouer de coups, meurtrir, briser, brouter;#saozneg
+broutac'hañ;broutac'h;d1;fermenter, tourner;#saozneg
+brouzañ;brouz;d1;brouter, manger du brout;#saozneg
+brozennat;brozenn;d1;bavarder, cancaner, discourir, marmotter;#saozneg
+broñsañ;broñs;d1;bourgeonner, germer;#saozneg
+broñzañ;broñz;d1;bronzer;#saozneg
+bruc'hellat;bruc'hell;d1;beugler;#saozneg
+brudañ;brud;d1;ébruiter, répandre un bruit, acquérir du renom;#saozneg
+brudellat;brudell;d1;répandre de mauvais bruits (sur), décrier;#saozneg
+bruilhiñ;bruilh;d1;vomir, rejeter, régurgirter (en plt des bébés);#saozneg
+brukañ;bruk;d1;carier (dents), (se) gâter, pourrir (en parlant du bois);#saozneg
+brumenniñ;brumenn;d1;brumer, embrumer, tomber (en plt de la nuit);#saozneg
+brunellat;brunell;d1;bruire, faire un bruit sourd;#saozneg
+bruskañ;brusk;d1;(s') appuyer sur la poitrine, lambrisser;#saozneg
+bruzunañ;bruzun;d1;(s') émietter; (se) briser en mille morceaux, mettre en pièces, réduire en miettes, casser,  fragmenter, sabler;#saozneg
+bugadiñ;bugad;d1;(se) vanter, faire le glorieux, faire la lessive, buer, buander;#saozneg
+bugaleañ;bugale;d1;procréer;#saozneg
+bugañ;bug;d1;comprimer, fouler (le linge) avec les mains;#saozneg
 buhezañ;buhez;d1;animer;#saozneg
-bukañ;uk;d1;pointer, braquer, mesurer (un coup contesté au jeu);#saozneg
-buorzhañ;buorzh;d1;#galleg;#saozneg
+bukañ;uk;d1;pointer, braquer, mesurer (un coup contesté au jeu), viser;#saozneg
+buorzhañ;buorzh;d1;parquer, enfermer dans un enclos (les bêtes à cornes);#saozneg
 burbuenniñ;burbuenn;d1;se couvrir de pustules;#saozneg
-burinañ;burin;d1;#galleg;#saozneg
+burinañ;burin;d1;buriner (q.ch.);#saozneg
 burlutiñ;burlut;d1;éblouir;#saozneg
-burutellañ;burutell;d1;tamiser, bluter, examiner, critiquer;#saozneg
-burzhudiñ;burzhud;d1;raconter (des choses merveilleuses);#saozneg
-busellat;busell;d1;beugler, barrir;#saozneg
-butañ;but;d1;#galleg;#saozneg
+burutellañ;burutell;d1;bluter, critiquer, examiner, harceler, malmener, tamiser;#saozneg
+burzhudiñ;burzhud;d1;raconter (des choses merveilleuses), hâbler;#saozneg
+busellat;busell;d1;beugler, meugler, barrir, mugir;#saozneg
+butañ;but;d1;mesurer le point (aux boules);#saozneg
 butukañ;butuk;d1;palper, tâter (les bestiaux);#saozneg
-butunat;butun;d1;fumer;#saozneg
-butuniñ;butun;d1;fumer;#saozneg
-buzhugenniñ;buzhugenn;d1;travailler lentement, flâner à son travail;#saozneg
+butunat;butun;d1;fumer, prendre du tabac (dont priser);#saozneg
+butuniñ;butun;d1;fumer, prendre du tabac (dont priser);#saozneg
+buzhugenniñ;buzhugenn;d1;travailler lentement, flâner à son travail, (se) tortiller, lambiner, avancer en rampant comme un ver de terre;#saozneg
 c'halpat;c'halp;d1;#galleg;#saozneg
 c'hoalat;c'hoal;d1;disperser, répandre, carder la laine, effilocher une étoffe…;#saozneg
 c'hoaliñ;c'hoal;d1;disperser, répandre, carder la laine, effilocher une étoffe…;#saozneg
-c'hoantañ;c'hoant;d1;#galleg;#saozneg
+c'hoantañ;c'hoant;d1;envier, jalouser;#saozneg
 c'hoari;c'hoari;d1;jouer;#saozneg
-c'hoariellat;c'hoariell;d1;#galleg;#saozneg
-c'hoariellañ;c'hoariell;d1;jouer, s'amuser, folâtrer;#saozneg
-c'hoarvezout;c'hoarvez;d1;survenir;#saozneg
+c'hoariellat;c'hoariell;d1;jouer, (s') amuser, folâtrer;#saozneg
+c'hoariellañ;c'hoariell;d1;jouer, (s') amuser, folâtrer;#saozneg
+c'hoarvezout;c'hoarvez;d1;survenir, consister;#saozneg
 c'hoarzhin;c'hoarzh;d1;rire;#saozneg
-c'hwec'hkementañ;c'hwec'hkement;d1;#galleg;#saozneg
-c'hwec'hkementiñ;c'hwec'hkement;d1;#galleg;#saozneg
-c'hwec'hvedenniñ;c'hwec'hvedenn;d1;#galleg;#saozneg
-c'hwedañ;c'hwed;d1;#galleg;#saozneg
-c'hwelañ;c'hwel;d1;#galleg;#saozneg
-c'hwennat;c'hwenn;d1;#galleg;#saozneg
-c'hwezañ;c'hwez;d1;#galleg;#saozneg
-c'hwezekvedenniñ;c'hwezekvedenn;d1;#galleg;#saozneg
-c'hwezhadenniñ;c'hwezhadenn;d1;#galleg;#saozneg
-c'hwezhañ;c'hwezh;d1;#galleg;#saozneg
-c'hwezhvatañ;c'hwezhvat;d1;#galleg;#saozneg
-c'hwezigenniñ;c'hwezigenn;d1;#galleg;#saozneg
-c'hweziñ;c'hwez;d1;#galleg;#saozneg
-c'hwial;c'hwi;d1;#galleg;#saozneg
-c'hwibanat;c'hwiban;d1;siffler;#saozneg
-c'hwibañ;c'hwib;d1;#galleg;#saozneg
+c'hwec'hkementañ;c'hwec'hkement;d1;sextupler;#saozneg
+c'hwec'hkementiñ;c'hwec'hkement;d1;sextupler;#saozneg
+c'hwec'hvedenniñ;c'hwec'hvedenn;d1;diviser en six;#saozneg
+c'hwedañ;c'hwed;d1;vomir;#saozneg
+c'hwelañ;c'hwel;d1;débaucher (détourner);#saozneg
+c'hwennat;c'hwenn;d1;corriger, choisir, épurer, éliminer, élaguer (un texte) de ses fautes, sarcler, séparer, vider (les poches), voler;#saozneg
+c'hwezañ;c'hwez;d1;bouffir (visage), enfler, éclater (en plt d'un guerre), exagérer, gonfler, grossir (en plt de la mer), monter sur le feu (ex: lait), insuffler;#saozneg
+c'hwezekvedenniñ;c'hwezekvedenn;d1;diviser par seize;#saozneg
+c'hwezhadenniñ;c'hwezhadenn;d1;transformer (une consonne) en spirante;#saozneg
+c'hwezhañ;c'hwezh;d1;gonfler ses poumons, insufler, moucher, souffler;#saozneg
+c'hwezhvatañ;c'hwezhvat;d1;aromatiser;#saozneg
+c'hwezigenniñ;c'hwezigenn;d1;former des bulles sur l'eau, (se) former en ampoule;#saozneg
+c'hweziñ;c'hwez;d1;(faire) suer, puer;#saozneg
+c'hwial;c'hwi;d1;vouvoyer, voussoyer;#saozneg
+c'hwibanat;c'hwiban;d1;siffler (en plt des oiseaux);#saozneg
+c'hwibañ;c'hwib;d1;chaparder, chiper;#saozneg
 c'hwiblaerezh;c'hwiblaer;d1;#galleg;#saozneg
-c'hwidolennañ;c'hwidolenn;d1;#galleg;#saozneg
-c'hwilat;c'hwil;d1;sauter;#saozneg
-c'hwilañ;c'hwil;d1;sauter;#saozneg
-c'hwilerviñ;c'hwilerv;d1;#galleg;#saozneg
-c'hwiliñ;c'hwil;d1;sauter;#saozneg
-c'hwilostat;c'hwilost;d1;#galleg;#saozneg
-c'hwirinat;c'hwirin;d1;#galleg;#saozneg
-c'hwistañ;c'hwist;d1;#galleg;#saozneg
-c'hwitañ;c'hwit;d1;#galleg;#saozneg
-c'hwitellat;c'hwitell;d1;#galleg;#saozneg
-chabistrañ;chabistr;d1;#galleg;#saozneg
-chabousat;chabous;d1;#galleg;#saozneg
-chaboutat;chabout;d1;#galleg;#saozneg
-chadennañ;chadenn;d1;#galleg;#saozneg
-chadenniñ;chadenn;d1;#galleg;#saozneg
-chafodiñ;chafod;d1;#galleg;#saozneg
-chafrañsiñ;chafrañs;d1;#galleg;#saozneg
-chagañ;chag;d1;#galleg;#saozneg
-chagellat;chagell;d1;#galleg;#saozneg
-chagrinañ;chagrin;d1;#galleg;#saozneg
-chakat;chak;d1;#galleg;#saozneg
-chalañ;chal;d1;#galleg;#saozneg
-chalbotat;chalbot;d1;#galleg;#saozneg
-chalkiñ;chalk;d1;#galleg;#saozneg
-chalmiñ;chalm;d1;#galleg;#saozneg
-chalpat;chalp;d1;#galleg;#saozneg
-chalsañ;chals;d1;#galleg;#saozneg
+c'hwidolennañ;c'hwidolenn;d1;(se) couvrir de furoncles;#saozneg
+c'hwilat;c'hwil;d1;baiser (sexe), bosser, sauter (sexe), travailler, vouvoyer;#saozneg
+c'hwilañ;c'hwil;d1;baiser (sexe), bosser, sauter (sexe), travailler, vouvoyer;#saozneg
+c'hwilerviñ;c'hwilerv;d1;scanner;#saozneg
+c'hwiliñ;c'hwil;d1;baiser (sexe), bosser, sauter (sexe), travailler, vouvoyer;#saozneg
+c'hwilostat;c'hwilost;d1;flâner;#saozneg
+c'hwirinat;c'hwirin;d1;hennir;#saozneg
+c'hwistañ;c'hwist;d1;faire des ravages, frapper, (se) tirer d'affaire, sévir, (se) démener, travailler dur, (se) démener;#saozneg
+c'hwitañ;c'hwit;d1;mourir, (s') éffondrer, ceder sous un poids, cesser, manquer, faillir, flancher (coeur), falloir,;#saozneg
+c'hwitellat;c'hwitell;d1;siffler, sifloter (un air), jouer de la flûte, appeler (à l'aide grâce à un sifflet);#saozneg
+chabistrañ;chabistr;d1;chapitrer;#saozneg
+chabousat;chabous;d1;chasser, repousser (un animal);#saozneg
+chaboutat;chabout;d1;chasser, repousser (en plt des animaux);#saozneg
+chadennañ;chadenn;d1;enchaîner, (se) déchaîner;#saozneg
+chadenniñ;chadenn;d1;enchaîner, (se) déchaîner;#saozneg
+chafodiñ;chafod;d1;échafauder;#saozneg
+chafrañsiñ;chafrañs;d1;raccomoder;#saozneg
+chagañ;chag;d1;faire obstruction par arrêt, entassement;#saozneg
+chagellat;chagell;d1;mâcher, mastiquer;#saozneg
+chagrinañ;chagrin;d1;chagriner;#saozneg
+chakat;chak;d1;mâcher, froisser;#saozneg
+chalañ;chal;d1;ennuyer, tracasser, alarmer, tourmenter, (se) lamenter, (s') embourber, (s') inquiéter;#saozneg
+chalbotat;chalbot;d1;charroyer, camionner;#saozneg
+chalkiñ;chalk;d1;(se) durcir;#saozneg
+chalmiñ;chalm;d1;charmer, enchanter, ensorceller;#saozneg
+chalpat;chalp;d1;glapir, aboyer, manger goulûment (en plt des porcs);#saozneg
+chalsañ;chals;d1;agacer (les dents);#saozneg
 chalvantiñ;chalvant;d1;#galleg;#saozneg
-champalat;champal;d1;#galleg;#saozneg
+champalat;champal;d1;(se) trémousser, piétiner;#saozneg
 champouiñ;champou;d1;#galleg;#saozneg
-chanañ;chan;d1;#galleg;#saozneg
+chanañ;chan;d1;(se) trouver à ... (par hasard), (s') embourber, (s') arrêter (en plt des gens), gazouiller;#saozneg
 chankrañ;chankr;d1;#galleg;#saozneg
-chaokat;chaok;d1;#galleg;#saozneg
+chaokat;chaok;d1;mâcher, mastiquer, croquer, faire du blabla;#saozneg
 chaokellat;chaokell;d1;#galleg;#saozneg
-chaotrañ;chaotr;d1;#galleg;#saozneg
-chapelediñ;chapeled;d1;#galleg;#saozneg
-charigellañ;charigell;d1;#galleg;#saozneg
-charoñsiñ;charoñs;d1;#galleg;#saozneg
-charreadegañ;charreadeg;d1;#galleg;#saozneg
-charreat;charre;d1;#galleg;#saozneg
-chartiñ;chart;d1;#galleg;#saozneg
-chaseal;chase;d1;#galleg;#saozneg
-chastreañ;chastre;d1;#galleg;#saozneg
-chatalat;chatal;d1;#galleg;#saozneg
-chañsañ;chañs;d1;#galleg;#saozneg
+chaotrañ;chaotr;d1;monter en graines (plantes, oignons, poireaux);#saozneg
+chapelediñ;chapeled;d1;dire son chapelet;#saozneg
+charigellañ;charigell;d1;tituber;#saozneg
+charoñsiñ;charoñs;d1;faire grincer (ses dents);#saozneg
+charreadegañ;charreadeg;d1;convoyer;#saozneg
+charreat;charre;d1;conduire, charroyer, transporter;#saozneg
+chartiñ;chart;d1;croupir;#saozneg
+chaseal;chase;d1;chasser;#saozneg
+chastreañ;chastre;d1;embarasser;#saozneg
+chatalat;chatal;d1;élever des bestiaux, garder les troupeaux;#saozneg
+chañsañ;chañs;d1;arriver, survenir, réussir;#saozneg
 cheinañ;chein;d1;#galleg;#saozneg
 chenjenniñ;chenjenn;d1;#galleg;#saozneg
-cherisañ;cheris;d1;#galleg;#saozneg
-cherjal;cherj;d1;#galleg;#saozneg
-chervadiñ;chervad;d1;#galleg;#saozneg
-cheñch;cheñch;d1;#galleg;#saozneg
-chifañ;chif;d1;#galleg;#saozneg
+cherisañ;cheris;d1;câliner, caresser, chérir;#saozneg
+cherjal;cherj;d1;crier, geindre;#saozneg
+chervadiñ;chervad;d1;(se) régaler, faire bonne chère;#saozneg
+cheñch;cheñch;d1;changer, remplacer;#saozneg
+chifañ;chif;d1;(se) fâcher;#saozneg
 chifonañ;chifon;d1;#galleg;#saozneg
-chifrodennañ;chifrodenn;d1;#galleg;#saozneg
-chikanañ;chikan;d1;#galleg;#saozneg
-chikañ;chik;d1;#galleg;#saozneg
+chifrodennañ;chifrodenn;d1;donner une chiquenaude;#saozneg
+chikanañ;chikan;d1;chicaner;#saozneg
+chikañ;chik;d1;chiquer, crépir, écrabouiller, ravaler, écraser, jointoyer;#saozneg
 chilipat;chilip;d1;#galleg;#saozneg
-chilpat;chilp;d1;#galleg;#saozneg
-chimiañ;chimi;d1;#galleg;#saozneg
-chimiiñ;chimi;d1;#galleg;#saozneg
-chinkat;chink;d1;#galleg;#saozneg
-chintal;chint;d1;#galleg;#saozneg
-chipotal;chipot;d1;#galleg;#saozneg
-choaz;choaz;d1;#galleg;#saozneg
-choberdiñ;choberd;d1;#galleg;#saozneg
-chokinañ;chokin;d1;#galleg;#saozneg
-cholañ;chol;d1;#galleg;#saozneg
-cholgenniñ;cholgenn;d1;#galleg;#saozneg
-cholorial;cholori;d1;#galleg;#saozneg
-chom;chom;d1;#galleg;#saozneg
-chopinat;chopin;d1;#galleg;#saozneg
-choual;chou;d1;#galleg;#saozneg
-chouanat;chouan;d1;#galleg;#saozneg
+chilpat;chilp;d1;japper, glappir, claquer des dents, médire;#saozneg
+chimiañ;chimi;d1;fertiliser aux engrais chimiques;#saozneg
+chimiiñ;chimi;d1;fertiliser aux engrais chimiques;#saozneg
+chinkat;chink;d1;japper;#saozneg
+chintal;chint;d1;piailler (comme un poussin);#saozneg
+chipotal;chipot;d1;chipoter, barguigner, marchander mesquinement;#saozneg
+choaz;choaz;d1;choisir;#saozneg
+choberdiñ;choberd;d1;(s') enrhumer;#saozneg
+chokinañ;chokin;d1;chiffonner;#saozneg
+cholañ;chol;d1;(faire) paître dans le champ d'autrui (moutons);#saozneg
+cholgenniñ;cholgenn;d1;salir;#saozneg
+cholorial;cholori;d1;chahuter;#saozneg
+chom;chom;d1;rester, habiter, séjourner, stationner;#saozneg
+chopinat;chopin;d1;chopiner;#saozneg
+choual;chou;d1;chasser les poules, oiseaux, chuinter, draguer;#saozneg
+chouanat;chouan;d1;chouanner;#saozneg
 chougadal;chougad;d1;#galleg;#saozneg
 chougañ;choug;d1;#galleg;#saozneg
-choukadiñ;choukad;d1;#galleg;#saozneg
+choukadiñ;choukad;d1;frapper;#saozneg
 choukatal;choukat;d1;frapper au cou;#saozneg
-choukañ;chouk;d1;#galleg;#saozneg
-choukennañ;choukenn;d1;#galleg;#saozneg
-choupañ;choup;d1;#galleg;#saozneg
-chourañ;chour;d1;#galleg;#saozneg
-chourikal;chourik;d1;#galleg;#saozneg
-chourikat;chourik;d1;#galleg;#saozneg
-chuchal;chuch;d1;#galleg;#saozneg
-chuchual;chuchu;d1;#galleg;#saozneg
-chuchuiñ;chuchu;d1;#galleg;#saozneg
-chugal;chug;d1;#galleg;#saozneg
-chugañ;chug;d1;#galleg;#saozneg
-chugelliñ;chugell;d1;#galleg;#saozneg
-chugiñ;chug;d1;#galleg;#saozneg
+choukañ;chouk;d1;bourrer, lever sur le haut du dos, (se) serrer (de près), (se) voûter, garnir (sabot, cou-de-pied), (loc.) (s') asseoir;#saozneg
+choukennañ;choukenn;d1;(se) voûter;#saozneg
+choupañ;choup;d1;soulever à bras le corps, lever (un petit enfant) pour le prendre dans les bras;#saozneg
+chourañ;chour;d1;choyer, faire la cour;#saozneg
+chourikal;chourik;d1;emettre un son grinçant (ex: porte), bruit produit par le frottement;#saozneg
+chourikat;chourik;d1;grincer, faire grincer (ex: dents, porte, dents);#saozneg
+chuchal;chuch;d1;chuinter, quémander, mendier (bassement), renifler (comme un chien);#saozneg
+chuchual;chuchu;d1;Lambiner;#saozneg
+chuchuiñ;chuchu;d1;chuchoter;#saozneg
+chugal;chug;d1;juter, presser, sucer pour extraire le jus de qqc;#saozneg
+chugañ;chug;d1;juter, presser, sucer pour extraire le jus de qqc;#saozneg
+chugelliñ;chugell;d1;suçoter;#saozneg
+chugiñ;chug;d1;juter, presser, sucer pour extraire le jus de qqc;#saozneg
 chumenniñ;chumenn;d1;#galleg;#saozneg
-chutañ;chut;d1;#galleg;#saozneg
-chutellat;chutell;d1;#galleg;#saozneg
-daboniñ;dabon;d1;#galleg;#saozneg
-daeañ;dae;d1;#galleg;#saozneg
-daeladenniñ;daeladenn;d1;#galleg;#saozneg
-daelañ;dael;d1;#galleg;#saozneg
-daeraouiñ;daeraou;d1;#galleg;#saozneg
-dafariñ;dafar;d1;#galleg;#saozneg
-dageriñ;dager;d1;#galleg;#saozneg
-dagiñ;dag;d1;#galleg;#saozneg
+chutañ;chut;d1;sucer son pouce, sucer son doigt, téter;#saozneg
+chutellat;chutell;d1;aspirer, suçoter, téter;#saozneg
+daboniñ;dabon;d1;rapiécer (en plt de vêtements), boucher les trous d'un toits, GW: rapporter (pièce);#saozneg
+daeañ;dae;d1;défier, mettre au défit, provoquer;#saozneg
+daeladenniñ;daeladenn;d1;argumenter;#saozneg
+daelañ;dael;d1;contester, contrarier, débattre, discuter, quereller;#saozneg
+daeraouiñ;daeraou;d1;larmoyer, pleurer, verser des larmes;#saozneg
+dafariñ;dafar;d1;Apporter des matériaux (à un maçon, un couvreur, etc.), manutentionner, (ré )approvisionner;#saozneg
+dageriñ;dager;d1;frapper avec une dague;#saozneg
+dagiñ;dag;d1;frapper avec une dague;#saozneg
 dal;dal;d1;#galleg;#saozneg
-daladuriñ;daladur;d1;#galleg;#saozneg
-daleañ;dale;d1;#galleg;#saozneg
-dallañ;dall;d1;#galleg;#saozneg
-damalaouriñ;damalaour;d1;#galleg;#saozneg
-damanavezout;damanavez;d1;#galleg;#saozneg
-damantiñ;damant;d1;#galleg;#saozneg
-damasiñ;damas;d1;#galleg;#saozneg
-damaskinañ;damaskin;d1;#galleg;#saozneg
-dambleat;damble;d1;#galleg;#saozneg
-damblegañ;dambleg;d1;#galleg;#saozneg
-dambreziñ;dambrez;d1;#galleg;#saozneg
-damc'hlazañ;damc'hlaz;d1;#galleg;#saozneg
-damdresañ;damdres;d1;#galleg;#saozneg
-dameriñ;damer;d1;#galleg;#saozneg
-dameuc'hañ;dameuc'h;d1;#galleg;#saozneg
-damfaoutañ;damfaout;d1;#galleg;#saozneg
-damfregañ;damfreg;d1;#galleg;#saozneg
-damglevet;damglev;d1;#galleg;#saozneg
-damglozañ;damgloz;d1;#galleg;#saozneg
-damgomz;damgomz;d1;#galleg;#saozneg
-damgouezhañ;damgouezh;d1;#galleg;#saozneg
-damgousket;damgousk;d1;#galleg;#saozneg
-damgrediñ;damgred;d1;#galleg;#saozneg
-damguzhat;damguzh;d1;#galleg;#saozneg
-damnañ;damn;d1;#galleg;#saozneg
-damniveriñ;damniver;d1;#galleg;#saozneg
-damouchiñ;damouch;d1;#galleg;#saozneg
+daladuriñ;daladur;d1;doler;#saozneg
+daleañ;dale;d1;tarder, (s') attarder, retarder (qun);#saozneg
+dallañ;dall;d1;aveugler, boucher (un trou), crever les yeux de qqn, empêcher de voir, (s') émousser, épointer, moucher, obstruer, (fig. obnubiler, séduire);#saozneg
+damalaouriñ;damalaour;d1;(mor)dorer;#saozneg
+damanavezout;damanavez;d1;reconnaître à peine;#saozneg
+damantiñ;damant;d1;soigner, craindre, plaindre, gémir, avoir regret;#saozneg
+damasiñ;damas;d1;damasser;#saozneg
+damaskinañ;damaskin;d1;damasquiner;#saozneg
+dambleat;damble;d1;mâchonner, mâcher avec peine et dégoût, décrier, ruminer;#saozneg
+damblegañ;dambleg;d1;couder, plier à demi;#saozneg
+dambreziñ;dambrez;d1;contrefaire, divulguer, copier, imiter (en mauvaise part), pasticher, révéler;#saozneg
+damc'hlazañ;damc'hlaz;d1;azurer;#saozneg
+damdresañ;damdres;d1;crayonner, esquisser;#saozneg
+dameriñ;damer;d1;damer (un pion), jouer sur un damier, jouer aux dames;#saozneg
+dameuc'hañ;dameuc'h;d1;réverbérer;#saozneg
+damfaoutañ;damfaout;d1;fendre quelque peu, (se) fêler;#saozneg
+damfregañ;damfreg;d1;déchirer à demi;#saozneg
+damglevet;damglev;d1;entendre à demi;#saozneg
+damglozañ;damgloz;d1;entreclore;#saozneg
+damgomz;damgomz;d1;murmurer, parler à demi-mots, faire allusion (à);#saozneg
+damgouezhañ;damgouezh;d1;tomber à moitié;#saozneg
+damgousket;damgousk;d1;dormir à moitié;#saozneg
+damgrediñ;damgred;d1;présumer, soupçonner, supposer;#saozneg
+damguzhat;damguzh;d1;(se) cacher à moitié;#saozneg
+damnañ;damn;d1;damner;#saozneg
+damniveriñ;damniver;d1;compter des choses d'une manière non précise;#saozneg
+damouchiñ;damouch;d1;chiffonner, bouchonner, froisser;#saozneg
 damouezhiañ;damouezh;d1;#galleg;#saozneg
-damsellet;damsell;d1;#galleg;#saozneg
-damserriñ;damserr;d1;#galleg;#saozneg
-damsevel;damsevel;d1;#galleg;#saozneg
-damskeudenniñ;damskeudenn;d1;#galleg;#saozneg
-damskoazellañ;damskoazell;d1;#galleg;#saozneg
-damsouezhiñ;damsouezh;d1;#galleg;#saozneg
-damstouiñ;damstou;d1;#galleg;#saozneg
-damveizañ;damveiz;d1;#galleg;#saozneg
-damveleniñ;damvelen;d1;#galleg;#saozneg
-damvenegiñ;damveneg;d1;#galleg;#saozneg
-damverkañ;damverk;d1;#galleg;#saozneg
-damvougañ;damvoug;d1;#galleg;#saozneg
-damvousklenniñ;damvousklenn;d1;#galleg;#saozneg
-damvreinañ;damvrein;d1;#galleg;#saozneg
-damwelet;damwel;d1;#galleg;#saozneg
-damwennañ;damwenn;d1;#galleg;#saozneg
-damwiskañ;damwisk;d1;#galleg;#saozneg
-damzeviñ;damzev;d1;#galleg;#saozneg
-damzigeriñ;damziger;d1;#galleg;#saozneg
-damzihuniñ;damzihun;d1;#galleg;#saozneg
-damziskouez;damziskouez;d1;#galleg;#saozneg
-damzuañ;damzu;d1;#galleg;#saozneg
-dandoniñ;dandon;d1;#galleg;#saozneg
+damsellet;damsell;d1;parcourir du regard, jeter un coup d'œil, voir à moitié;#saozneg
+damserriñ;damserr;d1;entreclore, fermer à peu près, fermer à moitié;#saozneg
+damsevel;damsav;d1;relever à demi;#saozneg
+damskeudenniñ;damskeudenn;d1;esquisser, silhouetter;#saozneg
+damskoazellañ;damskoazell;d1;aider à moitier;#saozneg
+damsouezhiñ;damsouezh;d1;être surpris à moitié;#saozneg
+damstouiñ;damstou;d1;(s') incliner à moitié, (s') agenouiller à moitié;#saozneg
+damveizañ;damveiz;d1;réfléchir à moitié pour comprendre, penser à moitié;#saozneg
+damveleniñ;damvelen;d1;dorer à moitié, jaunir à moitié, mûrir à moitié;#saozneg
+damvenegiñ;damveneg;d1;mentionner à moitié;#saozneg
+damverkañ;damverk;d1;dessiner (à moitié*), écrire (*), exprimer (*), fixer (*), flétrir (*), indiquer (*), marquer (*), poindre (*), pointer (*);#saozneg
+damvougañ;damvoug;d1;amortir (un son), assourdir (un son), faire une rémanence, étouffer presque, éteindre presque, amortir, assourdir;#saozneg
+damvousklenniñ;damvousklenn;d1;faire la moue à moitié, (se) refrogner, froncer le sourcil;#saozneg
+damvreinañ;damvrein;d1;pourrir (à) moitié;#saozneg
+damwelet;damwel;d1;entrevoir, voir à moitié;#saozneg
+damwennañ;damwenn;d1;blanchir (à moitié*), devenir blanc (*), (se) calmer (météorologie) (*), briller (*), chauler (*), laver (*), (se) disculper (*), (se) justifier (*);#saozneg
+damwiskañ;damwisk;d1;habiller à moitié, vétir à moitié;#saozneg
+damzeviñ;damzev;d1;brûler à moitié;#saozneg
+damzigeriñ;damziger;d1;entrouvrir, ouvrir à demi;#saozneg
+damzihuniñ;damzihun;d1;(se) réveiller à moitié, (s') éveiller à demi;#saozneg
+damziskouez;damziskouez;d1;montrer à moitié, montrer plus où moins;#saozneg
+damzuañ;damzu;d1;noircir à moitié, rendre ou devenir noirâtre, châtain;#saozneg
+dandoniñ;dandon;d1;hésiter;#saozneg
 dandrelliñ;dandrell;d1;#galleg;#saozneg
-danevellañ;danevell;d1;#galleg;#saozneg
-dantañ;dant;d1;#galleg;#saozneg
-dantelezañ;dantelez;d1;#galleg;#saozneg
+danevellañ;danevell;d1;raconter, conter, narrer;#saozneg
+dantañ;dant;d1;mordre; sentir le brûlé (en parlant du lait);#saozneg
+dantelezañ;dantelez;d1;faire de la dentelle;#saozneg
 dantellañ;dantell;d1;#galleg;#saozneg
-dantennañ;dantenn;d1;#galleg;#saozneg
-danzen;danzen;d1;#galleg;#saozneg
-daoniñ;daon;d1;#galleg;#saozneg
-daoubennañ;daoubenn;d1;#galleg;#saozneg
-daoubenniñ;daoubenn;d1;#galleg;#saozneg
-daoublegañ;daoubleg;d1;#galleg;#saozneg
-daoudaoliñ;daoudaol;d1;#galleg;#saozneg
-daoudortañ;daoudort;d1;#galleg;#saozneg
-daoudoullañ;daoudoull;d1;#galleg;#saozneg
-daoufromañ;daoufrom;d1;#galleg;#saozneg
-daougementiñ;daougement;d1;#galleg;#saozneg
-daouglikañ;daouglik;d1;#galleg;#saozneg
-daougreniñ;daougren;d1;#galleg;#saozneg
-daougrommañ;daougromm;d1;#galleg;#saozneg
-daouhanteriñ;daouhanter;d1;#galleg;#saozneg
-daouilinañ;daouilin;d1;#galleg;#saozneg
-daoulammat;daoulamm;d1;#galleg;#saozneg
-daoulinañ;daoulin;d1;#galleg;#saozneg
-darañ;dar;d1;#galleg;#saozneg
-darbariñ;darbar;d1;#galleg;#saozneg
-darbenn;darbenn;d1;#galleg;#saozneg
-darbodiñ;darbod;d1;#galleg;#saozneg
+dantennañ;dantenn;d1;édenter (ébrécher);#saozneg
+danzen;danzen;d1;préparer, concevoir (dans son esprit), (se) disposer (à ...), (s') élaborer, (se) mettre en devoir de, (se) préparer (repas, etc), cuisiner, transformer;#saozneg
+daoniñ;daon;d1;damner;#saozneg
+daoubennañ;daoubenn;d1;(se) plier, (se) courber; embarrasser, rendre indécis;#saozneg
+daoubenniñ;daoubenn;d1;(se) plier, (se) courber; embarrasser, rendre indécis;#saozneg
+daoublegañ;daoubleg;d1;(se) courber, (se) plier en deux;#saozneg
+daoudaoliñ;daoudaol;d1;sonner deux coups;#saozneg
+daoudortañ;daoudort;d1;crouler (sous...), éclater (de rire, etc);#saozneg
+daoudoullañ;daoudoull;d1;creuser une fosse pour deux cercueils, creuser double;#saozneg
+daoufromañ;daoufrom;d1;être partagé entre deux émotions;#saozneg
+daougementiñ;daougement;d1;doubler;#saozneg
+daouglikañ;daouglik;d1;double-cliquer;#saozneg
+daougreniñ;daougren;d1;bomber (en parlant d'un mur);#saozneg
+daougrommañ;daougromm;d1;(se) courber en deux;#saozneg
+daouhanteriñ;daouhanter;d1;partager ou se partager en deux moitiés, mélanger en deux parts égales, partager, participer par moitié;#saozneg
+daouilinañ;daouilin;d1;(s’) accouder;#saozneg
+daoulammat;daoulamm;d1;galoper;#saozneg
+daoulinañ;daoulin;d1;(s') agenouiller;#saozneg
+darañ;dar;d1;daller;#saozneg
+darbariñ;darbar;d1;servir comme aide, fournir, alimenter (une machine, etc);#saozneg
+darbenn;darbenn;d1;agréer, approuver, admettre, accepter, poser par hypothèse, recevoir, accepter;#saozneg
+darbodiñ;darbod;d1;servir d'entremetteur de mariage;#saozneg
 darbout;darb;d1;#galleg;#saozneg
-darc'haouiñ;darc'haou;d1;#galleg;#saozneg
+darc'haouiñ;darc'haou;d1;asséner (un coup) à;#saozneg
 darc'houzizañ;darc'houziz;d1;#galleg;#saozneg
-darediñ;dared;d1;#galleg;#saozneg
-daremprediñ;darempred;d1;#galleg;#saozneg
-dareviñ;darev;d1;#galleg;#saozneg
-dargudiñ;dargud;d1;#galleg;#saozneg
+darediñ;dared;d1;faire des éclairs de chaleur, lancer des traits, fulgurer, lancer (un dard) contr qqn, darder;#saozneg
+daremprediñ;darempred;d1;fréquenter, visiter, hanter, pratiquer, entretenir;#saozneg
+dareviñ;darev;d1;préparer (des aliments), cuire, apprêter, mûrir, faire mûrir;#saozneg
+dargudiñ;dargud;d1;s'assoupir, sommeiller;#saozneg
 darguzhat;darguzh;d1;#galleg;#saozneg
-darlammat;darlamm;d1;#galleg;#saozneg
-darnaouiñ;darnaou;d1;#galleg;#saozneg
-darnañ;darn;d1;#galleg;#saozneg
-darngoll;darngoll;d1;#galleg;#saozneg
-darnijal;darnij;d1;#galleg;#saozneg
-darniñ;darn;d1;#galleg;#saozneg
-darnvevañ;darnvev;d1;#galleg;#saozneg
+darlammat;darlamm;d1;se cabrer;#saozneg
+darnaouiñ;darnaou;d1;distribuer; fragmenter, déchirer, ennuyer;#saozneg
+darnañ;darn;d1;ébrécher, fragmenter, ébrécher, écourter;#saozneg
+darngoll;darngoll;d1;perte incomplète, perdre partiellement, perdre en partie (qqc.);#saozneg
+darnijal;darnij;d1;voler bas, voleter;#saozneg
+darniñ;darn;d1;laisser inachevé;#saozneg
+darnvevañ;darnvev;d1;vivoter;#saozneg
 daroganañ;darogan;d1;#galleg;#saozneg
-darouedenniñ;darouedenn;d1;#galleg;#saozneg
-darren;darre;d1;#galleg;#saozneg
-darruriñ;darrur;d1;#galleg;#saozneg
-darvezout;darvez;d1;#galleg;#saozneg
+darouedenniñ;darouedenn;d1;(se) couvrir de dartres;#saozneg
+darren;darre;d1;être récurrent;#saozneg
+darruriñ;darrur;d1;attaquer;#saozneg
+darvezout;darvez;d1;arriver, survenir, se produire;#saozneg
 dasfaoutiñ;dasfaout;d1;#galleg;#saozneg
-daskeitañ;daskeit;d1;#galleg;#saozneg
-daskemmañ;daskemm;d1;#galleg;#saozneg
-dasklevet;dasklev;d1;#galleg;#saozneg
-daskomprañ;daskompr;d1;#galleg;#saozneg
-daskoriñ;daskor;d1;#galleg;#saozneg
+daskeitañ;daskeit;d1;péréquer;#saozneg
+daskemmañ;daskemm;d1;transformer, modifier;#saozneg
+dasklevet;dasklev;d1;intercepter;#saozneg
+daskomprañ;daskompr;d1;encombrer;#saozneg
+daskoriñ;daskor;d1;rendre, restituer;#saozneg
 daskounañ;daskoun;d1;#galleg;#saozneg
-daskrenañ;daskren;d1;#galleg;#saozneg
-daskrignat;daskrign;d1;#galleg;#saozneg
-dasorc'hiñ;dasorc'h;d1;#galleg;#saozneg
-daspakañ;daspak;d1;#galleg;#saozneg
+daskrenañ;daskren;d1;frémir, frissonner, chevroter, trembler, vibrer;#saozneg
+daskrignat;daskrign;d1;corroder, ronger, ruminer;#saozneg
+dasorc'hiñ;dasorc'h;d1;ressuciter;#saozneg
+daspakañ;daspak;d1;intercepter (un message, etc.);#saozneg
 dasparañ;daspar;d1;#galleg;#saozneg
-dasparzhañ;dasparzh;d1;#galleg;#saozneg
-daspegañ;daspeg;d1;#galleg;#saozneg
-dasplezhañ;dasplezh;d1;#galleg;#saozneg
-dasprenañ;daspren;d1;#galleg;#saozneg
-dasprezeg;dasprezeg;d1;#galleg;#saozneg
-daspugn;daspugn;d1;#galleg;#saozneg
+dasparzhañ;dasparzh;d1;redistribuer, répartir à nouveau;#saozneg
+daspegañ;daspeg;d1;agglutiner;#saozneg
+dasplezhañ;dasplezh;d1;entrelacer, entremêler;#saozneg
+dasprenañ;daspren;d1;racheter;#saozneg
+dasprezeg;dasprezeg;d1;parler en s'interrompant;#saozneg
+daspugn;daspugn;d1;amasser, additionner, accumuler;#saozneg
 dassamañ;dassamm;d1;#galleg;#saozneg
-dasseniñ;dassen;d1;#galleg;#saozneg
-dasskediñ;dassked;d1;#galleg;#saozneg
-dasskignañ;dasskign;d1;#galleg;#saozneg
-dasstrewiñ;dasstrew;d1;#galleg;#saozneg
-dastalañ;dastal;d1;#galleg;#saozneg
-dastapout;dastap;d1;#galleg;#saozneg
+dasseniñ;dassen;d1;retentir, résonner, réfléchir (le son);#saozneg
+dasskediñ;dassked;d1;refléter, réfléchir (la lumière, etc.);#saozneg
+dasskignañ;dasskign;d1;diffracter;#saozneg
+dasstrewiñ;dasstrew;d1;parsemer;#saozneg
+dastalañ;dastal;d1;rembourser;#saozneg
+dastapout;dastap;d1;intercepter;#saozneg
 dasteurel;dastaol;d1;#galleg;#saozneg
-dastrann;dastrann;d1;#galleg;#saozneg
-dastroc'hañ;dastroc'h;d1;#galleg;#saozneg
-dastum;dastum;d1;#galleg;#saozneg
+dastrann;dastrann;d1;attirer pour attraper, racolage, capturer;#saozneg
+dastroc'hañ;dastroc'h;d1;entrecouper;#saozneg
+dastum;dastum;d1;assembler, amasser, recueillir, cueillir, enfermer, serrer, envelopper, emprisonner; relever, ramasser (ce qui est tombé), contracter (une maladie), joindre (les mains), conclure;#saozneg
 datiñ;dat;d1;#galleg;#saozneg
-daveiñ;dave;d1;#galleg;#saozneg
-dazeilañ;dazeil;d1;#galleg;#saozneg
-dazgleboriñ;dazglebor;d1;#galleg;#saozneg
-dazgwerediñ;dazgwered;d1;#galleg;#saozneg
-dazlammat;dazlamm;d1;#galleg;#saozneg
-dazlardañ;dazlard;d1;#galleg;#saozneg
-dazlivañ;dazliv;d1;#galleg;#saozneg
+daveiñ;dave;d1;envoyer, renvoyer, renseigner, retarder, dépêcher, référer;#saozneg
+dazeilañ;dazeil;d1;être dans une alternative;#saozneg
+dazgleboriñ;dazglebor;d1;entrecouper d'humidité;#saozneg
+dazgwerediñ;dazgwered;d1;réagir (chimie);#saozneg
+dazlammat;dazlamm;d1;faire des ricochets;#saozneg
+dazlardañ;dazlard;d1;entrelarder;#saozneg
+dazlivañ;dazliv;d1;nuancer;#saozneg
 dazluc'hañ;dazluc'h;d1;#galleg;#saozneg
-dazroudennañ;dazroudenn;d1;#galleg;#saozneg
-dañsal;dañs;d1;#galleg;#saozneg
-debailhañ;debailh;d1;#galleg;#saozneg
+dazroudennañ;dazroudenn;d1;(se) zébrer;#saozneg
+dañsal;dañs;d1;danser;#saozneg
+debailhañ;debailh;d1;maltraiter;#saozneg
 debarañ;debar;d1;#galleg;#saozneg
-debarzh;debarzh;d1;#galleg;#saozneg
-debatiñ;debat;d1;#galleg;#saozneg
-debochiñ;deboch;d1;#galleg;#saozneg
-deboutañ;debout;d1;#galleg;#saozneg
-debriñ;debr;d1;manger;eat
-dec'haloupat;dec'haloup;d1;#galleg;#saozneg
-dec'houzougañ;dec'houzoug;d1;#galleg;#saozneg
-dec'hwitout;dec'hwit;d1;#galleg;#saozneg
-dedarzhañ;dedarzh;d1;#galleg;#saozneg
-dedennañ;dedenn;d1;#galleg;#saozneg
-dedilhañ;dedilh;d1;#galleg;#saozneg
+debarzh;debarzh;d1;choisir, adjuger, accorder, doter, attribuer, destiner;#saozneg
+debatiñ;debat;d1;contester;#saozneg
+debochiñ;deboch;d1;débaucher, corrompre, dépraver;#saozneg
+deboutañ;debout;d1;débouter, expulser, éclore, tailler;#saozneg
+debriñ;debr;d1;manger, dissiper, accaparer, (s') égorger, bouffer, avaler, consommer, restaurer;eat
+dec'haloupat;dec'haloup;d1;accourir, rappliquer (au galop);#saozneg
+dec'houzougañ;dec'houzoug;d1;couper la tête, étêter, égorger;#saozneg
+dec'hwitout;dec'hwit;d1;décheoir;#saozneg
+dedarzhañ;dedarzh;d1;dériver, venir se briser, éclater, apparaître, faire éruption, crever (en parlant d'un abcès, etc);#saozneg
+dedennañ;dedenn;d1;attirer, captiver, intéresser;#saozneg
+dedilhañ;dedilh;d1;teiller (le lin);#saozneg
 defaotañ;defaot;d1;#galleg;#saozneg
-defoulañ;defoul;d1;#galleg;#saozneg
-degas;degas;d1;#galleg;#saozneg
-degemenn;degemenn;d1;#galleg;#saozneg
-degizañdegizañ;degizañdegiz;d1;#galleg;#saozneg
-degouezhañ;degouezh;d1;#galleg;#saozneg
-degouezhout;degouezh;d1;#galleg;#saozneg
-degradiñ;degrad;d1;#galleg;#saozneg
-dehastañ;dehast;d1;#galleg;#saozneg
-dehentiñ;dehent;d1;#galleg;#saozneg
-deiziadañ;deiziad;d1;#galleg;#saozneg
+defoulañ;defoul;d1;(se) défouler, casser;#saozneg
+degas;degas;d1;apporter, amener, mener, conduire, envoyer, adresser, introduire, occasionner, organiser, rappeler;#saozneg
+degemenn;degemenn;d1;annoncer (faire part de décès), avertir, mander;#saozneg
+degizañ;degiz;d1;#galleg;#saozneg
+degouezhañ;degouezh;d1;arriver, advenir, survenir, convenir, intervenir, obvenir, incomber, échoir à, rencontrer (qun), & se constituer, (se) ramener;#saozneg
+degouezhout;degouezh;d1;arriver, advenir, convenir, intervenir, se passer, se tenir, survenir, rencontrer, parvenir;#saozneg
+degradiñ;degrad;d1;dégrader;#saozneg
+dehastañ;dehast;d1;(s') abouler (se) dépêcher, en mettre un coup, respirer bruyamment;#saozneg
+dehentiñ;dehent;d1;acheminer;#saozneg
+deiziadañ;deiziad;d1;dater, fixer (un jour, une date, un événement);#saozneg
 deiziaduriñ;deiziadur;d1;#galleg;#saozneg
-dejanal;dejan;d1;#galleg;#saozneg
-dekachañ;dekach;d1;#galleg;#saozneg
-dekrial;dekri;d1;#galleg;#saozneg
-dekvedlazhañ;dekvedlazh;d1;#galleg;#saozneg
-delammat;delamm;d1;#galleg;#saozneg
+dejanal;dejan;d1;railler, (se) moquer (de qqn, qqc), dénigrer;#saozneg
+dekachañ;dekach;d1;écacher;#saozneg
+dekrial;dekri;d1;critiquer, décréditer, décrier;#saozneg
+dekvedlazhañ;dekvedlazh;d1;décimer;#saozneg
+delammat;delamm;d1;rebondir;#saozneg
 delazh;delazh;d1;#galleg;#saozneg
-delazhiñ;delazh;d1;#galleg;#saozneg
-delc'her;dalc'h;d1;#galleg;#saozneg
-deliaouiñ;deliaou;d1;#galleg;#saozneg
-deliberiñ;deliber;d1;#galleg;#saozneg
+delazhiñ;delazh;d1;flanquer un coup, jeter (qqc) avec force, jeter un regard furieux, lâcher (un pet*), balancer (*);#saozneg
+delc'her;dalc'h;d1;garder, maintenir, tenir;#saozneg
+deliaouiñ;deliaou;d1;feuiller;#saozneg
+deliberiñ;deliber;d1;délibérer;#saozneg
 delimitañ;delimit;d1;#galleg;#saozneg
-delivrañ;delivr;d1;#galleg;#saozneg
-dellezout;dellez;d1;#galleg;#saozneg
-deltañ;delt;d1;#galleg;#saozneg
+delivrañ;delivr;d1;délivrer;#saozneg
+dellezout;dellez;d1;mériter;#saozneg
+deltañ;delt;d1;devenir (moite*), humecter, moitir, rendre (*);#saozneg
 deluskañ;delusk;d1;#galleg;#saozneg
-denañ;den;d1;#galleg;#saozneg
-deneveziñ;denevez;d1;renouveler;#saozneg
-denijal;denij;d1;#galleg;#saozneg
-dentañ;dent;d1;#galleg;#saozneg
+denañ;den;d1;boire au sein, épuiser, sucer, téter;#saozneg
+deneveziñ;denevez;d1;rénover, renouveler;#saozneg
+denijal;denij;d1;venir en volant, (s') essorer;#saozneg
+dentañ;dent;d1;denteler;#saozneg
 denvezañ;denvez;d1;#galleg;#saozneg
-deogañ;deog;d1;#galleg;#saozneg
-deouiiñ;deoui;d1;#galleg;#saozneg
-depantañ;depant;d1;#galleg;#saozneg
-depechañ;depech;d1;#galleg;#saozneg
-deport;deport;d1;#galleg;#saozneg
-derannañ;derann;d1;#galleg;#saozneg
-deraouiñ;deraou;d1;#galleg;#saozneg
-derc'hel;dalc'h;d1;#galleg;#saozneg
+deogañ;deog;d1;collecter la dîme, dîmer, lever la dîme;#saozneg
+deouiiñ;deoui;d1;(se) dépêcher, (s') empresser, (se) presser.;#saozneg
+depantañ;depant;d1;dépendre, être suspendu à, pendre;#saozneg
+depechañ;depech;d1;envoyer une dépêche;#saozneg
+deportiñ;deport;d1;attendre, patienter, déporter;#saozneg
+derannañ;derann;d1;allouer, doter;#saozneg
+deraouiñ;deraou;d1;amorcer, commencer, débuter;#saozneg
+derc'hel;dalc'h;d1;garder, maintenir, tenir;#saozneg
 derc'hennañ;derc'henn;d1;#galleg;#saozneg
 derc'houezañ;derc'houez;d1;#galleg;#saozneg
-deren;deren;d1;#galleg;#saozneg
-desachañ;desach;d1;#galleg;#saozneg
-desav;desav;d1;#galleg;#saozneg
-desedañ;desed;d1;#galleg;#saozneg
-desevel;desevel;d1;#galleg;#saozneg
-desfailhañ;desfailh;d1;#galleg;#saozneg
-desinañ;desin;d1;#galleg;#saozneg
-deskrivañ;deskriv;d1;#galleg;#saozneg
-despailh;despailh;d1;#galleg;#saozneg
-desteudañ;desteud;d1;#galleg;#saozneg
-destinañ;destin;d1;#galleg;#saozneg
-destrizhañ;destrizh;d1;#galleg;#saozneg
-detailhañ;detailh;d1;#galleg;#saozneg
-deunañ;deun;d1;#galleg;#saozneg
-deverañ;dever;d1;#galleg;#saozneg
-deverkañ;deverk;d1;#galleg;#saozneg
-devizañ;deviz;d1;#galleg;#saozneg
-devommañ;devomm;d1;#galleg;#saozneg
-dewelañ;dewel;d1;visionnement, visionner;Viewing, to view
+deren;deren;d1;différer, induire, ramener;#saozneg
+desachañ;desach;d1;attirer, extraire;#saozneg
+desav;desav;d1;éduquer, élever;#saozneg
+desedañ;desed;d1;décéder;#saozneg
+desevel;desevel;d1;éduquer, élever;#saozneg
+desfailhañ;desfailh;d1;défaillir, faire défaut en justice, manquer de force;#saozneg
+desinañ;desin;d1;dessiner;#saozneg
+deskrivañ;deskriv;d1;décrire;#saozneg
+despailhañ;despailh;d1;tarder, presser;#saozneg
+desteudañ;desteud;d1;repérer;#saozneg
+destinañ;destin;d1;(pré-)destiner;#saozneg
+destrizhañ;destrizh;d1;contraindre;#saozneg
+detailhañ;detailh;d1;détailler;#saozneg
+deunañ;deun;d1;foncer, mettre un fond (à un seau, etc);#saozneg
+deverañ;dever;d1;couler, découler, dériver, (s') écouler, (s') égoutter, jaillir, verser;#saozneg
+deverkañ;deverk;d1;assigner;#saozneg
+devizañ;deviz;d1;deviser;#saozneg
+devommañ;devomm;d1;soulever (la terre, en parlant du soc);#saozneg
+dewelañ;dewel;d1;visionner;(to) view
 dewerzhañ;dewerzh;d1;#galleg;#saozneg
-dewilchat;dewilch;d1;#galleg;#saozneg
-dezastum;dezastum;d1;#galleg;#saozneg
-dezirout;dezir;d1;#galleg;#saozneg
-dezrannañ;dezrann;d1;#galleg;#saozneg
-dezrevell;dezrevell;d1;#galleg;#saozneg
-dezvarn;dezvarn;d1;#galleg;#saozneg
-dezverkañ;dezverk;d1;#galleg;#saozneg
-dezvonnañ;dezvonn;d1;délimitation;delimitation
-diabafiñ;diabaf;d1;#galleg;#saozneg
-diac'hubiñ;diac'hub;d1;#galleg;#saozneg
-diachantañ;diachant;d1;#galleg;#saozneg
-diadaviñ;diadav;d1;#galleg;#saozneg
-diaezañ;diaez;d1;#galleg;#saozneg
-diaezhennañ;diaezhenn;d1;#galleg;#saozneg
-diagañ;diag;d1;#galleg;#saozneg
-diagnoziñ;diagnoz;d1;#galleg;#saozneg
-diahelañ;diahel;d1;#galleg;#saozneg
-diaheurtiñ;diaheurt;d1;#galleg;#saozneg
+dewilchat;dewilch;d1;décapiter (végét.), effaner;#saozneg
+dezastum;dezastum;d1;conclure, déduire, extrapoler, récapituler;#saozneg
+dezirout;dezir;d1;désirer, souhaiter;#saozneg
+dezrannañ;dezrann;d1;analyser, critiquer;#saozneg
+dezrevell;dezrevell;d1;énoncer, imiter (par dérision), narrer, raconter;#saozneg
+dezvarn;dezvarn;d1;analyser, juger;#saozneg
+dezverkañ;dezverk;d1;caractériser;#saozneg
+dezvonnañ;dezvonn;d1;délimiter;#saozneg
+diabafiñ;diabaf;d1;déniaiser, (se) remettre (d'une émotion, ivresse), (se) décomplexer;#saozneg
+diac'hubiñ;diac'hub;d1;délivrer, désencombrer, débarrasser (un endroit) des choses qui s'y trouvent, libérer;#saozneg
+diachantañ;diachant;d1;désenchanter;#saozneg
+diadaviñ;diadav;d1;manquer de souffle;#saozneg
+diaezañ;diaez;d1;gêner, incommoder, démettre, mettre qqn dans la gêne financière, faire qqc avec difficulté;#saozneg
+diaezhennañ;diaezhenn;d1;(s') évaporer, (s') émaner;#saozneg
+diagañ;diag;d1;déchirer, user;#saozneg
+diagnoziñ;diagnoz;d1;diagnostiquer;#saozneg
+diahelañ;diahel;d1;(se) désaxer, (se) désarticuler, quitter son axe;#saozneg
+diaheurtiñ;diaheurt;d1;faire sortir qqn de son entêtement;#saozneg
 diajustañ;diajust;d1;#galleg;#saozneg
-diakoursiñ;diakours;d1;#galleg;#saozneg
-diakustumiñ;diakustum;d1;#galleg;#saozneg
-dialanañ;dialan;d1;#galleg;#saozneg
-dialañ;dial;d1;#galleg;#saozneg
-dialc'hwezañ;dialc'hwez;d1;#galleg;#saozneg
-diambarkiñ;diambark;d1;#galleg;#saozneg
-diambroug;diambroug;d1;#galleg;#saozneg
-diampechañ;diampech;d1;#galleg;#saozneg
-diampoezoniñ;diampoezon;d1;#galleg;#saozneg
-diamzeriñ;diamzer;d1;#galleg;#saozneg
-dianadiñ;dianad;d1;#galleg;#saozneg
-dianalañ;dianal;d1;#galleg;#saozneg
-dianavezout;dianavez;d1;#galleg;#saozneg
-diandellañ;diandell;d1;#galleg;#saozneg
-diangajiñ;diangaj;d1;#galleg;#saozneg
-diangraviñ;diangrav;d1;#galleg;#saozneg
-diankañ;diank;d1;#galleg;#saozneg
-dianlivañ;dianliv;d1;colorisation;GB: colourisation, US: colorization
-diannezañ;diannez;d1;#galleg;#saozneg
-dianouediñ;dianoued;d1;#galleg;#saozneg
-diantellañ;diantell;d1;#galleg;#saozneg
-dianwerediñ;dianwered;d1;#galleg;#saozneg
-dianzav;dianzav;d1;#galleg;#saozneg
-diaochañ;diaoch;d1;#galleg;#saozneg
-diaotren;diaotre;d1;#galleg;#saozneg
-diaoulat;diaoul;d1;#galleg;#saozneg
-diaozañ;diaoz;d1;#galleg;#saozneg
+diakoursiñ;diakours;d1;désaccoutumer, déshabituer;#saozneg
+diakustumiñ;diakustum;d1;(se) désaccoutumer;#saozneg
+dialanañ;dialan;d1;perdre son souffle;#saozneg
+dialañ;dial;d1;venger;#saozneg
+dialc'hwezañ;dialc'hwez;d1;déboucler, ouvrir (qqc.) fermé à clef;#saozneg
+diambarkiñ;diambark;d1;débarquer;#saozneg
+diambroug;diambroug;d1;aller à la rencontre (de), venir à la rencontre, au devant de qqn;#saozneg
+diampechañ;diampech;d1;(se) déhaler, délivrer;#saozneg
+diampoezoniñ;diampoezon;d1;désinfecter, ôter l'infection d'un lieu;#saozneg
+diamzeriñ;diamzer;d1;dépasser le temps (trop cuire, mûrir), par ext. anachronique, obsolète, être usé ou détérioré par l'usage;#saozneg
+dianadiñ;dianad;d1;disparaître;#saozneg
+dianalañ;dianal;d1;respirer;#saozneg
+dianavezout;dianavez;d1;méconnaître, ne pas connaître;#saozneg
+diandellañ;diandell;d1;défaire les andains (en fanant...), cesser de badiner;#saozneg
+diangajiñ;diangaj;d1;dégager, libérer;#saozneg
+diangraviñ;diangrav;d1;dégrader quelqu'un de la prétrise;#saozneg
+diankañ;diank;d1;égarer, perdre pour un temps, (s') échapper (à), manquer, fournir, suffire à un travail;#saozneg
+dianlivañ;dianliv;d1;coloriser;GB: colourisation, US: colorization
+diannezañ;diannez;d1;expulser, dégarnir, chasser, déménager;#saozneg
+dianouediñ;dianoued;d1;désenrhumer;#saozneg
+diantellañ;diantell;d1;détendre, débander, débrayer;#saozneg
+dianwerediñ;dianwered;d1;avoir une incidence sur quelque chose;#saozneg
+dianzav;dianzav;d1;désavouer, rétracter, démentir;#saozneg
+diaochañ;diaoch;d1;tirer de la grève, appareiller;#saozneg
+diaotren;diaotre;d1;désapprouver, interdire;#saozneg
+diaoulat;diaoul;d1;faire le diable, passer au roto, endiablé;#saozneg
+diaozañ;diaoz;d1;démettre, & (se) luxer, éplucher, écrémer, déboîter, désajuster, défaire (le feu, un lit), casser (un contrat, un marché);#saozneg
 diaplikañ;diaplik;d1;#galleg;#saozneg
-diaraogiñ;diaraog;d1;#galleg;#saozneg
-diarbenn;diarbenn;d1;#galleg;#saozneg
-diarc'hantañ;diarc'hant;d1;#galleg;#saozneg
+diaraogiñ;diaraog;d1;venir au devant de, avancer, devancer, faire avancer, prévenir;#saozneg
+diarbenn;diarbenn;d1;aller à l'encontre (de...), contrer (un coup*...), parer (*), prévenir (*), détourner (*), parer (*), par ext. anticiper, obvier;#saozneg
+diarc'hantañ;diarc'hant;d1;(se) désargenter, faire perdre de l'argent à qqn;#saozneg
 diarc'hañ;diarc'h;d1;#galleg;#saozneg
-diarc'henañ;diarc'hen;d1;#galleg;#saozneg
-diarmañ;diarm;d1;#galleg;#saozneg
-diarolliñ;diaroll;d1;#galleg;#saozneg
-diarumiñ;diarum;d1;#galleg;#saozneg
-diasambliñ;diasambl;d1;#galleg;#saozneg
-diaskañ;diask;d1;#galleg;#saozneg
-diaskolañ;diaskol;d1;#galleg;#saozneg
-diaskornañ;diaskorn;d1;#galleg;#saozneg
+diarc'henañ;diarc'hen;d1;(se) déchausser;#saozneg
+diarmañ;diarm;d1;désarmer;#saozneg
+diarolliñ;diaroll;d1;désenrôler;#saozneg
+diarumiñ;diarum;d1;désenrhumer;#saozneg
+diasambliñ;diasambl;d1;désassembler;#saozneg
+diaskañ;diask;d1;décocher;#saozneg
+diaskolañ;diaskol;d1;échardonner;#saozneg
+diaskornañ;diaskorn;d1;désosser, dénoyauter;#saozneg
 diaskrenañ;diaskren;d1;#galleg;#saozneg
 diastellañ;diastell;d1;#galleg;#saozneg
-diastenn;diastenn;d1;#galleg;#saozneg
-diastuziñ;diastuz;d1;#galleg;#saozneg
-diatachañ;diatach;d1;#galleg;#saozneg
-diatrediñ;diatred;d1;#galleg;#saozneg
-diavaeziñ;diavaez;d1;#galleg;#saozneg
-diavañs;diavañs;d1;#galleg;#saozneg
-diaveliñ;diavel;d1;#galleg;#saozneg
-diavenañ;diaven;d1;#galleg;#saozneg
-diawelet;diawel;d1;#galleg;#saozneg
+diastenn;diastenn;d1;(se) détendre, appliquer;#saozneg
+diastuziñ;diastuz;d1;purger de vermine;#saozneg
+diatachañ;diatach;d1;détacher;#saozneg
+diatrediñ;diatred;d1;déblayer, décombrer, désencombrer (un endroit);#saozneg
+diavaeziñ;diavaez;d1;exiler, externaliser;#saozneg
+diavañs;diavañs;d1;reculer;#saozneg
+diaveliñ;diavel;d1;réduire la surface de toile (moulin), de voile, amortir, déventer (marine);#saozneg
+diavenañ;diaven;d1;démantibuler;#saozneg
+diawelet;diawel;d1;prévoir;#saozneg
 diazenañ;diazen;d1;#galleg;#saozneg
-diazezañ;diazez;d1;#galleg;#saozneg
-dibab;dibab;d1;#galleg;#saozneg
-dibabiñ;dibab;d1;#galleg;#saozneg
-dibakañ;dibak;d1;#galleg;#saozneg
+diazezañ;diazez;d1;asseoir (fig.), (se) baser, (se) fonder, rassir, (se) tasser, convenir, établir, instaurer, (s') effondrer;#saozneg
+dibab;dibab;d1;choisir, distinguer, départager, sélectionner, trier, par ext. choisir, débrouiller;#saozneg
+dibabiñ;dibab;d1;choisir, sélectionner;#saozneg
+dibakañ;dibak;d1;déballer, dépaqueter;#saozneg
 dibaketiñ;dibaket;d1;#galleg;#saozneg
-dibalastrañ;dibalastr;d1;#galleg;#saozneg
-dibalañ;dibal;d1;#galleg;#saozneg
-dibalediñ;dibaled;d1;#galleg;#saozneg
-dibalvañ;dibalv;d1;#galleg;#saozneg
-dibaouez;dibaouez;d1;#galleg;#saozneg
-dibaradañ;dibarad;d1;#galleg;#saozneg
-dibaradennañ;dibaradenn;d1;#galleg;#saozneg
-dibarfediñ;dibarfed;d1;#galleg;#saozneg
-dibarfoeltrañ;dibarfoeltr;d1;#galleg;#saozneg
-dibarfreuziñ;dibarfreuz;d1;#galleg;#saozneg
-dibariñ;dibar;d1;#galleg;#saozneg
+dibalastrañ;dibalastr;d1;déplâtrer, & div. sens fig. (décoller...), ôter l'emplâtre, lever le dernier appareil;#saozneg
+dibalañ;dibal;d1;dépasser (à la marque), par ext. damer le pion (à ...), sortir de ses gonds, écroûter (le pain);#saozneg
+dibalediñ;dibaled;d1;éclater (de colère, de rire, en sanglots);#saozneg
+dibalvañ;dibalv;d1;desserrer les paumes, deserrer les mains de qqc, lâcher prise;#saozneg
+dibaouez;dibaouez;d1;cesser;#saozneg
+dibaradañ;dibarad;d1;enlever la croûte (du pain);#saozneg
+dibaradennañ;dibaradenn;d1;Enlever la croûte (du pain);#saozneg
+dibarfediñ;dibarfed;d1;(se) distraire, (se) départir de son calme;#saozneg
+dibarfoeltrañ;dibarfoeltr;d1;déchiqueter, détruire, mettre (en pièces, en mille morceaux);#saozneg
+dibarfreuziñ;dibarfreuz;d1;mettre en pièces;#saozneg
+dibariñ;dibar;d1;dépouiller;#saozneg
 dibarzhiñ;dibarzh;d1;#galleg;#saozneg
-dibasiantiñ;dibasiant;d1;#galleg;#saozneg
-dibavezañ;dibavez;d1;#galleg;#saozneg
-dibegañ;dibeg;d1;#galleg;#saozneg
-dibennadiñ;dibennad;d1;#galleg;#saozneg
-dibennañ;dibenn;d1;#galleg;#saozneg
-dibennglinañ;dibennglin;d1;#galleg;#saozneg
-dibenvestrañ;dibenvestr;d1;#galleg;#saozneg
-diberc'hennañ;diberc'henn;d1;#galleg;#saozneg
-diberzhañ;diberzh;d1;#galleg;#saozneg
-dibiaouañ;dibiaou;d1;#galleg;#saozneg
-dibikouzañ;dibikouz;d1;#galleg;#saozneg
-dibilhañ;dibilh;d1;#galleg;#saozneg
-dibilhonañ;dibilhon;d1;#galleg;#saozneg
-dibistigañ;dibistig;d1;#galleg;#saozneg
-diblantañ;diblant;d1;#galleg;#saozneg
-diblasañ;diblas;d1;#galleg;#saozneg
-diblegañ;dibleg;d1;#galleg;#saozneg
-dibluañ;diblu;d1;#galleg;#saozneg
-dibluskañ;diblusk;d1;#galleg;#saozneg
-diboblañ;dibobl;d1;#galleg;#saozneg
-dibradañ;dibrad;d1;#galleg;#saozneg
-dibrennañ;dibrenn;d1;#galleg;#saozneg
-dibrizañ;dibriz;d1;#galleg;#saozneg
-dibuchañ;dibuch;d1;#galleg;#saozneg
-dibunañ;dibun;d1;#galleg;#saozneg
+dibasiantiñ;dibasiant;d1;(s') impatienter, perdre patience;#saozneg
+dibavezañ;dibavez;d1;dépaver;#saozneg
+dibegañ;dibeg;d1;décoller;#saozneg
+dibennadiñ;dibennad;d1;dissuader, faire sortir qqn de son entêtement;#saozneg
+dibennañ;dibenn;d1;décapiter, étêter, ébouter, cueillir à la main (fig.), guillotiner, ravir la première place (de fils unique...);#saozneg
+dibennglinañ;dibennglin;d1;se relever (pers. à genou), enlever un genou;#saozneg
+dibenvestrañ;dibenvestr;d1;ôter le licol (à);#saozneg
+diberc'hennañ;diberc'henn;d1;déposséder, exproprier;#saozneg
+diberzhañ;diberzh;d1;exclure de participation (dans une affaire);#saozneg
+dibiaouañ;dibiaou;d1;déposséder;#saozneg
+dibikouzañ;dibikouz;d1;(se) nettoyer (les yeux), par ext. dessiller, ôter la chassie (des yeux);#saozneg
+dibilhañ;dibilh;d1;teiller, (loc.) émonder, (fig.) se démener (vivement);#saozneg
+dibilhonañ;dibilhon;d1;se démener pour faire aboutir qqc;#saozneg
+dibistigañ;dibistig;d1;remettre (un estropié);#saozneg
+diblantañ;diblant;d1;dépiquer, déplanter;#saozneg
+diblasañ;diblas;d1;partir, se déplacer, se mettre en route;#saozneg
+diblegañ;dibleg;d1;(se) relever, déplier;#saozneg
+dibluañ;diblu;d1;plumer, (se) déplumer;#saozneg
+dibluskañ;diblusk;d1;éplucher;#saozneg
+diboblañ;dibobl;d1;(se) dépeupler;#saozneg
+dibradañ;dibrad;d1;soulever de terre, (se) soulever, partir;#saozneg
+dibrennañ;dibrenn;d1;ouvrir (ce qui est fermé à clef), ouvrir, défaire, déboutonner (un vêtement);#saozneg
+dibrizañ;dibriz;d1;déprécier, dépriser;#saozneg
+dibuchañ;dibuch;d1;(se) relever, déboucher, débucher;#saozneg
+dibunañ;dibun;d1;dévider, (se) dérouler, débiter, défiler;#saozneg
 dic'hallañ;dic'hall;d1;#galleg;#saozneg
-dic'haloupat;dic'haloup;d1;#galleg;#saozneg
-dic'haouiñ;dic'haou;d1;#galleg;#saozneg
-dic'hargadennañ;dic'hargadenn;d1;#galleg;#saozneg
-dic'harvañ;dic'harv;d1;#galleg;#saozneg
+dic'haloupat;dic'haloup;d1;courir vite (en plt de qqn);#saozneg
+dic'haouiñ;dic'haou;d1;dédommager qqn;#saozneg
+dic'hargadennañ;dic'hargadenn;d1;éclater de rire;#saozneg
+dic'harvañ;dic'harv;d1;adoucir;#saozneg
 dic'harzhañ;dic'harzh;d1;#galleg;#saozneg
-dic'hastañ;dic'hast;d1;#galleg;#saozneg
-dic'hazañ;dic'haz;d1;#galleg;#saozneg
-dic'henaouiñ;dic'henaou;d1;#galleg;#saozneg
+dic'hastañ;dic'hast;d1;tuer, détruire, bousiller;#saozneg
+dic'hazañ;dic'haz;d1;dégazer;#saozneg
+dic'henaouiñ;dic'henaou;d1;bayer aux corneilles (en plt de qqn);#saozneg
 dic'heotañ;dic'heot;d1;#galleg;#saozneg
-dic'hizañ;dic'hiz;d1;#galleg;#saozneg
-dic'hlac'hariñ;dic'hlac'har;d1;#galleg;#saozneg
-dic'hlannañ;dic'hlann;d1;#galleg;#saozneg
-dic'hlaourañ;dic'hlaour;d1;#galleg;#saozneg
+dic'hizañ;dic'hiz;d1;(se) déguiser;#saozneg
+dic'hlac'hariñ;dic'hlac'har;d1;consoler;#saozneg
+dic'hlannañ;dic'hlann;d1;déborder;#saozneg
+dic'hlaourañ;dic'hlaour;d1;essuyer la bave;#saozneg
 dic'hlaourennañ;dic'hlaourenn;d1;#galleg;#saozneg
-dic'hludennañ;dic'hludenn;d1;#galleg;#saozneg
+dic'hludennañ;dic'hludenn;d1;dégluer;#saozneg
 dic'hoallañ;dic'hoall;d1;#galleg;#saozneg
-dic'hoanagiñ;dic'hoanag;d1;#galleg;#saozneg
-dic'hoantañ;dic'hoant;d1;#galleg;#saozneg
-dic'hoari;dic'hoari;d1;#galleg;#saozneg
-dic'hoarzhin;dic'hoarzhin;d1;#galleg;#saozneg
-dic'hodellañ;dic'hodell;d1;#galleg;#saozneg
+dic'hoanagiñ;dic'hoanag;d1;désespérer;#saozneg
+dic'hoantañ;dic'hoant;d1;satisfaire un désir, contenter qqn;#saozneg
+dic'hoari;dic'hoari;d1;douleur de l'accouchement, cesser de jouer, (se) sortir d'un mauvais pas;#saozneg
+dic'hoarzhin;dic'hoarzhin;d1;cesser de rire;#saozneg
+dic'hodellañ;dic'hodell;d1;sortir de sa poche;#saozneg
 dic'hoprañ;dic'hopr;d1;#galleg;#saozneg
 dic'horziaouañ;dic'horziaou;d1;#galleg;#saozneg
-dic'houbañ;dic'houb;d1;#galleg;#saozneg
+dic'houbañ;dic'houb;d1;décoincer, jaillir;#saozneg
 dic'houezañ;dic'houez;d1;#galleg;#saozneg
-dic'houhinañ;dic'houhin;d1;#galleg;#saozneg
-dic'houlazhañ;dic'houlazh;d1;#galleg;#saozneg
-dic'hourdañ;dic'hourd;d1;#galleg;#saozneg
-dic'hourizañ;dic'houriz;d1;#galleg;#saozneg
-dic'houtiñ;dic'hout;d1;#galleg;#saozneg
-dic'houzougañ;dic'houzoug;d1;#galleg;#saozneg
+dic'houhinañ;dic'houhin;d1;sortir (une arme) de son fourreau, dégainer;#saozneg
+dic'houlazhañ;dic'houlazh;d1;délatter;#saozneg
+dic'hourdañ;dic'hourd;d1;dégourdir (son corps, ses membres). v. tr. d. donner (un coup);#saozneg
+dic'hourizañ;dic'houriz;d1;ôter la ceinture de;#saozneg
+dic'houtiñ;dic'hout;d1;dégoûter;#saozneg
+dic'houzougañ;dic'houzoug;d1;egorger, décapiter;#saozneg
 dic'houzougennañ;dic'houzougenn;d1;#galleg;#saozneg
-dic'hozañ;dic'hoz;d1;#galleg;#saozneg
-dic'hronnañ;dic'hronn;d1;#galleg;#saozneg
-dic'hrozañ;dic'hroz;d1;#galleg;#saozneg
+dic'hozañ;dic'hoz;d1;étauper, débarrasser (un terrain des taupes);#saozneg
+dic'hronnañ;dic'hronn;d1;débarrasser (un bébé) de ses langes;#saozneg
+dic'hrozañ;dic'hroz;d1;dégrossir;#saozneg
 dic'hwechañ;dic'hwech;d1;#galleg;#saozneg
-dic'hwenañ;dic'hwen;d1;#galleg;#saozneg
-dic'hwezañ;dic'hwez;d1;#galleg;#saozneg
-dichadennañ;dichadenn;d1;#galleg;#saozneg
-dichafrantañ;dichafrant;d1;#galleg;#saozneg
-dichagelliñ;dichagell;d1;#galleg;#saozneg
+dic'hwenañ;dic'hwen;d1;épucer, sortir du lit. (?) Quitter la position sur le dos, quitter les puces (?);#saozneg
+dic'hwezañ;dic'hwez;d1;(se) dégonfler;#saozneg
+dichadennañ;dichadenn;d1;désenchaîner;#saozneg
+dichafrantañ;dichafrant;d1;déchirer avec effort;#saozneg
+dichagelliñ;dichagell;d1;démantibuler;#saozneg
 dichakodañ;dichakod;d1;#galleg;#saozneg
-dichalañ;dichal;d1;#galleg;#saozneg
-dichalmiñ;dichalm;d1;#galleg;#saozneg
+dichalañ;dichal;d1;(se) retirer (refluer, déchaler),;#saozneg
+dichalmiñ;dichalm;d1;désensorceler;#saozneg
 dichankriñ;dichankr;d1;#galleg;#saozneg
-dichaosiñ;dichaos;d1;#galleg;#saozneg
-dichapañ;dichap;d1;#galleg;#saozneg
-dichañsañ;dichañs;d1;#galleg;#saozneg
-dichedañ;diched;d1;#galleg;#saozneg
-dichekal;dichek;d1;#galleg;#saozneg
-dichekañ;dichek;d1;#galleg;#saozneg
-dichifañ;dichif;d1;#galleg;#saozneg
-dichoual;dichou;d1;#galleg;#saozneg
-didachañ;didach;d1;#galleg;#saozneg
-didaeriñ;didaer;d1;#galleg;#saozneg
-didakenniñ;didakenn;d1;#galleg;#saozneg
-didalañ;didal;d1;#galleg;#saozneg
-didalmañ;didalm;d1;#galleg;#saozneg
-didalvezañ;didalvez;d1;#galleg;#saozneg
-didalvoudiñ;didalvoud;d1;#galleg;#saozneg
-didamall;didamall;d1;#galleg;#saozneg
-didammañ;didamm;d1;#galleg;#saozneg
-didanañ;didan;d1;#galleg;#saozneg
+dichaosiñ;dichaos;d1;arracher, déraciner (une plante);#saozneg
+dichapañ;dichap;d1;(faire s') échapper;#saozneg
+dichañsañ;dichañs;d1;advenir;#saozneg
+dichedañ;diched;d1;décaniller (du gîte), faire (sortir un animal) de son repaire, dégîter, forlancer;#saozneg
+dichekal;dichek;d1;défier;#saozneg
+dichekañ;dichek;d1;défier, braver;#saozneg
+dichifañ;dichif;d1;cesser de chagriner;#saozneg
+dichoual;dichou;d1;expulser (d'un cri), chasser (les poules) en criant;#saozneg
+didachañ;didach;d1;déclouer, détacher, ôter les clous (de qqc. de cloué);#saozneg
+didaeriñ;didaer;d1;(s') apaiser;#saozneg
+didakenniñ;didakenn;d1;dégoutter (eau);#saozneg
+didalañ;didal;d1;(se) défoncer, perdre son fond;#saozneg
+didalmañ;didalm;d1;éclater (de rire, etc.);#saozneg
+didalvezañ;didalvez;d1;fainéanter;#saozneg
+didalvoudiñ;didalvoud;d1;rendre inutile (un travail, etc.);#saozneg
+didamall;didamall;d1;excuser, acquitter, innocenter, disculper, innocenter, justifier, dédouaner;#saozneg
+didammañ;didamm;d1;emporter (à l'emporte-pièce), séparer (en enlevant un morceau);#saozneg
+didanañ;didan;d1;(s') éteindre (se refroidir), parf. ignifuger, (fig.) désarmer (qun...);#saozneg
 didanijennañ;didanijenn;d1;#galleg;#saozneg
-didapisañ;didapis;d1;#galleg;#saozneg
-didemzañ;didemz;d1;#galleg;#saozneg
-dideodañ;dideod;d1;#galleg;#saozneg
-didermenañ;didermen;d1;#galleg;#saozneg
-dideñviñ;dideñv;d1;#galleg;#saozneg
-didogañ;didog;d1;#galleg;#saozneg
-didorañ;didor;d1;#galleg;#saozneg
-didorgammiñ;didorgamm;d1;#galleg;#saozneg
-didortilhañ;didortilh;d1;#galleg;#saozneg
+didapisañ;didapis;d1;détendre une tapisserie;#saozneg
+didemzañ;didemz;d1;épuiser (le sol);#saozneg
+dideodañ;dideod;d1;tirer la langue, ôter la langue;#saozneg
+didermenañ;didermen;d1;déterminer;#saozneg
+dideñviñ;dideñv;d1;venir, germer (en plt d'une idée);#saozneg
+didogañ;didog;d1;décoiffer, étêter, ôter la peau (d'un abcès);#saozneg
+didorañ;didor;d1;éventrer;#saozneg
+didorgammiñ;didorgamm;d1;détordre (le cou...);#saozneg
+didortilhañ;didortilh;d1;détortiller, désentortiller, développer;#saozneg
 didortisañ;didortis;d1;#galleg;#saozneg
-didouellañ;didouell;d1;#galleg;#saozneg
-didoullañ;didoull;d1;#galleg;#saozneg
+didouellañ;didouell;d1;désabuser, démystifier, (se) détromper;#saozneg
+didoullañ;didoull;d1;rapetasser, percer ailleurs, extraire d'un trou, déloger, redoubler (filet), boucher (un trou), repriser, rapiecer;#saozneg
 didrabasiñ;didrabas;d1;#galleg;#saozneg
 didrempañ;didremp;d1;#galleg;#saozneg
 didreuziñ;didreuz;d1;#galleg;#saozneg
@@ -1634,50 +1624,50 @@ dielfennañ;dielfenn;d1;#galleg;#saozneg
 diellaouiñ;diellaou;d1;#galleg;#saozneg
 diemprañ;diempr;d1;#galleg;#saozneg
 dienaouiñ;dienaou;d1;#galleg;#saozneg
-diengouestlañ;diengouestl;d1;#galleg;#saozneg
-dienkañ;dienk;d1;#galleg;#saozneg
-dienklaouiñ;dienklaou;d1;#galleg;#saozneg
-diennañ;dienn;d1;#galleg;#saozneg
-dientachañ;dientach;d1;#galleg;#saozneg
-dieonennañ;dieonenn;d1;#galleg;#saozneg
+diengouestlañ;diengouestl;d1;dégager, retirer (qqc. d'engagé);#saozneg
+dienkañ;dienk;d1;décintrer (vêt.), désenclaver, déserrer;#saozneg
+dienklaouiñ;dienklaou;d1;désenclouer;#saozneg
+diennañ;dienn;d1;écrémer, cuisiner (qun);#saozneg
+dientachañ;dientach;d1;nettoyer, ôter les taches;#saozneg
+dieonennañ;dieonenn;d1;écumer;#saozneg
 dieraeziñ;dieraez;d1;#galleg;#saozneg
 diereañ;diere;d1;#galleg;#saozneg
-dieren;dieren;d1;#galleg;#saozneg
-difachañ;difach;d1;#galleg;#saozneg
-difaezhañ;difaezh;d1;#galleg;#saozneg
-difaganiñ;difagan;d1;#galleg;#saozneg
-difallañ;difall;d1;#galleg;#saozneg
-difamañ;difam;d1;#galleg;#saozneg
-difankañ;difank;d1;#galleg;#saozneg
-difaotañ;difaot;d1;#galleg;#saozneg
-difaragoellañ;difaragoell;d1;#galleg;#saozneg
-difarantiñ;difarant;d1;#galleg;#saozneg
-difarleañ;difarle;d1;#galleg;#saozneg
-difasañ;difas;d1;#galleg;#saozneg
-difastañ;difast;d1;#galleg;#saozneg
-difatañ;difat;d1;#galleg;#saozneg
-difatikañ;difatik;d1;#galleg;#saozneg
-difelc'hañ;difelc'h;d1;#galleg;#saozneg
-difelpañ;difelp;d1;#galleg;#saozneg
-difelpennañ;difelpenn;d1;#galleg;#saozneg
-diferañ;difer;d1;#galleg;#saozneg
-diferañsiñ;diferañs;d1;#galleg;#saozneg
-diferlañ;diferl;d1;#galleg;#saozneg
-diferlinkiñ;diferlink;d1;#galleg;#saozneg
-difeskinañ;difeskin;d1;#galleg;#saozneg
-difinañ;difin;d1;#galleg;#saozneg
-difindaoniñ;difindaon;d1;#galleg;#saozneg
-diflac'hañ;diflac'h;d1;#galleg;#saozneg
-diflach;diflach;d1;#galleg;#saozneg
-diflakañ;diflak;d1;#galleg;#saozneg
-diflipañ;diflip;d1;#galleg;#saozneg
-diflistrañ;diflistr;d1;#galleg;#saozneg
-difloupañ;difloup;d1;#galleg;#saozneg
-diflourañ;diflour;d1;#galleg;#saozneg
-diflukañ;difluk;d1;éclore;#saozneg
-difoarañ;difoar;d1;#galleg;#saozneg
-difoc'hañ;difoc'h;d1;#galleg;#saozneg
-difoeltrañ;difoeltr;d1;#galleg;#saozneg
+dieren;dieren;d1;délier (qqn, qqc.);#saozneg
+difachañ;difach;d1;(se) défâcher, (se) réconcilier;#saozneg
+difaezhañ;difaezh;d1;(se) délasser, (se) reposer;#saozneg
+difaganiñ;difagan;d1;revenir d'un évanouissement, enlever le meilleur (d'une marchandise);#saozneg
+difallañ;difall;d1;(se) remettre (d'un mal...), parf. épurer (le mauvais...), remettre en état, réparer, raccommoder, retaper, restaurer;#saozneg
+difamañ;difam;d1;souiller (dont moralt, & déshonorer), salir (la réputation);#saozneg
+difankañ;difank;d1;débourber, essanger, déféquer;#saozneg
+difaotañ;difaot;d1;corriger, rectifier;#saozneg
+difaragoellañ;difaragoell;d1;dégringoler;#saozneg
+difarantiñ;difarant;d1;différencier;#saozneg
+difarleañ;difarle;d1;(marine) déferler (les voiles);#saozneg
+difasañ;difas;d1;effacer;#saozneg
+difastañ;difast;d1;évider (poisson), & cesser de (se) dégoûter (L), enlever le dégoût,  étriper, déboyauter, éviscérer, effondrer, vider, vider (éviscérer);#saozneg
+difatañ;difat;d1;revenir à soi (GW), revenir d'un évanouissement;#saozneg
+difatikañ;difatik;d1;reprendre conscience;#saozneg
+difelc'hañ;difelc'h;d1;(se) dérater;#saozneg
+difelpañ;difelp;d1;dépecer, mettre en pièces;#saozneg
+difelpennañ;difelpenn;d1;découper par tranches;#saozneg
+diferañ;difer;d1;(se) distinguer, spécifier (dans contrat), différer, stipuler, disposer;#saozneg
+diferañsiñ;diferañs;d1;différencier;#saozneg
+diferlañ;diferl;d1;déferler;#saozneg
+diferlinkiñ;diferlink;d1;(marine) déferler (les voiles);#saozneg
+difeskinañ;difeskin;d1;punir, corriger, de façon à ôter l'envie de recommencer;#saozneg
+difinañ;difin;d1;tirer à sa fin;#saozneg
+difindaoniñ;difindaon;d1;démancher, détruire, mettre en pièces;#saozneg
+diflac'hañ;diflac'h;d1;desserrer les mains (de dessus qqc.);#saozneg
+diflach;diflach;d1;(se) déplacer;#saozneg
+diflakañ;diflak;d1;haleter;#saozneg
+diflipañ;diflip;d1;(s') échapper (des mains de qqn), déraper, échapper, glisser;#saozneg
+diflistrañ;diflistr;d1;(s') échapper (liquide), jaillir;#saozneg
+difloupañ;difloup;d1;(s') échapper en glissant;#saozneg
+diflourañ;diflour;d1;déflorer;#saozneg
+diflukañ;difluk;d1;éclore, surgir, (s') épanouir;#saozneg
+difoarañ;difoar;d1;solder (vendre à la foire), quitter la foire, déstocker;#saozneg
+difoc'hañ;difoc'h;d1;défaire (sens fig), tirer, arracher, allonger;#saozneg
+difoeltrañ;difoeltr;d1;(se) démanteler (démancher, loc. dilapider...), détruire, mettre en pièces;#saozneg
 difontañ;difont;d1;#galleg;#saozneg
 diforanañ;diforan;d1;#galleg;#saozneg
 diforc'hiñ;diforc'h;d1;#galleg;#saozneg
@@ -1688,7 +1678,7 @@ difoultrañ;difoultr;d1;#galleg;#saozneg
 difoupañ;difoup;d1;#galleg;#saozneg
 difourchañ;difourch;d1;#galleg;#saozneg
 difourkañ;difourk;d1;#galleg;#saozneg
-difoñsiñ;difoñs;d1;#galleg;#saozneg
+difoñsiñ;difoñs;d1;défoncer, ôter le fond (d'une barrique, etc.);#saozneg
 difraeañ;difrae;d1;#galleg;#saozneg
 difraezhañ;difraezh;d1;#galleg;#saozneg
 difraktiñ;difrakt;d1;#galleg;#saozneg
@@ -2524,6 +2514,7 @@ emfiñval;emfiñv;d1;#galleg;#saozneg
 emgannañ;emgann;d1;#galleg;#saozneg
 emgastizañ;emgastiz;d1;#galleg;#saozneg
 emgavout;emgav;d1;#galleg;#saozneg
+emgefren;emgefre;d1;automatiser;to automatise
 emgejañ;emgej;d1;#galleg;#saozneg
 emgemmeskañ;emgemmesk;d1;#galleg;#saozneg
 emginklañ;emginkl;d1;#galleg;#saozneg
@@ -3136,6 +3127,7 @@ garwaskañ;garwask;d1;#galleg;#saozneg
 garzhañ;garzh;d1;#galleg;#saozneg
 garzhenniñ;garzhenn;d1;#galleg;#saozneg
 gastaouiñ;gastaou;d1;#galleg;#saozneg
+gavaelañ;gavael;d1;accaparer (le pouvoir), avoir de l'emprise;#saozneg
 gavrlammat;gavrlamm;d1;#galleg;#saozneg
 gazouilhañ;gazouilh;d1;#galleg;#saozneg
 gedal;ged;d1;#galleg;#saozneg
@@ -3172,6 +3164,7 @@ glavenniñ;glavenn;d1;#galleg;#saozneg
 glazañ;glaz;d1;#galleg;#saozneg
 glazenniñ;glazenn;d1;#galleg;#saozneg
 gleborennañ;gleborenn;d1;#galleg;#saozneg
+glennañ;glenn;d1;topographier;#saozneg
 glinañ;glin;d1;#galleg;#saozneg
 glizhañ;glizh;d1;#galleg;#saozneg
 glizhenniñ;glizhenn;d1;#galleg;#saozneg
@@ -3218,6 +3211,7 @@ gouhinañ;gouhin;d1;#galleg;#saozneg
 goulaouiñ;goulaou;d1;#galleg;#saozneg
 goulazhañ;goulazh;d1;#galleg;#saozneg
 goullonderiñ;goullonder;d1;#galleg;#saozneg
+gouluzañ;gouluz;d1;moduler;#saozneg
 goumonañ;goumon;d1;#galleg;#saozneg
 gounit;gounez;d1;gagner;#saozneg
 gouraouiñ;gouraou;d1;#galleg;#saozneg
@@ -3549,6 +3543,7 @@ hiraezhiñ;hiraezh;d1;#galleg;#saozneg
 hirboelladiñ;hirboellad;d1;#galleg;#saozneg
 hirgleizennañ;hirgleizenn;d1;#galleg;#saozneg
 hirgleizhennañ;hirgleizhenn;d1;#galleg;#saozneg
+hirgleñvel;hirglañv;d1;faire une longue maladie;#saozneg
 hirisiñ;hiris;d1;#galleg;#saozneg
 hironat;hiron;d1;#galleg;#saozneg
 hironañ;hiron;d1;#galleg;#saozneg
@@ -3870,6 +3865,7 @@ kelluskañ;kellusk;d1;#galleg;#saozneg
 kemberiñ;kember;d1;#galleg;#saozneg
 kemblac'hañ;kemblac'h;d1;#galleg;#saozneg
 kembraegañ;kembraeg;d1;#galleg;#saozneg
+kemediñ;kemed;d1;imposer, mettre un impôt sur;#saozneg
 kemenañ;kemen;d1;#galleg;#saozneg
 kemer;kemer;d1;#galleg;#saozneg
 kemmañ;kemm;d1;#galleg;#saozneg
@@ -3894,16 +3890,19 @@ kenderc'hel;kenderc'hel;d1;#galleg;#saozneg
 kendeurel;kendaol;d1;#galleg;#saozneg
 kendeverañ;kendever;d1;#galleg;#saozneg
 kendoareañ;kendoare;d1;#galleg;#saozneg
+kendodiñ;kendod;d1;synthétiser (un document);#saozneg
 keneilañ;keneil;d1;#galleg;#saozneg
 kenemweañ;kenemwe;d1;#galleg;#saozneg
 kenezelañ;kenezel;d1;#galleg;#saozneg
 kenfestañ;kenfest;d1;#galleg;#saozneg
 kenflammañ;kenflamm;d1;#galleg;#saozneg
+kenforc'hañ;kenforc'h;d1;diverger;#saozneg
 kenframmañ;kenframm;d1;#galleg;#saozneg
 kenganañ;kengan;d1;#galleg;#saozneg
 kengañvaouiñ;kengañvaou;d1;#galleg;#saozneg
 kengeidañ;kengeid;d1;#galleg;#saozneg
 kengejañ;kengej;d1;#galleg;#saozneg
+kengerc'hañ;kengerc'h;d1;converger;#saozneg
 kengervel;kengalv;d1;#galleg;#saozneg
 kengevredañ;kengevred;d1;#galleg;#saozneg
 kenglotañ;kenglot;d1;#galleg;#saozneg
@@ -6327,6 +6326,7 @@ treuziñ;treuz;d1;#galleg;#saozneg
 treuzkammañ;treuzkamm;d1;#galleg;#saozneg
 treuzkas;treuzkas;d1;#galleg;#saozneg
 treuzkizañ;treuzkiz;d1;#galleg;#saozneg
+treuzlizherennañ;treuzlizherenn;d1;faire de la translittération;#saozneg
 treuzstaelañ;treuzstael;d1;#galleg;#saozneg
 trevadenniñ;trevadenn;d1;#galleg;#saozneg
 trevelliñ;trevell;d1;#galleg;#saozneg
@@ -6976,39 +6976,39 @@ pasaat;pasa;d2;#galleg;#saozneg
 pasetaat;paseta;d2;#galleg;#saozneg
 pasteurekaat;pasteureka;d2;#galleg;#saozneg
 pekaat;peka;d2;#galleg;#saozneg
-pellaat;pella;d2;(s’)éloigner, (s’)écarter;#saozneg
+pellaat;pella;d2;(s’)éloigner, (s’)écarter;to move away, to deviate
 pempaat;pempa;d2;#galleg;#saozneg
 pennekaat;penneka;d2;#galleg;#saozneg
-peoc'haat;peoc'ha;d2;pacifier , rendre (plus) pacifique;#saozneg
-personelaat;personela;d2;personnaliser, rendre (plus) personnel;#saozneg
+peoc'haat;peoc'ha;d2;pacifier, rendre (plus) pacifique;to pacify, to render (more) peaceful
+personelaat;personela;d2;personnaliser, rendre (plus) personnel;to personalize, to render more personal
 perzhekaat;perzheka;d2;#galleg;#saozneg
 peurc'hlanaat;peurc'hlana;d2;#galleg;#saozneg
 peurdreutaat;peurdreuta;d2;#galleg;#saozneg
 peureekaat;peureeka;d2;#galleg;#saozneg
-peurglokaat;peurgloka;d2;compléter (pour de bon);#saozneg
+peurglokaat;peurgloka;d2;compléter (pour de bon);to complete (once and for all, definitively)
 peurheñvelaat;peurheñvela;d2;#galleg;#saozneg
 peurlentaat;peurlenta;d2;#galleg;#saozneg
-peurwiriekaat;peurwirieka;d2;vérifier (pour de bon);#saozneg
+peurwiriekaat;peurwirieka;d2;vérifier (pour de bon);to verify (once and for all, definitively)
 peusheñvelaat;peusheñvela;d2;#galleg;#saozneg
 peustrenkaat;peustrenka;d2;#galleg;#saozneg
 pezhellaat;pezhella;d2;#galleg;#saozneg
 pianoañ;piano;d2;#galleg;#saozneg
-pinvidikaat;pinvidika;d2;(s’)enrichir, rendre (plus) riche;#saozneg
+pinvidikaat;pinvidika;d2;(s’)enrichir, rendre (plus) riche;to enrich oneself, to make richer
 pishaat;pisha;d2;#galleg;#saozneg
 plaenaat;plaena;d2;#galleg;#saozneg
 pluñvaat;pluñva;d2;#galleg;#saozneg
 poblekaat;pobleka;d2;#galleg;#saozneg
 poellaat;poella;d2;#galleg;#saozneg
 poellekaat;poelleka;d2;#galleg;#saozneg
-polimerekaat;polimereka;d2;polymériser;#saozneg
+polimerekaat;polimereka;d2;polymériser;to polymerize
 politikaat;politika;d2;#galleg;#saozneg
-ponneraat;ponnera;d2;prendre du poids, faire prendre (plus) de pois;#saozneg
+ponneraat;ponnera;d2;prendre du poids, faire prendre (plus) de poids;to gain weight, to make gain (more) weight
 posterelaat;posterela;d2;#galleg;#saozneg
-pounneraat;pounnera;d2;prendre du poids, faire prendre (plus) de pois;#saozneg
-poutaat;pouta;d2;(s’)alourdir, rendre (plus) lourd;#saozneg
-pozetaat;pozeta;d2;rendre sérieux;#saozneg
+pounneraat;pounnera;d2;prendre du poids, faire prendre (plus) de poids;to gain weight, to make gain (more) weight
+poutaat;pouta;d2;(s’)alourdir, rendre (plus) lourd;to burden oneself, to make (more) heavier
+pozetaat;pozeta;d2;rendre sérieux;to render serious
 prevesaat;prevesa;d2;#galleg;#saozneg
-prietaat;prieta;d2;se marier;#saozneg
+prietaat;prieta;d2;se marier;to marry, to get marry
 proleterekaat;proleterek;d2;#galleg;#saozneg
 puilhaat;puilha;d2;#galleg;#saozneg
 puraat;pura;d2;#galleg;#saozneg
@@ -7034,7 +7034,7 @@ santelaat;santela;d2;#galleg;#saozneg
 saozneka;saozneka;d2;#galleg;#saozneg
 saoznekaat;saozneka;d2;#galleg;#saozneg
 sartaat;sarta;d2;#galleg;#saozneg
-sec'hedikaat;sec'hedika;d2;altérer;#saozneg
+sec'hedikaat;sec'hedika;d2;altérer;to alter, affect
 sederaat;sedera;d2;#galleg;#saozneg
 semplaat;sempla;d2;#galleg;#saozneg
 sershaat;sersha;d2;#galleg;#saozneg
@@ -7076,30 +7076,30 @@ speredekaat;speredeka;d2;#galleg;#saozneg
 spisaat;spisa;d2;#galleg;#saozneg
 splannaat;splanna;d2;#galleg;#saozneg
 spletusaat;spletusa;d2;#galleg;#saozneg
-stabilaat;stabila;d2;stabiliser;#saozneg
+stabilaat;stabila;d2;stabiliser;to stabilize, steady
 stadelaat;stadela;d2;#galleg;#saozneg
 standardekaat;standardeka;d2;#galleg;#saozneg
 stankaat;stanka;d2;#galleg;#saozneg
-startaat;starta;d2;affermir;#saozneg
+startaat;starta;d2;affermir;to reinforce, bolster
 steuñvekaat;steuñveka;d2;#galleg;#saozneg
 strishaat;strisha;d2;#galleg;#saozneg
-strujusaat;strujusa;d2;fertiliser;#saozneg
+strujusaat;strujusa;d2;fertiliser;to fertilize
 sturiadelaat;sturiadela;d2;#galleg;#saozneg
 suraat;sura;d2;#galleg;#saozneg
-taeraat;taera;d2;s’exaspérer;#saozneg
-tagnousaat;tagnousa;d2;devenir teigneux;#saozneg
+taeraat;taera;d2;s’exaspérer;to exasperate oneself
+tagnousaat;tagnousa;d2;devenir teigneux;to become ill-tempered
 talvoudekaat;talvoudeka;d2;#galleg;#saozneg
-tanavaat;tanava;d2;s’affiner liquéfier;#saozneg
+tanavaat;tanava;d2;s’affiner, liquéfier;to refine, liquify
 tavantekaat;tavantek;d2;#galleg;#saozneg
 teiñ;to;d2;#galleg;#saozneg
-teneraat;tenera;d2;(s’)attendrir, rendre (plus) tendre;#saozneg
-testeniekaat;testenieka;d2;attester;#saozneg
-tetanekaat;tetaneka;d2;tétaniser;#saozneg
-teuc'haat;teuc'ha;d2;rendre (plus) consistant;#saozneg
+teneraat;tenera;d2;(s’)attendrir, rendre (plus) tendre;to soften, tenderize oneself, render more soft
+testeniekaat;testenieka;d2;attester;to attest, certifiy
+tetanekaat;tetaneka;d2;tétaniser;to tetanize
+teuc'haat;teuc'ha;d2;rendre (plus) consistant;to render (more) consistant
 teuc'hekaat;teuc'heka;d2;#galleg;#saozneg
 teuskaat;teuska;d2;rendre (plus) chétif;#saozneg
 tevaat;teva;d2;(s’)épaissir, rendre (plus) épais;#saozneg
-teñvalaat;teñvala;d2;(s’)assombrir, rendre (plus) sombre;#saozneg
+teñvalaat;teñvala;d2;(s’)assombrir, rendre (plus) sombre;to become overcast, to cloud, to render (more) somber
 tiekaat;tieka;d2;#galleg;#saozneg
 toc'horaat;toc'hora;d2;#galleg;#saozneg
 tommaat;tomma;d2;échauffer;#saozneg
@@ -7355,37 +7355,37 @@ lina;lin;d3;#galleg;#saozneg
 loaiata;loaiat;d3;#galleg;#saozneg
 loc'hata;loc'hat;d3;#galleg;#saozneg
 locheta;lochet;d3;pêcher des vairons;#pennrann
-logota;logot;d3;chasser des souris;#saozneg
+logota;logot;d3;chasser des souris;to mouse, to hunt mice
 lopata;lopat;d3;#galleg;#saozneg
 louzaoua;louzaou;d3;#galleg;#saozneg
 ludua;ludu;d3;#galleg;#saozneg
 lusa;lus;d3;#galleg;#saozneg
 maesa;maes;d3;#galleg;#saozneg
 maouta;maout;d3;#galleg;#saozneg
-marc'ha;marc'h;d3;être en chaleur en parlant des juments;#saozneg
+marc'ha;marc'h;d3;être en chaleur en parlant des juments;to be in heat (mares)
 marc'hata;marc'hat;d3;#galleg;#saozneg
 meilheta;meilhet;d3;#galleg;#saozneg
 meinata;meinat;d3;#galleg;#saozneg
-meizata;meizat;d3;conceptualiser;#saozneg
+meizata;meizat;d3;conceptualiser;to conceptualize
 mela;mel;d3;#galleg;#saozneg
-melc'hweta;melc'hwet;d3;ramasser des limaces;#saozneg
+melc'hweta;melc'hwet;d3;ramasser des limaces;to gather slugs
 mellata;mellat;d3;#galleg;#saozneg
 merata;merat;d3;#galleg;#saozneg
-merc'heta;merc'het;d3;draguer les filles;#saozneg
-mesa;mes;d3;chercher des glands;#saozneg
-meskla;meskl;d3;chercher/ramasser des moules;#saozneg
+merc'heta;merc'het;d3;draguer les filles;to chat up girls
+mesa;mes;d3;chercher des glands;to look for acorns
+meskla;meskl;d3;chercher/ramasser des moules;to look for/gather mussels
 meskleta;mesklet;d3;#galleg;#saozneg
-meudata;meudat;d3;prendre par pincée;#saozneg
-meuta;meut;d3;mesurer au pouce;#saozneg
-moc'hata;moc'hat;d3;bâcler;#saozneg
-morianeta;morianet;d3;faire la traite négrière;#saozneg
-morlaerata;morlaerat;d3;exercer la piraterie;#saozneg
+meudata;meudat;d3;prendre par pincée;to take by pinching
+meuta;meut;d3;mesurer au pouce;to measure by inch
+moc'hata;moc'hat;d3;bâcler;to botch
+morianeta;morianet;d3;faire la traite négrière;to take part in the trade of black slaves
+morlaerata;morlaerat;d3;exercer la piraterie;to be a pirate
 morueta;moruet;d3;#galleg;#saozneg
 morvileta;morvilet;d3;#galleg;#saozneg
 mouara;mouar;d3;#galleg;#saozneg
 mouchata;mouchat;d3;#galleg;#saozneg
 moustañva;moustañv;d3;#galleg;#saozneg
-musa;mus;d3;flairer;#saozneg
+musa;mus;d3;flairer;to sniff, to smell
 museta;museta;d3;#galleg;#saozneg
 mêsa;mês;d3;#galleg;#saozneg
 naereta;naeret;d3;#galleg;#saozneg
@@ -7395,37 +7395,37 @@ nozvata;nozvat;d3;#galleg;#saozneg
 oberata;oberat;d3;#galleg;#saozneg
 oberiata;oberiat;d3;#galleg;#saozneg
 orgedata;orgedat;d3;#galleg;#saozneg
-ourmela;ourmel;d3;chercher/ramasser des ormeaux;#saozneg
+ourmela;ourmel;d3;chercher/ramasser des ormeaux;to search for/gather elms
 pakata;pakat;d3;#galleg;#saozneg
-palvata;palvat;d3;paumer;#saozneg
-panesa;panes;d3;chercher des panais;#saozneg
-paotreta;paotret;d3;draguer des garçons;#saozneg
+palvata;palvat;d3;paumer;to lose
+panesa;panes;d3;chercher des panais;to look for parnips
+paotreta;paotret;d3;draguer des garçons;to chat up boys
 parichaoua;parichaou;d3;#galleg;#saozneg
-pavata;pavat;d3;tâtonner;#saozneg
+pavata;pavat;d3;tâtonner;to grope about
 perlesa;perles;d3;#galleg;#saozneg
-pesketa;pesket;d3;pêcher;#saozneg
+pesketa;pesket;d3;pêcher;to fish
 peuketa;peuket;d3;#galleg;#saozneg
 peñsata;peñsat;d3;#galleg;#saozneg
-pichelota;pichelot;d3;ramasser des brindilles;#saozneg
+pichelota;pichelot;d3;ramasser des brindilles;to pick up some twigs
 picholota;picholot;d3;#galleg;#saozneg
 piketa;piket;d3;#galleg;#saozneg
-pilhaoua;pilhaou;d3;chercher/amasser des guenilles;#saozneg
+pilhaoua;pilhaou;d3;chercher/amasser des guenilles;to look for/collect rags
 pilligata;pilligat;d3;#galleg;#saozneg
-plac'heta;plac'het;d3;draguer des filles;#saozneg
-plousa;plous;d3;amasser/ramasser le gazon, la pelouse;#saozneg
-poellata;poellat;d3;réfléchir;#saozneg
+plac'heta;plac'het;d3;draguer des filles;to chat up girls
+plousa;plous;d3;amasser/ramasser le gazon, la pelouse;to collect/pick up the grass, the lawn
+poellata;poellat;d3;réfléchir;to reflect upon, to think about
 poezellata;poezellat;d3;#galleg;#saozneg
-pokata;pokat;d3;baisoter;#saozneg
-polosa;polos;d3;cueillir des prunes sauvages;#saozneg
+pokata;pokat;d3;baisoter;to kiss repeatedly, smother with kisses
+polosa;polos;d3;cueillir des prunes sauvages;to pick, gather wild plums
 pouezata;pouezat;d3;#galleg;#saozneg
 poulouta;poulout;d3;#galleg;#saozneg
-poura;pour;d3;ramasser des poireaux;#saozneg
-prederiata;prederiat;d3;méditer;#saozneg
+poura;pour;d3;ramasser des poireaux;to gather leeks
+prederiata;prederiat;d3;méditer;to meditate
 preizhata;preizhat;d3;#galleg;#saozneg
-pria;pri;d3;chercher de l’argile;#saozneg
+pria;pri;d3;chercher de l’argile;to search for clay
 priata;priat;d3;#galleg;#saozneg
 radena;raden;d3;#galleg;#saozneg
-ranniata;ranniat;d3;distribuer;#saozneg
+ranniata;ranniat;d3;distribuer;to distribute
 razheta;razhet;d3;#galleg;#saozneg
 reizhata;reizhat;d3;#galleg;#saozneg
 rendaelata;rendaelata;d3;#galleg;#saozneg
@@ -7436,13 +7436,13 @@ routa;rout;d3;#galleg;#saozneg
 rummata;rummat;d3;#galleg;#saozneg
 ruzata;ruzat;d3;#galleg;#saozneg
 ruziga;ruzig;d3;#galleg;#saozneg
-sardineta;sardinet;d3;chercher/pêcher la sardine;#saozneg
+sardineta;sardinet;d3;chercher/pêcher la sardine;to search for/to fish for sardine
 selaouata;selaouat;d3;#galleg;#saozneg
 selleta;sellet;d3;#galleg;#saozneg
 siliaoua;siliaou;d3;#galleg;#saozneg
 sistra;sistr;d3;#galleg;#saozneg
 sitra;sitr;d3;#galleg;#saozneg
-sivia;sivi;d3;amasser/ramasser/récolter les fraises;#saozneg
+sivia;sivi;d3;amasser/ramasser/récolter les fraises;to gather/to pick up/harvest strawberrys
 skeuliata;skeuliat;d3;#galleg;#saozneg
 skinata;skinat;d3;#galleg;#saozneg
 sklaveta;sklavet;d3;#galleg;#saozneg
@@ -7462,51 +7462,51 @@ strivata;strivat;d3;#galleg;#saozneg
 stropata;stropat;d3;#galleg;#saozneg
 sunata;sunat;d3;#galleg;#saozneg
 talaregeta;talareget;d3;#galleg;#saozneg
-talmeta;talmet;d3;tâter;#saozneg
+talmeta;talmet;d3;tâter;to feel
 tammata;tammat;d3;#galleg;#saozneg
 taouarc'ha;taouarc'h;d3;couper des mottes de tourbe;#saozneg
 tarva;tarv;d3;#galleg;#saozneg
-tañva;tañv;d3;goûter;#saozneg
-tañvouesa;tañvoues;d3;glaner;#saozneg
-tennata;tennat;d3;tirailler;#saozneg
-teodata;teodat;d3;médire;#saozneg
-tersata;tersat;d3;fesser;#saozneg
-teskata;teskat;d3;glaner;#saozneg
-timbraoua;timbraou;d3;collectionner les timbres;#saozneg
-toc'hata;toc'hat;d3;glaner;#saozneg
+tañva;tañv;d3;goûter;to taste
+tañvouesa;tañvoues;d3;glaner;to glean
+tennata;tennat;d3;tirailler;to tug (at), to pull (at)
+teodata;teodat;d3;médire;to speak ill of, to malign
+tersata;tersat;d3;fesser;to spank
+teskata;teskat;d3;glaner;to glean
+timbraoua;timbraou;d3;collectionner les timbres;to collect stamps
+toc'hata;toc'hat;d3;glaner;to glean
 touneta;tounet;d3;#galleg;#saozneg
-tourc'ha;tourc'h;d3;demander le verrat;#saozneg
-tourc'heta;tourc'het;d3;faire le débauché;#saozneg
-traoua;traou;d3;chiner;#saozneg
+tourc'ha;tourc'h;d3;demander le verrat;to ask for the studboar
+tourc'heta;tourc'het;d3;faire le débauché;to act in a debauchery manner
+traoua;traou;d3;chiner;to bargain-hunt
 treuziata;treuziat;d3;#galleg;#saozneg
 treuzvarc'hata;treuzvarc'hat;d3;#galleg;#saozneg
-triñchina;triñchin;d3;cueillir de l’oseille;#saozneg
+triñchina;triñchin;d3;cueillir de l’oseille;to pick sorrel
 troiata;troiat;d3;#galleg;#saozneg
-troieta;troiet;d3;faire des tours et détours;#saozneg
+troieta;troiet;d3;faire des tours et détours;go round and round
 trokata;trokat;d3;#galleg;#saozneg
 truilhaoua;truilhaou;d3;chercher des guenilles;#pennrann
-tuta;tut;d3;recruter;#saozneg
+tuta;tut;d3;recruter;to recrute
 urzhiata;urzhiat;d3;#galleg;#saozneg
-viaoua;viaou;d3;chercher des oeufs;#saozneg
+viaoua;viaou;d3;chercher des oeufs;to search for eggs
 yalc'hata;yalc'hat;d3;#galleg;#saozneg
-yota;yot;d3;manger de la bouillie;#saozneg
+yota;yot;d3;manger de la bouillie;to eat gruel
 adkelc'hiañ;adkelc'h;d4;#galleg;#saozneg
 adkopiañ;adkop;d4;#galleg;#saozneg
 adlec'hiañ;adlec'h;d4;#galleg;#saozneg
 adpriziañ;adpriz;d4;#galleg;#saozneg
 adskoaziañ;adskoaz;d4;#galleg;#saozneg
 adstudiañ;adstud;d4;#galleg;#saozneg
-adurzhiañ;adurzh;d4;fabriquer artificiellement, réordonner; réorganiser
+adurzhiañ;adurzh;d4;fabriquer artificiellement, réordonner;to make artificially, to reorganize
 advouezhiañ;advouezh;d4;#galleg;#saozneg
-amaezhiañ;amaezh;d4;concentrer (chimie);#saozneg
+amaezhiañ;amaezh;d4;concentrer (chimie);to concentrate (chemistry)
 ambec'hiañ;ambec'h;d4;#galleg;#saozneg
 ambisiañ;ambis;d4;#galleg;#saozneg
 amc'heriañ;amc'her;d4;#galleg;#saozneg
 ampresiañ;ampres;d4;#galleg;#saozneg
-amzerañ;amzer;d4;passer son temps/temporiser;#saozneg
-amzeriañ;amzer;d4;passer son temps/temporiser;#saozneg
+amzerañ;amzer;d4;passer son temps/temporiser;to pass the time/to stall, temporize
+amzeriañ;amzer;d4;passer son temps/temporiser;to pass the time/to stall, temporize
 andisklêriañ;andisklêr;d4;#galleg;#saozneg
-angeriañ;anger;d4;enterrer;#saozneg
+angeriañ;anger;d4;enterrer;to bury
 apresiañ;apres;d4;#galleg;#saozneg
 apropriañ;apropr;d4;#galleg;#saozneg
 aroueziañ;arouez;d4;#galleg;#saozneg
@@ -7524,27 +7524,27 @@ bigriañ;bigr;d4;#galleg;#saozneg
 boaziañ;boaz;d4;#galleg;#saozneg
 boureviañ;bourev;d4;#galleg;#saozneg
 breudeuriañ;breudeur;d4;#galleg;#saozneg
-bureviañ;burev;d4;dater;#saozneg
+bureviañ;burev;d4;dater;to date
 chalamiañ;chalam;d4;#galleg;#saozneg
-chaoseriañ;chaoser;d4;localiser;#saozneg
+chaoseriañ;chaoser;d4;localiser;to locate, to localize
 daouvloavezhiañ;daouvloavezh;d4;#galleg;#saozneg
 darwazhiañ;darwazh;d4;#galleg;#saozneg
 daskiriat;daskir;d4;#galleg;#saozneg
 daskiriañ;daskir;d4;#galleg;#saozneg
-dasperzhiañ;dasperzh;d4;graduer;#saozneg
+dasperzhiañ;dasperzh;d4;graduer;to increase
 dediañ;ded;d4;#galleg;#saozneg
 defiañ;def;d4;#galleg;#saozneg
 deiziañ;deiz;d4;#galleg;#saozneg
 delec'hiañ;delec'h;d4;#galleg;#saozneg
-deleviañ;delev;d4;interpréter;#saozneg
-dereziañ;derez;d4;énoncer;#saozneg
-deuriañ;deur;d4;exporter;#saozneg
-devezhiañ;devezh;d4;déprécier;#saozneg
-dewezhiañ;dewezh;d4;aplanir écrêter;#saozneg
-dezgeriañ;dezger;d4;se décomposer;#saozneg
+deleviañ;delev;d4;interpréter;to interpret
+dereziañ;derez;d4;énoncer;to say, express, to set out
+deuriañ;deur;d4;exporter;to export
+devezhiañ;devezh;d4;déprécier;to depreciate
+dewezhiañ;dewezh;d4;aplanir, écrêter;to level
+dezgeriañ;dezger;d4;se décomposer;to decompose, to fall apart
 diapropriañ;diapropr;d4;#galleg;#saozneg
 dibezhiañ;dibezh;d4;#galleg;#saozneg
-diborzhiañ;diborzh;d4;élargir;#saozneg
+diborzhiañ;diborzh;d4;élargir;to widen
 dibriañ;dibr;d4;#galleg;#saozneg
 dibriziañ;dibriz;d4;#galleg;#saozneg
 dic'hraviañ;dic'hrav;d4;#galleg;#saozneg
@@ -7552,53 +7552,53 @@ didoueziañ;didouez;d4;#galleg;#saozneg
 didreuzaouiañ;didreuzaou;d4;#galleg;#saozneg
 difaziañ;difaz;d4;#galleg;#saozneg
 difiañ;dif;d4;#galleg;#saozneg
-difiziout;difiz;d4;décroiser;#saozneg
+difiziout;difiz;d4;décroiser;to unfold, uncross
 difriañ;difr;d4;#galleg;#saozneg
 digarc'hariañ;digarc'har;d4;partir se déplacer;#saozneg
-digentroiañ;digentro;d4;démêler;#saozneg
+digentroiañ;digentro;d4;démêler;to untangle
 diginviañ;diginv;d4;#galleg;#saozneg
-diglaviañ;diglav;d4;divaguer;#saozneg
-digorntroiañ;digorntro;d4;se méfier;#saozneg
+diglaviañ;diglav;d4;divaguer;to rave, to ramble
+digorntroiañ;digorntro;d4;se méfier;to be wary
 digousiañ;digous;d4;#galleg;#saozneg
 digouviañ;digouv;d4;#galleg;#saozneg
-digroaziañ;digroaz;d4;dicter;#saozneg
+digroaziañ;digroaz;d4;dicter;to dictate
 digêriañ;digêr;d4;#galleg;#saozneg
 dilec'hiañ;dilec'h;d4;déshériter;#saozneg
 dilerc'hiañ;dilerc'h;d4;#galleg;#saozneg
 dileuriañ;dileur;d4;#galleg;#saozneg
-diluziañ;diluz;d4;déclarer;#saozneg
+diluziañ;diluz;d4;déclarer;to declare
 dinaoziañ;dinaoz;d4;#galleg;#saozneg
 dirediañ;dired;d4;#galleg;#saozneg
 diruziañ;diruz;d4;#galleg;#saozneg
-disfiziout;disfiz;d4;se méfier;#saozneg
-disgeriañ;disger;d4;déclarer;#saozneg
-dishêriañ;dishêr;d4;démettre l’épaule;#saozneg
-disklaeriañ;disklaer;d4;congédier;#saozneg
-disklaviañ;disklav;d4;déformer;#saozneg
-diskleriañ;diskler;d4;déclarer;#saozneg
-diskoaziañ;diskoaz;d4;déboussoler;#saozneg
+disfiziout;disfiz;d4;se méfier;to be wary
+disgeriañ;disger;d4;déclarer;to declare
+dishêriañ;dishêr;d4;démettre l’épaule;to dislocate the shoulder
+disklaeriañ;disklaer;d4;congédier;to dismiss
+disklaviañ;disklav;d4;déformer;to deform
+diskleriañ;diskler;d4;déclarer;to declare
+diskoaziañ;diskoaz;d4;déboussoler;to confuse (someone)
 diskouviañ;diskouv;d4;#galleg;#saozneg
-disneuziañ;disneuz;d4;déraciner;#saozneg
+disneuziañ;disneuz;d4;déraciner;to uproot
 dispartiañ;dispart;d4;#galleg;#saozneg
-disperiañ;disper;d4;délivrer;#saozneg
+disperiañ;disper;d4;délivrer;to liberate
 disteviañ;distev;d4;#galleg;#saozneg
 distreviañ;distrev;d4;#galleg;#saozneg
 distuc'hiañ;distuc'h;d4;#galleg;#saozneg
 disturiañ;distur;d4;#galleg;#saozneg
 disvuriañ;disvur;d4;#galleg;#saozneg
-diswriat;diswr;d4;exhumer;#saozneg
+diswriat;diswr;d4;exhumer;to exhume, dig up
 diswriziañ;diswriz;d4;#galleg;#saozneg
 divaeziañ;divaez;d4;#galleg;#saozneg
 divakteriañ;divakter;d4;#galleg;#saozneg
-divec'hiañ;divec'h;d4;lever l’ancre;#saozneg
+divec'hiañ;divec'h;d4;lever l’ancre;to weight anchor
 divengleuziañ;divengleuz;d4;#galleg;#saozneg
-diveziañ;divez;d4;mettre en désordre;#saozneg
+diveziañ;divez;d4;mettre en désordre;to disturb
 diviañ;div;d4;#galleg;#saozneg
 divogeriañ;divoger;d4;#galleg;#saozneg
 divriañ;divr;d4;#galleg;#saozneg
-divskoueriañ;divskouer;d4;géolocaliser;#saozneg
+divskoueriañ;divskouer;d4;géolocaliser;to geolocate
 dizambec'hiañ;dizambec'h;d4;#galleg;#saozneg
-dizeoriañ;dizeor;d4;accabler;#saozneg
+dizeoriañ;dizeor;d4;accabler;to devastate, overwhelm
 dizeriañ;dizer;d4;#galleg;#saozneg
 diziviañ;diziv;d4;#galleg;#saozneg
 dizurzhiañ;dizurzh;d4;#galleg;#saozneg
@@ -7609,16 +7609,16 @@ droukskoueriañ;droukskouer;d4;#galleg;#saozneg
 drouziviañ;drouziv;d4;#galleg;#saozneg
 edifiañ;edif;d4;#galleg;#saozneg
 ehanlec'hiañ;ehanlec'h;d4;#galleg;#saozneg
-eilgeriañ;eilger;d4;embrocher;#saozneg
+eilgeriañ;eilger;d4;embrocher;to put (something) on a spit, to skewer
 eillec'hiañ;eillec'h;d4;#galleg;#saozneg
 eilmouezhiañ;eilmouezh;d4;#galleg;#saozneg
 ekspiañ;eksp;d4;#galleg;#saozneg
-emluziañ;emluz;d4;encaisser;#saozneg
+emluziañ;emluz;d4;encaisser;to cash
 emporzhiañ;emporzh;d4;#galleg;#saozneg
 enaergelc'hiañ;enaergelc'h;d4;#galleg;#saozneg
 enberiañ;enber;d4;#galleg;#saozneg
 enepkleuziañ;enepkleuz;d4;#galleg;#saozneg
-engwiriañ;engwir;d4;baguer;#saozneg
+engwiriañ;engwir;d4;baguer;to ring
 enkefiañ;enkef;d4;#galleg;#saozneg
 enkelc'hiañ;enkelc'h;d4;#galleg;#saozneg
 enporzhiañ;enporzh;d4;#galleg;#saozneg
@@ -7635,36 +7635,36 @@ ezkefiañ;ezkef;d4;#galleg;#saozneg
 ezporzhiañ;ezporzh;d4;#galleg;#saozneg
 eztaziañ;eztaz;d4;#galleg;#saozneg
 feuriañ;feur;d4;#galleg;#saozneg
-fiziout;fiz;d4;cribler;#saozneg
-flaeriañ;flaer;d4;hennir;#saozneg
+fiziout;fiz;d4;cribler;to riddle (somebody/something) with bullets
+flaeriañ;flaer;d4;hennir;to neigh, to whinny
 flaviañ;flav;d4;#galleg;#saozneg
 fortifiañ;fortif;d4;#galleg;#saozneg
 foziañ;foz;d4;#galleg;#saozneg
 friañ;fr;d4;#galleg;#saozneg
 gaouiañ;gaou;d4;#galleg;#saozneg
 geriañ;ger;d4;#galleg;#saozneg
-glebiañ;gleb;d4;équiper;#saozneg
+glebiañ;gleb;d4;équiper;to equip
 glec'hiañ;glec'h;d4;#galleg;#saozneg
 glorifiañ;glorif;d4;#galleg;#saozneg
-gobariañ;gobar;d4;être transi de froid;#saozneg
+gobariañ;gobar;d4;être transi de froid;to be numb with cold
 goueriañ;gouer;d4;#galleg;#saozneg
-gourneriañ;gourner;d4;prendre racine;#saozneg
-gourriziañ;gourriz;d4;superviser;#saozneg
-gouzeriañ;gouzer;d4;traiter;#saozneg
+gourneriañ;gourner;d4;prendre racine;to take root
+gourriziañ;gourriz;d4;superviser;to supervise
+gouzeriañ;gouzer;d4;traiter;to treat
 gouziañ;gouz;d4;#galleg;#saozneg
 graviañ;grav;d4;#galleg;#saozneg
-greiañ;gre;d4;exprimer en paroles, voter;#saozneg
+greiañ;gre;d4;exprimer en paroles, voter;to express in words, to vote
 grisiañ;gris;d4;#galleg;#saozneg
-gwallskoueriañ;gwallskouer;d4;loger;#saozneg
-gwallvec'hiañ;gwallvec'h;d4;mettre au point (optique);#saozneg
+gwallskoueriañ;gwallskouer;d4;loger;to house, to provide accommodation
+gwallvec'hiañ;gwallvec'h;d4;mettre au point (optique);to focus (optics)
 gwariañ;gwar;d4;#galleg;#saozneg
 gwazhiañ;gwazh;d4;#galleg;#saozneg
 gwennviañ;gwennv;d4;#galleg;#saozneg
 gwezheriañ;gwezher;d4;#galleg;#saozneg
 gwiañ;gw;d4;#galleg;#saozneg
 gwiriañ;VRAI;d4;#galleg;#saozneg
-gwriziañ;gwriz;d4;introniser;#saozneg
-herberc'hiañ;herberc'h;d4;dévider;#saozneg
+gwriziañ;gwriz;d4;introniser;to enthrone
+herberc'hiañ;herberc'h;d4;dévider;to unwind
 hestiañ;hest;d4;#galleg;#saozneg
 hiniat;hin;d4;#galleg;#saozneg
 hiniañ;hin;d4;#galleg;#saozneg
@@ -7672,45 +7672,45 @@ injuriañ;injur;d4;#galleg;#saozneg
 intrufiañ;intruf;d4;#galleg;#saozneg
 ispriziañ;ispriz;d4;#galleg;#saozneg
 isurzhiañ;isurzh;d4;#galleg;#saozneg
-kadoriañ;kador;d4;incarcérer;#saozneg
-kaladuriañ;kaladur;d4;diviser en quartier;#saozneg
+kadoriañ;kador;d4;incarcérer;to incarcerate
+kaladuriañ;kaladur;d4;diviser en quartier;to divide in quarters
 kammamzeriañ;kammamzer;d4;#galleg;#saozneg
 kammsteriañ;kammster;d4;#galleg;#saozneg
 kanndiañ;kannd;d4;#galleg;#saozneg
 kantdifiañ;kantdif;d4;#galleg;#saozneg
 kantmildifiañ;kantmildif;d4;#galleg;#saozneg
 kanturzhiañ;kanturzh;d4;doler;#saozneg
-karc'hariañ;karc'har;d4;cercler;#saozneg
+karc'hariañ;karc'har;d4;cercler;to circle
 karrdiañ;karrd;d4;#galleg;#saozneg
-karteriañ;karter;d4;symboliser;#saozneg
+karteriañ;karter;d4;symboliser;to symbolize
 kebriañ;kebr;d4;cousiner;#saozneg
 kediañ;ked;d4;#galleg;#saozneg
 kefiañ;kef;d4;proportionner;#saozneg
 kefridiañ;kefrid;d4;#galleg;#saozneg
-keladuriañ;keladur;d4;confondre;#saozneg
-kelc'hiañ;kelc'h;d4;coopérer, collaborer, faire une révolution;#saozneg
-kenaroueziañ;kenarouez;d4;préfixer;#saozneg
-kenderviañ;kenderv;d4;prédéterminer;#saozneg
+keladuriañ;keladur;d4;confondre;to confuse
+kelc'hiañ;kelc'h;d4;coopérer, collaborer, faire une révolution;to cooperate, to collaborate, start a revolution
+kenaroueziañ;kenarouez;d4;préfixer;to prefix, prearrange
+kenderviañ;kenderv;d4;prédéterminer;to predetermine
 kenfeuriañ;kenfeur;d4;#galleg;#saozneg
-kenluziañ;kenluz;d4;comparer;#saozneg
-kenoberiañ;kenober;d4;s’affilier;#saozneg
+kenluziañ;kenluz;d4;comparer;to compare
+kenoberiañ;kenober;d4;s’affilier;to affiliate
 kenreizhiañ;kenreizh;d4;#galleg;#saozneg
 kenstudiañ;kenstud;d4;#galleg;#saozneg
-kentgeriañ;kentger;d4;apparenter;#saozneg
-kentrediañ;kentred;d4;creuser;#saozneg
+kentgeriañ;kentger;d4;apparenter;to resemble
+kentrediañ;kentred;d4;creuser;to dig
 kenurzhiañ;kenurzh;d4;#galleg;#saozneg
 kenvreuriañ;kenvreur;d4;#galleg;#saozneg
-kerentiañ;kerent;d4;effleurer;#saozneg
+kerentiañ;kerent;d4;effleurer;to touch lightly, to brush (against), to graze
 keuziañ;keuz;d4;#galleg;#saozneg
 keviañ;kev;d4;#galleg;#saozneg
-keweriañ;kewer;d4;fortifier;#saozneg
+keweriañ;kewer;d4;fortifier;to fortify, to strenghthen
 keñveriañ;keñver;d4;charpenter;#saozneg
 kilviziañ;kilviz;d4;croiser;#saozneg
 kinviañ;kinv;d4;#galleg;#saozneg
 klaviañ;klav;d4;#galleg;#saozneg
-kleuriañ;kleur;d4;cribler tamiser;#saozneg
+kleuriañ;kleur;d4;cribler, tamiser;to riddle, to sieve, sift
 kleuziañ;kleuz;d4;#galleg;#saozneg
-klisiañ;klis;d4;épuiser;#saozneg
+klisiañ;klis;d4;épuiser;to exhaust, wear out
 konviañ;konv;d4;#galleg;#saozneg
 kopiañ;kop;d4;#galleg;#saozneg
 korntroiañ;korntro;d4;#galleg;#saozneg
@@ -7718,7 +7718,7 @@ koueziañ;kouez;d4;#galleg;#saozneg
 kousiañ;kous;d4;#galleg;#saozneg
 kouviañ;kouv;d4;#galleg;#saozneg
 koñjediañ;koñjed;d4;#galleg;#saozneg
-kraouiañ;kraou;d4;piloter gouverner;#saozneg
+kraouiañ;kraou;d4;piloter, gouverner;to pilot, to govern
 kretaduriañ;kretadur;d4;#galleg;#saozneg
 kreviañ;krev;d4;#galleg;#saozneg
 kreñvlec'hian;kreñvlec'h;d4;avoir des lubies;#saozneg
@@ -7732,29 +7732,29 @@ lerc'heriañ;lerc'her;d4;#galleg;#saozneg
 leuriañ;leur;d4;#galleg;#saozneg
 leviañ;lev;d4;exploiter une mine;une carrière
 liziañ;liz;d4;#galleg;#saozneg
-loariañ;loar;d4;martyriser;#saozneg
+loariañ;loar;d4;martyriser;to torment, to martyr
 luiañ;lu;d4;#galleg;#saozneg
 luziañ;luz;d4;faire du drap;#saozneg
 marchosiañ;marchos;d4;#galleg;#saozneg
 materiañ;mater;d4;#galleg;#saozneg
 meizhiañ;meizh;d4;#galleg;#saozneg
 meneziañ;menez;d4;#galleg;#saozneg
-mengleuziañ;mengleuz;d4;saturer;#saozneg
+mengleuziañ;mengleuz;d4;saturer;to saturate
 merzheriañ;merzher;d4;#galleg;#saozneg
 metrifiañ;metrif;d4;#galleg;#saozneg
-mezheriañ;mezher;d4;émailler;#saozneg
+mezheriañ;mezher;d4;émailler;to enamel
 milziañ;milz;d4;#galleg;#saozneg
-mogeriañ;moger;d4;nicher;#saozneg
+mogeriañ;moger;d4;nicher;to nest
 mortifiañ;mortif;d4;#galleg;#saozneg
-mouezhiañ;mouezh;d4;nager;#saozneg
+mouezhiañ;mouezh;d4;nager;to swim
 mougeviañ;mougev;d4;#galleg;#saozneg
-muriañ;mur;d4;faire un acte notarié;#saozneg
-naoziañ;naoz;d4;passer les soirées;#saozneg
-neizhiañ;neizh;d4;fabriquer;#saozneg
+muriañ;mur;d4;faire un acte notarié;to do a notarized act
+naoziañ;naoz;d4;passer les soirées;to pass the evenings
+neizhiañ;neizh;d4;fabriquer;to make
 neuial;neu;d4;#galleg;#saozneg
-neuziañ;neuz;d4;faire les cent pas;#saozneg
-noteriañ;noter;d4;télégraphier;#saozneg
-nozvezhiañ;nozvezh;d4;téléguider;#saozneg
+neuziañ;neuz;d4;faire les cent pas;to pace
+noteriañ;noter;d4;télégraphier;to telegraph
+nozvezhiañ;nozvezh;d4;téléguider;to control (something) by radio
 oberiañ;ober;d4;#galleg;#saozneg
 paolleviañ;paollev;d4;#galleg;#saozneg
 paraviañ;parav;d4;#galleg;#saozneg
@@ -7766,14 +7766,14 @@ pellsturiañ;pellstur;d4;#galleg;#saozneg
 penefiañ;penef;d4;#galleg;#saozneg
 penifiañ;penif;d4;#galleg;#saozneg
 pennaroueziañ;pennarouez;d4;#galleg;#saozneg
-pennurzhiañ;pennurzh;d4;apurer;#saozneg
-peoc'hiañ;peoc'h;d4;empoisonner;#saozneg
-perzhiañ;perzh;d4;dévorer;#saozneg
-peulveriañ;peulver;d4;imbiber;#saozneg
+pennurzhiañ;pennurzh;d4;apurer;to audit, to discharge
+peoc'hiañ;peoc'h;d4;empoisonner;to poison
+perzhiañ;perzh;d4;dévorer;to devour
+peulveriañ;peulver;d4;imbiber;to soak
 peurvec'hiañ;peurvec'h;d4;#galleg;#saozneg
-peurwiriañ;peurwir;d4;accentuer;#saozneg
+peurwiriañ;peurwir;d4;accentuer;to accentuate
 pistriañ;pistr;d4;#galleg;#saozneg
-plaouiañ;plaou;d4;présager;#saozneg
+plaouiañ;plaou;d4;présager;to presage, to predict
 plomeisiañ;plomeis;d4;#galleg;#saozneg
 pluiañ;plu;d4;#galleg;#saozneg
 porzhiañ;porzh;d4;#galleg;#saozneg
@@ -7787,7 +7787,7 @@ ragaroueziañ;ragarouez;d4;#galleg;#saozneg
 ragevezhiañ;ragevezh;d4;#galleg;#saozneg
 ragurzhiañ;ragurzh;d4;#galleg;#saozneg
 rakdeiziañ;rakdeiz;d4;remuer;#saozneg
-rakgeriañ;rakger;d4;racler;#saozneg
+rakgeriañ;rakger;d4;racler;to scrape (something) clean
 rakprederiañ;rakpreder;d4;#galleg;#saozneg
 rasaziañ;rasaz;d4;#galleg;#saozneg
 refiziout;refiz;d4;#galleg;#saozneg
@@ -7813,38 +7813,38 @@ sakrifiañ;sakrif;d4;#galleg;#saozneg
 salmodiañ;salmod;d4;#galleg;#saozneg
 santifiañ;santif;d4;#galleg;#saozneg
 satisfiañ;satisf;d4;#galleg;#saozneg
-savlec'hiañ;savlec'h;d4;éjaculer;#saozneg
+savlec'hiañ;savlec'h;d4;éjaculer;to ejaculate
 sertifiañ;sertif;d4;#galleg;#saozneg
 serviañ;serv;d4;#galleg;#saozneg
 silabifiañ;silabif;d4;#galleg;#saozneg
 skiriañ;skir;d4;#galleg;#saozneg
-sklaeriañ;sklaer;d4;glapir;#saozneg
-skoaziañ;skoaz;d4;cloisonner;#saozneg
+sklaeriañ;sklaer;d4;glapir;to screech
+skoaziañ;skoaz;d4;cloisonner;to partition, to divide up
 skoueriañ;skouer;d4;#galleg;#saozneg
-skuriañ;skur;d4;entraver;#saozneg
+skuriañ;skur;d4;entraver;to hinder, to impede
 soc'hiañ;soc'h;d4;#galleg;#saozneg
-speriañ;sper;d4;gloser;#saozneg
-speuriañ;speur;d4;éternuer;#saozneg
+speriañ;sper;d4;gloser;to annotate
+speuriañ;speur;d4;éternuer;to sneeze
 speviañ;spev;d4;#galleg;#saozneg
 spisc'heriañ;spisc'her;d4;#galleg;#saozneg
 spislec'hiañ;dilec'h;d4;#galleg;#saozneg
 spluiañ;splu;d4;#galleg;#saozneg
 steuziañ;steuz;d4;#galleg;#saozneg
-steviañ;stev;d4;thésauriser;#saozneg
+steviañ;stev;d4;thésauriser;to save up
 stleviañ;stlev;d4;#galleg;#saozneg
 stodiiñ;stod;d4;tiercer;#saozneg
-strevial;strev;d4;lambiner hésiter;#saozneg
-streviañ;strev;d4;lambiner hésiter;#saozneg
+strevial;strev;d4;lambiner, hésiter;to dawdle, to hesitate
+streviañ;strev;d4;lambiner, hésiter;to dawdle, to hesitate
 strizhkefridiañ;strizhkefrid;d4;retarder;#saozneg
 stuc'hiañ;stuc'h;d4;#galleg;#saozneg
 sturiañ;stur;d4;#galleg;#saozneg
-stuziañ;stuz;d4;mélanger fusionner;#saozneg
+stuziañ;stuz;d4;mélanger, fusionner;to mix, to fusion
 stêriañ;stêr;d4;#galleg;#saozneg
 suiañ;su;d4;#galleg;#saozneg
 terskiziañ;terskiz;d4;#galleg;#saozneg
 teteiat;tete;d4;#galleg;#saozneg
 teñzoriañ;teñzor;d4;#galleg;#saozneg
-toueziañ;touez;d4;transfuser;#saozneg
+toueziañ;touez;d4;transfuser;to give a blood transfusion
 treuzkiziat;treuzkiz;d4;#galleg;#saozneg
 treuzlec'hiañ;treuzlec'h;d4;#galleg;#saozneg
 treuzneuziañ;treuzneuz;d4;#galleg;#saozneg
@@ -7863,29 +7863,29 @@ adreoliañ;adreo;d5;#galleg;#saozneg
 adsoliañ;adso;d5;#galleg;#saozneg
 adstaliañ;distali;d5;#galleg;#saozneg
 advuzuliañ;advuzul;d5;#galleg;#saozneg
-amheuliañ;amheu;d5;suivre accompagner;#saozneg
+amheuliañ;amheu;d5;suivre, accompagner;to follow, to accompany
 anseveliañ;anseve;d5;#galleg;#saozneg
-begeliat;bege;d5;bêler;#saozneg
-beoliañ;beo;d5;encuver;#saozneg
-bouc'haliañ;bouc'ha;d5;se servir de la hache;#saozneg
-bugeliañ;buge;d5;faire le pâtre;#saozneg
-c'hwiliañ;c'hwi;d5;fouiller;#saozneg
-dialiañ;dia;d5;déconseiller;#saozneg
-dic'haoliañ;dic'hao;d5;écarteler;#saozneg
-didaoliañ;didao;d5;défaire (le foin);#saozneg
+begeliat;bege;d5;bêler;to bleat out
+beoliañ;beo;d5;encuver;to put (something) into vats
+bouc'haliañ;bouc'ha;d5;se servir de la hache;to use an axe
+bugeliañ;buge;d5;faire le pâtre;to be the shepherd
+c'hwiliañ;c'hwi;d5;fouiller;to search, to rummage through
+dialiañ;dia;d5;déconseiller;to advise somebody against something
+dic'haoliañ;dic'hao;d5;écarteler;to tear apart
+didaoliañ;didao;d5;défaire (le foin);to undo (the haystack)
 digoliañ;digo;d5;#galleg;#saozneg
 diguzuliañ;diguzu;d5;#galleg;#saozneg
-diheiliañ;dihei;d5;endommager gâter;#saozneg
-dihiliañ;dihi;d5;égrener;#saozneg
+diheiliañ;dihei;d5;endommager, gâter;to damage, to spoil
+dihiliañ;dihi;d5;égrener;to remove the seeds from
 diiziliañ;diizi;d5;#galleg;#saozneg
-dioueliañ;dioue;d5;dévoiler;#saozneg
+dioueliañ;dioue;d5;dévoiler;to unveil
 diraouliañ;diraou;d5;#galleg;#saozneg
 direoliañ;direo;d5;#galleg;#saozneg
 disebeliañ;disebe;d5;#galleg;#saozneg
-diseliañ;dise;d5;effeuiller;#saozneg
+diseliañ;dise;d5;effeuiller;to thin out the leaves, to blow the leaves off
 disheoliañ;disheo;d5;#galleg;#saozneg
-dishiliañ;dishi;d5;s’égrener;#saozneg
-diskuliañ;disku;d5;réveler;#saozneg
+dishiliañ;dishi;d5;s’égrener;to remove the seeds from
+diskuliañ;disku;d5;réveler;to reveal
 distaliañ;dista;d5;#galleg;#saozneg
 distaoliañ;distao;d5;#galleg;#saozneg
 dizeliañ;dize;d5;#galleg;#saozneg
@@ -7893,62 +7893,62 @@ doubsoliañ;doubso;d5;#galleg;#saozneg
 droukkenteliañ;droukkente;d5;#galleg;#saozneg
 droukskoliañ;drouksko;d5;#galleg;#saozneg
 drouksoliañ;droukso;d5;#galleg;#saozneg
-ebeuliañ;ebeu;d5;pouliner;#saozneg
-emguzuliañ;emguzu;d5;se concerter;#saozneg
-emreoliañ;emreo;d5;se reglementer;#saozneg
-eouliañ;eou;d5;huiler;#saozneg
+ebeuliañ;ebeu;d5;pouliner;to foal
+emguzuliañ;emguzu;d5;se concerter;to confer (with each other)
+emreoliañ;emreo;d5;se réglementer;to regulate, to control oneself
+eouliañ;eou;d5;huiler;to oil
 frezeliañ;freze;d5;#galleg;#saozneg
-gaoliañ;gao;d5;enjamber;#saozneg
-goueliañ;goue;d5;voiler;#saozneg
+gaoliañ;gao;d5;enjamber;to step over
+goueliañ;goue;d5;voiler;to veil, to conceal
 gouliañ;gou;d5;#galleg;#saozneg
-gouraouliañ;gouraou;d5;s’enrouer légèrement;#saozneg
-goveliañ;gove;d5;forger;#saozneg
-grignoliañ;grigno;d5;engranger;#saozneg
+gouraouliañ;gouraou;d5;s’enrouer légèrement;to make oneself slightly hoarse
+goveliañ;gove;d5;forger;to forge, to build, to form
+grignoliañ;grigno;d5;engranger;to gather in, to garner, to store up
 gwakoliañ;gwako;d5;#galleg;#saozneg
 gwallgenteliañ;gwallgente;d5;#galleg;#saozneg
 gwallkenteliañ;gwallkente;d5;#galleg;#saozneg
 gwallskoliañ;gwallsko;d5;#galleg;#saozneg
 heoliañ;heo;d5;#galleg;#saozneg
 heuliañ;heu;d5;suivre;(to) follow
-hiliañ;hi;d5;procréer;#saozneg
+hiliañ;hi;d5;procréer;to procreate
 humiliañ;humi;d5;#galleg;#saozneg
-ibiliañ;ibi;d5;cheviller;#saozneg
-kaeliañ;kae;d5;grillager;#saozneg
+ibiliañ;ibi;d5;cheviller;to peg
+kaeliañ;kae;d5;grillager;to put wire netting around
 kambliañ;kamb;d5;#galleg;#saozneg
-kanoliañ;kano;d5;canonner;#saozneg
+kanoliañ;kano;d5;canonner;to fire from a canon
 karteliañ;karte;d5;#galleg;#saozneg
-kazeliañ;kaze;d5;prendre par le bras;#saozneg
-kendiskuliañ;kendisku;d5;manifester;#saozneg
-kenteliañ;kente;d5;enseigner;#saozneg
+kazeliañ;kaze;d5;prendre par le bras;to take by the arm
+kendiskuliañ;kendisku;d5;manifester;to show, demonstrate, to make one's presence known
+kenteliañ;kente;d5;enseigner;to teach
 kentkuzuliañ;kentkuzu;d5;préopiner;#saozneg
 kontraliañ;kontra;d5;#galleg;#saozneg
-kontroliañ;kontro;d5;contrarier contredire;#saozneg
-kuzhuliat;kuzhu;d5;chuchoter;#saozneg
-kuzuliañ;kuzu;d5;conseiller;#saozneg
-mestaoliañ;mestao;d5;commettre un méfait;#saozneg
+kontroliañ;kontro;d5;contrarier, contredire;to thwart, to contradict
+kuzhuliat;kuzhu;d5;chuchoter;to whisper
+kuzuliañ;kuzu;d5;conseiller;to advise, counsel
+mestaoliañ;mestao;d5;commettre un méfait;to commit a misdemeanour
 meveliat;meve;d5;faire le valet;#saozneg
-morzholiañ;morzho;d5;marteler;#saozneg
+morzholiañ;morzho;d5;marteler;to hammer, beat, planish
 multipliañ;multip;d5;#galleg;#saozneg
-muzuliañ;muzu;d5;mesurer;#saozneg
+muzuliañ;muzu;d5;mesurer;to measure
 pavliañ;pav;d5;#galleg;#saozneg
-peliat peliañ;peli;d5;peler;#saozneg
-pellvuzuliañ;pellvuzu;d5;télémétrer;#saozneg
+peliat peliañ;peli;d5;peler;to peel
+pellvuzuliañ;pellvuzu;d5;télémétrer;to track by radar
 peuliañ;peu;d5;#galleg;#saozneg
 peurc'hwiliañ;peurc'hwi;d5;#galleg;#saozneg
-peñseliat;peñse;d5;rapiécer;#saozneg
+peñseliat;peñse;d5;rapiécer;to patch
 publiañ;pub;d5;#galleg;#saozneg
-raouliañ;raou;d5;s’enrouer;#saozneg
+raouliañ;raou;d5;s’enrouer;to make oneself hoarse
 rekoñsiliañ;rekoñsi;d5;#galleg;#saozneg
 reliañ;re;d5;#galleg;#saozneg
-reoliañ;reo;d5;régler;#saozneg
+reoliañ;reo;d5;régler;to settle, adjust, regulate
 rodheoliañ;rodheo;d5;#galleg;#saozneg
-sebeliañ;sebe;d5;ensevelir;#saozneg
+sebeliañ;sebe;d5;ensevelir;to bury, to hide
 seuliañ;seu;d5;mettre un talon;#saozneg
-skeuliañ;skeu;d5;escalader;#saozneg
+skeuliañ;skeu;d5;escalader;to scale, climb
 skoliañ;sko;d5;#galleg;#saozneg
 soliañ;so;d5;consolider;#saozneg
 stabiliañ;stabi;d5;#galleg;#saozneg
-staliañ;sta;d5;installer;#saozneg
+staliañ;sta;d5;installer;to install
 staliañ-distaliañ;staliañ-dista;d5;#galleg;#saozneg
 staoliañ;stao;d5;mettre à l’étable;#saozneg
 stoliañ;sto;d5;mettre une étole;#saozneg
@@ -7956,11 +7956,11 @@ supliañ;sup;d5;#galleg;#saozneg
 taoliañ;tao;d5;#galleg;#saozneg
 teoliañ;teo;d5;couvrir de tuile;#saozneg
 teuliañ;teu;d5;#galleg;#saozneg
-tommheoliañ;tommheo;d5;se chauffer au soleil;#saozneg
+tommheoliañ;tommheo;d5;se chauffer au soleil;to warm oneself in the sun
 toufouliañ;toufou;d5;#galleg;#saozneg
-treuzskeuliañ;treuzskeu;d5;moduler;#saozneg
+treuzskeuliañ;treuzskeu;d5;moduler;to modulate, adjust
 trivliañ;triv;d5;#galleg;#saozneg
-troc'holiañ;troc'ho;d5;chavirer verser;#saozneg
+troc'holiañ;troc'ho;d5;chavirer, verser;to overwhelm, to pour
 adkoaniañ;adkoa;d6;#galleg;#saozneg
 adleuniañ;adleu;d6;#galleg;#saozneg
 adsterniañ;adster;d6;#galleg;#saozneg
@@ -7970,7 +7970,7 @@ ankeniañ;anke;d6;#galleg;#saozneg
 aotrouniañ;aotrou;d6;#galleg;#saozneg
 askoaniañ;askoa;d6;réveillonner;#saozneg
 bagoniañ;bago;d6;enwagonner;#saozneg
-barzhoniañ;barzho;d6;faire de la poésie;#saozneg
+barzhoniañ;barzho;d6;faire de la poésie;to write poetry
 berniañ;ber;d6;#galleg;#saozneg
 bleniañ;ble;d6;conduire;drive
 bleuniañ;bleu;d6;#galleg;#saozneg
@@ -7978,8 +7978,8 @@ boniañ;bo;d6;#galleg;#saozneg
 borniañ;bor;d6;#galleg;#saozneg
 brasluniañ;braslu;d6;#galleg;#saozneg
 c'hweniañ;c'hwe;d6;#galleg;#saozneg
-c'hwiriniat;c'hwiri;d6;hennir;#saozneg
-chakoniat;chako;d6;couper mal, mâcher;#saozneg
+c'hwiriniat;c'hwiri;d6;hennir;to neigh, to whinny
+chakoniat;chako;d6;couper mal, mâcher;to badly cut, to chew up
 damaniañ;dama;d6;#galleg;#saozneg
 deskoniañ;desko;d6;#galleg;#saozneg
 diboaniañ;diboa;d6;#galleg;#saozneg
@@ -7988,7 +7988,7 @@ dic'hreuniañ;dic'hreu;d6;#galleg;#saozneg
 didreniañ;didre;d6;#galleg;#saozneg
 difiniañ;difi;d6;#galleg;#saozneg
 diforniañ;difor;d6;#galleg;#saozneg
-digendoniañ;digendo;d6;désharmoniser;#saozneg
+digendoniañ;digendo;d6;désharmoniser;to disharmonize
 digorniañ;digor;d6;#galleg;#saozneg
 digreuniañ;digreu;d6;#galleg;#saozneg
 dikorniañ;dikor;d6;#galleg;#saozneg
@@ -8051,7 +8051,7 @@ peurgerniañ;peurger;d6;#galleg;#saozneg
 peurleuniañ;peurleu;d6;#galleg;#saozneg
 poaniañ;poa;d6;#galleg;#saozneg
 prizoniañ;prizo;d6;#galleg;#saozneg
-pusuniiñ;pusu;d6;empoisonner;#saozneg
+pusuniiñ;pusu;d6;empoisonner;to poison
 rakprizoniañ;rakprizo;d6;#galleg;#saozneg
 reaotrouniañ;reaotrou;d6;#galleg;#saozneg
 reüniañ;reü;d6;#galleg;#saozneg
@@ -8071,5 +8071,5 @@ fallober;fallc'hr;d7;#galleg;#saozneg
 gwallober;gwallc'hr;d7;#galleg;#saozneg
 ober;gr;d7;#galleg;#saozneg
 peurober;peurc'hr;d7;#galleg;#saozneg
-dont;deu;dont;venir;#saozneg
-gouzout;go;gouzout;savoir;#saozneg
+dont;deu;dont;venir;to come
+gouzout;go;gouzout;savoir;to know
