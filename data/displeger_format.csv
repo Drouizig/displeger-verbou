@@ -91,23 +91,23 @@ addigeriñ;addigor;d1;rouvrir, ré-inaugurer, ré-évaser, ré-ouvrir;reopen
 addihuniñ;addihun;d1;réveiller de nouveau;#saozneg
 addilenn;addilenn;d1;rééelire;reelect
 addimeziñ;addimez;d1;se remarier;wed again
-addiskenn;addiskenn;d1;redescendre;#saozneg
-addiskouez;addiskouez;d1;remontrer;#saozneg
-addisplegañ;addispleg;d1;ré-expliquer, redéplier, ployer de nouveau, commenter;#saozneg
-addistreiñ;addistre;d1;revenir de nouveau;#saozneg
+addiskenn;addiskenn;d1;redescendre;go down again
+addiskouez;addiskouez;d1;remontrer;show again
+addisplegañ;addispleg;d1;ré-expliquer, redéplier, ployer de nouveau, commenter;explain again
+addistreiñ;addistre;d1;revenir de nouveau;go/ come back
 addiuzañ;addiuz;d1;reselectionner, rechoisir;reselect
-addivizout;addiviz;d1;redécider;#saozneg
+addivizout;addiviz;d1;redécider;decide again
 addornañ;addorn;d1;battre (par ex: le blé) une seconde de nouveau, une seconde fois (agriculture);#saozneg
-addougen;addoug;d1;reporter, se représenter (à une éléction);#saozneg
-addresañ;addres;d1;réparer de nouveau;#saozneg
-adeeunañ;adeeun;d1;recorriger, remettre en place, rajuster;#saozneg
+addougen;addoug;d1;reporter, se représenter (à une éléction);stand again, run again
+addresañ;addres;d1;réparer de nouveau;repare again
+adeeunañ;adeeun;d1;recorriger, remettre en place, rajuster;straighten again
 adeiladiñ;adeilad;d1;construire une maison, une construction, quelquechose;#saozneg
-adembann;adembann;d1;rééditer, réimprimer, reproclamer, repromulger;#saozneg
-ademezelañ;ademezel;d1;(se) réinscrire, devenir membre par envie (dans une organisation, une association, un partie.);#saozneg
-ademprañ;adempr;d1;réemboîter, remboîter;#saozneg
-adenaouiñ;adenaou;d1;réallumer (une lumière, feu), réanimer (un corps), réinspirer, raviver, provoquer de nouveau, réactiver (informatique);#saozneg
+adembann;adembann;d1;rééditer, réimprimer, reproclamer, repromulger;republish, repeat ( as say again)
+ademezelañ;ademezel;d1;(se) réinscrire, devenir membre par envie (dans une organisation, une association, un partie.);re-enrol, re-register
+ademprañ;adempr;d1;réemboîter, remboîter;reassemble, put back into place, recase
+adenaouiñ;adenaou;d1;réallumer (une lumière, feu), réanimer (un corps), réinspirer, raviver, provoquer de nouveau, réactiver (informatique);relight, light up again, brighten up
 adenbeniañ;adenbeni;d1;rembobiner;rewind
-adenkorfañ;adenkorf;d1;réincorporer, réincarner, réssusciter;#saozneg
+adenkorfañ;adenkorf;d1;réincorporer, réincarner, réssusciter;be reincarnated, re-enlist, come back to life
 adenkrezañ;adenkrez;d1;resortir de l'angoisse, se réinquiéter (par ex. au sujet de qqn), réavoir de la peine, se réaffliger, se rechagriner, se remolester, se réimportuner, se retourmenter, se represser (stresser);#saozneg
 adenrollañ;adenroll;d1;ré-enregistrer, se ré-enroler, ré-incorporer;#saozneg
 adensilañ;adensil;d1;se ré-infiltrer, se ré-insérer, se reglisser (comme une anguille);#saozneg
@@ -466,7 +466,7 @@ antrepren;antrepren;d1;entreprendre;to start, to set about
 antreteniñ;antreten;d1;entretenir (qqn), divertir;to mantain, look after (someone), to entertain, amuse
 anvervañ;anverv;d1;#galleg;#saozneg
 anzaviñ;anzav;d1;avouer, convenir;to admit, to agree
-aochañ;aoch;d1;accoster, aborder, caboter;to accost, land, to board, to coast
+aochañ;aoch;d1;accoster, aborder, caboter, monter (en plt de la mer);to accost, land, to board, to coast
 aogmañtiñ;aogmañt;d1;#galleg;#saozneg
 aoniñ;aon;d1;apeurer;to frighten
 aotenniñ;aotenn;d1;raser (qqn);to shave (someone)
@@ -2254,7 +2254,7 @@ divrannañ;divrann;d1;diviser en deux, dichotomie, scinder, séparer en deux;#sa
 divrazañ;divraz;d1;faire le gros du/d’un travail, ébaucher, dégrossir (un travail), épanneler, ébaucher, dégrossir;#saozneg
 divreinañ;divrein;d1;ôter (le pourri, la partie pourrie);#saozneg
 divresañ;divres;d1;saccager;#saozneg
-divrezhonegañ;divrezhoneg;d1;débretonniser;#saozneg
+divrezhonegañ;divrezhoneg;d1;débretonniser (langue);#saozneg
 divridañ;divrid;d1;débrider;#saozneg
 divroadelañ;divroadel;d1;dénationaliser, faire perdre sa nationalité (à qqn);#saozneg
 divroadenniñ;divroadenn;d1;#galleg;#saozneg
@@ -5152,44 +5152,44 @@ piñsañ;piñs;d1;#galleg;#saozneg
 pladañ;plad;d1;(s'*) aplatir, vaincre, (*) écraser, (*) jeter ventre à terre, (*) affaisser, céder à qqn, abdiquer, vaincre;to flatten, squash, to vanquish, overcome
 pladorenniñ;pladorenn;d1;fainéanter (assis, allongé);to laze, lounge about
 plaenañ;plaen;d1;aplanir, unir, planer, (dégauchir), unir, (rendre uni), lire courament, niveler, conjuger (grammaire), lire couramment, (s') aplanir;to flatten, squash, to unite
-plakañ;plak;d1;plaquer, frapper, appliquer;#saozneg
-plantañ;plant;d1;planter, enfoncer, appliquer, ficher, enterrer (qqn, un animal*), enfouir (*), (se) tortiller, fourrer, flanquer, implanter, foncer, flanquer à qqn, inculquer, déballer à qqn, (s') enfoncer, courrir, galoper, frapper, (se) planter;#saozneg
-plaoufañ;plaouf;d1;attaquer, attraper, frapper, blesser, se saisir de, se jeter sur, avaler gloutonnement;#saozneg
-plapousat;plapous;d1;bavarder;#saozneg
+plakañ;plak;d1;plaquer, frapper, appliquer;to tackle (somebody), to hit, to apply, enforce
+plantañ;plant;d1;planter, enfoncer, appliquer, ficher, enterrer (qqn, un animal*), enfouir (*), (se) tortiller, fourrer, flanquer, implanter, foncer, flanquer à qqn, inculquer, déballer à qqn, (s') enfoncer, courrir, galoper, frapper, (se) planter;to plant, to press, to enforce, to drive in, to bury (someone, an animal), to bury, to wiggle, to stick, to flank, to implant, to make a sash, to flank somebody,  to instil, to confide, pour out, to ram, to run, to galop, to hit
+plaoufañ;plaouf;d1;attaquer, attraper, frapper, blesser, se saisir de, se jeter sur, avaler gloutonnement;to attack, to catch, to hit, to wound, to seize, to throw oneself on, to wolf down voraciously
+plapousat;plapous;d1;bavarder;to chat, talk
 plapouziñ;plapouz;d1;#galleg;#saozneg
-plasañ;plas;d1;(se*) fixer, (*) placer (qq. part, professionnellement),;#saozneg
-plastrañ;plastr;d1;plâtrer, enduire de plâtre;#saozneg
-plavañ;plav;d1;(s’) abattre, planer, fondre (sur);#saozneg
-plañcherisiñ;plañcheris;d1;planchéier, garnir (ou paver) de planches unies ou de parquetage;#saozneg
-plañchodiñ;plañchod;d1;planchéier, garnir (ou paver) de planches unies ou de parquetage;#saozneg
+plasañ;plas;d1;(se*) fixer, (*) placer (qq. part, professionnellement);to set, to place (to find a job for)
+plastrañ;plastr;d1;plâtrer, enduire de plâtre;to plaster, to coat with plaster
+plavañ;plav;d1;(s’) abattre, planer, fondre (sur);to collapse, to float over, to swoop (on)
+plañcherisiñ;plañcheris;d1;planchéier, garnir (ou paver) de planches unies ou de parquetage;to plank, to furnish (or pave) with joint boards, planks, or with parquetry
+plañchodiñ;plañchod;d1;planchéier, garnir (ou paver) de planches unies ou de parquetage;to plank, to furnish (or pave) with joint boards, planks, or with parquetry
 plañsonañ;plañson;d1;#galleg;#saozneg
-plañsonennañ;plañsonenn;d1;tresser, natter;#saozneg
+plañsonennañ;plañsonenn;d1;tresser, natter;to plait, to braid
 plañsoniñ;plañson;d1;#galleg;#saozneg
-plediñ;pled;d1;(s’) occuper de (qqn, qqc), plaider (pour qqc), observer, surveiller;#saozneg
-plegañ;pleg;d1;(se) plier (et aussi faire la grosse commission), céder, braquer (véhicule);#saozneg
-pleuskañ;pleusk;d1;donner la forme (K);#saozneg
-pleustriñ;pleustr;d1;(s’) exercer, méditer (des paroles, etc), fréquenter, hanter (un endroit, qqn), fréquenter en mariage, dresser (un animal) au travail, accoutumer, méditer (sur), réfléchir (à), (se) fréqenter, (s') éfforcer;#saozneg
-plezhañ;plezh;d1;tresser, natter, (s') entrelacer, palisser, tresser les oignons en grappe;#saozneg
-plezhenniñ;plezhenn;d1;tresser, natter, (s') entrelacer, palisser, tresser les oignons en grappe;#saozneg
-pleñchañ;pleñch;d1;planchéier, faire une plancher;#saozneg
-pleñchezañ;pleñchez;d1;planchéier, faire un plancher;#saozneg
-plijout;plij;d1;plaire, contenter, aimer;#saozneg
+plediñ;pled;d1;(s’) occuper de (qqn, qqc), plaider (pour qqc), observer, surveiller;to take care (of someone, something), to plead (for something), to observe, to keep a watchful eye on
+plegañ;pleg;d1;(se) plier (et aussi faire la grosse commission), céder, braquer (véhicule);to fold (and also to drop a load), to relinquish, to break into (a vehicule)
+pleuskañ;pleusk;d1;donner la forme (K);to shape
+pleustriñ;pleustr;d1;(s’) exercer, méditer (des paroles, etc), fréquenter, hanter (un endroit, qqn), fréquenter en marriage, dresser (un animal) au travail, accoutumer, méditer (sur), réfléchir (à), (se) fréquenter, (s') éfforcer;to practise, to reflect upon (words, etc.), to attend, to haunt (a place, someone), to go out with during mariage, to train (an animal), to get used to, to reflect (on), to think about, to socialize, to force oneself to
+plezhañ;plezh;d1;tresser, natter, (s') entrelacer, palisser, tresser les oignons en grappe;to plait, to braid, to intertwine, to stake, to weave
+plezhenniñ;plezhenn;d1;tresser, natter, (s') entrelacer, palisser, tresser les oignons en grappe;to plait, to braid, to intertwine, to stake, to weave
+pleñchañ;pleñch;d1;planchéier, faire une plancher;to plank, to floor
+pleñchezañ;pleñchez;d1;planchéier, faire un plancher;to plank, to floor
+plijout;plij;d1;plaire, contenter, aimer;to please, to content, to enjoy, love
 plisañ;plis;d1;#galleg;#saozneg
-plomañ;plom;d1;plonger, (pêche) plomber, cultiver, dresser, mettre droit, debout, empaumer, attraper des deux mains, défricher de la terre, bêcher, gôber, comprendre de suite, piger, biter, jaillir, gicler, devenir livide, pâle, (se) décolorer;#saozneg
-ploupañ;ploup;d1;lamper;#saozneg
-plouzañ;plouz;d1;pailler, empailler, rempailler, (se) pieuter;#saozneg
-pluañ;plu;d1;plonger, crayonner, tracer;#saozneg
-plumachennañ;plumachenn;d1;empanacher;#saozneg
+plomañ;plom;d1;plonger, (pêche) plomber, cultiver, dresser, mettre droit, debout, empaumer, attraper des deux mains, défricher de la terre, bêcher, gôber, comprendre de suite, piger, bitter, jaillir, gicler, devenir livide, pâle, (se) décolorer;to dive, (fishing) to weigh, to cultivate, to train, to straighten, to stand up, to grab, to catch with both hands, to clear land, to dig up, to swallow, to understand straight away, to get (understand), to spurt out, to squirt, to become livid, pale
+ploupañ;ploup;d1;lamper;to gulp down
+plouzañ;plouz;d1;pailler, empailler, rempailler, (se) pieuter;to fill with straw, to stuff with straw, to fill with straw once more, to sleep
+pluañ;plu;d1;plonger, crayonner, tracer;to dive, to scribble, to draw
+plumachennañ;plumachenn;d1;empanacher;to adorn (something) with feathers
 pluskañ;plusk;d1;(se) garnir d'écorce, (s') éplucher;#saozneg
-pluñvañ;pluñv;d1;(s'em)plumer, (se*) garnir de plumes, (*) couvrir de plumes;#saozneg
-poazhañ;poazh;d1;cuire, digérer;#saozneg
-pobañ;pob;d1;cuire (le pain);#saozneg
-poblañ;pobl;d1;(se) peupler, proliférer, (se) multiplier;#saozneg
+pluñvañ;pluñv;d1;(s'em)plumer, (se*) garnir de plumes, (*) couvrir de plumes;to cover in feathers
+poazhañ;poazh;d1;cuire, digérer;to cook, to digest
+pobañ;pob;d1;cuire (le pain);to bake (bread)
+poblañ;pobl;d1;(se) peupler, proliférer, (se) multiplier;to populate, to proliferate, to multiply
 poc'hanañ;poc'han;d1;#galleg;#saozneg
-pochañ;poch;d1;pocher (les yeux), payer (argot de Pont-L'Abbé);#saozneg
-podskignañ;podskign;d1;baladodiffuser, podcaster;#saozneg
-poelladiñ;poellad;d1;réfléchir, méditer, (s') exercer, (s') éfforcer, tâcher de, (s') appliquer;#saozneg
-poellañ;poell;d1;lier (avec une ficelle), comprendre, (s') éfforcer, réfléchir, passer un fil;#saozneg
+pochañ;poch;d1;pocher (les yeux), payer (argot de Pont-L'Abbé);to give somebody a black eye, to pay (slang from Pont-L'Abbé)
+podskignañ;podskign;d1;baladodiffuser, podcaster;to podcast
+poelladiñ;poellad;d1;réfléchir, méditer, (s') exercer, (s') éfforcer, tâcher de, (s') appliquer;to think, to reflect, to practise, to strive, to be tasked with, to apply (oneself)
+poellañ;poell;d1;lier (avec une ficelle), comprendre, (s') éfforcer, réfléchir, passer un fil;to link (with a string)
 poentaouiñ;poentaou;d1;ponctuer, pointiller;#saozneg
 poentañ;poent;d1;pointer (la charrue, un canon), marquer, guider, ponctuer, distinguer par points & virgules;#saozneg
 poentennañ;poentenn;d1;fixer à l'aide de pointes, pointer;#saozneg
@@ -6622,620 +6622,620 @@ dedreiñ;dedro;d2;évoluer;to evolve
 demokratekaat;demokrateka;d2;#galleg;#saozneg
 denesaat;denesa;d2;approcher;to approach
 denevesaat;denevesa;d2;rénover;to renovate
-deraouekaat;deraoueka;d2;#galleg;#saozneg
-dereadekaat;dereadeka;d2;adapter;to adapt
-dereiñ;dero;d2;#galleg;#saozneg
+deraouekaat;deraoueka;d2;initialiser (à une valeur);#saozneg
+dereadekaat;dereadeka;d2;adapter, convenir (de mieux en mieux), devenir plus apte à la vie en société, se civiliser, être* convenable, * bienséant, * sortable, advenir, (se) produire, (se) rendre propre (à), (s') adapter (à),;to adapt
+dereiñ;dero;d2;adjuger, attribuer, décerner, impartir;#saozneg
 devalaat;devala;d2;#galleg;#saozneg
-diaesaat;diaesa;d2;compliquer;to complicate
-dianaout;diana;d2;#galleg;#saozneg
+diaesaat;diaesa;d2;(se) compliquer, être de plus en plus gêné, devenir plus* difficile, * incommode, empirer (en plt d'un malade), rendre difficile, encombrer, incommoder (qqn), (se) mettre en difficulté, (se) déranger, (se) défaire de;to complicate
+dianaout;diana;d2;méconnaître, dianavout, dianaout, reconnaître, distinguer;#saozneg
 diarbennekaat;diarbenneka;d2;emêcher;to taint, tarnish
 dibaotaat;dibaota;d2;raréfier;to rarefy
 dibellvroañ;dibellvro;d2;extrader;to extradite
 dibersonelaat;dibersonela;d2;#galleg;#saozneg
 dibolitikaat;dibolitika;d2;dépolitiser;depoliticize
 dibounneraat;dibounnera;d2;alléger;to relieve
-dic'hallekaat;dic'halleka;d2;#galleg;#saozneg
-dic'harvaat;dic'harva;d2;#galleg;#saozneg
-dic'hoantaat;dic'hoanta;d2;dégoûter;to disgust
-dic'hrataat;dic'hrata;d2;repousser;to push away
-didalvoudekaat;didalvoudeka;d2;#galleg;#saozneg
+dic'hallekaat;dic'halleka;d2;défranciser;#saozneg
+dic'harvaat;dic'harva;d2;(s') assouplir, (s') adoucir, mitiger;#saozneg
+dic'hoantaat;dic'hoanta;d2;dégoûter, faire perdre le désir (de faire qqc.), perdre le désir;to disgust
+dic'hrataat;dic'hrata;d2;repousser, désapprober;to push away
+didalvoudekaat;didalvoudeka;d2;devenir inutile, rendre inutile, inutiliser;#saozneg
 didanavaat;didanava;d2;#galleg;#saozneg
-diegusaat;diegusa;d2;rendre paresseux;to become lazy
-diekaat;dieka;d2;rendre paresseux;to become lazy
-difetisaat;difetisa;d2;#galleg;#saozneg
+diegusaat;diegusa;d2;rendre (paresseux*), devenir (*);to become lazy
+diekaat;dieka;d2;rendre (paresseux*), devenir (*, négligent, lent), paresser, croupir dans l'oisiveté;to become lazy
+difetisaat;difetisa;d2;décompacter;#saozneg
 difonnaat;difonna;d2;réduire;to reduce
-digalonekaat;digaloneka;d2;décourager;to discourage
+digalonekaat;digaloneka;d2;(se) décourager, (se) démoraliser;to discourage
 digeltiekaat;digeltieka;d2;déceltiser;#saozneg
-digizidikaat;digizidika;d2;désensibiliser;to desensitize
+digizidikaat;digizidika;d2;désensibiliser, insensibiliser;to desensitize
 digoloañ;digolo;d2;ôter la paille de;to remove the straw of
-dindanaat;dindana;d2;#galleg;#saozneg
+dindanaat;dindana;d2;mettre dessous, abaisser, soutenir;#saozneg
 dinoiñ;dino;d2;#galleg;#saozneg
-diogelaat;diogela;d2;assurer;to assure, reassure
-diorren;diorro;d2;#galleg;#saozneg
-diotaat;diota;d2;idiotifier;to render stupid
+diogelaat;diogela;d2;assurer, défendre, garder, protéger, tuter;to assure, reassure
+diorren;diorro;d2;élever, (se) développer, cultiver (des arbres, la mémoire, etc. ...), éduquer (des enfants), éloigner qqn de mal;#saozneg
+diotaat;diota;d2;idiotifier, devenir/rendre sot, bêtifier, badiner, (s') abêtir de plus en plus;to render stupid
 disantikaat;disantika;d2;#galleg;#saozneg
 disec'haat;disec'ha;d2;déssécher;to dry
 disheñvelaat;disheñvela;d2;différencier;to differentiate, distinguish
 disheñvelebekaat;disheñvelebeka;d2;#galleg;#saozneg
-diskiantaat;diskianta;d2;abrutir;to render stupid
-displannaat;displanna;d2;s'obsurcir;to obscure
+diskiantaat;diskianta;d2;abrutir, devenir abruti;to render stupid
+displannaat;displanna;d2;s'obsurcir, devenir de moint en moins clair à comprendre;to obscure
 displetaat;displeta;d2;devenir abject;to become abject, heinous
 distabilaat;distabila;d2;déstabiliser;destabilize
-distankaat;distanka;d2;se raréfier;to rarefy
+distankaat;distanka;d2;se raréfier, devenir plus rare, éclaircir (agriculture);to rarefy
 distartaat;distarta;d2;consolider;to consolidate
-disteiñ;disto;d2;#galleg;#saozneg
-disteraat;distera;d2;dépérir;to wither, languish, decline
-distreiñ;distro;d2;retourner, revenir;to return, to come back
+disteiñ;disto;d2;découvrir, ôter le toit d'un édifice, abattre le toit d'une maison, enlever le toit;#saozneg
+disteraat;distera;d2;dépérir, (s'*) altérer, (*) détériorer, (*) affaiblir, déchoir, faiblir, perdre de l'importance, (se) déprécier, amoindrir, avilir, déprécier, (se) rabaisser;to wither, languish, decline
+distreiñ;distro;d2;retourner, revenir, rentrer;to return, to come back
 distroñsaat;distroñsa;d2;#galleg;#saozneg
 disuraat;disura;d2;rendre incertain;to make something uncertain
 disvroañ;disvro;d2;émigrer;to emigrate
-divalavaat;divalava;d2;#galleg;#saozneg
+divalavaat;divalava;d2;(s') enlaidir, laidir, perdre courage, devenir lent, défigurer, rendre de plus en plus vilain;#saozneg
 divano;divano;d2;#galleg;#saozneg
 divarbeaat;divarbea;d2;ébarber;to deburr
-divarrekaat;divarreka;d2;#galleg;#saozneg
+divarrekaat;divarreka;d2;disqualifier;#saozneg
 divarvelaat;divarvela;d2;immortaliser, «démourir», ressusciter;to immortalize, ressuscitate
-diverraat;diverra;d2;abréger;to abridge, shorten
+diverraat;diverra;d2;abréger, rapporcher (un moment), passer le temps, raccourcir;to abridge, shorten
 divevekaat;diveveka;d2;inactiver;to deactivate
 divilaat;divila;d2;#galleg;#saozneg
 divordoiñ;divordo;d2;sortir de son sommeil;to wake up, leave one's slumber
 divreinusaat;divreinusa;d2;#galleg;#saozneg
-divreizhekaat;divreizheka;d2;#galleg;#saozneg
-divrezhonekaat;divrezhoneka;d2;#galleg;#saozneg
+divreizhekaat;divreizheka;d2;débretagniser, débretonniser;#saozneg
+divrezhonekaat;divrezhoneka;d2;débretonniser (langue);#saozneg
 divroañ;divro;d2;émigrer;to emigrate
-divyezhekaat;divyezheka;d2;#galleg;#saozneg
-diweredekaat;diweredeka;d2;#galleg;#saozneg
-diwezhataat;diwezhata;d2;#galleg;#saozneg
+divyezhekaat;divyezheka;d2;rendre bilingue, rendre de plus en plus bilingue;#saozneg
+diweredekaat;diweredeka;d2;désactiver;#saozneg
+diwezhataat;diwezhata;d2;(se) faire tard, retarder, reporter, arriver plus tard;#saozneg
 diwiridikaat;diwiridika;d2;#galleg;#saozneg
 dizivroañ;dizivro;d2;extrader;to extradite
-dizoleiñ;dizolo;d2;#galleg;#saozneg
+dizoleiñ;dizolo;d2;découvrir;#saozneg
 dizonaat;dizona;d2;#galleg;#saozneg
 doaretaat;doareta;d2;divulguer;to disclose
-donaat;dona;d2;approfondir;to add depth
-dorloiñ;dorlo;d2;#galleg;#saozneg
+donaat;dona;d2;(s') approfondir (connaissance, etc.), creuser plus avant, aller de plus en plus profondément (en labourant la terre), être de plus en plus profond (en plt du bois);to add depth
+dorloiñ;dorlo;d2;manipuler, masser (qun), concocter, caresser (avec la main, comme on fait aux animaux), pétrir (en plt de la pâte), concoter, préparer (un repas, un mets), maltraiter;#saozneg
 doueaat;douea;d2;#galleg;#saozneg
-doueelaat;doueela;d2;#galleg;#saozneg
-douraat;doura;d2;arroser;to water, spray
+doueelaat;doueela;d2;diviniser;#saozneg
+douraat;doura;d2;arroser, abreuver;to water, spray
 dourennekaat;dourenneka;d2;#galleg;#saozneg
-dousaat;dousa;d2;#galleg;#saozneg
-doñvaat;doñva;d2;#galleg;#saozneg
-doñvikaat;doñvika;d2;#galleg;#saozneg
+dousaat;dousa;d2;(s') adoucir (en plt de qqn, du goût), (se) calmer (en plt des éléments), rendre (plus) doux, rende moins rude, édulcorer, mitiger, mouiller, dompter (en plt d'un homme, d'un animal), apaiser (en plt d'un mal), assouplir (règle, etc.);#saozneg
+doñvaat;doñva;d2;apprivoiser (en plt d'animaux), adoucir le naturel sauvage, dompter, rendre docile, civiliser les sauvages (qqn), mâter, rendre obéissant, adoucir, apprivoiser, calmer;#saozneg
+doñvikaat;doñvika;d2;apprivoiser;#saozneg
 dreistaat;dreista;d2;#galleg;#saozneg
 dreistizelaat;dreistizela;d2;#galleg;#saozneg
 dreistuhelaat;dreistuhela;d2;surélever;to raise, to super-elevate
-dresaat;dresa;d2;#galleg;#saozneg
-drevaat;dreva;d2;#galleg;#saozneg
-droukaat;drouka;d2;rendre méchant;to make somebody mean
+dresaat;dresa;d2;(s') améliorer, mieux aller;#saozneg
+drevaat;dreva;d2;devenir gai, (s') égayer;#saozneg
+droukaat;drouka;d2;rendre (de plus en plus*) méchant, devenir (*) mauvais, (aller) en empirant;to make somebody mean
 droukc'hoantaat;droukc'hoanta;d2;convoiter;to covet
 droukreiñ;droukro;d2;#galleg;#saozneg
-drusaat;drusa;d2;#galleg;#saozneg
-duaat;dua;d2;#galleg;#saozneg
-durc'haat;durc'ha;d2;#galleg;#saozneg
-ec'honaat;ec'hona;d2;#galleg;#saozneg
-eeunaat;eeuna;d2;#galleg;#saozneg
-efedusaat;efedusa;d2;#galleg;#saozneg
+drusaat;drusa;d2;fertiliser;#saozneg
+duaat;dua;d2;rendre plus noire;#saozneg
+durc'haat;durc'ha;d2;(s') exposer, (se) tourner vers, diriger vers (un lieu), faire se tourner, se détourner, revenir sur ses pas, retourner;#saozneg
+ec'honaat;ec'hona;d2;rendre, devenir vaste, devenir plus large;#saozneg
+eeunaat;eeuna;d2;rationaliser;#saozneg
+efedusaat;efedusa;d2;rendre plus performant, rendre plus efficace;#saozneg
 eiltreiñ;eiltro;d2;se renverser, se produire à l’envers;to spill, overturn, to happen in reverse order
-emdreiñ;emdro;d2;#galleg;#saozneg
+emdreiñ;emdro;d2;évoluer;#saozneg
 emreiñ;emro;d2;#galleg;#saozneg
 emvataat;emvata;d2;#galleg;#saozneg
 emzereadekaat;emzereadeka;d2;#galleg;#saozneg
-enboulaat;enboula;d2;#galleg;#saozneg
+enboulaat;enboula;d2;arrondir;#saozneg
 enboullaat;enboulla;d2;#galleg;#saozneg
 enbroañ;enbro;d2;immigrer;to immigrate
 eneptreiñ;eneptro;d2;#galleg;#saozneg
-enkaat;enka;d2;rétrécir;to shrink
-enlakaat;enlaka;d2;#galleg;#saozneg
-enraokaat;enraoka;d2;#galleg;#saozneg
-ensavadekaat;ensavadeka;d2;#galleg;#saozneg
+enkaat;enka;d2;rétrécir, devenir de plus en plus* étroit, * mince, (se) resserer, mettre en difficulté, presser l'ennemi;to shrink
+enlakaat;enlaka;d2;insérer, incorporer;#saozneg
+enraokaat;enraoka;d2;(s') avancer, devancer;#saozneg
+ensavadekaat;ensavadeka;d2;institutionnaliser;#saozneg
 estrenaat;estrena;d2;#galleg;#saozneg
-etrebroadelaat;etrebroadela;d2;#galleg;#saozneg
-etrelakaat;etrelaka;d2;#galleg;#saozneg
+etrebroadelaat;etrebroadela;d2;internationaliser;#saozneg
+etrelakaat;etrelaka;d2;intercaler;#saozneg
 etrevroadelaat;etrevroadela;d2;internationaliser;to internationalize
 euskarekaat;euskareka;d2;basquiser;#saozneg
-eveshaat;evesha;d2;#galleg;#saozneg
+eveshaat;evesha;d2;surveiller;#saozneg
 ezhomekaat;ezhomeka;d2;#galleg;#saozneg
 ezhommekaat;ezhommeka;d2;#galleg;#saozneg
-ezlakaat;ezlaka;d2;#galleg;#saozneg
+ezlakaat;ezlaka;d2;exclure;#saozneg
 ezvevaat;ezveva;d2;#galleg;#saozneg
-eürusaat;eürusa;d2;#galleg;#saozneg
-fallaat;falla;d2;défaillir, rendre (plus) mauvais;to falter, to worsen
-fervaat;ferva;d2;#galleg;#saozneg
-fetisaat;fetisa;d2;#galleg;#saozneg
-finaat;fina;d2;#galleg;#saozneg
-flakaat;flaka;d2;#galleg;#saozneg
+eürusaat;eürusa;d2;devenir plus heureux;#saozneg
+fallaat;falla;d2;défaillir, rendre (plus) mauvais, dépérir, (se) pervertir, empirer, (s') affaiblir, faiblir, débiliter;to falter, to worsen
+fervaat;ferva;d2;assujetir, fixer;#saozneg
+fetisaat;fetisa;d2;prendre de la consistance, durcir, condenser, rendre* plus dur, * plus pesant, * plus solide, coaguler, figer, (s') épaissir;#saozneg
+finaat;fina;d2;(se) déniaiser, devenir* plus fin, * plus malin, affiner;#saozneg
+flakaat;flaka;d2;aplatir, (s') affaiblir;#saozneg
 flammaat;flamma;d2;#galleg;#saozneg
-flouraat;floura;d2;#galleg;#saozneg
-foaraat;foara;d2;#galleg;#saozneg
-fonnaat;fonna;d2;#galleg;#saozneg
-fonnusaat;fonnusa;d2;rendre (plus) rapide;to quicken
+flouraat;floura;d2;brunir, lisser, réjouir, devenir lisse, devenir poli;#saozneg
+foaraat;foara;d2;aller à la/aux foire(x);#saozneg
+fonnaat;fonna;d2;abander dans le sens de qqn;#saozneg
+fonnusaat;fonnusa;d2;rendre (plus) rapide, devenir abondant, épaissir, étoffer;to quicken
 fraeshaat;fraesha;d2;#galleg;#saozneg
-frankaat;franka;d2;rendre (plus) libre;to be (more) free
-fraostaat;fraosta;d2;#galleg;#saozneg
-freskaat;freska;d2;rafraîchir, rendre plus frais;to chill, cool, to refreshen
-frevaat;freva;d2;#galleg;#saozneg
-friantaat;frianta;d2;#galleg;#saozneg
-frondusaat;frondusa;d2;#galleg;#saozneg
-frouezhusaat;frouezhusa;d2;#galleg;#saozneg
-furaat;fura;d2;rendre (plus) sage;to make wiser
-gaeaat;gaea;d2;#galleg;#saozneg
-gallekaat;galleka;d2;#galleg;#saozneg
+frankaat;franka;d2;rendre (plus) libre, (s') agrandir, rendre plus* spacieux, * vaste, libérer, affranchir, dilater, élargir;to be (more) free
+fraostaat;fraosta;d2;retourner en friche, (se) relâcher, éclaircir (des plantes);#saozneg
+freskaat;freska;d2;(se) rafraîchir (les souvenirs de qqn), rendre plus frais, renouveler, blanchir (qqn), laver le linge (à qqn), appaiser (la colère, la peine), fraîchir (marine);to chill, cool, to refreshen
+frevaat;freva;d2;dynamiser, (se) ragaillardir;#saozneg
+friantaat;frianta;d2;affriander;#saozneg
+frondusaat;frondusa;d2;parfumer, rendre ou devenir parfumé;#saozneg
+frouezhusaat;frouezhusa;d2;féconder;#saozneg
+furaat;fura;d2;rendre (plus) sage, (s') assagir;to make wiser
+gaeaat;gaea;d2;égayer, (se) réjouir;#saozneg
+gallekaat;galleka;d2;faire parler (qqn) français, franciser (un nom, etc.);#saozneg
 gaonac'haat;gaonac'ha;d2;#galleg;#saozneg
-garvaat;garva;d2;#galleg;#saozneg
+garvaat;garva;d2;rendre ou devenir plus* âpre, * rude, enrudir, devenir cruel;#saozneg
 geiñ;go;d2;fermenter, lever (la pâte);to ferment, to rise (dough)
-gellaat;gella;d2;#galleg;#saozneg
+gellaat;gella;d2;devenir plus brun, brunir, rendre plus brun;#saozneg
 germanaat;germana;d2;#galleg;#saozneg
-glanaat;glana;d2;#galleg;#saozneg
-glasaat;glasa;d2;#galleg;#saozneg
+glanaat;glana;d2;purifier, expurger, (s') épurer;#saozneg
+glasaat;glasa;d2;reverdir, fraîchir, verdir, bleuir;#saozneg
 gleborekaat;gleboreka;d2;#galleg;#saozneg
 glepaat;glepa;d2;#galleg;#saozneg
 gloevaat;gloeva;d2;#galleg;#saozneg
-goapaat;goapa;d2;moquer, se moquer;to mock, to scoff
-goarekaat;goareka;d2;donner des loisirs;#saozneg
-goañvaat;goañva;d2;hiberner;to hibernate
-goiñ;go;d2;fermenter, lever (la pâte);to ferment, to raise (dough)
-goleiñ;golo;d2;#galleg;#saozneg
+goapaat;goapa;d2;(se) moquer (de);to mock, to scoff
+goarekaat;goareka;d2;donner des loisirs, faire qqc. de moins en moins;#saozneg
+goañvaat;goañva;d2;hiberner, hiverner;to hibernate
+goiñ;go;d2;(se) fermenter (la pâte*), lever (*), digérer, cuire les aliments qu'on à prit, devenue humide qui semble fermenter (agriculture) (en plt de la terre), levurer;to ferment, to raise (dough)
+goleiñ;golo;d2;(se) (re)couvrir, dissimuler, envelopper;#saozneg
 gopraat;gopra;d2;#galleg;#saozneg
 goro;goro;d2;traire;to milk
 gorrekaat;gorreka;d2;ralentir, rendre plus lent;to slow, to make slower
-gorren;gorro;d2;lever;to lift
+gorren;gorro;d2;(re)lever, soulever, hausser (la voix), ranger, ramasser, mettre à l'abri, garder (une marchandise), virer (les filets, pêche), (s') élever (un enfant), monter;to lift
 goudrenkaat;goudrenka;d2;#galleg;#saozneg
-gouesaat;gouesa;d2;#galleg;#saozneg
-gouestaat;gouesta;d2;#galleg;#saozneg
-goulakaat;goulaka;d2;hypothèser, faire des hypothèses;to make hypotheses
-goularaat;goulara;d2;#galleg;#saozneg
+gouesaat;gouesa;d2;devenir sauvage, rendre sauvage, effaroucher;#saozneg
+gouestaat;gouesta;d2;devenir apte*, rendre *;#saozneg
+goulakaat;goulaka;d2;hypothèser, faire des hypothèses, supposer;to make hypotheses
+goularaat;goulara;d2;devenir de plus en plus fade;#saozneg
 goulenneta;goulenneta;d2;#galleg;#saozneg
-goulloiñ;goullo;d2;vider;to empty
+goulloiñ;goullo;d2;vider (un récipient, son coeur, son esprit, éviscérer...);to empty
 gounidekaat;gounideka;d2;#galleg;#saozneg
-gourdonaat;gourdona;d2;#galleg;#saozneg
+gourdonaat;gourdona;d2;habituer;#saozneg
 gourfaotaat;gourfaota;d2;#galleg;#saozneg
-gourfaoterekaat;gourfaotereka;d2;#galleg;#saozneg
-gourlakaat;gourlaka;d2;#galleg;#saozneg
+gourfaoterekaat;gourfaotereka;d2;abonder;#saozneg
+gourlakaat;gourlaka;d2;imposer;#saozneg
 gourloañ;gourlo;d2;superposer;to overlay
 goustataat;goustata;d2;#galleg;#saozneg
-gouvrezelekaat;gouvrezeleka;d2;#galleg;#saozneg
-gouyenaat;gouyena;d2;#galleg;#saozneg
-grataat;grata;d2;#galleg;#saozneg
+gouvrezelekaat;gouvrezeleka;d2;faire la guérilla;#saozneg
+gouyenaat;gouyena;d2;fraîchir;#saozneg
+grataat;grata;d2;gratifier, agréer, conférer, promettre, accorder, octroyer;#saozneg
 greantelaat;greantela;d2;#galleg;#saozneg
 gredusaat;gredusa;d2;#galleg;#saozneg
-grevusaat;grevusa;d2;«graviser», rendre (plus) grave;to exacerbate, make (more) difficult
+grevusaat;grevusa;d2;«graviser», rendre (plus) grave, aggraver, rendre plus coupable;to exacerbate, make (more) difficult
 grisaat;grisa;d2;griser, rendre (plus gris);to grey, make (more) grey
 grosaat;grosa;d2;#galleg;#saozneg
-gwakaat;gwaka;d2;s’amollir;to soften (oneself)
-gwall-lakaat;gwall-laka;d2;#galleg;#saozneg
+gwakaat;gwaka;d2;(s’) amollir, rendre moins dur, rendre mou, ramollir, attendrir, mûrir;to soften (oneself)
+gwall-lakaat;gwall-laka;d2;maltraiter;#saozneg
 gwallc'hoantaat;gwallc'hoanta;d2;convoiter;to covet, envy
 gwallekaat;gwalleka;d2;négliger;to neglect
 gwallskeiñ;gwallsko;d2;frapper violemment;to strike violently
-gwanaat;gwana;d2;(s’)affaiblir, rendre (plus) faible;to weaken
+gwanaat;gwana;d2;(s’) affaiblir, rendre (plus) faible, faiblir;to weaken
 gwasaat;gwasa;d2;rendre hommage;to salute, pay tribute to
-gwashaat;gwasha;d2;rendre pire;to exacerbate, make worse
+gwashaat;gwasha;d2;rendre pire, empirer, (s'*) accentuer, (*) aggraver, (*) exacerber, redoubler, calomnier, devenir pire, (*) gâter, maigrir (en plt de qqn), nuire (à qqn);to exacerbate, make worse
 gwasketaat;gwasketa;d2;#galleg;#saozneg
-gwellaat;gwella;d2;(s’)améliorer, rendre meilleure;to improve, to better (oneself)
-gwellekaat;gwelleka;d2;#galleg;#saozneg
-gwennaat;gwenna;d2;blanchir, rendre (plus) blanc;to whiten, to make whiter
-gwenvidikaat;gwenvidika;d2;béatifier;to beatify
-gweredekaat;gweredeka;d2;#galleg;#saozneg
-gwerelaat;gwerela;d2;rendre vitreux;to turn glassy, vitreous
-gwersaat;gwersa;d2;mettre en vers;#pennrann
-gwevnaat;gwevna;d2;(s’)assouplir, rendre plus souple;to relax, to loosen up
-gwinaat;gwina;d2;(s’)aviner;#saozneg
-gwiriekaat;gwirieka;d2;#galleg;#saozneg
-gwivaat;gwiva;d2;devenir gai, devenir (plus) joyeux;to become happy, to be (more) happy
-habaskaat;habaska;d2;#galleg;#saozneg
+gwellaat;gwella;d2;(s’) améliorer, rendre meilleure, (se) remplumer, guérir;to improve, to better (oneself)
+gwellekaat;gwelleka;d2;optimiser;#saozneg
+gwennaat;gwenna;d2;blanchir, rendre (plus) blanc, pâlir;to whiten, to make whiter
+gwenvidikaat;gwenvidika;d2;béatifier, rendre bienheureux*, devenir *;to beatify
+gweredekaat;gweredeka;d2;activer;#saozneg
+gwerelaat;gwerela;d2;rendre vitreux*, devenir *;to turn glassy, vitreous
+gwersaat;gwersa;d2;mettre en vers;#saozneg
+gwevnaat;gwevna;d2;(s’) assouplir, rendre plus souple, devenir flexible, molir, manquer de fermeté, rendre fort;to relax, to loosen up
+gwinaat;gwina;d2;(s’) aviner;#saozneg
+gwiriekaat;gwirieka;d2;valider, ratifier, avérer, authentifier, homologuer;#saozneg
+gwivaat;gwiva;d2;devenir gai, devenir (plus) joyeux, (s') égayer;to become happy, to be (more) happy
+habaskaat;habaska;d2;(se) modérer, (s') apaiser (en plt de qqn), (se) calmer, (s') adoucir (météorologie), rendre aimable, désarmer, mitiger, défâcher;#saozneg
 haboat;habo;d2;huer;to boo
-hakraat;hakra;d2;#galleg;#saozneg
+hakraat;hakra;d2;devenir* sale, * malpropre;#saozneg
 hardishaat;hardisha;d2;#galleg;#saozneg
-hegaraat;hegara;d2;#galleg;#saozneg
+hegaraat;hegara;d2;(s') humaniser, calmer, rendre aimable, mitiger, adoucir, appaiser, rendre moins fâcheux, adoucir;#saozneg
 hellenaat;hellena;d2;#galleg;#saozneg
-helmoiñ;helmo;d2;s’accouder;to lean on one's elbows
-herrekaat;herreka;d2;#galleg;#saozneg
+helmoiñ;helmo;d2;(s’*) accouder, (*) appyer sur les coudes;to lean on one's elbows
+herrekaat;herreka;d2;accélérer;#saozneg
 heskaat;heska;d2;#galleg;#saozneg
 hesonaat;hesona;d2;#galleg;#saozneg
-hetaat;heta;d2;#galleg;#saozneg
-hevelebekaat;hevelebeka;d2;#galleg;#saozneg
-hewelaat;hewela;d2;#galleg;#saozneg
-heñvelaat;heñvela;d2;#galleg;#saozneg
-heñvelekaat;heñveleka;d2;#galleg;#saozneg
+hetaat;heta;d2;(se) plaire, poursuivre, pourchasser, courre;#saozneg
+hevelebekaat;hevelebeka;d2;ressembler, assimiler, comparer;#saozneg
+hewelaat;hewela;d2;visualiser, mettre en vue;#saozneg
+heñvelaat;heñvela;d2;ressembler, (s') assimiler, rendre semblable;#saozneg
+heñvelekaat;heñveleka;d2;conformer, rendre conforme, comparer (à);#saozneg
 hinielaat;hiniela;d2;#galleg;#saozneg
 hinnoal;hinno;d2;braire;to bray
-hiraat;hira;d2;#galleg;#saozneg
-hironaat;hirona;d2;#galleg;#saozneg
+hiraat;hira;d2;allonger, rallonger, étendre;#saozneg
+hironaat;hirona;d2;hybrider;#saozneg
 hivizaat;hiviza;d2;#galleg;#saozneg
-hizivaat;hiziva;d2;#galleg;#saozneg
-hollekaat;holleka;d2;#galleg;#saozneg
-huataat;huata;d2;#galleg;#saozneg
-huduraat;hudura;d2;#galleg;#saozneg
-ingalaat;ingala;d2;#galleg;#saozneg
-ionekaat;ioneka;d2;#galleg;#saozneg
+hizivaat;hiziva;d2;mettre à jour;#saozneg
+hollekaat;holleka;d2;généraliser;#saozneg
+huataat;huata;d2;conspuer, huer;#saozneg
+huduraat;hudura;d2;devenir* malpropre, * sale, * déshonnête, etc., souiller;#saozneg
+ingalaat;ingala;d2;égaliser;#saozneg
+ionekaat;ioneka;d2;donner un caractère ionique, ioniser;#saozneg
 istorekaat;istoreka;d2;#galleg;#saozneg
-izelaat;izela;d2;(s’)abaisser, rendre (plus) bas, retrouver (plus) bas;to stoop, go down
+izelaat;izela;d2;(s’) abaisser, rendre (plus) bas, retrouver (plus) bas, baisser (en plt de l'ouie, de l'eau, du vent, du soleil, du jour, de qqn, prix, salaires, etc...), descendre (d'un surface), (s') incliner, décliner (en plt de qqn*), plt de ses facultés (*);to stoop, go down
 javelekaat;javeleka;d2;#galleg;#saozneg
 jiboesaat;jiboesa;d2;chasser le gibier;to chase, hunt game
-joausaat;joausa;d2;se réjouir;to rejoice
-kabac'haat;kabac'ha;d2;#galleg;#saozneg
-kadarnaat;kadarna;d2;#galleg;#saozneg
-kaeraat;kaera;d2;(s’)embellir, rendre (plus) beau;to embellish, to make oneself look (more) beautiful
-kaletaat;kaleta;d2;(se) durcir, rendre (plus) dur;#saozneg
-kalonekaat;kaloneka;d2;(s’)encourager;to encourage (oneself)
+joausaat;joausa;d2;(se) réjouir, témoigner plus de joie à qqn, mettre en joie;to rejoice
+kabac'haat;kabac'ha;d2;devenir caduc, sénile, rendre caduc;#saozneg
+kadarnaat;kadarna;d2;corroborer, affirmer, confirmer, valider;#saozneg
+kaeraat;kaera;d2;(s’) embellir, rendre (plus) beau, agrémenter, décorer, parer, nettoyer, vider, habiller, (se) justifier, faire la cour;to embellish, to make oneself look (more) beautiful
+kaletaat;kaleta;d2;(se) durcir, rendre (plus) dur, devenir dur, constiper, (s') endurcir, rendre dur;#saozneg
+kalonekaat;kaloneka;d2;(s’) encourager, donner du courage (à), prendre courage, donner de l'ardeur (à);to encourage (oneself)
 kantoat;kanto;d2;enfaîter une chaumière;to cover a cottage
 kantreolaat;kantreola;d2;#galleg;#saozneg
 karbonekaat;karboneka;d2;carboniser, rendre (plus) carbonisé;to carbonize
-karrekaat;karreka;d2;#galleg;#saozneg
-kasaat;kasa;d2;#galleg;#saozneg
-kelc'hdreiñ;kelc'hdro;d2;tourner;to turn
-keltaat;kelta;d2;#galleg;#saozneg
-keltiekaat;keltieka;d2;#galleg;#saozneg
-kembraekaat;kembraeka;d2;#galleg;#saozneg
+karrekaat;karreka;d2;(se) fossiliser;#saozneg
+kasaat;kasa;d2;haïr, abhorer, abominer, détester;#saozneg
+kelc'hdreiñ;kelc'hdro;d2;tourner, faire tourner en cercle;to turn
+keltaat;kelta;d2;celtiser;#saozneg
+keltiekaat;keltieka;d2;celtiser;#saozneg
+kembraekaat;kembraeka;d2;"rendre gallois, ""galloi-ïser""";#saozneg
 kendreiñ;kendro;d2;#galleg;#saozneg
 kenedekaat;kenedeka;d2;#galleg;#saozneg
 kenfetisaat;kenfetisa;d2;#galleg;#saozneg
-kenjoausaat;kenjoausa;d2;#galleg;#saozneg
-kenlakaat;kenlaka;d2;#galleg;#saozneg
-kenlodekaat;kenlodeka;d2;#galleg;#saozneg
+kenjoausaat;kenjoausa;d2;(se) conjouir;#saozneg
+kenlakaat;kenlaka;d2;synthétiser;#saozneg
+kenlodekaat;kenlodeka;d2;associer;#saozneg
 kenstankaat;kenstanka;d2;condenser;to condense, compress
 kentlakaat;kentlaka;d2;préétablir;to pre-establish
 kenvreutaat;kenvreuta;d2;#galleg;#saozneg
-keraat;kera;d2;#galleg;#saozneg
+keraat;kera;d2;renchérir, augmenter de prix, devenir plus cher, renchérir, réhausser, relever le prix (d'une marchadise);#saozneg
 keuzidikaat;keuzidika;d2;#galleg;#saozneg
 kevatalaat;kevatala;d2;#galleg;#saozneg
-kevrikaat;kevrika;d2;mettre au point (appareil);to tweak, perfect (a device)
-kildreiñ;kildro;d2;#galleg;#saozneg
+kevrikaat;kevrika;d2;mettre au point (appareil, mécanique), régler;to tweak, perfect (a device)
+kildreiñ;kildro;d2;sinuer, ondoyer, inverser, invertir;#saozneg
 kintusaat;kintusa;d2;#galleg;#saozneg
-kizidikaat;kizidika;d2;sensibiliser;to sensitize
-klaoustreañ;klaoustre;d2;gager, miser;to wager, bet
-klañvaat;klañva;d2;#galleg;#saozneg
+kizidikaat;kizidika;d2;(se) sensibiliser;to sensitize
+klaoustreañ;klaoustre;d2;gager, miser, parier que;to wager, bet
+klañvaat;klañva;d2;tomber malade, débiliter, être malade, tomber enceinte;#saozneg
 kletaat;kleta;d2;#galleg;#saozneg
-kleuiñ;kleu;d2;#galleg;#saozneg
-klokaat;kloka;d2;#galleg;#saozneg
-klouaraat;klouara;d2;#galleg;#saozneg
+kleuiñ;kleu;d2;préparer (le lin, pour la quenouille) pour le filer, carder avec la main;#saozneg
+klokaat;kloka;d2;(se) compléter, parfaire, perfectionner, compléter, (se) perfectionner;#saozneg
+klouaraat;klouara;d2;tiédir, apprivoiser, dresser, apaiser, (se) rafraîchir;#saozneg
 klouarikaat;klouarika;d2;#galleg;#saozneg
-koantaat;koanta;d2;#galleg;#saozneg
-koataat;koata;d2;#galleg;#saozneg
-kofesaat;kofesa;d2;#galleg;#saozneg
-koloañ;kolo;d2;#galleg;#saozneg
-kompagnunekaat;kompagnuneka;d2;#galleg;#saozneg
+koantaat;koanta;d2;enjoliver, rendre plus joli, embellir, (se) rendre plus beau;#saozneg
+koataat;koata;d2;boiser (un pays, une maison), mettre une charpente sur, battre à coups de bâton, bâtonner;#saozneg
+kofesaat;kofesa;d2;confesser;#saozneg
+koloañ;kolo;d2;(em)pailler, se former en paille, garnir de paille;#saozneg
+kompagnunekaat;kompagnuneka;d2;accompagner (qqn), convoyer un corps mort;#saozneg
 korntreiñ;korntro;d2;#galleg;#saozneg
-korvoiñ;korvo;d2;profiter;to profit
+korvoiñ;korvo;d2;profiter, avaler (on se sert de ce verbe particulièrement lorsqu'on parle d'un malade qui commence à prendre un peu de nourritre après avoir été long temps sans manger, et surtout si cette nourriture lui fait bien et le retablit. K slmt ds dico P Maunoir);to profit
 koshaat;kosha;d2;vieillir, rendre (plus) vieux;to age
-kounaat;kouna;d2;#galleg;#saozneg
-kredekaat;kredeka;d2;#galleg;#saozneg
-krennaat;krenna;d2;#galleg;#saozneg
-kreskaat;kreska;d2;#galleg;#saozneg
-kretaat;kreta;d2;créditer, cautionner;to credit, endorse
+kounaat;kouna;d2;(se) souvenir (de), commémorer, remettre quelque chose en mémoire, faire se souvenir;#saozneg
+kredekaat;kredeka;d2;créditer, accréditer;#saozneg
+krennaat;krenna;d2;(s') arrondir, (se) radicaliser, rendre plus rond, rogner;#saozneg
+kreskaat;kreska;d2;croître, aller croissant;#saozneg
+kretaat;kreta;d2;créditer, cautionner, nantir, assurer;to credit, endorse
 kreuiñ;kreu;d2;#galleg;#saozneg
-kreñvaat;kreñva;d2;#galleg;#saozneg
-krisaat;krisa;d2;#galleg;#saozneg
-kristenaat;kristena;d2;#galleg;#saozneg
-krommaat;kromma;d2;#galleg;#saozneg
-kruelaat;kruela;d2;#galleg;#saozneg
+kreñvaat;kreñva;d2;forcir, enfler (en plt d'un cours d'eau), augmenter de force (en plt du tonnerre, etc), empirer, fortifier (un endroit, le corps, etc.), affermir, (ré)conforter;#saozneg
+krisaat;krisa;d2;devenir* plus dur, * plus cruel, * inhumain;#saozneg
+kristenaat;kristena;d2;rendre plus chrétien, christianiser;#saozneg
+krommaat;kromma;d2;(s') incurver;#saozneg
+kruelaat;kruela;d2;devenir cruel;#saozneg
 kuilhaat;kuilha;d2;#galleg;#saozneg
-kuitaat;kuita;d2;#galleg;#saozneg
-kuñvaat;kuñva;d2;#galleg;#saozneg
+kuitaat;kuita;d2;quitter, fuir, exempter (rendre franc), affranchir, rendre franc, libre, abandonner, délaisser (un vice, etc.), partir;#saozneg
+kuñvaat;kuñva;d2;adoucir, appaiser, calmer, devenir affable, rendre affable, apprivoiser;#saozneg
 kêriekaat;kêrieka;d2;urbaniser;to urbanize
 labelaat;labela;d2;labelliser;to give one's seal of approval to
-laeshaat;laesha;d2;#galleg;#saozneg
+laeshaat;laesha;d2;allaiter;#saozneg
 lammetaat;lammeta;d2;#galleg;#saozneg
-lampraat;lampra;d2;#galleg;#saozneg
-laoskaat;laoska;d2;#galleg;#saozneg
-laouenaat;laouena;d2;#galleg;#saozneg
-larkaat;larka;d2;#galleg;#saozneg
-lartaat;larta;d2;#galleg;#saozneg
-latinaat;latina;d2;#galleg;#saozneg
-ledanaat;ledana;d2;#galleg;#saozneg
-leiaat;leia;d2;#galleg;#saozneg
+lampraat;lampra;d2;rendre plus glissant, délier, libérer (les langues);#saozneg
+laoskaat;laoska;d2;(se) (re)lâcher, mollir, biner, choquer (marine), aérer (la terre, le sol), (se) desserrer (en plt d'un noeud), assouplir (une loi), relâcher (le ventre);#saozneg
+laouenaat;laouena;d2;satisfaire (réjouir);#saozneg
+larkaat;larka;d2;(s') éloigner, élargir, accroître, devenir libéral, adonner;#saozneg
+lartaat;larta;d2;devenir de plus en plus gras, (s') enrichir, (s') engraisser;#saozneg
+latinaat;latina;d2;latiniser;#saozneg
+ledanaat;ledana;d2;(s') élargir, faire plus large, étendre;#saozneg
+leiaat;leia;d2;dévolter, diminuer, abaisser, atténuer, sous-volter;#saozneg
 leishaat;leisha;d2;#galleg;#saozneg
-lemlakaat;lemlaka;d2;#galleg;#saozneg
+lemlakaat;lemlaka;d2;placer et déplacer;#saozneg
 lemmaat;lemma;d2;#galleg;#saozneg
-lenkraat;lenkra;d2;#galleg;#saozneg
+lenkraat;lenkra;d2;lubrifier;#saozneg
 lentaat;lenta;d2;#galleg;#saozneg
-lesaat;lesa;d2;#galleg;#saozneg
-letaat;leta;d2;injurier;to insult
-leunaat;leuna;d2;#galleg;#saozneg
-levnaat;levna;d2;#galleg;#saozneg
+lesaat;lesa;d2;courtiser;#saozneg
+letaat;leta;d2;injurier, insulter, durcir;to insult
+leunaat;leuna;d2;remplir;#saozneg
+levnaat;levna;d2;lisser;#saozneg
 lezennelaat;lezennela;d2;légaliser;to legalize
-lezirekaat;lezireka;d2;#galleg;#saozneg
-liesaat;liesa;d2;#galleg;#saozneg
-liesseurtaat;liesseurta;d2;#galleg;#saozneg
+lezirekaat;lezireka;d2;rendre ou devenir paresseux, devenir négligent, paresser;#saozneg
+liesaat;liesa;d2;(se) multiplier, (se) diversifier, pluraliser;#saozneg
+liesseurtaat;liesseurta;d2;(se) diversifier;#saozneg
 liezekaat;liezeka;d2;#galleg;#saozneg
 likaat;lika;d2;#galleg;#saozneg
-linennekaat;linenneka;d2;#galleg;#saozneg
+linennekaat;linenneka;d2;linéariser;#saozneg
 liveaat;livea;d2;#galleg;#saozneg
 loañ;lo;d2;situer (dans l’espace);#saozneg
-loudouraat;loudoura;d2;#galleg;#saozneg
-lourtaat;lourta;d2;#galleg;#saozneg
-lousaat;lousa;d2;#galleg;#saozneg
+loudouraat;loudoura;d2;devenir* sale, * malpropre, salir, rendre malpropre;#saozneg
+lourtaat;lourta;d2;devenir lourd;#saozneg
+lousaat;lousa;d2;devenir* malpropre, * sale, * indécent;#saozneg
 luc'hwiridikaat;luc'hwiridika;d2;#galleg;#saozneg
 lureüsaat;lureüsa;d2;#galleg;#saozneg
-maenaat;maena;d2;#galleg;#saozneg
-maenekaat;maeneka;d2;#galleg;#saozneg
+maenaat;maena;d2;pétrifier;#saozneg
+maenekaat;maeneka;d2;pétrifier, lapidifier;#saozneg
 magnetekaat;magneteka;d2;#galleg;#saozneg
-maoutaat;maouta;d2;#galleg;#saozneg
+maoutaat;maouta;d2;dompter, attraper, tromper, duper;#saozneg
 marc'hadmata;marc'hadmata;d2;#galleg;#saozneg
 marc'hadmataat;marc'hadmat;d2;#galleg;#saozneg
-marc'hekaat;marc'heka;d2;#galleg;#saozneg
-mataat;mata;d2;#galleg;#saozneg
-mavaat;mava;d2;#galleg;#saozneg
-mekaat;meka;d2;#galleg;#saozneg
+marc'hekaat;marc'heka;d2;chevaucher, aller à cheval, cavalcader;#saozneg
+mataat;mata;d2;(se) bonifier, abonnir, moraliser, tirer son bien, profit de qqc. (en bonne part), bénéficier, (se) contenter de qqc;#saozneg
+mavaat;mava;d2;devenir/rendre* plus gai, * plus joyeux;#saozneg
+mekaat;meka;d2;endommager, abîmer les voiles;#saozneg
 melaat;mela;d2;emmiéler, rendre (plus) mielleux;to sweeten (like honey)
-melenaat;melena;d2;jaunir, rendre (plus) jaune;to yellow, to turn yellower
-merdeiñ;mordo;d2;naviguer;to navigate
+melenaat;melena;d2;jaunir, rendre (plus) jaune, devenir de plus en plus jaune, blondir;to yellow, to turn yellower
+merdeiñ;mordo;d2;naviguer, voguer en pleine mer, fureter;to navigate
 mesaat;mesa;d2;#galleg;#saozneg
 meuraat;meura;d2;#galleg;#saozneg
 meurekaat;meureka;d2;#galleg;#saozneg
-mezellaat;mezella;d2;#galleg;#saozneg
-mezhekaat;mezheka;d2;#galleg;#saozneg
-micherelaat;micherela;d2;#galleg;#saozneg
+mezellaat;mezella;d2;plastifier;#saozneg
+mezhekaat;mezheka;d2;humilier, rabaisser (qqn);#saozneg
+micherelaat;micherela;d2;rendre (plus/de plus en plus en plus) professionnel;#saozneg
 mintinaat;mintina;d2;#galleg;#saozneg
-moalaat;moala;d2;#galleg;#saozneg
-moanaat;moana;d2;#galleg;#saozneg
+moalaat;moala;d2;devenir (plus/de plus en plus) chauve;#saozneg
+moanaat;moana;d2;(s') amincir, mincir, maigrir, devenir* mince, * menu, (s') atrophier, amenuiser;#saozneg
 modelaat;modela;d2;#galleg;#saozneg
-modernaat;moderna;d2;#galleg;#saozneg
-motantaat;motanta;d2;#galleg;#saozneg
+modernaat;moderna;d2;moderniser;#saozneg
+motantaat;motanta;d2;monter vers le nord (en plt du vent);#saozneg
 mouestaat;mouesta;d2;#galleg;#saozneg
-naetaat;naeta;d2;#galleg;#saozneg
-naouaat;naoua;d2;identifier;to identify
-nebeutaat;nebeuta;d2;#galleg;#saozneg
+naetaat;naeta;d2;(se) nettoyer, (se) laver, décrasser, sarcler;#saozneg
+naouaat;naoua;d2;identifier, reconnaître;to identify
+nebeutaat;nebeuta;d2;diminuer (en nombre, en quantité);#saozneg
 neptuekaat;neptueka;d2;#galleg;#saozneg
 nershaat;nersha;d2;#galleg;#saozneg
-nerzhekaat;nerzheka;d2;#galleg;#saozneg
+nerzhekaat;nerzheka;d2;donner de l'énergie;#saozneg
 nerzhusaat;nerzhusa;d2;#galleg;#saozneg
-nesaat;nesa;d2;#galleg;#saozneg
-netraiñ;netra;d2;#galleg;#saozneg
-nevesaat;nevesa;d2;#galleg;#saozneg
-niverelaat;niverel;d2;numériser;#saozneg
-niverusaat;niverusa;d2;#galleg;#saozneg
-noashaat;noasha;d2;#galleg;#saozneg
-noblisaat;noblisa;d2;#galleg;#saozneg
-noplaat;nopla;d2;#galleg;#saozneg
-nosaat;nosa;d2;#galleg;#saozneg
-ofisielaat;ofisiela;d2;#galleg;#saozneg
-onestaat;onesta;d2;#galleg;#saozneg
+nesaat;nesa;d2;approximer;#saozneg
+netraiñ;netra;d2;réduire à néant, anéantir;#saozneg
+nevesaat;nevesa;d2;(se) renouveler, innover, rénover, perpétuer, rajeunir;#saozneg
+niverelaat;niverel;d2;numériser, digitaliser, capturer (numériquement);#saozneg
+niverusaat;niverusa;d2;croître en nombre;#saozneg
+noashaat;noasha;d2;dénuder, dégarnir, dépouiller, mettre à nu;#saozneg
+noblisaat;noblisa;d2;devenir noble;#saozneg
+noplaat;nopla;d2;anoblir, rendre plus noble, devenir noble;#saozneg
+nosaat;nosa;d2;tomber (en plt de la nuit), devenir (plus) nuit;#saozneg
+ofisielaat;ofisiela;d2;officialiser;#saozneg
+onestaat;onesta;d2;rendre honnête, récurer, châtrer, expurger, (se) nettoyer (qqn), laver, châtrer, castrer;#saozneg
 ospitalaat;ospitala;d2;hospitaliser;to hospitalize
 oueskaat;oueska;d2;#galleg;#saozneg
-ozonekaat;ozoneka;d2;#galleg;#saozneg
+ozonekaat;ozoneka;d2;ozoniser;#saozneg
 paganaat;pagana;d2;paganiser, rendre (plus) païen;to paganize, to render (more) pagan
-paotaat;paota;d2;#galleg;#saozneg
-paouraat;paoura;d2;(s’)appauvrir, rendre (plus) pauvre;to impoverish
-paraat;para;d2;#galleg;#saozneg
-parfetaat;parfeta;d2;#galleg;#saozneg
-parraat;parra;d2;#galleg;#saozneg
-pasaat;pasa;d2;#galleg;#saozneg
+paotaat;paota;d2;devenir/rendre abondant;#saozneg
+paouraat;paoura;d2;(s’) appauvrir (en plt de la terre), rendre (plus) pauvre, devenir pauve, maigrir;to impoverish
+paraat;para;d2;parer, éviter;#saozneg
+parfetaat;parfeta;d2;rendre plus ferme, affermir, rendre meilleur (en plt de qqn), (se) perfectionner, rendre (plus parfait, meilleur), devenir meilleur;#saozneg
+parraat;parra;d2;empêcher (qqn, qqc), éviter, (se) retenir, limiter les dégâts, préserver;#saozneg
+pasaat;pasa;d2;tousser, avoir la toux;#saozneg
 pasetaat;paseta;d2;#galleg;#saozneg
-pasteurekaat;pasteureka;d2;#galleg;#saozneg
+pasteurekaat;pasteureka;d2;pasteuriser;#saozneg
 pekaat;peka;d2;#galleg;#saozneg
-pellaat;pella;d2;(s’)éloigner, (s’)écarter;to move away, to deviate
-pempaat;pempa;d2;#galleg;#saozneg
+pellaat;pella;d2;(s’) éloigner, (s’) écarter, exclure (mettre à l'écart), atténuer;to move away, to deviate
+pempaat;pempa;d2;gerber par cinq, grouper par cinq, faire des gerbiers de cinq gerbes, engerber;#saozneg
 pennekaat;penneka;d2;#galleg;#saozneg
 peoc'haat;peoc'ha;d2;pacifier, rendre (plus) pacifique;to pacify, to render (more) peaceful
 personelaat;personela;d2;personnaliser, rendre (plus) personnel;to personalize, to render more personal
-perzhekaat;perzheka;d2;#galleg;#saozneg
+perzhekaat;perzheka;d2;qualifier;#saozneg
 peurc'hlanaat;peurc'hlana;d2;#galleg;#saozneg
 peurdreutaat;peurdreuta;d2;#galleg;#saozneg
 peureekaat;peureeka;d2;#galleg;#saozneg
 peurglokaat;peurgloka;d2;compléter (pour de bon);to complete (once and for all, definitively)
-peurheñvelaat;peurheñvela;d2;#galleg;#saozneg
+peurheñvelaat;peurheñvela;d2;assimiler complètement, identifier;#saozneg
 peurlentaat;peurlenta;d2;#galleg;#saozneg
-peurwiriekaat;peurwirieka;d2;vérifier (pour de bon);to verify (once and for all, definitively)
+peurwiriekaat;peurwirieka;d2;vérifier (pour de bon), ratifier;to verify (once and for all, definitively)
 peusheñvelaat;peusheñvela;d2;#galleg;#saozneg
 peustrenkaat;peustrenka;d2;#galleg;#saozneg
 pezhellaat;pezhella;d2;#galleg;#saozneg
-pianoañ;piano;d2;#galleg;#saozneg
-pinvidikaat;pinvidika;d2;(s’)enrichir, rendre (plus) riche;to enrich oneself, to make richer
-pishaat;pisha;d2;#galleg;#saozneg
-plaenaat;plaena;d2;#galleg;#saozneg
-pluñvaat;pluñva;d2;#galleg;#saozneg
+pianoañ;piano;d2;jouer du piano;#saozneg
+pinvidikaat;pinvidika;d2;(s’) enrichir, rendre (plus) riche;to enrich oneself, to make richer
+pishaat;pisha;d2;peaufiner des réglages;#saozneg
+plaenaat;plaena;d2;applanir (les difficultés), planer, calmer;#saozneg
+pluñvaat;pluñva;d2;(s') emplumer, (s') enrichir;#saozneg
 poblekaat;pobleka;d2;#galleg;#saozneg
 poellaat;poella;d2;#galleg;#saozneg
-poellekaat;poelleka;d2;#galleg;#saozneg
+poellekaat;poelleka;d2;rationaliser;#saozneg
 polimerekaat;polimereka;d2;polymériser;to polymerize
-politikaat;politika;d2;#galleg;#saozneg
+politikaat;politika;d2;politiser;#saozneg
 ponneraat;ponnera;d2;prendre du poids, faire prendre (plus) de poids;to gain weight, to make gain (more) weight
-posterelaat;posterela;d2;#galleg;#saozneg
-pounneraat;pounnera;d2;prendre du poids, faire prendre (plus) de poids;to gain weight, to make gain (more) weight
-poutaat;pouta;d2;(s’)alourdir, rendre (plus) lourd;to burden oneself, to make (more) heavier
-pozetaat;pozeta;d2;rendre sérieux;to render serious
-prevesaat;prevesa;d2;#galleg;#saozneg
-prietaat;prieta;d2;se marier;to marry, to get marry
-proleterekaat;proleterek;d2;#galleg;#saozneg
-puilhaat;puilha;d2;#galleg;#saozneg
-puraat;pura;d2;#galleg;#saozneg
+posterelaat;posterela;d2;postériser;#saozneg
+pounneraat;pounnera;d2;prendre du poids, faire prendre (plus) de poids, (s') alourdir, (s') appesantir, forcir (en plt du vent);to gain weight, to make gain (more) weight
+poutaat;pouta;d2;(s’) alourdir, rendre (plus) lourd;to burden oneself, to make (more) heavier
+pozetaat;pozeta;d2;rendre sérieux, devenir sérieux, posé;to render serious
+prevesaat;prevesa;d2;privatiser;#saozneg
+prietaat;prieta;d2;se marier, prendre mari;to marry, to get marry
+proleterekaat;proleterek;d2;prolétariser;#saozneg
+puilhaat;puilha;d2;devenir abondant, épaissir, devenir abondant, rendre abondant;#saozneg
+puraat;pura;d2;(se) purifer, épurer, affiner, rendre plus pur, nettoyer (ce qui est sale), déterger;#saozneg
 rageveshaat;ragevesha;d2;#galleg;#saozneg
-rannvroelaat;rannvroela;d2;#galleg;#saozneg
-raspaat;raspa;d2;#galleg;#saozneg
-reishaat;reisha;d2;#galleg;#saozneg
-reizhekaat;reizheka;d2;#galleg;#saozneg
-reiñ;ro;d2;#galleg;#saozneg
-resaat;resa;d2;#galleg;#saozneg
-resisaat;resisa;d2;#galleg;#saozneg
-reutaat;reuta;d2;#galleg;#saozneg
+rannvroelaat;rannvroela;d2;régionaliser;#saozneg
+raspaat;raspa;d2;grapiller;#saozneg
+reishaat;reisha;d2;(se) rectifier, (se) regulariser, normaliser, justifier;#saozneg
+reizhekaat;reizheka;d2;légitimer, régulariser;#saozneg
+reiñ;ro;d2;(se) donner (des coups), dispenser, prêter, (s') adonner, (se) dévouer), administrer, produire, faire (l'école), offrir, (s') adonner, (se) consacrer, (se) rendre, (se) livrer, (se) montrer;#saozneg
+resaat;resa;d2;rectifier, faciliter, simplifier;#saozneg
+resisaat;resisa;d2;(se) préciser, définir, rendre plus précis;#saozneg
+reutaat;reuta;d2;rigidifier (de plus en plus*), se gainer (*);#saozneg
 rinekaat;rineka;d2;#galleg;#saozneg
-robotekaat;roboteka;d2;#galleg;#saozneg
-rokaat;roka;d2;#galleg;#saozneg
-romanaat;romana;d2;#galleg;#saozneg
-rontaat;ronta;d2;#galleg;#saozneg
-rouesaat;rouesa;d2;#galleg;#saozneg
-rousaat;rousa;d2;#galleg;#saozneg
-rusaat;rusa;d2;#galleg;#saozneg
-rustaat;rusta;d2;#galleg;#saozneg
-santelaat;santela;d2;#galleg;#saozneg
+robotekaat;roboteka;d2;robotiser;#saozneg
+rokaat;roka;d2;devenir/rendre arrogant;#saozneg
+romanaat;romana;d2;romaniser;#saozneg
+rontaat;ronta;d2;(s') arrondir (à l'unité);#saozneg
+rouesaat;rouesa;d2;(se) raréfier, (s') espacer, devenir plus rare (en plt des choses, des êtres, des événements, pris individuellement), devenir clair, (s') amincir, raréfier, ameublir (en plt de la terre), (s') éclaircir (des plants, etc.);#saozneg
+rousaat;rousa;d2;roussir, devenir roux, tomber (en plt de la nuit), tomber (crépuscule);#saozneg
+rusaat;rusa;d2;rougir;#saozneg
+rustaat;rusta;d2;devenir (plus) rude, devenir plus grosse (en plt de la mer), (se) rudoyer;#saozneg
+santelaat;santela;d2;(se) sanctifier, rendre saint;#saozneg
 saozneka;saozneka;d2;#galleg;#saozneg
-saoznekaat;saozneka;d2;#galleg;#saozneg
+saoznekaat;saozneka;d2;angliciser, rendre plus anglais;#saozneg
 sartaat;sarta;d2;#galleg;#saozneg
-sec'hedikaat;sec'hedika;d2;altérer;to alter, affect
-sederaat;sedera;d2;#galleg;#saozneg
-semplaat;sempla;d2;#galleg;#saozneg
-sershaat;sersha;d2;#galleg;#saozneg
-sevenaat;sevena;d2;#galleg;#saozneg
+sec'hedikaat;sec'hedika;d2;altérer, donner soif à;#saozneg
+sederaat;sedera;d2;(se) rasséréner, devenir plus gai, égayer (qqc.), raviver, rendre plus serrain, être plus serrain;#saozneg
+semplaat;sempla;d2;(s'*) affaiblir, débiliser, (*) abattre, (*) ralentir;#saozneg
+sershaat;sersha;d2;remonter (escarpement), (se) ravigoter, devenir (plus) raide, (s') escarper;#saozneg
+sevenaat;sevena;d2;(se) civiliser, policer, devenir/rendre civile;#saozneg
 siloañ;silo;d2;siloter;#saozneg
-sinkronaat;sinkrona;d2;#galleg;#saozneg
-sinkronelaat;sinkronela;d2;#galleg;#saozneg
+sinkronaat;sinkrona;d2;synchroniser;#saozneg
+sinkronelaat;sinkronela;d2;synchroniser;#saozneg
 sintezekaat;sintezeka;d2;#galleg;#saozneg
-sioulaat;sioula;d2;#galleg;#saozneg
-siriusaat;siriusa;d2;#galleg;#saozneg
-skarsaat;skarsa;d2;#galleg;#saozneg
-skañvaat;skañva;d2;#galleg;#saozneg
-skedusaat;skedusa;d2;#galleg;#saozneg
-skeiñ;sko;d2;#galleg;#saozneg
-skildrenkaat;skildrenka;d2;#galleg;#saozneg
-sklaeraat;sklaera;d2;#galleg;#saozneg
-sklavaat;sklava;d2;#galleg;#saozneg
-skoataat;skoata;d2;#galleg;#saozneg
+sioulaat;sioula;d2;(se) calmer (météorologie, en plt du temps*), (se) tranquiliser (en plt de qqn.**), (se) calmer (la colère, la douleur, **), devenir calme (*);#saozneg
+siriusaat;siriusa;d2;devenir sérieux;#saozneg
+skarsaat;skarsa;d2;devenir/rendre* chiche, * mince;#saozneg
+skañvaat;skañva;d2;alléger (un fardeau, au moral, etc.);#saozneg
+skedusaat;skedusa;d2;briller, devenir plus brillant;#saozneg
+skeiñ;sko;d2;frapper, rosser, (se) diriger, taper, toucher, shooter, percuter;#saozneg
+skildrenkaat;skildrenka;d2;aciduler;#saozneg
+sklaeraat;sklaera;d2;clarifier, (s') éclaircir;#saozneg
+sklavaat;sklava;d2;tenir en esclavage;#saozneg
+skoataat;skoata;d2;boucharder;#saozneg
 skolveuriekaat;skolveurieka;d2;#galleg;#saozneg
-skortaat;skorta;d2;#galleg;#saozneg
-skoueriekaat;skouerieka;d2;#galleg;#saozneg
+skortaat;skorta;d2;devenir/rendre* insuffisant, * maigre;#saozneg
+skoueriekaat;skouerieka;d2;normaliser;#saozneg
 skritellaat;skritella;d2;#galleg;#saozneg
 skuishaat;skuisha;d2;#galleg;#saozneg
 slavaat;slava;d2;#galleg;#saozneg
-sokialaat;sokiala;d2;#galleg;#saozneg
+sokialaat;sokiala;d2;socialiser;#saozneg
 sokialekaat;sokialeka;d2;#galleg;#saozneg
-solutaat;soluta;d2;#galleg;#saozneg
-sonekaat;soneka;d2;#galleg;#saozneg
-sonnaat;sonna;d2;#galleg;#saozneg
-sotaat;sota;d2;#galleg;#saozneg
+solutaat;soluta;d2;(se) solidifier, (se) revitaliser, consolider;#saozneg
+sonekaat;soneka;d2;sonoriser;#saozneg
+sonnaat;sonna;d2;rigidifier, raffermir, (s') affermir, relever, relever, redresser la tête, (se) raidir;#saozneg
+sotaat;sota;d2;devenir/rendre* (de plus en plus**) sot, * (**) fou, * (**) stupide, * (**) hébété;#saozneg
 soublaat;soubla;d2;#galleg;#saozneg
 soudardekaat;soudardeka;d2;#galleg;#saozneg
 soudardelaat;soudardela;d2;#galleg;#saozneg
-souplaat;soupla;d2;#galleg;#saozneg
+souplaat;soupla;d2;assouplir (le corps, les membres), adoucir (mal, peine, météorologie, etc.), fléchir, dompter (des personnes difficiles à gourverner), soumettre, apaiser, rendre moins fâcheux, amortir (une chute), (se) calmer (en plt d'une douleur), (se) modérer (qqn.);#saozneg
 soviedekaat;soviedeka;d2;#galleg;#saozneg
-spagnekaat;spagneka;d2;#galleg;#saozneg
-spanaat;spana;d2;#galleg;#saozneg
-speredekaat;speredeka;d2;#galleg;#saozneg
-spisaat;spisa;d2;#galleg;#saozneg
-splannaat;splanna;d2;#galleg;#saozneg
+spagnekaat;spagneka;d2;hispaniser;#saozneg
+spanaat;spana;d2;faire relâche (éclaircir);#saozneg
+speredekaat;speredeka;d2;devenir de plus en plus intelligent;#saozneg
+spisaat;spisa;d2;(se) distinguer, définir;#saozneg
+splannaat;splanna;d2;(s') éclairer (météorologie), (s') illuminer, devenir clair (en plt du jour), devenir transparent, (s') éclaircir;#saozneg
 spletusaat;spletusa;d2;#galleg;#saozneg
-stabilaat;stabila;d2;stabiliser;to stabilize, steady
-stadelaat;stadela;d2;#galleg;#saozneg
+stabilaat;stabila;d2;stabiliser, rendre fixe, ferme, affermir, fixer;to stabilize, steady
+stadelaat;stadela;d2;étatiser;#saozneg
 standardekaat;standardeka;d2;#galleg;#saozneg
-stankaat;stanka;d2;#galleg;#saozneg
-startaat;starta;d2;affermir;to reinforce, bolster
+stankaat;stanka;d2;devenir plus nombreux (en plt d'éléments dénombrables*), augmenter en nombre (*), devenir abondant, épaissir, devenir abondant, devenir plus habituel (en plt de qqc. d'abstrait), rendre abondant, épaissir;#saozneg
+startaat;starta;d2;(s') affermir, (se) resserrer, consolider, cimenter, (se) compliquer;to reinforce, bolster
 steuñvekaat;steuñveka;d2;#galleg;#saozneg
-strishaat;strisha;d2;#galleg;#saozneg
+strishaat;strisha;d2;restreindre, (se) contracter;#saozneg
 strujusaat;strujusa;d2;fertiliser;to fertilize
-sturiadelaat;sturiadela;d2;#galleg;#saozneg
-suraat;sura;d2;#galleg;#saozneg
+sturiadelaat;sturiadela;d2;vectoriser;#saozneg
+suraat;sura;d2;devenir/rendre (plus) sûr, assurer;#saozneg
 taeraat;taera;d2;s’exaspérer;to exasperate oneself
 tagnousaat;tagnousa;d2;devenir teigneux;to become ill-tempered
-talvoudekaat;talvoudeka;d2;#galleg;#saozneg
-tanavaat;tanava;d2;s’affiner, liquéfier;to refine, liquify
+talvoudekaat;talvoudeka;d2;valoriser, mettre en valeur;#saozneg
+tanavaat;tanava;d2;(s') affiner, (se) raréfier, (se) liquéfier, (se) diluer, sarcler, éclaircir, tailler (pain pour la soupe), devenir moins nombreux, (se) raréfier, diminuer, devenir liquide, (se) liqéfier, amincir, amenuiser;to refine, liquify
 tavantekaat;tavantek;d2;#galleg;#saozneg
-teiñ;to;d2;#galleg;#saozneg
-teneraat;tenera;d2;(s’)attendrir, rendre (plus) tendre;to soften, tenderize oneself, render more soft
-testeniekaat;testenieka;d2;attester;to attest, certifiy
+teiñ;to;d2;couvrir;#saozneg
+teneraat;tenera;d2;(s’) attendrir, devenir/rendre (plus) tendre, amolir, affiler;to soften, tenderize oneself, render more soft
+testeniekaat;testenieka;d2;attester, témoigner, déclarer, certifier;to attest, certifiy
 tetanekaat;tetaneka;d2;tétaniser;to tetanize
-teuc'haat;teuc'ha;d2;rendre (plus) consistant;to render (more) consistant
+teuc'haat;teuc'ha;d2;rendre (plus) consistant, devenir lourd, devenir râpé (en plt d'un vêtement), blaser, rendre lourd, devenir obèse;to render (more) consistant
 teuc'hekaat;teuc'heka;d2;#galleg;#saozneg
-teuskaat;teuska;d2;rendre (plus) chétif;to make weaker, more meager
-tevaat;teva;d2;(s’)épaissir, rendre (plus) épais;to thicken, to make (more) thicker
-teñvalaat;teñvala;d2;(s’)assombrir, rendre (plus) sombre;to become overcast, to cloud, to render (more) somber
-tiekaat;tieka;d2;#galleg;#saozneg
-toc'horaat;toc'hora;d2;#galleg;#saozneg
-tommaat;tomma;d2;échauffer;to warm up
+teuskaat;teuska;d2;rendre (plus) chétif, (s') étriqer, devenir/rendre insuffisant;to make weaker, more meager
+tevaat;teva;d2;(s’) épaissir, rendre (plus) épais, grossir, croître en grosseur, (s') émousser;to thicken, to make (more) thicker
+teñvalaat;teñvala;d2;(s’) assombrir, rendre (plus) sombre;to become overcast, to cloud, to render (more) somber
+tiekaat;tieka;d2;fonder une famille, diriger une exploitation agricole, ménager;#saozneg
+toc'horaat;toc'hora;d2;devenir/rendre* plus faible, * débile, plus languissant, empirer, être mourant, diminuer;#saozneg
+tommaat;tomma;d2;(r)échauffer, devenir de plus en plus chaud, (s') échauffer;to warm up
 tortaat;torta;d2;#galleg;#saozneg
-tostaat;tosta;d2;approcher;to approach
-treiñ;tro;d2;#galleg;#saozneg
-trenkaat;trenka;d2;rendre (plus) acide;to turn (more) acidic
-trenkikaat;trenkika;d2;#galleg;#saozneg
-treutaat;treuta;d2;maigrir, s’amaigrir, rendre (plus) maigre;to slim down, lose weight
-treuzlakaat;treuzlaka;d2;#galleg;#saozneg
+tostaat;tosta;d2;(s') approcher, (se) rapprocher, comparer, devenir plus avare;to approach
+treiñ;tro;d2;(se) tourner (en plt d'un aliment*), (se) mouvoir, prendre une mauvaise odeur (*), (se) passer, faire tourner (qqc.) détourner, mettre bas, pouliner, traduire, adapter (d'un dialecte à un autre), transformer en, (se) prendre, (se) débrouiller;#saozneg
+trenkaat;trenka;d2;rendre (plus) acide, devenir, rendre aigre, (s') envenimer, acidifier;to turn (more) acidic
+trenkikaat;trenkika;d2;aciduler;#saozneg
+treutaat;treuta;d2;maigrir (en plt de qqn), (s’) amaigrir, rendre (plus) maigre, devenir/rendre maigre, appauvrir (la terre, agriculture);to slim down, lose weight
+treuzlakaat;treuzlaka;d2;traduire, transposer;#saozneg
 trevekaat;treveka;d2;exploiter;to exploit
 treziataat;treziata;d2;gager un serviteur;to pay a servant
-tristaat;trista;d2;#galleg;#saozneg
-trugarekaat;trugareka;d2;#galleg;#saozneg
-tuaat;tua;d2;#galleg;#saozneg
+tristaat;trista;d2;devenir/rendre (plus) triste, maigrir, attrister, donner des sujets de tristesse à quelqu'un, rendre maigre, enlaidir;#saozneg
+trugarekaat;trugareka;d2;remercier, (s') apitoyer;#saozneg
+tuaat;tua;d2;détourner (à son profit, de son côté*), prendre (*), mettre à part (*);#saozneg
 tudekaat;tudeka;d2;#galleg;#saozneg
-uhelaat;uhela;d2;#galleg;#saozneg
-unanaat;unana;d2;#galleg;#saozneg
-venaat;vena;d2;(s’)affaiblir, rendre (plus) faible;to weaken, to make (more) weak
+uhelaat;uhela;d2;(s') élever, surélever, (se) hausser, devenir de plus en plus haut, monter dans le ciel (en plt du soleil), croître, hausser (en plt de la voix), renchérir, relever (un prix), promouvoir;#saozneg
+unanaat;unana;d2;unifier, unir;#saozneg
+venaat;vena;d2;(s’) affaiblir, rendre (plus) faible, devenir vain, faiblir;to weaken, to make (more) weak
 vetoiñ;veto;d2;mettre son veto;to veto
-vilaat;vila;d2;enlaidir;to spoil, ruin, to become ugly
-yac'haat;yac'ha;d2;guérir, rendre (plus) sain;to cure, to make (more) healthy
-yac'husaat;yac'husa;d2;assainir, rendre (plus) sain;to sanitize, to become (more) healthier
-yaouankaat;yaouanka;d2;rajeunir, rendre (plus) jeune;to rejuvenate, to become younger
-yenaat;yena;d2;(se) refroidir, rendre (plus) froid;to cool down, to become (more) cold
+vilaat;vila;d2;(s') enlaidir, (s') avilir, devenir laid;to spoil, ruin, to become ugly
+yac'haat;yac'ha;d2;guérir, rendre (plus) sain, (se) rétablir, assainir, émasculer;to cure, to make (more) healthy
+yac'husaat;yac'husa;d2;assainir, rendre (plus) sain, devenir/rendre salubre;to sanitize, to become (more) healthier
+yaouankaat;yaouanka;d2;rajeunir, rendre (plus) jeune, (se) montrer sous un aspect jeune;to rejuvenate, to become younger
+yenaat;yena;d2;(se) refroidir, rendre (plus) froid, (se) déprendre, réfrigérer;to cool down, to become (more) cold
 yezhadurelaat;yezhadurela;d2;#galleg;#saozneg
 yuzevekaat;yuzeveka;d2;judaïser, rendre (plus) juif;to make more jewish
-abona;abon;d3;#galleg;#saozneg
-adtañva;adtañv;d3;#galleg;#saozneg
+abona;abon;d3;chercher du crottin;#saozneg
+adtañva;adtañv;d3;regoûter;#saozneg
 akebutennata;akebutennat;d3;#galleg;#saozneg
-aocha;aoch;d3;#galleg;#saozneg
-aota;aot;d3;#galleg;#saozneg
+aocha;aoch;d3;récolter le goémon, travailler à la grève, pêcher le goémon;#saozneg
+aota;aot;d3;récolter le goémon, travailler à la grève, pêcher le goémon;#saozneg
 aoura;aour;d3;chercher de l’or;to search for gold
-arc'hanta;arc'hant;d3;chercher de l’argent;to search for silver, money
-avalaoua;avalaou;d3;chercher des pommes;to look for apples
+arc'hanta;arc'hant;d3;chercher de l’argent, faire le tour de ses créanciers);to search for silver, money
+avalaoua;avalaou;d3;chercher (des pommes*), ramasser (*), cueillir (*);to look for apples
 baleata;baleat;d3;déambuler;to wander (about)
-balumeta;balumet;d3;#galleg;#saozneg
-baraa;bara;d3;chercher son pain;to search for one's bread
-barlennata;barlennat;d3;#galleg;#saozneg
-bazhata;bazhat;d3;bastonner;to beat up
-bazhoula;bazhoul;d3;#galleg;#saozneg
-begata;begat;d3;médire;to malign, to speak ill of, to lie
-begonata;begonat;d3;trouver à redire;to find fault (with something)
-beusa;beus;d3;#galleg;#saozneg
+balumeta;balumet;d3;chasser la balaine, pêcher la balaine;#saozneg
+baraa;bara;d3;chercher (son pain*), quêter (*), mendier;to search for one's bread
+barlennata;barlennat;d3;porter* sur les genoux, * dans le tablier;#saozneg
+bazhata;bazhat;d3;bastonner, rosser, battre à coups de bâton;to beat up
+bazhoula;bazhoul;d3;ramasser des pousses d'oseille/bricoli (sic) au printemps comme font les enfants;#saozneg
+begata;begat;d3;médire, jaser, donner des coups de langue, répondre impoliment, continuer à parler, bavarder, discuter;to malign, to speak ill of, to lie
+begonata;begonat;d3;trouver à redire, épiloguer, répliquer;to find fault (with something)
+beusa;beus;d3;chercher du buis;#saozneg
 bezhina;bezhin;d3;récolter/ramasser du goémon, récolter/ramasser des algues;to harvest/to clear up the wrack, to collect/to gather seaweed, algae
-bigorneta;bigornet;d3;#galleg;#saozneg
-bilgota;bilgot;d3;#galleg;#saozneg
+bigorneta;bigornet;d3;pêcher des bigorneaux, chercher ou ramasser des limaçons de mer;#saozneg
+bilgota;bilgot;d3;pêcher/chercher des bigorneaux (Tréguier);#saozneg
 binviaoua;binviaou;d3;#galleg;#saozneg
-bitailha;bitailh;d3;#galleg;#saozneg
+bitailha;bitailh;d3;chercher de la nourriture, vitailler;#saozneg
 biziata;biziat;d3;#galleg;#saozneg
-blaseta;blaset;d3;#galleg;#saozneg
-blazata;blazat;d3;#galleg;#saozneg
-bleukata;bleukat;d3;#galleg;#saozneg
+blaseta;blaset;d3;goûter, chercher à reconnaître par le goût, déguster;#saozneg
+blazata;blazat;d3;déguster;#saozneg
+bleukata;bleukat;d3;donner des bourrades à, pousser violemment, donner des coups de boutoir;#saozneg
 bleuniaoua;bleuniaou;d3;butiner;to glean, to gather pollen from
-bleuta;bleut;d3;#galleg;#saozneg
-bleuñvata;bleuñvat;d3;butiner;#saozneg
-bleva;blev;d3;#galleg;#saozneg
-blevata;blevat;d3;#galleg;#saozneg
-bleñchaoua;bleñchaou;d3;#galleg;#saozneg
-boc'hata;boc'hat;d3;#galleg;#saozneg
-boueta;bouet;d3;#galleg;#saozneg
-bouzoula;bouzoul;d3;ramasser/récolter du crottin;to gather/collect droppings
-braosa;braos;d3;recueillir du jonc marin;to collect whin, thrift
+bleuta;bleut;d3;quêter de la farine, chercher de la farine, mendier, tamiser la farine, renvoyer;#saozneg
+bleuñvata;bleuñvat;d3;butiner (en plt des abeilles);#saozneg
+bleva;blev;d3;faire le marchand de cheveux;#saozneg
+blevata;blevat;d3;(se) prendre aux cheveux (l'un et l'autre);#saozneg
+bleñchaoua;bleñchaou;d3;chercher, ramasser du menu bois;#saozneg
+boc'hata;boc'hat;d3;souffleter;#saozneg
+boueta;bouet;d3;(se) nourrir (des animaux), (se) ravitailler, appâter, amorcer, alimenter, engrener, fournir, affourrager, roupiller, paître, amorcer (un hameçon, etc.*), embecquer (*), manger;#saozneg
+bouzoula;bouzoul;d3;ramasser/récolter du crottin de cheval;to gather/collect droppings
+braosa;braos;d3;recueillir du jonc marin, cueillir du jonc marin;to collect whin, thrift
 braoueta;braouet;d3;donner à boire;to give to drink
-brennika;brennik;d3;ramasser/récolter des patelles;to gather/to collect limpets
+brennika;brennik;d3;ramasser/récolter/pêcher des patelles;to gather/to collect limpets
 breujata;breujat;d3;discuter;to talk, speak about, discuss
-briata;briat;d3;embrasser (entourer des bras);to embrace, to hug
+briata;briat;d3;embrasser (entourer des bras), étreindre;to embrace, to hug
 brizhillia;brizhilli;d3;pêcher des maquereaux;to fish for mackerel
-broañ;bro;d3;retourner au pays;to return home
+broañ;bro;d3;retourner au pays, acclimater, rapatrier, (s') établir dans un pays;to return home
 broc'heta;broc'het;d3;chasser le blaireau;to chase, hunt the badger
 broenna;broenn;d3;chercher du jonc;to search for bullrush
-broudata;broudat;d3;picoter;to sting, to tickle
-brousta;broust;d3;chercher du lierre;to look for ivy
-brucheta;bruchet;d3;#galleg;#saozneg
-buaneka;buanek;d3;(s’)irriter;#saozneg
+broudata;broudat;d3;picoter, et frapper à petits coups répétés;to sting, to tickle
+brousta;broust;d3;chercher/ramasser du lierre;to look for ivy
+brucheta;bruchet;d3;(se) battre poitrine contre poitrine, (se) battre comme font les coqs en se heurtant la proitine;#saozneg
+buaneka;buanek;d3;(s’) irriter;#saozneg
 c'hwesha;c'hwesh;d3;sentir, flairer;to smell, to sniff, scent
 c'hwesheta;c'hweshet;d3;#galleg;#saozneg
 c'hwibanata;c'hwibanat;d3;#galleg;#saozneg
 c'hwibua;c'hwibu;d3;#galleg;#saozneg
 c'hwileta;c'hwilet;d3;#galleg;#saozneg
-c'hwilosteta;c'hwilostet;d3;#galleg;#saozneg
+c'hwilosteta;c'hwilostet;d3;flâner, aller et venir, chercher des scarabées à queue;#saozneg
 c'hwistata;c'hwistat;d3;donner des coups;to hit
 chevreta;chevret;d3;pêcher des crevettes;to fish for prawns
-chilpeta;chilpet;d3;japper;to bark, yelp
-chopinata;chopinat;d3;#galleg;#saozneg
+chilpeta;chilpet;d3;japper (Treger);to bark, yelp
+chopinata;chopinat;d3;chopiner, godailler, boire;#saozneg
 chougata;chougata;d3;porter sur la nuque;to carry on the nape (of the neck)
-choukata;choukat;d3;#galleg;#saozneg
+choukata;choukat;d3;frapper au cou, coltiner, porter sur haut du dos, porter des fardeaux comme le font les meuniers, porter sur la nuque;#saozneg
 dama;dam;d3;#galleg;#saozneg
 damesa;dames;d3;dompter;to tame, to crush, to overcome
-deiziata;deiziat;d3;#galleg;#saozneg
-delia;deli;d3;#galleg;#saozneg
-deliaoua;deliaou;d3;#galleg;#saozneg
-demata;demat;d3;dire bonjour à qqn;to say hello to someone
-devezhiata;devezhiat;d3;travailler toute la journée;to work all day
-dibunata;dibunat;d3;réciter comme une litanie;to recite like a litany
+deiziata;deiziat;d3;dater;#saozneg
+delia;deli;d3;ramasser des feuilles;#saozneg
+deliaoua;deliaou;d3;ramasser des feuilles mortes, cueillir des feuilles;#saozneg
+demata;demat;d3;dire bonjour à qqn, saluer, souhaiter le bonjour;to say hello to someone
+devezhiata;devezhiat;d3;travailler toute la journée, travailler à la journée;to work all day
+dibunata;dibunat;d3;réciter comme une litanie, défiler, aller à la file;to recite like a litany
 dieta;diet;d3;chercher à boire;to look for a drink
-digoata;digoat;d3;#galleg;#saozneg
+digoata;digoat;d3;sortir (des arbres abattus) d'un bois;#saozneg
 dilesa;diles;d3;authentifier;to authenticate, to certify
 diskouezata;diskouezat;d3;rendre manifeste;#saozneg
 diskuda;diskud;d3;#galleg;#saozneg
 distaliata;distaliat;d3;desservir (la table);to clear (the table)
 divalava;divalav;d3;s'enlaidir;to spoil, ruin, to become ugly
-divoueta;divouet;d3;#galleg;#saozneg
+divoueta;divouet;d3;cesser d'alimenter (un animal), dégager (une machine engorgée), ôter l'appât d'un hameçon;#saozneg
 dluzheta;dluzhet;d3;pêcher des truites;to fish for trout
-dornata;dornat;d3;#galleg;#saozneg
+dornata;dornat;d3;boxer, dauber, faire le coup de poing, manier, manipuler, toucher avec les mains, tâter, peloter, tripoter;#saozneg
 douaraoua;douaraou;d3;chercher des terres;to search for land
 dougata;dougat;d3;#galleg;#saozneg
-doura;dour;d3;#galleg;#saozneg
+doura;dour;d3;(s') abreuver;#saozneg
 douseta;douset;d3;#galleg;#saozneg
-dreistboueta;dreistbouet;d3;#galleg;#saozneg
-embregata;embregat;d3;#galleg;#saozneg
+dreistboueta;dreistbouet;d3;suralimenter;#saozneg
+embregata;embregat;d3;manoeurer, manier;#saozneg
 emdarzhata;emdarzhat;d3;#galleg;#saozneg
 emgannata;emgannat;d3;#galleg;#saozneg
 emguzuliata;emguzuliat;d3;#galleg;#saozneg
@@ -7243,113 +7243,113 @@ emvazhata;emvazhat;d3;#galleg;#saozneg
 emzornata;emzornat;d3;#galleg;#saozneg
 estlammata;estlammat;d3;#galleg;#saozneg
 eurvezhiata;eurvezhiat;d3;#galleg;#saozneg
-evneta;evnet;d3;#galleg;#saozneg
+evneta;evnet;d3;chasser les oiseaux, aller a la chasse des oiseaux;#saozneg
 ezveziata;ezveziat;d3;#galleg;#saozneg
 falaoueta;falaouet;d3;chasser les petits oiseaux;to hunt small birds
 fankata;fankat;d3;crotter complètement;to muddy
-fasata;fasat;d3;#galleg;#saozneg
+fasata;fasat;d3;gifler, souffleter;#saozneg
 fasata fasatat;fasat;d3;#galleg;#saozneg
-fava;fav;d3;#galleg;#saozneg
-feskennata;feskennat;d3;#galleg;#saozneg
-filipeta;filipet;d3;#galleg;#saozneg
-fiona;fion;d3;chercher une herbe des marais;#saozneg
-flac'hata;flac'hat;d3;#galleg;#saozneg
-flamboesa;flamboes;d3;ramasser des framboises;to collect raspberries
-flapata;flapat;d3;#galleg;#saozneg
+fava;fav;d3;cueillir des fèves;#saozneg
+feskennata;feskennat;d3;fesser;#saozneg
+filipeta;filipet;d3;chasser les moineaux, attraper des moineaux;#saozneg
+fiona;fion;d3;chercher une herbe des marais, cueillir des molinies bleues, (se) couvrir de molinies bleues;#saozneg
+flac'hata;flac'hat;d3;manier, gifler;#saozneg
+flamboesa;flamboes;d3;chercher/ramasser des framboises;to collect raspberries
+flapata;flapat;d3;potiner, battre (comme une porte, un drapeau, un linge suspendu);#saozneg
 flikata;flikat;d3;clapoter;to lap, splash
-flipata;flipat;d3;cingler;to whip, beat up
-foara;foar;d3;#galleg;#saozneg
+flipata;flipat;d3;cingler, jaboter, faire claquer, vanter;to whip, beat up
+foara;foar;d3;fréquenter les foires, vendre à la foire;#saozneg
 follennata;follennat;d3;#galleg;#saozneg
-forc'hata;forc'hat;d3;#galleg;#saozneg
+forc'hata;forc'hat;d3;fourcher, remuer avec la fourche;#saozneg
 fouliara;fouliar;d3;chercher du lierre;to look for ivy
 frammata;frammat;d3;#galleg;#saozneg
-frellea;frelle;d3;#galleg;#saozneg
-freta;fret;d3;#galleg;#saozneg
-friata;friat;d3;#galleg;#saozneg
-frouesha;frouesh;d3;chercher des fruits;to search for fruit
-furchata;furchat;d3;#galleg;#saozneg
-gaoliata;gaoliat;d3;#galleg;#saozneg
+frellea;frelle;d3;chercher un galant;#saozneg
+freta;fret;d3;affréter, fréter, embaucher, chercher du travail;#saozneg
+friata;friat;d3;frapper (qqn) sur le nez, fouiller;#saozneg
+frouesha;frouesh;d3;chercher des fruits, cueillir des fruits;to search for fruit
+furchata;furchat;d3;fureter;#saozneg
+gaoliata;gaoliat;d3;enfourcher, enjamber, arpenter, marcher à grandes enjambées;#saozneg
 garjata;garjat;d3;#galleg;#saozneg
 garzhata;garzhat;d3;#galleg;#saozneg
-gedona;gedon;d3;#galleg;#saozneg
-genaouata;genaouat;d3;faire le badaud;to act like a stroller
-geota;geot;d3;#galleg;#saozneg
-geriaoua;geriaou;d3;#galleg;#saozneg
+gedona;gedon;d3;chasser le lièvre, aller à la chasse des lièves;#saozneg
+genaouata;genaouat;d3;faire le badaud, regarder avec curiosité;to act like a stroller
+geota;geot;d3;chercher de l'herbe, couper de l'herbe pour les bestiaux, donner (de l'heure) aux bestiaux, mettre à l'herbage;#saozneg
+geriaoua;geriaou;d3;collecter des mots;#saozneg
 glaoua;glaou;d3;chercher du charbon;to search for coal
 glaoueta;glaouet;d3;ramasser de la bouse;to collect cow dung
-goafata;goafat;d3;manier la lance;to handle the lance
-gosa;gos;d3;#galleg;#saozneg
+goafata;goafat;d3;manier la lance, pratiquer l'escrime de la lance, frapper à coups répétés de lance;to handle the lance
+gosa;gos;d3;chasser les taupes;#saozneg
 gouglezeiata;gouglezeiat;d3;#galleg;#saozneg
-goulaoueta;goulaouet;d3;#galleg;#saozneg
-goularsa;goulars;d3;chercher de l’ambre;to search for amber
-goulennata;goulennat;d3;interroger;to ask, interrogate
+goulaoueta;goulaouet;d3;pêcher à la lumière;#saozneg
+goularsa;goulars;d3;chercher/récolter de l’ambre;to search for amber
+goulennata;goulennat;d3;interroger, questionner;to ask, interrogate
 gouliata;gouliat;d3;#galleg;#saozneg
-goumona;goumon;d3;#galleg;#saozneg
+goumona;goumon;d3;chercher/récolter du/le goémon;#saozneg
 gourenata;gourenat;d3;#galleg;#saozneg
-gozeta;gozet;d3;chasser les taupes;to hunt for moles
-grilheta;grilhet;d3;#galleg;#saozneg
+gozeta;gozet;d3;chasser/prendre des/les taupes;to hunt for moles
+grilheta;grilhet;d3;pêcher la langouste;#saozneg
 gwalennata;gwalennat;d3;#galleg;#saozneg
 gwaregata;gwaregat;d3;tirer à l’arc;to shoot arrows from a bow
 gweata;gweat;d3;vriller, tortiller;to spiral, to twist
-gweleata;gweleat;d3;mettre au lit;go to bed
-gwinardanta;gwinardant;d3;#galleg;#saozneg
-gwrac'heta;gwrac'het;d3;#galleg;#saozneg
-gwreskaoua;gwreskaou;d3;ramasser des souches;to collect tree stumps
-harinketa;harinket;d3;#galleg;#saozneg
-hentata;hentat;d3;#galleg;#saozneg
+gweleata;gweleat;d3;(se) mettre au lit, (s') aliter, mettre (qqn) au lit;go to bed
+gwinardanta;gwinardant;d3;boire/chercher de l'eau de vie;#saozneg
+gwrac'heta;gwrac'het;d3;pêcher des vieilles (poissons);#saozneg
+gwreskaoua;gwreskaou;d3;chercher/ramasser des souches et racines de fougères, de lande, etc, retiter les racines d'ajoncs de la terre à l'aide d'une charrue spéciale;to collect tree stumps
+harinketa;harinket;d3;pêcher le hareng;#saozneg
+hentata;hentat;d3;bourlinguer;#saozneg
 holena;holen;d3;récolter le sel;to collect salt
-horbalana;horbalan;d3;pêcher des pétoncles;to fish for scallops
+horbalana;horbalan;d3;pêcher/ramasser des pétoncles;to fish for scallops
 huata;huat;d3;huer, conspuer;to boo, to jeer at
 ilinata;ilinat;d3;#galleg;#saozneg
-istra;istr;d3;pêcher des huitres;to fish for oysters
+istra;istr;d3;pêcher/ramasser des huitres;to fish for oysters
 javedata;javedat;d3;gifler;to slap
 jiboesa;jiboes;d3;chasser le gibier;to chase, hunt game
-jodata;jodat;d3;gifler;to slap
+jodata;jodat;d3;gifler, souffleter;to slap
 kaelata;kaelat;d3;mettre le blocus;to put up a blockade
-kafea;kafe;d3;#galleg;#saozneg
-kafeta;kafet;d3;boire du café;to drink coffee
+kafea;kafe;d3;(se réunir pour) boire du café (les unes chez les autres pour commérer);#saozneg
+kafeta;kafet;d3;(se réunir pour) boire du café (les unes chez les autres pour commérer);to drink coffee
 kaleta;kalet;d3;pêcher à la traîne;to troll (fishing)
 kalkennata;kalkennat;d3;#galleg;#saozneg
 kamalata;kamalat;d3;#galleg;#saozneg
-kanoliata;kanoliat;d3;#galleg;#saozneg
+kanoliata;kanoliat;d3;canonner;#saozneg
 kaoc'hkezeka;kaoc'hkezek;d3;ramasser/récolter du crottin de cheval;to pick up/collect horse droppings
-karnata;karnat;d3;#galleg;#saozneg
-karrata;karrat;d3;#galleg;#saozneg
-karrigellata;karrigellat;d3;#galleg;#saozneg
-karvanata;karvanat;d3;#galleg;#saozneg
-kefeleka;kefelek;d3;#galleg;#saozneg
+karnata;karnat;d3;piaffer;#saozneg
+karrata;karrat;d3;véhiculer (transporter);#saozneg
+karrigellata;karrigellat;d3;brouetter;#saozneg
+karvanata;karvanat;d3;souffleter, donner un coup sur la joue;#saozneg
+kefeleka;kefelek;d3;chasser la bécasse, aller/faire à la chasse des bécasses;#saozneg
 kefelinata;kefelinat;d3;#galleg;#saozneg
-keinata;keinat;d3;#galleg;#saozneg
+keinata;keinat;d3;porter à dos d'homme, porter sur le dos, porter un fardeau sur le dos;#saozneg
 keita;keit;d3;égaliser (son);to equalize (sound)
-kelaoua;kelaou;d3;#galleg;#saozneg
+kelaoua;kelaou;d3;chercher des renseignements;#saozneg
 kelc'hiata;kelc'hiat;d3;#galleg;#saozneg
 kelennata;kelennat;d3;documenter;to document, to research
 kenvriata;kenvriat;d3;s’embrasser;to embrace, to kiss, to hug
-kerc'ha;kerc'h;d3;donner de l’avoine;to distribute oat
+kerc'ha;kerc'h;d3;donner de l’avoine à (un cheval, etc) avoiner;to distribute oat
 keresa;keres;d3;cueillir/récolter des cerises;to pick/to harvest cherries
 kerzhva;kerzhv;d3;#galleg;#saozneg
-keuneuta;keuneut;d3;#galleg;#saozneg
-keurusa;keurus;d3;pêcher les petites anguilles;to fish for small eels
-kevella;kevell;d3;#galleg;#saozneg
+keuneuta;keuneut;d3;chercher, couper du bois de chauffage, rammasser du bois de chauffage;#saozneg
+keurusa;keurus;d3;pêcher les (petites) anguilles, pêcher des anguilles de la petite espèce;to fish for small eels
+kevella;kevell;d3;relever les casiers, caseyer, pêcher aux casiers;#saozneg
 keverata;keverat;d3;comparer;to compare
-kevezata;kevezat;d3;concourir;to compete
-kevrennata;kevrennat;d3;classifier;to classify
+kevezata;kevezat;d3;concourir, concurrencer (qqn);to compete
+kevrennata;kevrennat;d3;classifier, répartir;to classify
 kika;kik;d3;chercher de la viande;to search for meat
-kistina;kistin;d3;ramasser des chataignes;to collect chestnuts
+kistina;kistin;d3;ramasser des chataignes, chercher;to collect chestnuts
 klevata;klevat;d3;#galleg;#saozneg
-klezeiata;klezeiat;d3;manier l'épée;to wield a sword
-klujiria;klujiri;d3;#galleg;#saozneg
+klezeiata;klezeiat;d3;manier l'épée, (s') escrimer;to wield a sword
+klujiria;klujiri;d3;chasser la perdrix, aller à la chasse des perdrix;#saozneg
 koailhata;koailhat;d3;chasser la caille;to hunt for quail
-koata;koat;d3;ramasser du bois;to pick up wood
-kofata;kofat;d3;#galleg;#saozneg
-kokesa;kokes;d3;#galleg;#saozneg
-kolea;kole;d3;#galleg;#saozneg
+koata;koat;d3;ramasser du bois, chercher du bois;to pick up wood
+kofata;kofat;d3;faire bonne chère, (s') en donner à plein ventre;#saozneg
+kokesa;kokes;d3;pêcher des coques, chercher des coques;#saozneg
+kolea;kole;d3;demander le taureau (en plt d'une vache en chaleur), (se) battre;#saozneg
 koloa;kolo;d3;chercher de la paille;to look for straw
 komerezata;komerezat;d3;#galleg;#saozneg
-konikleta;koniklet;d3;#galleg;#saozneg
-kontellata;kontellat;d3;#galleg;#saozneg
-korfata;korfat;d3;#galleg;#saozneg
-kouignaoua;kouignaou;d3;#galleg;#saozneg
+konikleta;koniklet;d3;chasser le lapin;#saozneg
+kontellata;kontellat;d3;donner des coups de couteau;#saozneg
+korfata;korfat;d3;faire des excès, gueuletonner, faire bombance, manger avec excès;#saozneg
+kouignaoua;kouignaou;d3;chercher des brioches, en allant chanter de porte en porte (à Noël);#saozneg
 koulineta;koulinet;d3;chasser le lapin;to chase, hunt for rabbits
 kozhlevraoua;kozhlevraou;d3;#galleg;#saozneg
 krabanata;krabanat;d3;#galleg;#saozneg
