@@ -1,4 +1,5 @@
 anv_verb;diaz_verb;rummad;galleg;saozneg
+paolleviat;paollev;a1;godiller;#saozneg
 #anv-verb10;halloudeg;d1;#galleg;#saozneg
 #anv-verb11;hell;d1;#galleg;#saozneg
 #anv-verb13;horellot;d1;#galleg;#saozneg
@@ -3941,6 +3942,7 @@ kenlodegañ;kenlodeg;d1;associer;#saozneg
 kenlodennañ;kenlodenn;d1;(s') associer, mutualiser, coparticiper, équiparticiper;#saozneg
 kennerzhañ;kennerzh;d1;réconforter, encourager, consoler, fortifier;#saozneg
 kenpegañ;kenpeg;d1;agglutiner;#saozneg
+kenreizhañ;kenreizh;d1;constituer;#saozneg
 kenreizhiaduriñ;kenreizhiadur;d1;#galleg;#saozneg
 kenrezañ;kenrez;d1;araser;#saozneg
 kenroufennañ;kenroufenn;d1;couvrir de plis, de rides parallèles;#saozneg
@@ -4663,6 +4665,7 @@ mignaoual;mignaou;d1;miauler;#saozneg
 mignañ;mign;d1;choyer, gâter, mignoter;to pamper, spoil
 mikrofilmañ;mikrofilm;d1;microfilmer;to microfilm
 milligañ;millig;d1;maudire;to curse
+milzinañ;milzin;d1;faire le délicat, devenir vermeil;#saozneg
 minaouedañ;minaoued;d1;poinçonner, percer avec une alène, aiguillonner;#saozneg
 minañ;min;d1;miner, creuser une mine, faire une mine;#saozneg
 minc'hoarzh;minc'hoarzh;d1;sourire (du bout des lèvres);to smile
@@ -5529,6 +5532,7 @@ revehinañ;revehin;d1;#galleg;#saozneg
 revelañ;revel;d1;révéler;#saozneg
 reverañs;reverañs;d1;porter honneur, honorer;#saozneg
 reversañ;revers;d1;renverser;#saozneg
+reveulziñ;reveulz;d1;révolutionner;#saozneg
 revilañ;revil;d1;révérer;#saozneg
 reviñ;rev;d1;geler (météor.), agacer, importuner, embêter;#saozneg
 revoneizañ;revoneiz;d1;provoquer l’inflation;#saozneg
@@ -5575,6 +5579,7 @@ ritennañ;ritenn;d1;filigraner;#saozneg
 rivañ;riv;d1;(se) refroidir, faire froid, avoir froid (en plt de qqn), geler;#saozneg
 rivinañ;rivin;d1;ruiner, ôter les biens à (qqn);#saozneg
 rizennañ;rizenn;d1;strier;#saozneg
+riziñ;riz;d1;"grassayer; prendre un ris, des ris, ariser, riser (la voile)";#saozneg
 riñsañ;riñs;d1;(se) rincer, vider, nettoyer, ramoner, teiller, pomper, liquider, fourbir, racler, déglacer, curer, purger, piller, raffler, faire partir, évacuer, berner, duper, filer (fig.), décamper;#saozneg
 riñvañ;riñv;d1;river, rabattre un clou;#saozneg
 riñvediñ;riñved;d1;carler des souliers;#saozneg
@@ -6293,6 +6298,7 @@ tostennañ;tostenn;d1;faire des rôties, faire rôtir du pain, flatter, chercher
 touellañ;touell;d1;leurrer, illusionner, abuser, séduire, charmer, tromper (par de belles paroles), transporter, gagner par ses charmes, fasciner, séduire, embobiner, enjôler, séduire, débaucher;#saozneg
 touezellañ;touezell;d1;agacer les dents;#saozneg
 toufañ;touf;d1;(se) gâter (viande, fruit, poisson, foin, etc*), repriser grossièrement, rapetasser, étouffer, bâcler, moisir, (se) corrompre (*), rancir, prendre l'odeur et le goût de moisi;#saozneg
+touflezañ;touflez;d1;creuser des fossés;#saozneg
 touilhañ;touilh;d1;(se) mouiller, humecter, tremper, imbiber, (se) jeter de l'eau l'un à l'autre en jouant;#saozneg
 touiñ;tou;d1;jurer, assurer, proférer des jurons, blasphémer;#saozneg
 toulbabañ;toulbab;d1;tâtonner, chercher en tâtant, (se) débrouiller, travailler;#saozneg
@@ -7631,7 +7637,7 @@ douarlec'hiañ;douarlec'h;d4;géolocaliser;#saozneg
 douveziañ;douvez;d4;#galleg;#saozneg
 dreistbec'hiañ;dreistbec'h;d4;surcharger;#saozneg
 droukskoueriañ;droukskouer;d4;(donner mauvais) exemple;#saozneg
-drouziviañ;drouziv;d4;#galleg;#saozneg
+drouziviañ;drouziv;d4;gaspiller;#saozneg
 edifiañ;edif;d4;édifier;#saozneg
 ehanlec'hiañ;ehanlec'h;d4;bivouaquer;#saozneg
 eilgeriañ;eilger;d4;embrocher, répondre, répliquer, riposter, plaquer sur;to put (something) on a spit, to skewer
@@ -7691,7 +7697,7 @@ gwiriañ;gwiri;d4;vérifier, certifier, constater, contrôler;#saozneg
 gwriziañ;gwriz;d4;introniser, (s') enraciner, prendre racine;to enthrone
 herberc'hiañ;herberc'h;d4;dévider, héberger;to unwind
 hestiañ;hest;d4;#galleg;#saozneg
-hiniat;hin;d4;#galleg;#saozneg
+hiniat;hin;d4;faire la chose dont il est question;#saozneg
 hiniañ;hin;d4;faire la chose dont il est question;#saozneg
 injuriañ;injur;d4;injurier, outrager;#saozneg
 intrufiañ;intruf;d4;maltraiter;#saozneg
@@ -7753,7 +7759,7 @@ kroueriañ;krouer;d4;macérer, cribler;to mortify
 krusifiañ;krusif;d4;crucifier, être crucifié;#saozneg
 lazeriañ;lazer;d4;former des montagnes, dépérir, traîner, languir, dépérir de langueur, faire dépérir, (se) tuer au travail;to form mountains
 lec'hiañ;lec'h;d4;situer, localiser, positionner, placer;#saozneg
-lerc'heriañ;lerc'her;d4;#galleg;#saozneg
+lerc'heriañ;lerc'her;d4;dépérir;#saozneg
 leuriañ;leur;d4;tromper, duper (qqn), empêtrer, (s') embrouiller, brouiller, encombrer, (se) compliquer, (s') empêtrer, (s') embrouiller;#saozneg
 leviañ;lev;d4;exploiter une mine, gouverner, conduire, diriger, piloter;une carrière
 liziañ;liz;d4;#galleg;#saozneg
@@ -7781,9 +7787,9 @@ neuziañ;neuz;d4;faire les cent pas, donner une allure, feindre, affecter;to pac
 noteriañ;noter;d4;télégraphier, notarier;to telegraph
 nozvezhiañ;nozvezh;d4;téléguider, veiller, faire la veillée, passer la nuit, pernocter;to control (something) by radio
 oberiañ;ober;d4;fabriquer;#saozneg
-paolleviañ;paollev;d4;#galleg;#saozneg
+paolleviañ;paollev;d4;godiller;#saozneg
 paraviañ;parav;d4;rivaliser;#saozneg
-pardaeziañ;pardaez;d4;#galleg;#saozneg
+pardaeziñ;pardaez;d4;"se faire tard (""il se fait tard"")";#saozneg
 pateriañ;pater;d4;dire des prières;#saozneg
 paziañ;paz;d4;marcher, faire ses premiers pas (enfant);#saozneg
 pellaroueziañ;pellarouez;d4;signaler à distance, télégraphier;#saozneg
@@ -7977,7 +7983,7 @@ staliañ;sta;d5;installer;to install
 staliañ-distaliañ;staliañ-dista;d5;#galleg;#saozneg
 staoliañ;stao;d5;mettre à l’étable, stabuler;#saozneg
 stoliañ;sto;d5;exorciser (à l'aide d'une étole), mettre une étole;#saozneg
-supliañ;sup;d5;#galleg;#saozneg
+supliañ;sup;d5;supplier;#saozneg
 taoliañ;tao;d5;(se) mettre, être à table, tabler, (s') attabler, placer à table;#saozneg
 teoliañ;teo;d5;couvrir de tuile, carler une chambre, carreler, paver de tuiles;#saozneg
 teuliañ;teu;d5;carreler (paver de tuilles);#saozneg
