@@ -1,5 +1,5 @@
 anv_verb;diaz_verb;rummad;galleg;saozneg
-paolleviat;paollev;a1;godiller;#saozneg
+paolleviat;paollev;a1;godiller;to scull
 #anv-verb10;halloudeg;d1;#galleg;#saozneg
 #anv-verb11;hell;d1;#galleg;#saozneg
 #anv-verb13;horellot;d1;#galleg;#saozneg
@@ -19,15 +19,15 @@ paolleviat;paollev;a1;godiller;#saozneg
 #anv-verb7;hall;d1;#galleg;#saozneg
 #anv-verb8;halleg;d1;#galleg;#saozneg
 #anv-verb9;hallegach;d1;#galleg;#saozneg
-abafañ;abaf;d1;(s') ebahir, troubler, (se) troubler, (s') abattre, diminuer;#saozneg
-abafiñ;abaf;d1;déconcerter, intimider;(to) disconcert, intimidate
+abafañ;abaf;d1;(s') ebahir, (se) troubler, (s') abattre, diminuer;(to*) stupefy, (*) trouble
+abafiñ;abaf;d1;déconcerter, intimider;(to*) disconcert, (*) intimidate
 abaisañ;abais;d1;ébahir;(to) astound
 abandoniñ;abandon;d1;abandonner;(to) abandon
 abardaeziñ;abardaez;d1;tomber (soir);to fall (night)
-abechiñ;abech;d1;appâter;(to) entice, lure
+abechiñ;abech;d1;appâter;(to*) entice, (*) lure
 abegal;abeg;d1;#galleg;#saozneg
-abegiñ;abeg;d1;critiquer, reprocher;(to) criticize, reproach
-abegout;abeg;d1;critiquer, blâmer, ergoter;#saozneg
+abegiñ;abeg;d1;critiquer, reprocher;(to*) criticize, (*) reproach
+abegout;abeg;d1;critiquer, blâmer, ergoter;(to*) criticize, (*) blame, (*) quibble
 abekiñ;abek;d1;#galleg;#saozneg
 aberzhañ;aberzh;d1;sacrifier, immoler;#saozneg
 aberzhiñ;aberzh;d1;sacrifier;(to) sacrifice
@@ -40,7 +40,7 @@ abilidañ;abilid;d1;toucher à tout, gaminer, s'occuper à des riens tout seul (
 abilitañ;abilit;d1;#galleg;#saozneg
 abimañ;abim;d1;abimer, tomber dans une abime;(to) damage, wear down, to drop, to fall
 abimiñ;abim;d1;#galleg;#saozneg
-abitañ;abit;d1;habiter;(to) inhabit, live in
+abitañ;abit;d1;habiter;(to*) inhabit, (*) live in
 abondañ;abond;d1;abondance, abonder;abundance, abound
 aboniñ;abon;d1;faire du crottin, crotter;(to) poop
 abostoliñ;abostol;d1;apostoliciter, ordonner sous-diacre, ordonner, chanter l'épître, être nommé/promu sous-diacre, faire le chenapan, se comporter obséquieusement;(to) knight an apostle, knight a subdeacon, instruct, sing the epistle, to be nominated/promoted subdeacon, to show off, to be silly, to behave obsequiously, servilely
@@ -50,42 +50,42 @@ abraziñ;abraz;d1;(s') embraser, incendier (fig.) (qun);(to) ignite, flare up, c
 abrediñ;abred;d1;avancer (une horloge), arriver plus tôt;(to) move foward (a clock), arrive sooner
 absantañ;absant;d1;#galleg;#saozneg
 absantiñ;absant;d1;(s') absenter, partir d'un lieu;(to) leave
-absolv;absolv;d1;absoudre;#saozneg
+absolv;absolv;d1;absoudre;(to) absolve
 absolvañ;absolv;d1;#galleg;#saozneg
 absolviñ;absolv;d1;donner l'absolution, pardoner les péchés;(to) give absolution, forgive the sins
 absteniñ;absten;d1;#galleg;#saozneg
-abstinañ;abstin;d1;abstinence, (s')abstenir, pratiquer l'abstinence;(to) abstain, refrain, exercise abstinence
+abstinañ;abstin;d1;abstinence, (s') abstenir, pratiquer l'abstinence;(to) abstain, refrain, exercise abstinence
 abuziñ;abuz;d1;abuser, importuner, accaparer, distraire (qqn);(to) abuse, to bother, to corner, distract (someone)
-ac'hubiñ;ac'hub;d1;occuper, encombrer, être occupé, être embarrassé, être enceinte;(to) occupy, obstruct
+ac'hubiñ;ac'hub;d1;occuper, encombrer, être occupé, être embarrassé, être enceinte;(to*) occupy, obstruct, (*) be busy, (*) be embarrassed, (*) be pregnant
 ac'huz;ac'huz;d1;accusation, accuser;accusation, (to) accuse
 achantañ;achant;d1;enchanter, ensorceller, mettre sous charme (qqn);(to) enchant, charm, mesmerize (someone)
-achap;achap;d1;(s') échapper, (s') évader;to escape
-achapiñ;achap;d1;échapper, fuir;#saozneg
+achap;achap;d1;(s') échapper, (s') évader;(to*) escape, (*) evade
+achapiñ;achap;d1;échapper, fuir;(to*) escape, (*) flee
 acheviñ;achev;d1;(s') achever, (se) finir, (se) satisfaire (de);(to) perfect, complete, satisfy one's self
 adaozañ;adaoz;d1;ajuster, rapiécer, réorganiser, refondre, recyclage, remanier, restaurer, retaper, ressasser, reformer;to: adjust, patch, reorganize, reform, redesign, recycle, change, modify, overhaul, restore, reform
-adastenn;adastenn;d1;ré-etendre, ré-étendage, ré-extension, ré-allongement, ré-rallonger, reprolonger, re-tendre,;(to) re-extend
-adazezañ;adazez;d1;(se) rassoir;(to) sit down
+adastenn;adastenn;d1;ré-etendre, ré-étendage, ré-extension, ré-allongement, ré-rallonger, reprolonger, re-tendre;(to) re-extend
+adazezañ;adazez;d1;(se) rassoir;(to) sit down again/back
 adc'henel;adc'han;d1;renaître;(to) reborn
-adc'hervel;adc'halv;d1;rappeller, refaire appel, réappeller;recall
-adc'hlazañ;adc'hlaz;d1;rebleuir, reverdir, redevenir poivre et sel, refranchir, reblémir;#saozneg
-adc'hoari;adc'hoari;d1;rejouer, reprendre;replay
-adc'houinañ;adc'houin;d1;remettre au fourreau (épée...), rengainer (épée...);#saozneg
+adc'hervel;adc'halv;d1;rappeller, refaire appel, réappeller;recall, (to*) call again/back
+adc'hlazañ;adc'hlaz;d1;rebleuir, reverdir, redevenir poivre et sel, refranchir, reblémir;(to*) reblue, (*) revegetate
+adc'hoari;adc'hoari;d1;rejouer, reprendre (le jeu, etc.);replay, resume (game, etc.)
+adc'houinañ;adc'houin;d1;remettre au fourreau (épée, ...), rengainer (épée, pistolet...);(to*) put back in the scabbard (sword, ...), (*) sheathe (sword, gun, ...)
 adc'houlenn;adc'houlenn;d1;redemander, revouloir;to ask again, to want again
-adc'hounit;adc'hounez;d1;regagner, reconquérir, cultiver de nouveau;to win again
+adc'hounit;adc'hounez;d1;regagner, reconquérir, cultiver de nouveau;(to*) win again, (*) recapture, (*) reconquer, (*) cultivate back
 adc'hwezañ;adc'hwez;d1;regonfler;to inflate again, to blow (something) up again
-adc'hwezhañ;adc'hwezh;d1;resouffler, regonfler, retranspirer, repuer;to blow (something) up again, to inflate again
+adc'hwezhañ;adc'hwezh;d1;resouffler, regonfler, retranspirer, repuer;(to*) blow (something) up again, to inflate again, (*) transpire again, (*) smell back
 adchaokat;adchaok;d1;remâcher, remastiquer, recroquer, reblablater;(to) rehash, rechew, bite (again)
 adcheñch;adcheñch;d1;rechanger;rechange
 adcheñchañ;adcheñch;d1;rechanger;rechange
 addastum;addastum;d1;ré-amasser, ramasser, re-récolter;to reaccumulate, to gather, pick up, to harvest again
 addegas;addegas;d1;renvoyer, ramener;to send back, dismiss, to bring back
-addelc'her;addalc'h;d1;tenir de nouveau, retenir;#saozneg
+addelc'her;addalc'h;d1;tenir de nouveau, retenir;(to*) keep back, hold, (*) retain
 adderaouiñ;adderaou;d1;réinitialiser, recommencer, relancer (une machine), remettre à zéro (compteurs, valeurs...);to reinitialise, to restart (a machine), to reset (counters)
 adderc'hel;addalc'h;d1;"retenir, recontenir, remaintenir, retenir, resoutenir, ""re-continuer"", réinsister, repersister, réassurer, redistribuer, réinhiber";to hold, to contain once more, to remaintain, to retain, to support once more, to recontinue, to reinsist, to repersist, to reassure, to redistribute, to inhibit once again
-addeskiñ;addesk;d1;réapprendre, rééduquer;relearn
-addezrannañ;addezrann;d1;reanalyzer, recritiquer;reanalyse
-addiazezañ;addiazez;d1;"ré-établir, ""rebaser"", réaffirmer, réassoir (autorité...), redigérer, refonder, réinstaller, repréparer";re-etablish
-addibab;addibab;d1;rechoisir, retrier;rechoose
+addeskiñ;addesk;d1;réapprendre, rééduquer;(to*) relearn, (*) rehabilitate
+addezrannañ;addezrann;d1;reanalyzer, recritiquer;(to*) reanalyse, (*) criticize
+addiazezañ;addiazez;d1;"ré-établir, ""rebaser"", réaffirmer, réassoir (autorité...), redigérer, refonder, réinstaller, repréparer";(to*) re-etablish, (*) reaffirm, (*) sit back (authority), (*) digest back, (*) reform, (*) reinstall, (*) reprepare
+addibab;addibab;d1;rechoisir, retrier;(to*) rechoose, (*) sort
 addibuniñ;addibun;d1;redéfiller, redérouler, rediver, remanifester, reparader, repasser (à un endroit), reraconter, réciter de nouveau, relister, réénumérer;#saozneg
 addigeriñ;addigor;d1;rouvrir, ré-inaugurer, ré-évaser, ré-ouvrir;reopen
 addihuniñ;addihun;d1;réveiller de nouveau;#saozneg
@@ -2356,44 +2356,44 @@ dluzhañ;dluzh;d1;(se) moucheter, (se) tacheter;to dapple, to dot
 doareañ;doare;d1;qualifier (gramm. d'un genre);to qualify
 doc'hal;doc'h;d1;grogner (en plt des porcs);to grunt (when talking about pigs)
 doc'hellat;doc'hell;d1;grogner (en plt des porcs);to grunt (when talking about pigs)
-dodoennañ;dodoenn;d1;faire dada;#saozneg
-doganañ;dogan;d1;cocufier, faire cocu, tromper;#saozneg
-doktrinañ;doktrin;d1;endoctriner, instruire, doctriner, corriger, châtier;#saozneg
-dollarizañ;dollariz;d1;dollariser;#saozneg
-domajañ;domaj;d1;endommager, causer des dommages (à qqn);#saozneg
-donezoniñ;donezon;d1;douer, gratifier;#saozneg
-doniñ;don;d1;approfondir, creuser plus profond, (s') enfoncer;#saozneg
-dorlotañ;dorlot;d1;dorloter, caresser, chêrir, mignarder, manier;#saozneg
-dornañ;dorn;d1;débiter, battre (blé, qqn), frapper (qqn), courrir;#saozneg
-dornellañ;dornell;d1;munir* d’une poignée, * d’une manette, * d’un manche;#saozneg
-dornskrivañ;dornskriv;d1;écrire à la main;#saozneg
-dotuañ;dotu;d1;jouer à la crosse, cogner, casser (cailloux), assommer, frapper, maltraiter, trimbaler, secouer;#saozneg
-douarañ;douar;d1;terrer (rehausser, couvrir de terre), butter (plants), inhumer, atterrir, terrir, débarquer, se poser, aborder, ensevelir, jeter à terre, recouvrir, terrasser, assolir, poser;#saozneg
-doublañ;doubl;d1;doubler, redoubler;#saozneg
-doueañ;doue;d1;déifier, diviniser;#saozneg
-douetiñ;douet;d1;(se) douter de (qqc), vaciller;#saozneg
-dougen;doug;d1;porter (un fardeau, ...), reporter;carry, wear
-doujañ;douj;d1;(faire) respecter redouter, déférer (à l'avis de), décliner (astre), craindre, redouter, avoir peur, respecter;#saozneg
-dourasenniñ;dourasenn;d1;dégouliner, suinter, dégoutter, pleurer;#saozneg
-dourañ;dour;d1;(s') abreuver, arroser, irriguer;#saozneg
-dourennaouiñ;dourennaou;d1;secréter;#saozneg
-dourennañ;dourenn;d1;(se) liquéfier, (s') humecter, (s') hydrater, saliver, être mouillé, mouiller;#saozneg
-dourgibañ;dourgib;d1;cuire au bain-marie;#saozneg
-dourlivañ;dourliv;d1;pâlir, aquareller;#saozneg
-dourlonkañ;dourlonk;d1;avaler de l'eau, boire de l'eau;#saozneg
-doutañ;dout;d1;douter;#saozneg
-doñvañ;doñv;d1;dompter, domestiquer;#saozneg
-draenañ;draen;d1;boguer;#saozneg
-dragañ;drag;d1;draguer;#saozneg
-dragiñ;drag;d1;chaluter, draguer;#saozneg
-dragoniñ;dragon;d1;dragonner (faire de grande mechanceté);#saozneg
-drailhañ;drailh;d1;hacher, (se) déchiqueter, (se) déchirer, détériorer, écorcher (langue...),massacrer, marmonner, mordre, dépecer, mettre en pièces plus ou moins grosses, briser, casser, déchiqueter;#saozneg
-drailhennañ;drailhenn;d1;découper (les oreilles des moutons afin de les reconnaître*), fendre (*), découper (en petits morceaux**), couper (**);#saozneg
-drajoniñ;drajon;d1;drageonner;#saozneg
-drammañ;dramm;d1;doper, droguer, javeler;#saozneg
-dramouilhañ;dramouilh;d1;chiffonner, manier;#saozneg
-dramzañ;dramz;d1;toucher à sa fin;#saozneg
-draskal;drask;d1;crépiter, craquer, pétiller, sauter, sursauter, trépigner;#saozneg
+dodoennañ;dodoenn;d1;faire dada;to lay dad
+doganañ;dogan;d1;cocufier, faire cocu, tromper;to deceive, to be unfaithful to
+doktrinañ;doktrin;d1;endoctriner, instruire, doctriner, corriger, châtier;to indoctrinate, to teach, to correct, to punish
+dollarizañ;dollariz;d1;dollariser;to dollarize
+domajañ;domaj;d1;endommager, causer des dommages (à qqn);to damage, to cause damages (to somebody)
+donezoniñ;donezon;d1;douer, gratifier;to endow, to gratify
+doniñ;don;d1;approfondir, creuser plus profond, (s') enfoncer;to go into greater depth, to dig deeper, to drive in
+dorlotañ;dorlot;d1;dorloter, caresser, chêrir, mignarder, manier;to pamper, to caress, to cherish, to cosset, to handle
+dornañ;dorn;d1;débiter, battre (blé, qqn), frapper (qqn), courir;to cut up, to beat (wheat, someone), to hit (someone), to run
+dornellañ;dornell;d1;munir* d’une poignée, * d’une manette, * d’un manche;to provide with a handful, a lever
+dornskrivañ;dornskriv;d1;écrire à la main;to write by hand
+dotuañ;dotu;d1;jouer à la crosse, cogner, casser (cailloux), assommer, frapper, maltraiter, trimbaler, secouer;to play hockey, to bump, to break (stones), to knock out, to hit, to mistreat, to carry around, to shake
+douarañ;douar;d1;terrer (rehausser, couvrir de terre), butter (plants), inhumer, atterrir, terrir, débarquer, se poser, aborder, ensevelir, jeter à terre, recouvrir, terrasser, assolir, poser;(to earth up, to earth over), to earth up (plants), to bury, to land, to come ashore, to disembark, to touch down, to reach, to bury, to chuck in the ground, to cover, to bring down, to land, to set down
+doublañ;doubl;d1;doubler, redoubler;to double, to redouble
+doueañ;doue;d1;déifier, diviniser;to deify, to divinize
+douetiñ;douet;d1;(se) douter de (qqc), vaciller;to have doubts about (something), to vacillate
+dougen;doug;d1;porter (un fardeau, ...), reporter;to carry (a burden, ...), wear
+doujañ;douj;d1;(faire) respecter, redouter, déférer (à l'avis de), décliner (astre), craindre, redouter, avoir peur, respecter;to (impose) respect, dread, to defer (to the opinion of), to go down (celestial body), to fear, to dread,  to be afraid (of), to respect
+dourasenniñ;dourasenn;d1;dégouliner, suinter, dégoutter, pleurer;to trickle, to seep, to drip, to cry
+dourañ;dour;d1;(s') abreuver, arroser, irriguer;to water, to irrigate
+dourennaouiñ;dourennaou;d1;secréter;to secrete
+dourennañ;dourenn;d1;(se) liquéfier, (s') humecter, (s') hydrater, saliver, être mouillé, mouiller;to liquefy, to moisten, to hydrate, to salivate, to be wet, to get wet
+dourgibañ;dourgib;d1;cuire au bain-marie;to cook in a bain-marie
+dourlivañ;dourliv;d1;pâlir, aquareller;to turn pale, to watercolour
+dourlonkañ;dourlonk;d1;avaler de l'eau, boire de l'eau;to swallow water, to drink water
+doutañ;dout;d1;douter;to doubt
+doñvañ;doñv;d1;dompter, domestiquer;to tame, to domesticate
+draenañ;draen;d1;boguer;to bug
+dragañ;drag;d1;draguer;to drag (to chat up)
+dragiñ;drag;d1;chaluter, draguer;to trawl, to drag
+dragoniñ;dragon;d1;dragonner (faire de grande mechanceté);to persecute (to treat very badly)
+drailhañ;drailh;d1;hacher, (se) déchiqueter, (se) déchirer, détériorer, écorcher (langue...), massacrer, marmonner, mordre, dépecer, mettre en pièces plus ou moins grosses, briser, casser, déchiqueter;to mince, to tear apart (oneself), to shred, to deteriorate, to skin, to massacre, to mutter, to bite, to butcher, to tear to pieces (in different sizes), to break, to rip apart
+drailhennañ;drailhenn;d1;découper (les oreilles des moutons afin de les reconnaître*), fendre (*), découper (en petits morceaux**), couper (**);to cut (the ears of sheep so as to recognize them), to melt, to cut (into small pieces), to cut
+drajoniñ;drajon;d1;drageonner;to grow basal shoots
+drammañ;dramm;d1;doper, droguer, javeler;to dope, to drug, to bleach
+dramouilhañ;dramouilh;d1;chiffonner, manier;to crumple up, to handle
+dramzañ;dramz;d1;toucher à sa fin;to reach its end, to be within the end
+draskal;drask;d1;crépiter, craquer, pétiller, sauter, sursauter, trépigner;to crackle, to crack, to sparkle, to jump, to startle, to stamp
 drastañ;drast;d1;ravager, (se) décarcasser, broyer, briser, détruire, corriger (physiquement), frapper, châtier, abîmer, esquinter;#saozneg
 dreintagañ;dreintag;d1;(s') étrangler avec des arêtes de poisson;#saozneg
 dreistbevañ;dreistbev;d1;survivre;#saozneg
@@ -2524,14 +2524,14 @@ embleustriñ;embleustr;d1;s’exercer, s’entraîner;#saozneg
 embregañ;embreg;d1;manier, manœuvrer (un outil, une arme, etc.), exercer (une charge, un métier, un organe), pétrir, tâter, peloter, (se) mouvoir, (s') activer, (se) tirer d'affaire, (s') entretoucher;#saozneg
 embreger;embreger;d1;manier, manœuvrer (un outil, une arme, etc.), exercer (une charge, un métier, un organe), pétrir, tâter, peloter, (se) mouvoir, (s') activer, (se) tirer d'affaire, (s') entretoucher;#saozneg
 emc'hloazañ;emc'hloaz;d1;#galleg;#saozneg
-emdennañ;emdenn;d1;se retirer;#saozneg
-emdizhañ;emdizh;d1;informatique: convertir, migrer;#saozneg
-eme;emez;d1;dire (tous temps);#saozneg
-emellout;emell;d1;(s') occuper (de), intervenir, (se) mêler, travailler;#saozneg
-emezelañ;emezel;d1;(s') affilier, adhérer, (s') inscrire;#saozneg
-emfennañ;emfenn;d1;se répandre;#saozneg
-emfiñval;emfiñv;d1;se mouvoir;#saozneg
-emgannañ;emgann;d1;batailler, (se) battre, attaquer;#saozneg
+emdennañ;emdenn;d1;se retirer;to withdraw
+emdizhañ;emdizh;d1;informatique: convertir, migrer;computer: to convert, to migrate
+eme;emez;d1;dire (tous temps);to say  (all the time)
+emellout;emell;d1;(s') occuper (de), intervenir, (se) mêler, travailler;to take care of, to intervene, to meddle in, to work
+emezelañ;emezel;d1;(s') affilier, adhérer, (s') inscrire;to become affiliated, to adhere, to enrol
+emfennañ;emfenn;d1;se répandre;to spread
+emfiñval;emfiñv;d1;se mouvoir;to move
+emgannañ;emgann;d1;batailler, (se) battre, attaquer;to battle, to fight, to attack
 emgastizañ;emgastiz;d1;pénitence infligée à soi-même, mortification macération, autopunition;#saozneg
 emgavout;emgav;d1;#galleg;#saozneg
 emgefren;emgefre;d1;automatiser;to automatise
